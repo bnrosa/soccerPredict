@@ -3,7 +3,7 @@ var fs = require("fs");
 function getGames(year){
 
     let games = [];
-    let content = fs.readFileSync(`${year}.txt`, "utf8");
+    let content = fs.readFileSync(`data/${year}.txt`, "utf8");
 
     lines = content.split("\n").forEach(function(line) {
       let elements = line.split("	");
