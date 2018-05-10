@@ -1,5 +1,16 @@
 var fs = require("fs");
 
+function myfind(array, round, team) {
+    let value = null;
+    array.forEach((x) => {
+        if (x.round == round && (x.player1 == team | x.player2 == team))
+            value = x;
+        else
+            return false;
+    });
+    return value;
+}
+
 function getGames(year){
 
     let games = [];
@@ -36,68 +47,62 @@ function getParams(round, teamA, teamB, year, range){
     };
     const match = {
         stadiumOwner: '',
-        matchGoalsT2: 0,
-        matchGoalsT1: 0
+        matchGoalsTA: 0,
+        matchGoalsTB: 0
     }
     if(round - range < 1)
         return "Range too low";
     //Team 1
     for(i=1; i<=range; i++){
         roundReal = "" + (round - i) + "ª";
-        game = games.find(x => x.round == (roundReal - i) && (x.player1 == teamA | x.player2 == teamA));
+        game = myfind(games, roundReal, teamA)
         if(teamA == game.player1){
-            tAStats.homeGoals += game.p1Score;
-            tBStats.enemyGoalsTaken += game.p2Score;
-            tAStats.goalDif += (game.p1Score - game.p2Score);
-            tAStats.goalsTotal += game.p1Score;   
+            tAStats.homeGoals += parseInt(game.p1Score);
+            tBStats.enemyGoalsTaken += parseInt(game.p2Score);
+            tAStats.goalDif += (parseInt(game.p1Score) - parseInt(game.p2Score));
+            tAStats.goalsTotal += parseInt(game.p1Score);   
         }
         else{
-            tAStats.homeGoals += game.p2Score;
-            tBStats.enemyGoalsTaken += game.p1Score;
-            tAStats.goalDif += (game.p2Score - game.p1Score);
-            tAStats.goalsTotal += game.p2Score;
+            tAStats.outGoals += parseInt(game.p2Score);
+            tBStats.enemyGoalsTaken += parseInt(game.p1Score);
+            tAStats.goalDif += (parseInt(game.p2Score) - parseInt(game.p1Score));
+            tAStats.goalsTotal += parseInt(game.p2Score);
         }
     }
     //Team 2
     for (i = 1; i < range; i++) {
         roundReal = ''+(round - i)+'ª';
-        game = games.find(x => x.round == (roundReal) && (x.player1 == teamB | x.player2 == teamB));
-        console.log(game);
-        if (teamB == game.player1) {
-            tBStats.homeGoals += game.p1Score;
-            tAStats.enemyGoalsTaken += game.p2Score;
-            tBStats.goalDif += (game.p1Score - game.p2Score);
-            tBStats.goalsTotal += game.p1Score;
-        } else {
-            tBStats.homeGoals += game.p2Score;
-            tAStats.enemyGoalsTaken += game.p1Score;
-            tBStats.goalDif += (game.p2Score - game.p1Score);
-            tBStats.goalsTotal += game.p2Score;
-        }
+        game = myfind(games, roundReal, teamB)
+       if (teamB == game.player1) {
+           tBStats.homeGoals += parseInt(game.p1Score);
+           tAStats.enemyGoalsTaken += parseInt(game.p2Score);
+           tBStats.goalDif += (parseInt(game.p1Score) - parseInt(game.p2Score));
+           tBStats.goalsTotal += parseInt(game.p1Score);
+       } else {
+           tBStats.outGoals += parseInt(game.p2Score);
+           tAStats.enemyGoalsTaken += parseInt(game.p1Score);
+           tBStats.goalDif += (parseInt(game.p2Score) - parseInt(game.p1Score));
+           tBStats.goalsTotal += parseInt(game.p2Score);
+       }
     }
-    game = games.find(x => x.round == round && ((x.player1 == teamB && x.player2 == teamA) | (x.player1 == teamA && x.player2 == teamB)) );
+    roundReal = ''+round+'ª';
+    game = myfind(games, roundReal, teamA);
     if(game.player1 == teamA){
         match.stadiumOwner = teamA;
-        match.matchGoalsT1 = game.tAStats;
-        match.matchGoalsT2 = game.tBStats;
+        match.matchGoalsTA = parseInt(game.p1Score);
+        match.matchGoalsTB = parseInt(game.p2Score);
     }
     else{
         match.stadiumOwner = teamB;
-        match.matchGoalsT1 = game.tBStats;
-        match.matchGoalsT2 = game.tAStats;
+        match.matchGoalsTA = parseInt(game.p2Score);
+        match.matchGoalsTB = parseInt(game.p1Score);
     }
     const params = [tAStats, tBStats, match];
     return params;
 }
 
-let myGames = getGames('2003');
-console.log(myGames[300].round);
-console.log(myGames[2].player1);
-console.log(myGames[45].player2);
-console.log(myGames[24].p1Score);
-console.log(myGames[1].p2Score);
+let myGames = getGames('2013');
+let params = getParams(22, 'Cruzeiro', 'Botafogo', 2013, 5);
+console.log(params);
 
-let params = getParams(5, 'VASCO', 'Corinthians', 2003, 3);
-console.log(params[0].goalsTotal);
-console.log(params[1].goalsTotal);
-console.log(params[2].stadiumOwner);
+var readText = module.exports('readText');
