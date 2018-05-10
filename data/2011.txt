@@ -1,0 +1,380 @@
+1ª	21/05/2011	18h30m	Atlético/MG	3	X	0	Atlético/PR	Arena do Jacaré
+1ª	21/05/2011	18h30m	Ceará	1	X	3	Vasco	Presidente Vargas
+1ª	21/05/2011	18h30m	Flamengo	4	X	0	Avaí	Cláudio Moacyr
+1ª	21/05/2011	21h00m	Santos	1	X	1	Internacional	Vila Belmiro
+1ª	22/05/2011	16h00m	Figueirense	1	X	0	Cruzeiro	Orlando Scarpelli
+1ª	22/05/2011	16h00m	Grêmio	1	X	2	Corinthians	Olímpico
+1ª	22/05/2011	16h00m	Coritiba	0	X	1	Atlético/GO	Couto Pereira
+1ª	22/05/2011	16h00m	Palmeiras	1	X	0	Botafogo	Benedito Teixeira
+1ª	22/05/2011	18h30m	Fluminense	0	X	2	São Paulo	João Havelange
+1ª	22/05/2011	18h30m	América/MG	2	X	1	Bahia	Arena do Jacaré
+2ª	28/05/2011	18h30m	Avaí	1	X	3	Atlético/MG	Ressacada
+2ª	28/05/2011	18h30m	Internacional	0	X	1	Ceará	Beira Rio
+2ª	28/05/2011	18h30m	Botafogo	1	X	0	Santos	João Havelange
+2ª	28/05/2011	21h00m	São Paulo	1	X	0	Figueirense	Morumbi
+2ª	29/05/2011	16h00m	Cruzeiro	1	X	1	Palmeiras	Arena do Jacaré
+2ª	29/05/2011	16h00m	Bahia	3	X	3	Flamengo	Pituaçu
+2ª	29/05/2011	16h00m	Corinthians	2	X	1	Coritiba	Fonte Luminosa
+2ª	29/05/2011	16h00m	Atlético/PR	0	X	1	Grêmio	Arena da Baixada
+2ª	29/05/2011	18h30m	Vasco	3	X	0	América/MG	São Januário
+2ª	29/05/2011	18h30m	Atlético/GO	0	X	1	Fluminense	Serra Dourada
+3ª	04/06/2011	18h30m	Ceará	2	X	2	Botafogo	Presidente Vargas
+3ª	04/06/2011	18h30m	Fluminense	2	X	1	Cruzeiro	João Havelange
+3ª	04/06/2011	18h30m	Palmeiras	1	X	0	Atlético/PR	Canindé
+3ª	04/06/2011	21h00m	Figueirense	2	X	0	Atlético/GO	Orlando Scarpelli
+3ª	05/06/2011	16h00m	Coritiba	5	X	1	Vasco	Couto Pereira
+3ª	05/06/2011	16h00m	Flamengo	1	X	1	Corinthians	João Havelange
+3ª	05/06/2011	16h00m	Grêmio	2	X	0	Bahia	Olímpico
+3ª	05/06/2011	18h30m	América/MG	2	X	4	Internacional	Morenão
+3ª	05/06/2011	18h30m	Santos	3	X	1	Avaí	Vila Belmiro
+3ª	08/06/2011	21h50m	Atlético/MG	0	X	1	São Paulo	Arena do Jacaré
+4ª	11/06/2011	18h30m	Cruzeiro	1	X	1	Santos	Arena do Jacaré
+4ª	11/06/2011	18h30m	São Paulo	3	X	1	Grêmio	Morumbi
+4ª	11/06/2011	18h30m	Avaí	2	X	2	América/MG	Ressacada
+4ª	11/06/2011	21h00m	Vasco	1	X	1	Figueirense	São Januário
+4ª	12/06/2011	16h00m	Bahia	1	X	1	Atlético/MG	Pituaçu
+4ª	12/06/2011	16h00m	Atlético/GO	4	X	1	Ceará	Serra Dourada
+4ª	12/06/2011	16h00m	Corinthians	2	X	0	Fluminense	Pacaembu
+4ª	12/06/2011	16h00m	Internacional	2	X	2	Palmeiras	Beira Rio
+4ª	12/06/2011	18h30m	Botafogo	3	X	1	Coritiba	João Havelange
+4ª	12/06/2011	18h30m	Atlético/PR	1	X	1	Flamengo	Arena da Baixada
+5ª	18/06/2011	18h30m	América/MG	1	X	1	Cruzeiro	Arena do Jacaré
+5ª	18/06/2011	18h30m	Fluminense	0	X	1	Bahia	João Havelange
+5ª	19/06/2011	16h00m	Ceará	0	X	2	São Paulo	Presidente Vargas
+5ª	19/06/2011	16h00m	Figueirense	2	X	0	Atlético/PR	Orlando Scarpelli
+5ª	19/06/2011	16h00m	Flamengo	0	X	0	Botafogo	João Havelange
+5ª	19/06/2011	16h00m	Grêmio	1	X	1	Vasco	Olímpico
+5ª	19/06/2011	16h00m	Palmeiras	5	X	0	Avaí	Canindé
+5ª	19/06/2011	18h30m	Atlético/MG	2	X	2	Atlético/GO	Arena do Jacaré
+5ª	19/06/2011	18h30m	Coritiba	1	X	1	Internacional	Couto Pereira
+5ª	10/08/2011	21h50m	Santos	0	X	0	Corinthians	Vila Belmiro
+6ª	25/06/2011	18h30m	Atlético/PR	0	X	2	Bahia	Arena da Baixada
+6ª	25/06/2011	18h30m	Flamengo	4	X	1	Atlético/MG	João Havelange
+6ª	25/06/2011	21h00m	Cruzeiro	2	X	1	Coritiba	Arena do Jacaré
+6ª	26/06/2011	16h00m	Avaí	0	X	1	Fluminense	Ressacada
+6ª	26/06/2011	16h00m	Botafogo	2	X	1	Grêmio	João Havelange
+6ª	26/06/2011	16h00m	Ceará	2	X	0	Palmeiras	Presidente Vargas
+6ª	26/06/2011	16h00m	Corinthians	5	X	0	São Paulo	Pacaembu
+6ª	26/06/2011	18h30m	Atlético/GO	0	X	1	Vasco	Serra Dourada
+6ª	26/06/2011	18h30m	Internacional	4	X	1	Figueirense	Beira Rio
+6ª	02/07/2011	18h30m	Santos	1	X	0	América/MG	Pacaembu
+7ª	29/06/2011	19h30m	Grêmio	2	X	2	Avaí	Olímpico
+7ª	29/06/2011	19h30m	Vasco	0	X	3	Cruzeiro	São Januário
+7ª	29/06/2011	21h50m	América/MG	2	X	3	Flamengo	Arena do Jacaré
+7ª	29/06/2011	21h50m	Bahia	0	X	1	Corinthians	Pituaçu
+7ª	29/06/2011	21h50m	Figueirense	2	X	1	Santos	Orlando Scarpelli
+7ª	29/06/2011	21h50m	São Paulo	0	X	2	Botafogo	Morumbi
+7ª	30/06/2011	19h30m	Coritiba	3	X	1	Ceará	Couto Pereira
+7ª	30/06/2011	19h30m	Palmeiras	2	X	0	Atlético/GO	Canindé
+7ª	30/06/2011	21h00m	Atlético/MG	0	X	4	Internacional	Arena do Jacaré
+7ª	30/06/2011	21h00m	Fluminense	3	X	1	Atlético/PR	João Havelange
+8ª	06/07/2011	19h30m	Avaí	2	X	2	Bahia	Ressacada
+8ª	06/07/2011	19h30m	Cruzeiro	2	X	0	Grêmio	Arena do Jacaré
+8ª	06/07/2011	19h30m	Internacional	1	X	0	Atlético/PR	Beira Rio
+8ª	06/07/2011	21h50m	Ceará	3	X	0	Atlético/MG	Presidente Vargas
+8ª	06/07/2011	21h50m	Corinthians	2	X	1	Vasco	Pacaembu
+8ª	06/07/2011	21h50m	Flamengo	1	X	0	São Paulo	João Havelange
+8ª	07/07/2011	19h30m	Botafogo	1	X	1	Atlético/GO	João Havelange
+8ª	07/07/2011	19h30m	Coritiba	3	X	0	Figueirense	Couto Pereira
+8ª	07/07/2011	21h00m	América/MG	1	X	1	Palmeiras	Arena do Jacaré
+8ª	24/08/2011	19h30m	Santos	2	X	1	Fluminense	Vila Belmiro
+9ª	09/07/2011	18h30m	Vasco	2	X	0	Internacional	São Januário
+9ª	09/07/2011	18h30m	São Paulo	2	X	1	Cruzeiro	Morumbi
+9ª	09/07/2011	21h00m	Atlético/PR	0	X	0	Avaí	Arena da Baixada
+9ª	10/07/2011	18h30m	Figueirense	1	X	1	Ceará	Orlando Scarpelli
+9ª	10/07/2011	16h00m	Bahia	1	X	1	Botafogo	Pituaçu
+9ª	10/07/2011	16h00m	Grêmio	2	X	0	Coritiba	Olímpico
+9ª	10/07/2011	16h00m	Atlético/GO	0	X	1	Corinthians	Serra Dourada
+9ª	10/07/2011	18h30m	Palmeiras	3	X	0	Santos	Pacaembu
+9ª	10/07/2011	16h00m	Fluminense	0	X	1	Flamengo	João Havelange
+9ª	10/07/2011	18h30m	Atlético/MG	2	X	0	América/MG	Arena do Jacaré
+10ª	16/07/2011	18h30m	Coritiba	3	X	1	Fluminense	Couto Pereira
+10ª	16/07/2011	18h30m	Atlético/GO	0	X	1	Avaí	Serra Dourada
+10ª	16/07/2011	18h30m	Vasco	2	X	1	Atlético/PR	São Januário
+10ª	16/07/2011	21h00m	Santos	2	X	1	Atlético/MG	Vila Belmiro
+10ª	20/07/2011	21h50m	Figueirense	0	X	0	Grêmio	Orlando Scarpelli
+10ª	20/07/2011	21h50m	Botafogo	0	X	2	Corinthians	João Havelange
+10ª	20/07/2011	21h50m	Palmeiras	0	X	0	Flamengo	Pacaembu
+10ª	17/07/2011	18h30m	Ceará	4	X	0	América/MG	Presidente Vargas
+10ª	17/07/2011	18h30m	Internacional	0	X	3	São Paulo	Beira Rio
+10ª	17/07/2011	18h30m	Cruzeiro	2	X	1	Bahia	Arena do Jacaré
+11ª	23/07/2011	18h30m	Atlético/PR	2	X	1	Botafogo	Arena da Baixada
+11ª	23/07/2011	18h30m	São Paulo	2	X	2	Atlético/GO	Morumbi
+11ª	21/07/2011	21h00m	Avaí	1	X	3	Internacional	Ressacada
+11ª	23/07/2011	21h00m	Flamengo	1	X	1	Ceará	João Havelange
+11ª	24/07/2011	16h00m	Bahia	0	X	0	Coritiba	Pituaçu
+11ª	24/07/2011	16h00m	Fluminense	1	X	0	Palmeiras	Raulino de Oliveira
+11ª	24/07/2011	16h00m	Atlético/MG	1	X	2	Vasco	João Lamego
+11ª	24/07/2011	16h00m	Corinthians	0	X	1	Cruzeiro	Pacaembu
+11ª	05/10/2011	19h30m	Grêmio	1	X	0	Santos	Olímpico
+11ª	23/07/2011	18h30m	América/MG	0	X	0	Figueirense	Arena do Jacaré
+12ª	27/07/2011	19h30m	Grêmio	1	X	1	América/MG	Olímpico
+12ª	27/07/2011	19h30m	Atlético/GO	2	X	0	Cruzeiro	Serra Dourada
+12ª	27/07/2011	19h30m	Atlético/MG	1	X	0	Fluminense	João Lamego
+12ª	27/07/2011	19h30m	Botafogo	2	X	1	Avaí	João Havelange
+12ª	27/07/2011	21h50m	Figueirense	0	X	1	Palmeiras	Orlando Scarpelli
+12ª	27/07/2011	21h50m	Santos	4	X	5	Flamengo	Vila Belmiro
+12ª	27/07/2011	21h50m	Coritiba	3	X	4	São Paulo	Couto Pereira
+12ª	28/07/2011	19h30m	Vasco	1	X	1	Bahia	São Januário
+12ª	14/07/2011	21h00m	Corinthians	1	X	0	Internacional	Pacaembu
+12ª	28/07/2011	21h00m	Ceará	2	X	1	Atlético/PR	Presidente Vargas
+13ª	30/07/2011	18h30m	Flamengo	2	X	0	Grêmio	João Havelange
+13ª	31/07/2011	18h30m	América/MG	1	X	3	Coritiba	Arena do Jacaré
+13ª	30/07/2011	18h30m	Cruzeiro	0	X	1	Botafogo	Arena do Jacaré
+13ª	30/07/2011	21h00m	Palmeiras	3	X	2	Atlético/MG	Canindé
+13ª	31/07/2011	16h00m	Internacional	0	X	0	Atlético/GO	Beira Rio
+13ª	31/07/2011	16h00m	São Paulo	0	X	2	Vasco	Morumbi
+13ª	31/07/2011	16h00m	Fluminense	4	X	0	Ceará	João Havelange
+13ª	31/07/2011	16h00m	Avaí	3	X	2	Corinthians	Ressacada
+13ª	31/07/2011	18h30m	Bahia	3	X	1	Figueirense	Pituaçu
+13ª	31/07/2011	18h30m	Atlético/PR	3	X	2	Santos	Arena da Baixada
+14ª	03/08/2011	19h30m	Grêmio	2	X	2	Atlético/MG	Olímpico
+14ª	03/08/2011	19h30m	Corinthians	2	X	1	América/MG	Pacaembu
+14ª	03/08/2011	19h30m	Ceará	0	X	3	Avaí	Presidente Vargas
+14ª	03/08/2011	19h30m	Figueirense	2	X	0	Botafogo	Orlando Scarpelli
+14ª	03/08/2011	21h50m	Coritiba	1	X	1	Palmeiras	Couto Pereira
+14ª	03/08/2011	21h50m	Vasco	2	X	0	Santos	São Januário
+14ª	03/08/2011	21h50m	Cruzeiro	0	X	1	Flamengo	Arena do Jacaré
+14ª	04/08/2011	21h00m	Atlético/GO	0	X	3	Atlético/PR	Serra Dourada
+14ª	04/08/2011	21h00m	Fluminense	2	X	0	Internacional	João Havelange
+14ª	04/08/2011	21h00m	São Paulo	3	X	0	Bahia	Morumbi
+15ª	06/08/2011	18h30m	Palmeiras	0	X	0	Grêmio	Canindé
+15ª	06/08/2011	18h30m	Flamengo	1	X	0	Coritiba	João Havelange
+15ª	06/08/2011	21h00m	Atlético/MG	1	X	2	Figueirense	Arena do Jacaré
+15ª	07/08/2011	16h00m	América/MG	3	X	0	Fluminense	Arena do Jacaré
+15ª	07/08/2011	16h00m	Santos	1	X	0	Ceará	Pacaembu
+15ª	07/08/2011	16h00m	Atlético/PR	1	X	1	Corinthians	Arena da Baixada
+15ª	07/08/2011	16h00m	Internacional	3	X	2	Cruzeiro	Beira Rio
+15ª	07/08/2011	18h30m	Avaí	1	X	2	São Paulo	Ressacada
+15ª	07/08/2011	18h30m	Botafogo	4	X	0	Vasco	João Havelange
+15ª	07/08/2011	18h30m	Bahia	2	X	1	Atlético/GO	Pituaçu
+16ª	13/08/2011	18h30m	São Paulo	2	X	2	Atlético/PR	Morumbi
+16ª	13/08/2011	18h30m	Cruzeiro	5	X	0	Avaí	João Havelange
+16ª	13/08/2011	18h30m	Atlético/GO	2	X	0	Santos	Serra Dourada
+16ª	13/08/2011	21h00m	Botafogo	4	X	2	América/MG	João Havelange
+16ª	14/08/2011	16h00m	Figueirense	2	X	2	Flamengo	Orlando Scarpelli
+16ª	14/08/2011	16h00m	Corinthians	2	X	2	Ceará	Pacaembu
+16ª	14/08/2011	16h00m	Vasco	1	X	0	Palmeiras	São Januário
+16ª	14/08/2011	16h00m	Coritiba	3	X	0	Atlético/MG	Couto Pereira
+16ª	14/08/2011	18h30m	Bahia	1	X	1	Internacional	Pituaçu
+16ª	14/08/2011	18h30m	Grêmio	2	X	1	Fluminense	Olímpico
+17ª	17/08/2011	19h30m	Fluminense	3	X	0	Figueirense	João Havelange
+17ª	17/08/2011	19h30m	Ceará	3	X	0	Grêmio	Presidente Vargas
+17ª	17/08/2011	21h50m	Internacional	1	X	0	Botafogo	Beira Rio
+17ª	17/08/2011	19h30m	Atlético/PR	2	X	1	Cruzeiro	Arena da Baixada
+17ª	17/08/2011	21h50m	Atlético/MG	2	X	3	Corinthians	João Lamego
+17ª	17/08/2011	21h50m	Santos	2	X	3	Coritiba	Vila Belmiro
+17ª	17/08/2011	19h30m	Avaí	0	X	2	Vasco	Ressacada
+17ª	18/08/2011	21h00m	Flamengo	1	X	4	Atlético/GO	João Havelange
+17ª	18/08/2011	21h00m	Palmeiras	1	X	1	Bahia	Canindé
+17ª	18/08/2011	21h00m	América/MG	1	X	1	São Paulo	Arena do Jacaré
+18ª	20/08/2011	18h00m	Cruzeiro	1	X	0	Ceará	João Havelange
+18ª	20/08/2011	18h00m	Botafogo	3	X	1	Atlético/MG	João Havelange
+18ª	20/08/2011	18h00m	Corinthians	0	X	2	Figueirense	Pacaembu
+18ª	21/08/2011	16h00m	Internacional	2	X	2	Flamengo	Beira Rio
+18ª	21/08/2011	16h00m	São Paulo	1	X	1	Palmeiras	Morumbi
+18ª	21/08/2011	18h00m	Atlético/PR	2	X	2	América/MG	Arena da Baixada
+18ª	21/08/2011	16h00m	Avaí	0	X	0	Coritiba	Ressacada
+18ª	21/08/2011	18h00m	Vasco	1	X	1	Fluminense	São Januário
+18ª	21/08/2011	16h00m	Atlético/GO	1	X	0	Grêmio	Serra Dourada
+18ª	21/08/2011	18h00m	Bahia	1	X	2	Santos	Pituaçu
+19ª	27/08/2011	18h00m	Coritiba	1	X	1	Atlético/PR	Couto Pereira
+19ª	27/08/2011	18h00m	América/MG	1	X	2	Atlético/GO	Arena do Jacaré
+19ª	27/08/2011	18h00m	Fluminense	1	X	2	Botafogo	João Havelange
+19ª	28/08/2011	16h00m	Grêmio	2	X	1	Internacional	Olímpico
+19ª	28/08/2011	16h00m	Santos	1	X	1	São Paulo	Vila Belmiro
+19ª	28/08/2011	16h00m	Palmeiras	2	X	1	Corinthians	Eduardo José Farah
+19ª	28/08/2011	16h00m	Ceará	3	X	0	Bahia	Presidente Vargas
+19ª	28/08/2011	16h00m	Flamengo	0	X	0	Vasco	João Havelange
+19ª	28/08/2011	18h00m	Figueirense	2	X	3	Avaí	Orlando Scarpelli
+19ª	28/08/2011	18h00m	Atlético/MG	1	X	2	Cruzeiro	Arena do Jacaré
+20ª	31/08/2011	18h00m	Corinthians	3	X	2	Grêmio	Pacaembu
+20ª	31/08/2011	18h00m	Vasco	3	X	1	Ceará	São Januário
+20ª	31/08/2011	20h30m	Atlético/GO	3	X	1	Coritiba	Serra Dourada
+20ª	31/08/2011	20h30m	Atlético/PR	0	X	1	Atlético/MG	Arena da Baixada
+20ª	31/08/2011	20h30m	Cruzeiro	2	X	4	Figueirense	João Lamego
+20ª	31/08/2011	21h50m	Avaí	3	X	2	Flamengo	Ressacada
+20ª	31/08/2011	21h50m	Botafogo	3	X	1	Palmeiras	João Havelange
+20ª	31/08/2011	21h50m	Internacional	3	X	3	Santos	Beira Rio
+20ª	31/08/2011	21h50m	São Paulo	1	X	2	Fluminense	Morumbi
+20ª	01/09/2011	20h30m	Bahia	0	X	0	América/MG	Pituaçu
+21ª	03/09/2011	18h00m	Fluminense	3	X	2	Atlético/GO	João Havelange
+21ª	03/09/2011	18h00m	Atlético/MG	2	X	0	Avaí	Arena do Jacaré
+21ª	03/09/2011	18h00m	Figueirense	1	X	2	São Paulo	Orlando Scarpelli
+21ª	04/09/2011	16h00m	Flamengo	1	X	3	Bahia	João Havelange
+21ª	04/09/2011	16h00m	América/MG	4	X	1	Vasco	Arena do Jacaré
+21ª	19/10/2011	20h30m	Santos	2	X	0	Botafogo	Vila Belmiro
+21ª	04/09/2011	16h00m	Coritiba	1	X	0	Corinthians	Couto Pereira
+21ª	04/09/2011	16h00m	Grêmio	4	X	0	Atlético/PR	Olímpico
+21ª	04/09/2011	16h00m	Palmeiras	1	X	1	Cruzeiro	Pacaembu
+21ª	04/09/2011	18h00m	Ceará	1	X	1	Internacional	Presidente Vargas
+22ª	07/09/2011	16h00m	Botafogo	4	X	0	Ceará	João Havelange
+22ª	07/09/2011	21h50m	Atlético/PR	2	X	2	Palmeiras	Arena da Baixada
+22ª	07/09/2011	16h00m	São Paulo	2	X	1	Atlético/MG	Morumbi
+22ª	07/09/2011	16h00m	Avaí	1	X	2	Santos	Ressacada
+22ª	07/09/2011	16h00m	Internacional	4	X	2	América/MG	Beira Rio
+22ª	08/09/2011	20h30m	Bahia	1	X	2	Grêmio	Pituaçu
+22ª	07/09/2011	21h50m	Atlético/GO	1	X	1	Figueirense	Serra Dourada
+22ª	08/09/2011	21h50m	Corinthians	2	X	1	Flamengo	Pacaembu
+22ª	07/09/2011	21h50m	Cruzeiro	1	X	2	Fluminense	Arena do Jacaré
+22ª	08/09/2011	20h30m	Vasco	2	X	0	Coritiba	São Januário
+23ª	11/09/2011	16h00m	Coritiba	5	X	0	Botafogo	Couto Pereira
+23ª	11/09/2011	16h00m	Palmeiras	0	X	3	Internacional	Pacaembu
+23ª	11/09/2011	18h00m	Atlético/MG	2	X	0	Bahia	Arena do Jacaré
+23ª	11/09/2011	16h00m	Ceará	1	X	1	Atlético/GO	Presidente Vargas
+23ª	11/09/2011	18h00m	Grêmio	1	X	0	São Paulo	Olímpico
+23ª	11/09/2011	16h00m	Figueirense	1	X	1	Vasco	Orlando Scarpelli
+23ª	11/09/2011	18h00m	Flamengo	1	X	2	Atlético/PR	João Havelange
+23ª	10/09/2011	18h00m	América/MG	2	X	2	Avaí	Arena do Jacaré
+23ª	10/09/2011	18h00m	Santos	1	X	0	Cruzeiro	Vila Belmiro
+23ª	11/09/2011	16h00m	Fluminense	1	X	0	Corinthians	João Havelange
+24ª	17/09/2011	18h00m	Atlético/GO	1	X	0	Atlético/MG	Serra Dourada
+24ª	18/09/2011	18h00m	Internacional	1	X	1	Coritiba	Beira Rio
+24ª	18/09/2011	16h00m	Avaí	1	X	1	Palmeiras	Ressacada
+24ª	17/09/2011	18h00m	São Paulo	4	X	0	Ceará	Morumbi
+24ª	18/09/2011	16h00m	Corinthians	1	X	3	Santos	Pacaembu
+24ª	17/09/2011	18h00m	Vasco	4	X	0	Grêmio	São Januário
+24ª	18/09/2011	16h00m	Atlético/PR	0	X	0	Figueirense	Arena da Baixada
+24ª	18/09/2011	18h00m	Cruzeiro	0	X	0	América/MG	Arena do Jacaré
+24ª	18/09/2011	16h00m	Bahia	3	X	0	Fluminense	Pituaçu
+24ª	18/09/2011	16h00m	Botafogo	1	X	1	Flamengo	João Havelange
+25ª	21/09/2011	20h30m	América/MG	1	X	2	Santos	João Havelange
+25ª	21/09/2011	21h50m	Figueirense	1	X	1	Internacional	Orlando Scarpelli
+25ª	21/09/2011	20h30m	Fluminense	3	X	1	Avaí	João Havelange
+25ª	22/09/2011	20h30m	Palmeiras	1	X	0	Ceará	Canindé
+25ª	21/09/2011	20h30m	Bahia	1	X	0	Atlético/PR	Pituaçu
+25ª	22/09/2011	20h30m	Grêmio	0	X	1	Botafogo	Olímpico
+25ª	21/09/2011	21h50m	Atlético/MG	1	X	1	Flamengo	Arena do Jacaré
+25ª	21/09/2011	21h50m	São Paulo	0	X	0	Corinthians	Morumbi
+25ª	22/09/2011	20h30m	Vasco	1	X	1	Atlético/GO	São Januário
+25ª	21/09/2011	20h30m	Coritiba	2	X	1	Cruzeiro	Couto Pereira
+26ª	24/09/2011	18h00m	Atlético/PR	1	X	1	Fluminense	Arena da Baixada
+26ª	25/09/2011	16h00m	Botafogo	2	X	2	São Paulo	João Havelange
+26ª	25/09/2011	18h00m	Atlético/GO	1	X	1	Palmeiras	Serra Dourada
+26ª	25/09/2011	16h00m	Corinthians	1	X	0	Bahia	Pacaembu
+26ª	25/09/2011	16h00m	Internacional	2	X	1	Atlético/MG	Beira Rio
+26ª	25/09/2011	18h00m	Ceará	3	X	2	Coritiba	Presidente Vargas
+26ª	24/09/2011	18h00m	Santos	2	X	3	Figueirense	Vila Belmiro
+26ª	25/09/2011	16h00m	Cruzeiro	0	X	3	Vasco	Arena do Jacaré
+26ª	24/09/2011	18h00m	Flamengo	2	X	1	América/MG	João Havelange
+26ª	25/09/2011	16h00m	Avaí	1	X	2	Grêmio	Ressacada
+27ª	02/10/2011	16h00m	Atlético/MG	1	X	1	Ceará	Arena do Jacaré
+27ª	01/10/2011	18h00m	Bahia	3	X	2	Avaí	Pituaçu
+27ª	02/10/2011	16h00m	Vasco	2	X	2	Corinthians	São Januário
+27ª	02/10/2011	16h00m	Figueirense	0	X	0	Coritiba	Orlando Scarpelli
+27ª	02/10/2011	18h00m	Atlético/GO	2	X	0	Botafogo	Serra Dourada
+27ª	01/10/2011	18h00m	Palmeiras	1	X	1	América/MG	Canindé
+27ª	01/10/2011	18h00m	Fluminense	3	X	2	Santos	João Havelange
+27ª	02/10/2011	16h00m	Atlético/PR	2	X	0	Internacional	Arena da Baixada
+27ª	02/10/2011	18h00m	Grêmio	2	X	0	Cruzeiro	Olímpico
+27ª	02/10/2011	16h00m	São Paulo	1	X	2	Flamengo	Morumbi
+28ª	09/10/2011	18h00m	Corinthians	3	X	0	Atlético/GO	Pacaembu
+28ª	09/10/2011	18h00m	Avaí	3	X	0	Atlético/PR	Ressacada
+28ª	09/10/2011	16h00m	Santos	1	X	0	Palmeiras	Vila Belmiro
+28ª	08/10/2011	18h00m	América/MG	0	X	0	Atlético/MG	Arena do Jacaré
+28ª	08/10/2011	18h00m	Botafogo	2	X	2	Bahia	São Januário
+28ª	09/10/2011	16h00m	Internacional	3	X	0	Vasco	Beira Rio
+28ª	09/10/2011	16h00m	Flamengo	3	X	2	Fluminense	João Havelange
+28ª	09/10/2011	18h00m	Ceará	1	X	1	Figueirense	Presidente Vargas
+28ª	05/10/2011	21h50m	Cruzeiro	3	X	3	São Paulo	Arena do Jacaré
+28ª	08/10/2011	18h00m	Coritiba	2	X	0	Grêmio	Couto Pereira
+29ª	13/10/2011	20h30m	Atlético/PR	2	X	2	Vasco	Arena da Baixada
+29ª	13/10/2011	20h30m	Fluminense	3	X	1	Coritiba	João Havelange
+29ª	12/10/2011	21h50m	Corinthians	0	X	2	Botafogo	Pacaembu
+29ª	12/10/2011	16h00m	América/MG	4	X	1	Ceará	Arena do Jacaré
+29ª	12/10/2011	16h00m	São Paulo	0	X	0	Internacional	Arena Barueri
+29ª	12/10/2011	21h50m	Flamengo	1	X	1	Palmeiras	João Havelange
+29ª	12/10/2011	21h50m	Bahia	0	X	0	Cruzeiro	Pituaçu
+29ª	13/10/2011	20h30m	Atlético/MG	2	X	1	Santos	Arena do Jacaré
+29ª	12/10/2011	16h00m	Grêmio	1	X	3	Figueirense	Olímpico
+29ª	12/10/2011	16h00m	Avaí	2	X	2	Atlético/GO	Ressacada
+30ª	16/10/2011	16h00m	Palmeiras	1	X	2	Fluminense	Canindé
+30ª	16/10/2011	16h00m	Internacional	4	X	2	Avaí	Beira Rio
+30ª	16/10/2011	18h00m	Atlético/GO	3	X	0	São Paulo	Serra Dourada
+30ª	16/10/2011	16h00m	Santos	0	X	1	Grêmio	Vila Belmiro
+30ª	16/10/2011	16h00m	Cruzeiro	0	X	1	Corinthians	Arena do Jacaré
+30ª	16/10/2011	18h00m	Vasco	2	X	0	Atlético/MG	São Januário
+30ª	15/10/2011	18h00m	Figueirense	2	X	1	América/MG	Orlando Scarpelli
+30ª	15/10/2011	18h00m	Ceará	0	X	1	Flamengo	Presidente Vargas
+30ª	16/10/2011	16h00m	Botafogo	2	X	0	Atlético/PR	João Havelange
+30ª	16/10/2011	18h00m	Coritiba	0	X	0	Bahia	Couto Pereira
+31ª	23/10/2011	18h00m	Cruzeiro	3	X	2	Atlético/GO	Arena do Jacaré
+31ª	23/10/2011	16h00m	Bahia	0	X	2	Vasco	Pituaçu
+31ª	22/10/2011	18h00m	Fluminense	0	X	2	Atlético/MG	João Havelange
+31ª	23/10/2011	16h00m	Atlético/PR	1	X	0	Ceará	Arena da Baixada
+31ª	23/10/2011	16h00m	Internacional	1	X	1	Corinthians	Beira Rio
+31ª	22/10/2011	18h00m	Avaí	3	X	2	Botafogo	Ressacada
+31ª	23/10/2011	16h00m	São Paulo	0	X	0	Coritiba	Morumbi
+31ª	23/10/2011	18h00m	Flamengo	1	X	1	Santos	João Havelange
+31ª	22/10/2011	18h00m	Palmeiras	1	X	2	Figueirense	Canindé
+31ª	22/10/2011	18h00m	América/MG	2	X	2	Grêmio	Arena do Jacaré
+32ª	30/10/2011	18h00m	Atlético/MG	2	X	1	Palmeiras	Arena do Jacaré
+32ª	30/10/2011	18h00m	Coritiba	3	X	1	América/MG	Couto Pereira
+32ª	30/10/2011	16h00m	Corinthians	2	X	1	Avaí	Pacaembu
+32ª	30/10/2011	16h00m	Figueirense	2	X	1	Bahia	Orlando Scarpelli
+32ª	29/10/2011	18h00m	Ceará	1	X	2	Fluminense	Presidente Vargas
+32ª	30/10/2011	16h00m	Vasco	0	X	0	São Paulo	São Januário
+32ª	29/10/2011	18h00m	Santos	4	X	1	Atlético/PR	Pacaembu
+32ª	29/10/2011	18h00m	Botafogo	1	X	0	Cruzeiro	João Havelange
+32ª	30/10/2011	16h00m	Grêmio	4	X	2	Flamengo	Olímpico
+32ª	30/10/2011	18h00m	Atlético/GO	0	X	1	Internacional	Serra Dourada
+33ª	06/11/2011	17h00m	Flamengo	5	X	1	Cruzeiro	João Havelange
+33ª	06/11/2011	17h00m	América/MG	2	X	1	Corinthians	João Havelange
+33ª	05/11/2011	19h00m	Bahia	4	X	3	São Paulo	Pituaçu
+33ª	06/11/2011	17h00m	Avaí	1	X	2	Ceará	Ressacada
+33ª	05/11/2011	19h00m	Botafogo	0	X	1	Figueirense	João Havelange
+33ª	06/11/2011	19h00m	Palmeiras	0	X	2	Coritiba	Arena Barueri
+33ª	06/11/2011	17h00m	Santos	2	X	0	Vasco	Vila Belmiro
+33ª	06/11/2011	19h00m	Atlético/PR	2	X	1	Atlético/GO	Arena da Baixada
+33ª	06/11/2011	19h00m	Internacional	1	X	2	Fluminense	Beira Rio
+33ª	05/11/2011	19h00m	Atlético/MG	2	X	0	Grêmio	Arena do Jacaré
+34ª	13/11/2011	17h00m	Grêmio	2	X	2	Palmeiras	Olímpico
+34ª	13/11/2011	19h00m	Vasco	2	X	0	Botafogo	São Januário
+34ª	12/11/2011	19h00m	São Paulo	2	X	0	Avaí	Morumbi
+34ª	13/11/2011	17h00m	Ceará	2	X	3	Santos	Presidente Vargas
+34ª	12/11/2011	19h00m	Fluminense	1	X	2	América/MG	João Havelange
+34ª	13/11/2011	19h00m	Atlético/GO	0	X	1	Bahia	Serra Dourada
+34ª	12/11/2011	19h00m	Figueirense	2	X	1	Atlético/MG	Orlando Scarpelli
+34ª	13/11/2011	19h00m	Cruzeiro	1	X	0	Internacional	Arena do Jacaré
+34ª	13/11/2011	17h00m	Corinthians	2	X	1	Atlético/PR	Pacaembu
+34ª	13/11/2011	17h00m	Coritiba	2	X	0	Flamengo	Couto Pereira
+35ª	17/11/2011	20h30m	Atlético/MG	2	X	1	Coritiba	Arena do Jacaré
+35ª	16/11/2011	20h30m	Internacional	1	X	0	Bahia	Beira Rio
+35ª	16/11/2011	20h30m	Fluminense	5	X	4	Grêmio	João Havelange
+35ª	17/11/2011	20h30m	Santos	1	X	1	Atlético/GO	Vila Belmiro
+35ª	17/11/2011	20h30m	Flamengo	0	X	0	Figueirense	João Havelange
+35ª	16/11/2011	21h50m	Palmeiras	1	X	1	Vasco	Pacaembu
+35ª	16/11/2011	21h50m	Ceará	0	X	1	Corinthians	Presidente Vargas
+35ª	16/11/2011	21h50m	Avaí	0	X	0	Cruzeiro	Ressacada
+35ª	16/11/2011	20h30m	Atlético/PR	1	X	0	São Paulo	Arena da Baixada
+35ª	16/11/2011	20h30m	América/MG	2	X	1	Botafogo	Arena do Jacaré
+36ª	19/11/2011	19h00m	Grêmio	1	X	3	Ceará	Olímpico
+36ª	19/11/2011	19h00m	São Paulo	3	X	1	América/MG	Morumbi
+36ª	20/11/2011	17h00m	Corinthians	2	X	1	Atlético/MG	Pacaembu
+36ª	20/11/2011	19h00m	Figueirense	0	X	4	Fluminense	Orlando Scarpelli
+36ª	20/11/2011	19h00m	Coritiba	1	X	0	Santos	Couto Pereira
+36ª	20/11/2011	17h00m	Botafogo	1	X	2	Internacional	João Havelange
+36ª	20/11/2011	17h00m	Atlético/GO	0	X	0	Flamengo	Serra Dourada
+36ª	20/11/2011	19h00m	Bahia	0	X	2	Palmeiras	Pituaçu
+36ª	20/11/2011	17h00m	Cruzeiro	1	X	1	Atlético/PR	Arena do Jacaré
+36ª	19/11/2011	19h00m	Vasco	2	X	0	Avaí	São Januário
+37ª	27/11/2011	17h00m	Coritiba	1	X	0	Avaí	Couto Pereira
+37ª	27/11/2011	17h00m	Figueirense	0	X	1	Corinthians	Orlando Scarpelli
+37ª	27/11/2011	17h00m	Palmeiras	1	X	0	São Paulo	Pacaembu
+37ª	27/11/2011	17h00m	Flamengo	1	X	0	Internacional	Cláudio Moacyr
+37ª	27/11/2011	17h00m	América/MG	2	X	1	Atlético/PR	João Havelange
+37ª	27/11/2011	17h00m	Fluminense	1	X	2	Vasco	João Havelange
+37ª	27/11/2011	17h00m	Ceará	2	X	2	Cruzeiro	Presidente Vargas
+37ª	27/11/2011	17h00m	Santos	1	X	1	Bahia	Vila Belmiro
+37ª	27/11/2011	17h00m	Atlético/MG	4	X	0	Botafogo	Arena do Jacaré
+37ª	27/11/2011	17h00m	Grêmio	2	X	2	Atlético/GO	Olímpico
+38ª	04/12/2011	17h00m	Atlético/PR	1	X	0	Coritiba	Arena da Baixada
+38ª	04/12/2011	17h00m	Internacional	1	X	0	Grêmio	Beira Rio
+38ª	04/12/2011	17h00m	Bahia	2	X	1	Ceará	Pituaçu
+38ª	04/12/2011	17h00m	Atlético/GO	5	X	1	América/MG	Serra Dourada
+38ª	04/12/2011	17h00m	São Paulo	4	X	1	Santos	Romildo Vitor G. Ferreira
+38ª	04/12/2011	17h00m	Corinthians	0	X	0	Palmeiras	Pacaembu
+38ª	04/12/2011	17h00m	Botafogo	1	X	1	Fluminense	Raulino de Oliveira
+38ª	04/12/2011	17h00m	Vasco	1	X	1	Flamengo	João Havelange
+38ª	04/12/2011	17h00m	Avaí	1	X	1	Figueirense	Ressacada
+38ª	04/12/2011	17h00m	Cruzeiro	6	X	1	Atlético/MG	Arena do Jacaré

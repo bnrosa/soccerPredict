@@ -1,0 +1,380 @@
+1ª	14/05/2016	16h00m	Palmeiras	4	x	0	Atlético/PR	Allianz Parque
+1ª	14/05/2016	16h00m	Flamengo	1	x	0	Sport	Raulino de Oliveira
+1ª	14/05/2016	18h30m	Atlético/MG	1	x	0	Santos	Independência
+1ª	14/05/2016	21h00m	Coritiba	1	x	0	Cruzeiro	Couto Pereira
+1ª	15/05/2016	11h00m	Botafogo	0	x	1	São Paulo	Raulino de Oliveira
+1ª	15/05/2016	11h00m	Santa Cruz	4	x	1	Vitória	Arruda
+1ª	15/05/2016	16h00m	Corinthians	0	x	0	Grêmio	Arena Corinthians
+1ª	15/05/2016	16h00m	Figueirense	0	x	0	Ponte Preta	Orlando Scarpelli
+1ª	15/05/2016	16h00m	América/MG	0	x	1	Fluminense	Independência
+1ª	15/05/2016	18h30m	Internacional	0	x	0	Chapecoense	Beira-Rio
+2ª	21/05/2016	16h00m	Ponte Preta	2	x	1	Palmeiras	Moisés Lucarelli
+2ª	21/05/2016	18h30m	Fluminense	2	x	2	Santa Cruz	Raulino de Oliveira
+2ª	21/05/2016	21h00m	Cruzeiro	2	x	2	Figueirense	Mineirão
+2ª	22/05/2016	11h00m	Atlético/PR	1	x	1	Atlético/MG	Arena da Baixada
+2ª	22/05/2016	11h00m	Santos	2	x	1	Coritiba	Vila Belmiro
+2ª	22/05/2016	16h00m	Chapecoense	3	x	1	América/MG	Arena Condá
+2ª	22/05/2016	16h00m	Grêmio	1	x	0	Flamengo	Arena do Grêmio
+2ª	22/05/2016	16h00m	São Paulo	1	x	2	Internacional	Morumbi
+2ª	22/05/2016	16h00m	Vitória	3	x	2	Corinthians	Manoel Barradas
+2ª	22/05/2016	18h30m	Sport	1	x	1	Botafogo	Ilha do Retiro
+3ª	25/05/2016	19h30m	Botafogo	2	x	1	Atlético/PR	Mário Helênio
+3ª	25/05/2016	19h30m	Figueirense	2	x	2	Santos	Orlando Scarpelli
+3ª	25/05/2016	21h00m	América/MG	1	x	1	Vitória	Independência
+3ª	25/05/2016	21h00m	Flamengo	2	x	2	Chapecoense	Raulino de Oliveira
+3ª	25/05/2016	21h45m	Coritiba	1	x	1	São Paulo	Couto Pereira
+3ª	25/05/2016	21h45m	Palmeiras	2	x	0	Fluminense	Allianz Parque
+3ª	25/05/2016	21h45m	Santa Cruz	4	x	1	Cruzeiro	Arruda
+3ª	26/05/2016	11h00m	Corinthians	3	x	0	Ponte Preta	Arena Corinthians
+3ª	26/05/2016	16h00m	Internacional	1	x	0	Sport	Beira-Rio
+3ª	26/05/2016	21h00m	Atlético/MG	0	x	3	Grêmio	Independência
+4ª	28/05/2016	16h00m	Cruzeiro	1	x	1	América/MG	Mineirão
+4ª	28/05/2016	18h30m	Atlético/PR	2	x	1	Figueirense	Arena da Baixada
+4ª	28/05/2016	21h00m	Chapecoense	1	x	1	Santa Cruz	Arena Condá
+4ª	29/05/2016	11h00m	Ponte Preta	1	x	2	Flamengo	Moisés Lucarelli
+4ª	29/05/2016	11h00m	Sport	0	x	2	Corinthians	Ilha do Retiro
+4ª	29/05/2016	16h00m	Vitória	1	x	1	Atlético/MG	Manoel Barradas
+4ª	29/05/2016	16h00m	Fluminense	1	x	0	Botafogo	Raulino de Oliveira
+4ª	29/05/2016	16h00m	São Paulo	1	x	0	Palmeiras	Morumbi
+4ª	29/05/2016	18h30m	Grêmio	2	x	0	Coritiba	Arena do Grêmio
+4ª	29/05/2016	18h30m	Santos	0	x	1	Internacional	Vila Belmiro
+5ª	01/06/2016	19h30m	Internacional	1	x	0	Atlético/PR	Beira-Rio
+5ª	01/06/2016	21h00m	Corinthians	1	x	0	Santos	Arena Corinthians
+5ª	01/06/2016	21h00m	Coritiba	3	x	4	Chapecoense	Couto Pereira
+5ª	01/06/2016	21h00m	Santa Cruz	0	x	1	Sport	Arruda
+5ª	01/06/2016	21h45m	Atlético/MG	1	x	1	Fluminense	Independência
+5ª	01/06/2016	21h45m	Botafogo	0	x	1	Cruzeiro	Mané Garrincha
+5ª	01/06/2016	21h45m	Figueirense	1	x	0	São Paulo	Orlando Scarpelli
+5ª	02/06/2016	19h30m	América/MG	1	x	2	Ponte Preta	Independência
+5ª	02/06/2016	21h00m	Flamengo	1	x	0	Vitória	Raulino de Oliveira
+5ª	02/06/2016	21h00m	Palmeiras	4	x	3	Grêmio	Allianz Parque
+6ª	04/06/2016	16h00m	Atlético/PR	1	x	0	Santa Cruz	Arena da Baixada
+6ª	04/06/2016	20h30m	Chapecoense	0	x	0	Fluminense	Arena Condá
+6ª	04/06/2016	20h30m	Corinthians	2	x	1	Coritiba	Arena Corinthians
+6ª	05/06/2016	11h00m	América/MG	1	x	0	Figueirense	Independência
+6ª	05/06/2016	11h00m	Santos	3	x	0	Botafogo	Pacaembu
+6ª	05/06/2016	16h00m	Flamengo	1	x	2	Palmeiras	Mané Garrincha
+6ª	05/06/2016	16h00m	Grêmio	1	x	0	Ponte Preta	Arena do Grêmio
+6ª	05/06/2016	16h00m	Sport	4	x	4	Atlético/MG	Ilha do Retiro
+6ª	05/06/2016	16h00m	Vitória	1	x	0	Internacional	Manoel Barradas
+6ª	05/06/2016	18h30m	Cruzeiro	0	x	1	São Paulo	Mineirão
+7ª	11/06/2016	16h00m	Internacional	3	x	1	América/MG	Beira-Rio
+7ª	11/06/2016	16h00m	Ponte Preta	2	x	1	Chapecoense	Moisés Lucarelli
+7ª	11/06/2016	18h30m	Fluminense	1	x	1	Grêmio	Raulino de Oliveira
+7ª	11/06/2016	21h00m	São Paulo	1	x	2	Atlético/PR	Morumbi
+7ª	12/06/2016	11h00m	Botafogo	1	x	1	Vitória	Raulino de Oliveira
+7ª	12/06/2016	11h00m	Coritiba	3	x	2	Sport	Couto Pereira
+7ª	12/06/2016	16h00m	Atlético/MG	2	x	3	Cruzeiro	Independência
+7ª	12/06/2016	16h00m	Figueirense	1	x	0	Flamengo	Orlando Scarpelli
+7ª	12/06/2016	16h00m	Palmeiras	1	x	0	Corinthians	Allianz Parque
+7ª	12/06/2016	19h00m	Santa Cruz	0	x	2	Santos	Arruda
+8ª	15/06/2016	19h30m	Chapecoense	3	x	3	Grêmio	Arena Condá
+8ª	15/06/2016	19h30m	Ponte Preta	3	x	2	Atlético/PR	Moisés Lucarelli
+8ª	15/06/2016	19h30m	São Paulo	2	x	0	Vitória	Morumbi
+8ª	15/06/2016	21h00m	Botafogo	3	x	1	América/MG	Raulino de Oliveira
+8ª	15/06/2016	21h00m	Santa Cruz	1	x	0	Figueirense	Arruda
+8ª	15/06/2016	21h00m	Santos	2	x	0	Sport	Vila Belmiro
+8ª	15/06/2016	21h45m	Coritiba	2	x	2	Palmeiras	Couto Pereira
+8ª	15/06/2016	21h45m	Cruzeiro	0	x	1	Flamengo	Mineirão
+8ª	16/06/2016	19h30m	Internacional	2	x	0	Atlético/MG	Beira-Rio
+8ª	16/06/2016	20h00m	Fluminense	1	x	0	Corinthians	Mané Garrincha
+9ª	18/06/2016	16h00m	Palmeiras	3	x	1	Santa Cruz	Allianz Parque
+9ª	18/06/2016	18h00m	Atlético/PR	1	x	0	Santos	Arena da Baixada
+9ª	18/06/2016	21h00m	América/MG	2	x	1	Coritiba	Independência
+9ª	19/06/2016	11h00m	Atlético/MG	3	x	0	Ponte Preta	Independência
+9ª	19/06/2016	11h00m	Vitória	1	x	2	Chapecoense	Manoel Barradas
+9ª	19/06/2016	16h00m	Corinthians	3	x	1	Botafogo	Arena Corinthians
+9ª	19/06/2016	16h00m	Figueirense	3	x	2	Internacional	Orlando Scarpelli
+9ª	19/06/2016	16h00m	Flamengo	2	x	2	São Paulo	Mané Garrincha
+9ª	19/06/2016	16h00m	Sport	2	x	1	Fluminense	Ilha do Retiro
+9ª	19/06/2016	19h00m	Grêmio	2	x	0	Cruzeiro	Arena do Grêmio
+10ª	21/06/2016	21h30m	Palmeiras	2	x	0	América/MG	Allianz Parque
+10ª	22/06/2016	19h30m	Chapecoense	0	x	0	Atlético/PR	Arena Condá
+10ª	22/06/2016	19h30m	Ponte Preta	0	x	4	Cruzeiro	Moisés Lucarelli
+10ª	22/06/2016	21h00m	Botafogo	0	x	0	Figueirense	Mário Helênio
+10ª	22/06/2016	21h00m	Santa Cruz	0	x	1	Flamengo	Arruda
+10ª	22/06/2016	21h45m	Atlético/MG	2	x	1	Corinthians	Mineirão
+10ª	22/06/2016	21h45m	Fluminense	2	x	4	Santos	Kleber Andrade
+10ª	23/06/2016	19h15m	Grêmio	1	x	2	Vitória	Arena do Grêmio
+10ª	23/06/2016	21h00m	São Paulo	0	x	0	Sport	Morumbi
+10ª	23/06/2016	21h30m	Coritiba	1	x	1	Internacional	Couto Pereira
+11ª	25/06/2016	19h00m	Cruzeiro	2	x	1	Palmeiras	Mineirão
+11ª	25/06/2016	21h00m	Corinthians	2	x	1	Santa Cruz	Arena Corinthians
+11ª	26/06/2016	11h00m	América/MG	0	x	1	Atlético/MG	Independência
+11ª	26/06/2016	16h00m	Atlético/PR	2	x	0	Grêmio	Arena da Baixada
+11ª	26/06/2016	16h00m	Flamengo	1	x	2	Fluminense	Arena das Dunas
+11ª	26/06/2016	16h00m	Internacional	2	x	3	Botafogo	Beira-Rio
+11ª	26/06/2016	16h00m	Santos	3	x	0	São Paulo	Vila Belmiro
+11ª	26/06/2016	16h00m	Vitória	1	x	1	Ponte Preta	Manoel Barradas
+11ª	26/06/2016	18h30m	Figueirense	0	x	0	Coritiba	Orlando Scarpelli
+11ª	26/06/2016	18h30m	Sport	5	x	1	Chapecoense	Ilha do Retiro
+12ª	29/06/2016	19h30m	Flamengo	1	x	0	Internacional	Kleber Andrade
+12ª	29/06/2016	19h30m	Grêmio	3	x	2	Santos	Arena do Grêmio
+12ª	29/06/2016	19h30m	Vitória	3	x	2	Sport	Manoel Barradas
+12ª	29/06/2016	21h00m	Chapecoense	3	x	2	Cruzeiro	Arena Condá
+12ª	29/06/2016	21h00m	Coritiba	1	x	0	Atlético/PR	Couto Pereira
+12ª	29/06/2016	21h45m	América/MG	0	x	2	Corinthians	Independência
+12ª	29/06/2016	21h45m	São Paulo	2	x	1	Fluminense	Morumbi
+12ª	30/06/2016	19h30m	Palmeiras	4	x	0	Figueirense	Allianz Parque
+12ª	30/06/2016	19h30m	Santa Cruz	0	x	3	Ponte Preta	Arruda
+12ª	30/06/2016	21h00m	Atlético/MG	5	x	3	Botafogo	Independência
+13ª	02/07/2016	16h00m	Fluminense	0	x	0	Coritiba	Raulino de Oliveira
+13ª	02/07/2016	18h30m	Atlético/PR	1	x	0	América/MG	Arena da Baixada
+13ª	03/07/2016	11h00m	Cruzeiro	2	x	2	Vitória	Mineirão
+13ª	03/07/2016	11h00m	Internacional	0	x	1	Grêmio	Beira-Rio
+13ª	03/07/2016	16h00m	Botafogo	2	x	1	Santa Cruz	Mário Helênio
+13ª	03/07/2016	16h00m	Corinthians	4	x	0	Flamengo	Arena Corinthians
+13ª	03/07/2016	16h00m	Ponte Preta	1	x	0	São Paulo	Moisés Lucarelli
+13ª	03/07/2016	16h00m	Santos	3	x	0	Chapecoense	Vila Belmiro
+13ª	03/07/2016	19h00m	Figueirense	1	x	1	Atlético/MG	Orlando Scarpelli
+13ª	04/07/2016	20h00m	Sport	1	x	3	Palmeiras	Ilha do Retiro
+14ª	09/07/2016	16h30m	Chapecoense	0	x	2	Corinthians	Arena Condá
+14ª	09/07/2016	16h30m	Coritiba	0	x	0	Botafogo	Couto Pereira
+14ª	09/07/2016	21h00m	Ponte Preta	2	x	1	Sport	Moisés Lucarelli
+14ª	10/07/2016	11h00m	Flamengo	2	x	0	Atlético/MG	Mané Garrincha
+14ª	10/07/2016	11h00m	Grêmio	2	x	1	Figueirense	Arena do Grêmio
+14ª	10/07/2016	16h00m	Santa Cruz	1	x	0	Internacional	Arruda
+14ª	10/07/2016	16h00m	São Paulo	3	x	0	América/MG	Morumbi
+14ª	10/07/2016	19h30m	Vitória	0	x	0	Fluminense	Manoel Barradas
+14ª	11/07/2016	20h00m	Cruzeiro	0	x	3	Atlético/PR	Mineirão
+14ª	12/07/2016	20h30m	Palmeiras	1	x	1	Santos	Allianz Parque
+15ª	16/07/2016	16h00m	Botafogo	3	x	3	Flamengo	Luso Brasileiro
+15ª	16/07/2016	18h30m	Santos	3	x	1	Ponte Preta	Vila Belmiro
+15ª	17/07/2016	11h00m	América/MG	0	x	3	Santa Cruz	Independência
+15ª	17/07/2016	16h00m	Atlético/PR	1	x	1	Vitória	Arena da Baixada
+15ª	17/07/2016	16h00m	Corinthians	1	x	1	São Paulo	Arena Corinthians
+15ª	17/07/2016	16h00m	Figueirense	1	x	1	Chapecoense	Orlando Scarpelli
+15ª	17/07/2016	16h00m	Fluminense	2	x	0	Cruzeiro	Giulitte Coutinho
+15ª	17/07/2016	16h00m	Internacional	0	x	1	Palmeiras	Beira-Rio
+15ª	17/07/2016	18h30m	Sport	4	x	2	Grêmio	Ilha do Retiro
+15ª	18/07/2016	20h00m	Atlético/MG	2	x	1	Coritiba	Independência
+16ª	23/07/2016	16h00m	Corinthians	1	x	1	Figueirense	Arena Corinthians
+16ª	23/07/2016	18h30m	Santa Cruz	0	x	1	Coritiba	Arruda
+16ª	24/07/2016	11h00m	Palmeiras	0	x	1	Atlético/MG	Allianz Parque
+16ª	24/07/2016	11h00m	Ponte Preta	2	x	2	Internacional	Moisés Lucarelli
+16ª	24/07/2016	16h00m	Atlético/PR	1	x	0	Fluminense	Arena da Baixada
+16ª	24/07/2016	16h00m	Chapecoense	2	x	1	Botafogo	Arena Condá
+16ª	24/07/2016	16h00m	Cruzeiro	1	x	2	Sport	Mineirão
+16ª	24/07/2016	16h00m	Grêmio	1	x	0	São Paulo	Arena do Grêmio
+16ª	24/07/2016	18h30m	Vitória	2	x	3	Santos	Manoel Barradas
+16ª	25/07/2016	20h00m	Flamengo	2	x	1	América/MG	Kleber Andrade
+17ª	30/07/2016	18h30m	Figueirense	1	x	0	Vitória	Orlando Scarpelli
+17ª	30/07/2016	18h30m	Sport	2	x	0	Atlético/PR	Ilha do Retiro
+17ª	30/07/2016	21h00m	Atlético/MG	3	x	0	Santa Cruz	Independência
+17ª	31/07/2016	11h00m	Fluminense	3	x	0	Ponte Preta	Giulitte Coutinho
+17ª	31/07/2016	11h00m	São Paulo	2	x	2	Chapecoense	Morumbi
+17ª	31/07/2016	16h00m	Coritiba	0	x	2	Flamengo	Couto Pereira
+17ª	31/07/2016	16h00m	Internacional	0	x	1	Corinthians	Beira-Rio
+17ª	31/07/2016	16h00m	Santos	2	x	0	Cruzeiro	Vila Belmiro
+17ª	31/07/2016	18h30m	América/MG	0	x	0	Grêmio	Independência
+17ª	31/07/2016	18h30m	Botafogo	3	x	1	Palmeiras	Luso Brasileiro
+18ª	03/08/2016	19h30m	Sport	1	x	1	América/MG	Ilha do Retiro
+18ª	03/08/2016	19h30m	Vitória	3	x	1	Coritiba	Jóia da Princesa
+18ª	03/08/2016	21h45m	Atlético/PR	2	x	0	Corinthians	Arena da Baixada
+18ª	03/08/2016	21h45m	Santos	0	x	0	Flamengo	Vila Belmiro
+18ª	04/08/2016	19h15m	Ponte Preta	2	x	0	Botafogo	Moisés Lucarelli
+18ª	04/08/2016	19h30m	Grêmio	0	x	0	Santa Cruz	Arena do Grêmio
+18ª	04/08/2016	19h30m	São Paulo	1	x	2	Atlético/MG	Morumbi
+18ª	04/08/2016	21h00m	Cruzeiro	4	x	2	Internacional	Mineirão
+18ª	04/08/2016	21h30m	Chapecoense	1	x	1	Palmeiras	Arena Condá
+18ª	03/09/2016	16h00m	Fluminense	3	x	2	Figueirense	Giulitte Coutinho
+19ª	06/08/2016	18h30m	Flamengo	1	x	0	Atlético/PR	Kleber Andrade
+19ª	07/08/2016	11h00m	América/MG	1	x	0	Santos	Independência
+19ª	07/08/2016	16h00m	Coritiba	3	x	1	Ponte Preta	Couto Pereira
+19ª	07/08/2016	16h00m	Palmeiras	2	x	1	Vitória	Allianz Parque
+19ª	07/08/2016	16h15m	Internacional	2	x	2	Fluminense	Beira-Rio
+19ª	07/08/2016	16h15m	Santa Cruz	1	x	2	São Paulo	Arruda
+19ª	07/08/2016	18h30m	Figueirense	1	x	1	Sport	Orlando Scarpelli
+19ª	08/08/2016	20h00m	Atlético/MG	3	x	1	Chapecoense	Independência
+19ª	08/08/2016	21h00m	Corinthians	1	x	1	Cruzeiro	Pacaembu
+19ª	04/09/2016	18h30m	Botafogo	2	x	1	Grêmio	Luso Brasileiro
+20ª	13/08/2016	18h30m	Ponte Preta	2	x	0	Figueirense	Moisés Lucarelli
+20ª	13/08/2016	16h00m	Sport	1	x	0	Flamengo	Arena Pernambuco
+20ª	14/08/2016	11h00m	Fluminense	1	x	0	América/MG	Kleber Andrade
+20ª	14/08/2016	11h00m	Grêmio	3	x	0	Corinthians	Arena do Grêmio
+20ª	14/08/2016	16h00m	Cruzeiro	2	x	2	Coritiba	Independência
+20ª	14/08/2016	16h00m	Santos	3	x	0	Atlético/MG	Vila Belmiro
+20ª	14/08/2016	16h00m	Vitória	2	x	2	Santa Cruz	Manoel Barradas
+20ª	14/08/2016	16h15m	São Paulo	0	x	1	Botafogo	Morumbi
+20ª	14/08/2016	18h30m	Atlético/PR	0	x	1	Palmeiras	Arena da Baixada
+20ª	15/08/2016	20h00m	Chapecoense	1	x	0	Internacional	Arena Condá
+21ª	19/08/2016	21h30m	América/MG	1	x	2	Chapecoense	Independência
+21ª	20/08/2016	21h00m	Botafogo	3	x	0	Sport	Mário Helênio
+21ª	21/08/2016	11h00m	Atlético/MG	1	x	0	Atlético/PR	Independência
+21ª	21/08/2016	11h00m	Flamengo	2	x	1	Grêmio	Mané Garrincha
+21ª	21/08/2016	16h00m	Internacional	1	x	1	São Paulo	Beira-Rio
+21ª	21/08/2016	16h00m	Palmeiras	2	x	2	Ponte Preta	Allianz Parque
+21ª	21/08/2016	16h00m	Santa Cruz	0	x	1	Fluminense	Arruda
+21ª	21/08/2016	18h00m	Coritiba	2	x	1	Santos	Couto Pereira
+21ª	21/08/2016	18h30m	Figueirense	1	x	2	Cruzeiro	Orlando Scarpelli
+21ª	22/08/2016	20h00m	Corinthians	2	x	1	Vitória	Arena Corinthians
+22ª	27/08/2016	16h00m	Ponte Preta	2	x	0	Corinthians	Moisés Lucarelli
+22ª	28/08/2016	11h00m	Cruzeiro	2	x	0	Santa Cruz	Mineirão
+22ª	28/08/2016	11h00m	Santos	0	x	1	Figueirense	Vila Belmiro
+22ª	28/08/2016	16h00m	Chapecoense	1	x	3	Flamengo	Arena Condá
+22ª	28/08/2016	16h00m	Fluminense	0	x	2	Palmeiras	Mané Garrincha
+22ª	28/08/2016	16h00m	Grêmio	1	x	1	Atlético/MG	Arena do Grêmio
+22ª	28/08/2016	16h00m	São Paulo	0	x	0	Coritiba	Morumbi
+22ª	28/08/2016	18h30m	Sport	1	x	1	Internacional	Arena Pernambuco
+22ª	28/08/2016	18h30m	Vitória	2	x	1	América/MG	Fonte Nova
+22ª	29/08/2016	20h00m	Atlético/PR	1	x	0	Botafogo	Arena da Baixada
+23ª	07/09/2016	16h00m	Botafogo	1	x	0	Fluminense	Luso Brasileiro
+23ª	07/09/2016	16h00m	Figueirense	1	x	0	Atlético/PR	Orlando Scarpelli
+23ª	07/09/2016	16h00m	Santa Cruz	2	x	2	Chapecoense	Arena Pernambuco
+23ª	07/09/2016	19h30m	Atlético/MG	2	x	1	Vitória	Independência
+23ª	07/09/2016	21h45m	Coritiba	4	x	0	Grêmio	Couto Pereira
+23ª	07/09/2016	21h45m	Flamengo	2	x	1	Ponte Preta	Kleber Andrade
+23ª	07/09/2016	21h45m	Palmeiras	2	x	1	São Paulo	Allianz Parque
+23ª	08/09/2016	19h30m	Corinthians	3	x	0	Sport	Arena Corinthians
+23ª	08/09/2016	21h00m	América/MG	0	x	2	Cruzeiro	Independência
+23ª	08/09/2016	21h00m	Internacional	2	x	1	Santos	Beira-Rio
+24ª	10/09/2016	18h30m	Vitória	1	x	2	Flamengo	Manoel Barradas
+24ª	11/09/2016	11h00m	Chapecoense	1	x	0	Coritiba	Arena Condá
+24ª	11/09/2016	11h00m	São Paulo	3	x	1	Figueirense	Morumbi
+24ª	11/09/2016	16h00m	Atlético/PR	2	x	1	Internacional	Arena da Baixada
+24ª	11/09/2016	16h00m	Cruzeiro	0	x	2	Botafogo	Mineirão
+24ª	11/09/2016	16h00m	Santos	2	x	1	Corinthians	Vila Belmiro
+24ª	11/09/2016	16h00m	Sport	5	x	3	Santa Cruz	Ilha do Retiro
+24ª	11/09/2016	18h30m	Grêmio	0	x	0	Palmeiras	Arena do Grêmio
+24ª	11/09/2016	18h30m	Ponte Preta	1	x	1	América/MG	Moisés Lucarelli
+24ª	12/09/2016	20h00m	Fluminense	4	x	2	Atlético/MG	Giulitte Coutinho
+25ª	14/09/2016	19h30m	Botafogo	0	x	1	Santos	Luso Brasileiro
+25ª	14/09/2016	19h30m	Figueirense	2	x	2	América/MG	Orlando Scarpelli
+25ª	14/09/2016	21h00m	Ponte Preta	3	x	0	Grêmio	Moisés Lucarelli
+25ª	14/09/2016	21h00m	Santa Cruz	1	x	0	Atlético/PR	Arruda
+25ª	14/09/2016	21h45m	Coritiba	1	x	1	Corinthians	Couto Pereira
+25ª	14/09/2016	21h45m	Palmeiras	1	x	1	Flamengo	Allianz Parque
+25ª	15/09/2016	19h30m	Atlético/MG	1	x	0	Sport	Independência
+25ª	15/09/2016	19h30m	Fluminense	1	x	2	Chapecoense	Giulitte Coutinho
+25ª	15/09/2016	21h00m	Internacional	0	x	1	Vitória	Beira-Rio
+25ª	15/09/2016	21h00m	São Paulo	1	x	0	Cruzeiro	Morumbi
+26ª	17/09/2016	16h00m	Corinthians	0	x	2	Palmeiras	Arena Corinthians
+26ª	18/09/2016	11h00m	Flamengo	2	x	0	Figueirense	Pacaembu
+26ª	18/09/2016	16h00m	Atlético/PR	1	x	0	São Paulo	Arena da Baixada
+26ª	18/09/2016	16h00m	Chapecoense	2	x	2	Ponte Preta	Arena Condá
+26ª	18/09/2016	16h00m	Cruzeiro	1	x	1	Atlético/MG	Mineirão
+26ª	18/09/2016	16h00m	Grêmio	0	x	1	Fluminense	Arena do Grêmio
+26ª	18/09/2016	16h00m	Sport	0	x	1	Coritiba	Ilha do Retiro
+26ª	18/09/2016	18h30m	Santos	3	x	2	Santa Cruz	Pacaembu
+26ª	18/09/2016	18h30m	Vitória	0	x	1	Botafogo	Manoel Barradas
+26ª	19/09/2016	20h00m	América/MG	1	x	0	Internacional	Independência
+27ª	24/09/2016	16h00m	Palmeiras	2	x	1	Coritiba	Allianz Parque
+27ª	24/09/2016	18h30m	Sport	1	x	0	Santos	Ilha do Retiro
+27ª	24/09/2016	21h00m	América/MG	1	x	0	Botafogo	Independência
+27ª	25/09/2016	11h00m	Atlético/PR	3	x	0	Ponte Preta	Arena da Baixada
+27ª	25/09/2016	11h00m	Figueirense	3	x	1	Santa Cruz	Orlando Scarpelli
+27ª	25/09/2016	16h00m	Corinthians	0	x	1	Fluminense	Arena Corinthians
+27ª	25/09/2016	16h00m	Flamengo	2	x	1	Cruzeiro	Kleber Andrade
+27ª	25/09/2016	16h00m	Grêmio	1	x	0	Chapecoense	Arena do Grêmio
+27ª	25/09/2016	16h00m	Vitória	2	x	0	São Paulo	Manoel Barradas
+27ª	25/09/2016	18h30m	Atlético/MG	3	x	1	Internacional	Independência
+28ª	01/10/2016	11h00m	Fluminense	3	x	1	Sport	Giulitte Coutinho
+28ª	01/10/2016	16h00m	Chapecoense	1	x	4	Vitória	Arena Condá
+28ª	01/10/2016	16h00m	Santos	2	x	0	Atlético/PR	Vila Belmiro
+28ª	01/10/2016	16h00m	São Paulo	0	x	0	Flamengo	Morumbi
+28ª	01/10/2016	16h30m	Botafogo	2	x	0	Corinthians	Luso Brasileiro
+28ª	01/10/2016	16h30m	Ponte Preta	1	x	2	Atlético/MG	Moisés Lucarelli
+28ª	01/10/2016	18h30m	Cruzeiro	1	x	0	Grêmio	Mineirão
+28ª	01/10/2016	21h00m	Internacional	1	x	0	Figueirense	Beira-Rio
+28ª	03/10/2016	20h00m	Santa Cruz	2	x	3	Palmeiras	Arruda
+28ª	03/10/2016	21h00m	Coritiba	3	x	0	América/MG	Couto Pereira
+29ª	05/10/2016	19h30m	Atlético/PR	3	x	1	Chapecoense	Arena da Baixada
+29ª	05/10/2016	19h30m	Vitória	0	x	1	Grêmio	Fonte Nova
+29ª	05/10/2016	21h00m	Corinthians	0	x	0	Atlético/MG	Arena Corinthians
+29ª	05/10/2016	21h00m	Santos	2	x	1	Fluminense	Vila Belmiro
+29ª	05/10/2016	21h45m	Sport	1	x	1	São Paulo	Ilha do Retiro
+29ª	06/10/2016	19h30m	Internacional	1	x	0	Coritiba	Beira-Rio
+29ª	08/10/2016	21h00m	Cruzeiro	2	x	0	Ponte Preta	Mineirão
+29ª	09/10/2016	17h00m	América/MG	0	x	2	Palmeiras	do Café
+29ª	09/10/2016	17h00m	Figueirense	0	x	1	Botafogo	Orlando Scarpelli
+29ª	09/10/2016	17h00m	Flamengo	3	x	0	Santa Cruz	Pacaembu
+30ª	12/10/2016	11h00m	Chapecoense	3	x	0	Sport	Arena Condá
+30ª	12/10/2016	19h30m	Coritiba	0	x	0	Figueirense	Couto Pereira
+30ª	12/10/2016	21h45m	Botafogo	1	x	0	Internacional	Luso Brasileiro
+30ª	12/10/2016	21h45m	Santa Cruz	2	x	4	Corinthians	Arena Pantanal
+30ª	13/10/2016	19h30m	Atlético/MG	3	x	0	América/MG	Mineirão
+30ª	13/10/2016	19h30m	Palmeiras	0	x	0	Cruzeiro	Fonte Luminosa
+30ª	13/10/2016	19h30m	Ponte Preta	2	x	0	Vitória	Moisés Lucarelli
+30ª	13/10/2016	21h00m	Fluminense	1	x	2	Flamengo	Raulino de Oliveira
+30ª	13/10/2016	21h00m	Grêmio	1	x	0	Atlético/PR	Arena do Grêmio
+30ª	13/10/2016	21h00m	São Paulo	0	x	1	Santos	Pacaembu
+31ª	16/10/2016	17h00m	Atlético/PR	2	x	0	Coritiba	Durival de Brito
+31ª	16/10/2016	17h00m	Botafogo	3	x	2	Atlético/MG	Luso Brasileiro
+31ª	16/10/2016	17h00m	Cruzeiro	0	x	0	Chapecoense	Mineirão
+31ª	16/10/2016	17h00m	Figueirense	1	x	2	Palmeiras	Orlando Scarpelli
+31ª	16/10/2016	17h00m	Internacional	2	x	1	Flamengo	Beira-Rio
+31ª	16/10/2016	18h30m	Corinthians	2	x	0	América/MG	Arena Corinthians
+31ª	16/10/2016	18h30m	Ponte Preta	3	x	0	Santa Cruz	Moisés Lucarelli
+31ª	16/10/2016	19h30m	Santos	1	x	1	Grêmio	Vila Belmiro
+31ª	16/10/2016	19h30m	Sport	1	x	0	Vitória	Ilha do Retiro
+31ª	17/10/2016	20h00m	Fluminense	1	x	2	São Paulo	Giulitte Coutinho
+32ª	19/10/2016	21h45m	Santa Cruz	0	x	1	Botafogo	Arruda
+32ª	22/10/2016	17h00m	São Paulo	2	x	0	Ponte Preta	Morumbi
+32ª	23/10/2016	17h00m	Flamengo	2	x	2	Corinthians	Maracanã
+32ª	23/10/2016	17h00m	Grêmio	0	x	0	Internacional	Arena do Grêmio
+32ª	23/10/2016	17h00m	Palmeiras	2	x	1	Sport	Allianz Parque
+32ª	23/10/2016	17h00m	Vitória	0	x	1	Cruzeiro	Manoel Barradas
+32ª	23/10/2016	18h30m	Coritiba	1	x	1	Fluminense	Couto Pereira
+32ª	23/10/2016	19h30m	Atlético/MG	3	x	0	Figueirense	Independência
+32ª	23/10/2016	19h30m	Chapecoense	0	x	1	Santos	Arena Condá
+32ª	24/10/2016	20h00m	América/MG	1	x	0	Atlético/PR	Independência
+33ª	27/10/2016	20h30m	Sport	1	x	0	Ponte Preta	Ilha do Retiro
+33ª	28/10/2016	19h30m	Fluminense	2	x	2	Vitória	Maracanã
+33ª	29/10/2016	16h30m	Atlético/MG	2	x	2	Flamengo	Mineirão
+33ª	29/10/2016	16h30m	Atlético/PR	1	x	0	Cruzeiro	Arena da Baixada
+33ª	29/10/2016	16h30m	Corinthians	1	x	1	Chapecoense	Arena Corinthians
+33ª	29/10/2016	18h30m	Botafogo	0	x	0	Coritiba	Luso Brasileiro
+33ª	29/10/2016	18h30m	Internacional	1	x	1	Santa Cruz	Beira-Rio
+33ª	29/10/2016	19h30m	Figueirense	0	x	0	Grêmio	Orlando Scarpelli
+33ª	29/10/2016	19h30m	Santos	1	x	0	Palmeiras	Vila Belmiro
+33ª	31/10/2016	20h00m	América/MG	1	x	0	São Paulo	Independência
+34ª	05/11/2016	17h00m	Flamengo	0	x	0	Botafogo	Maracanã
+34ª	05/11/2016	19h30m	São Paulo	4	x	0	Corinthians	Morumbi
+34ª	06/11/2016	11h00m	Ponte Preta	1	x	2	Santos	Moisés Lucarelli
+34ª	06/11/2016	17h00m	Cruzeiro	4	x	2	Fluminense	Mineirão
+34ª	06/11/2016	17h00m	Palmeiras	1	x	0	Internacional	Allianz Parque
+34ª	06/11/2016	17h00m	Santa Cruz	1	x	0	América/MG	Arruda
+34ª	06/11/2016	17h00m	Vitória	3	x	2	Atlético/PR	Manoel Barradas
+34ª	06/11/2016	19h30m	Chapecoense	1	x	0	Figueirense	Arena Condá
+34ª	06/11/2016	19h30m	Coritiba	2	x	0	Atlético/MG	Couto Pereira
+34ª	07/11/2016	20h00m	Grêmio	0	x	3	Sport	Arena do Grêmio
+35ª	15/11/2016	17h00m	Fluminense	1	x	1	Atlético/PR	Maracanã
+35ª	16/11/2016	19h30m	Botafogo	0	x	2	Chapecoense	Luso Brasileiro
+35ª	16/11/2016	21h00m	Coritiba	1	x	0	Santa Cruz	Couto Pereira
+35ª	16/11/2016	21h45m	América/MG	0	x	1	Flamengo	Mineirão
+35ª	16/11/2016	21h45m	Figueirense	1	x	1	Corinthians	Orlando Scarpelli
+35ª	16/11/2016	21h45m	Sport	0	x	1	Cruzeiro	Ilha do Retiro
+35ª	17/11/2016	19h30m	Santos	3	x	2	Vitória	Vila Belmiro
+35ª	17/11/2016	19h30m	São Paulo	1	x	1	Grêmio	Morumbi
+35ª	17/11/2016	21h00m	Atlético/MG	1	x	1	Palmeiras	Independência
+35ª	17/11/2016	21h00m	Internacional	1	x	1	Ponte Preta	Beira-Rio
+36ª	20/11/2016	17h00m	Atlético/PR	2	x	0	Sport	Arena da Baixada
+36ª	20/11/2016	17h00m	Cruzeiro	2	x	2	Santos	Mineirão
+36ª	20/11/2016	17h00m	Grêmio	3	x	0	América/MG	Arena do Grêmio
+36ª	20/11/2016	17h00m	Palmeiras	1	x	0	Botafogo	Allianz Parque
+36ª	20/11/2016	17h00m	Ponte Preta	1	x	0	Fluminense	Moisés Lucarelli
+36ª	20/11/2016	17h00m	Vitória	4	x	0	Figueirense	Manoel Barradas
+36ª	20/11/2016	19h30m	Chapecoense	2	x	0	São Paulo	Arena Condá
+36ª	20/11/2016	19h30m	Flamengo	2	x	2	Coritiba	Maracanã
+36ª	20/11/2016	19h30m	Santa Cruz	3	x	3	Atlético/MG	Arruda
+36ª	21/11/2016	20h00m	Corinthians	1	x	0	Internacional	Arena Corinthians
+37ª	26/11/2016	20h00m	América/MG	2	x	2	Sport	Independência
+37ª	26/11/2016	20h00m	Botafogo	1	x	1	Ponte Preta	Luso Brasileiro
+37ª	26/11/2016	21h00m	Corinthians	0	x	0	Atlético/PR	Arena Corinthians
+37ª	26/11/2016	21h00m	Palmeiras	1	x	0	Chapecoense	Allianz Parque
+37ª	27/11/2016	17h00m	Atlético/MG	1	x	2	São Paulo	Independência
+37ª	27/11/2016	17h00m	Flamengo	2	x	0	Santos	Maracanã
+37ª	27/11/2016	17h00m	Internacional	1	x	0	Cruzeiro	Beira-Rio
+37ª	27/11/2016	19h30m	Figueirense	1	x	0	Fluminense	Orlando Scarpelli
+37ª	27/11/2016	19h30m	Santa Cruz	5	x	1	Grêmio	Arruda
+37ª	28/11/2016	20h00m	Coritiba	0	x	1	Vitória	Couto Pereira
+38ª	04/12/2016	17h00m	Grêmio	0	x	1	Botafogo	Arena do Grêmio
+38ª	04/12/2016	17h00m	Atlético/PR	0	x	0	Flamengo	Arena da Baixada
+38ª	04/12/2016	17h00m	Cruzeiro	3	x	2	Corinthians	Mineirão
+38ª	04/12/2016	17h00m	Vitória	1	x	2	Palmeiras	Manoel Barradas
+38ª	04/12/2016	17h00m	Chapecoense	0	x	0	Atlético/MG	Arena Condá
+38ª	04/12/2016	17h00m	Fluminense	1	x	1	Internacional	Giulitte Coutinho
+38ª	04/12/2016	17h00m	Ponte Preta	2	x	0	Coritiba	Moisés Lucarelli
+38ª	04/12/2016	17h00m	Sport	2	x	0	Figueirense	Ilha do Retiro
+38ª	04/12/2016	17h00m	Santos	1	x	0	América/MG	Vila Belmiro
+38ª	04/12/2016	17h00m	São Paulo	5	x	0	Santa Cruz	Pacaembu

@@ -1,0 +1,380 @@
+1ª	13/05/2017	16h00m	Flamengo	1	X	1	Atlético/MG	Maracanã
+1ª	13/05/2017	19h00m	Corinthians	1	X	1	Chapecoense	Arena Corinthians
+1ª	14/05/2017	11h00m	Fluminense	3	X	2	Santos	Maracanã
+1ª	14/05/2017	16h00m	Palmeiras	4	X	0	Vasco	Allianz Parque
+1ª	14/05/2017	16h00m	Cruzeiro	1	X	0	São Paulo	Mineirão
+1ª	14/05/2017	16h00m	Bahia	6	X	2	Atlético/PR	Arena Fonte Nova
+1ª	14/05/2017	16h00m	Ponte Preta	4	X	0	Sport	Moisés Lucarelli
+1ª	14/05/2017	16h00m	Avaí	0	X	0	Vitória	Ressacada
+1ª	14/05/2017	19h00m	Grêmio	2	X	0	Botafogo	Grêmio Arena
+1ª	15/05/2017	20h00m	Coritiba	4	X	1	Atlético/GO	Couto Pereira
+2ª	20/05/2017	16h00m	Santos	1	X	0	Coritiba	Vila Belmiro
+2ª	20/05/2017	19h00m	Chapecoense	1	X	0	Palmeiras	Arena Condá
+2ª	20/05/2017	19h00m	Atlético/GO	0	X	3	Flamengo	Serra Dourada
+2ª	21/05/2017	11h00m	Vasco	2	X	1	Bahia	São Januário
+2ª	21/05/2017	16h00m	Atlético/MG	1	X	2	Fluminense	Independência
+2ª	21/05/2017	16h00m	Atlético/PR	0	X	2	Grêmio	Arena da Baixada
+2ª	21/05/2017	16h00m	Vitória	0	X	1	Corinthians	Arena Fonte Nova
+2ª	21/05/2017	18h00m	Botafogo	2	X	0	Ponte Preta	Nilton Santos
+2ª	21/05/2017	19h00m	Sport	1	X	1	Cruzeiro	Ilha do Retiro
+2ª	22/05/2017	20h00m	São Paulo	2	X	0	Avaí	Morumbi
+3ª	27/05/2017	16h00m	Vasco	3	X	2	Fluminense	São Januário
+3ª	27/05/2017	19h00m	São Paulo	2	X	0	Palmeiras	Morumbi
+3ª	27/05/2017	21h00m	Vitória	0	X	1	Coritiba	Arena Fonte Nova
+3ª	28/05/2017	11h00m	Atlético/MG	2	X	2	Ponte Preta	Independência
+3ª	28/05/2017	16h00m	Atlético/PR	1	X	1	Flamengo	Arena da Baixada
+3ª	28/05/2017	16h00m	Santos	0	X	1	Cruzeiro	Vila Belmiro
+3ª	28/05/2017	16h00m	Atlético/GO	0	X	1	Corinthians	Serra Dourada
+3ª	28/05/2017	18h00m	Sport	4	X	3	Grêmio	Ilha do Retiro
+3ª	28/05/2017	19h00m	Botafogo	1	X	0	Bahia	Nilton Santos
+3ª	29/05/2017	20h00m	Chapecoense	2	X	0	Avaí	Arena Condá
+4ª	03/06/2017	16h00m	Coritiba	1	X	0	Atlético/PR	Couto Pereira
+4ª	03/06/2017	18h00m	Fluminense	2	X	1	Vitória	Maracanã
+4ª	03/06/2017	19h00m	Corinthians	2	X	0	Santos	Arena Corinthians
+4ª	04/06/2017	11h00m	Flamengo	0	X	0	Botafogo	Raulino de Oliveira
+4ª	04/06/2017	11h00m	Avaí	1	X	0	Sport	Ressacada
+4ª	04/06/2017	16h00m	Ponte Preta	1	X	0	São Paulo	Moisés Lucarelli
+4ª	04/06/2017	16h00m	Palmeiras	0	X	0	Atlético/MG	Allianz Parque
+4ª	04/06/2017	16h00m	Grêmio	2	X	0	Vasco	Grêmio Arena
+4ª	04/06/2017	19h00m	Cruzeiro	0	X	2	Chapecoense	Mineirão
+4ª	05/06/2017	20h00m	Bahia	3	X	0	Atlético/GO	Arena Fonte Nova
+5ª	06/06/2017	20h00m	Fluminense	1	X	1	Atlético/PR	Maracanã
+5ª	07/06/2017	19h30m	Atlético/MG	1	X	0	Avaí	Independência
+5ª	07/06/2017	19h30m	Coritiba	1	X	0	Palmeiras	Couto Pereira
+5ª	07/06/2017	21h00m	Santos	1	X	0	Botafogo	Pacaembu
+5ª	07/06/2017	21h45m	Vasco	2	X	5	Corinthians	São Januário
+5ª	07/06/2017	21h45m	Sport	2	X	0	Flamengo	Ilha do Retiro
+5ª	08/06/2017	19h30m	Atlético/GO	3	X	0	Ponte Preta	Olímpico Pedro Ludovico
+5ª	08/06/2017	19h30m	São Paulo	2	X	0	Vitória	Morumbi
+5ª	08/06/2017	20h00m	Chapecoense	3	X	6	Grêmio	Arena Condá
+5ª	08/06/2017	21h00m	Bahia	1	X	0	Cruzeiro	Arena Fonte Nova
+6ª	10/06/2017	16h00m	Palmeiras	3	X	1	Fluminense	Allianz Parque
+6ª	10/06/2017	19h00m	Vasco	2	X	1	Sport	São Januário
+6ª	11/06/2017	11h00m	Botafogo	2	X	2	Coritiba	Nilton Santos
+6ª	11/06/2017	16h00m	Corinthians	3	X	2	São Paulo	Arena Corinthians
+6ª	11/06/2017	16h00m	Vitória	2	X	0	Atlético/MG	Barradão
+6ª	11/06/2017	16h00m	Ponte Preta	3	X	2	Chapecoense	Moisés Lucarelli
+6ª	11/06/2017	16h00m	Avaí	1	X	1	Flamengo	Ressacada
+6ª	11/06/2017	18h30m	Cruzeiro	2	X	0	Atlético/GO	Mineirão
+6ª	11/06/2017	19h00m	Atlético/PR	0	X	2	Santos	Arena da Baixada
+6ª	12/06/2017	20h00m	Grêmio	1	X	0	Bahia	Grêmio Arena
+7ª	14/06/2017	19h30m	Atlético/MG	0	X	1	Atlético/PR	Independência
+7ª	14/06/2017	19h30m	Sport	0	X	0	São Paulo	Ilha do Retiro
+7ª	14/06/2017	19h30m	Vitória	2	X	2	Botafogo	Barradão
+7ª	14/06/2017	19h30m	Atlético/GO	3	X	1	Avaí	Olímpico Pedro Ludovico
+7ª	14/06/2017	21h00m	Flamengo	2	X	0	Ponte Preta	Luso Brasileiro
+7ª	14/06/2017	21h45m	Santos	1	X	0	Palmeiras	Vila Belmiro
+7ª	14/06/2017	21h45m	Corinthians	1	X	0	Cruzeiro	Arena Corinthians
+7ª	14/06/2017	21h45m	Chapecoense	2	X	1	Vasco	Arena Condá
+7ª	15/06/2017	16h00m	Coritiba	0	X	0	Bahia	Couto Pereira
+7ª	15/06/2017	21h00m	Fluminense	0	X	2	Grêmio	Maracanã
+8ª	17/06/2017	16h00m	Atlético/GO	0	X	1	Atlético/PR	Olímpico Pedro Ludovico
+8ª	17/06/2017	19h00m	Vasco	1	X	0	Avaí	São Januário
+8ª	17/06/2017	21h00m	Santos	0	X	0	Ponte Preta	Pacaembu
+8ª	18/06/2017	11h00m	Coritiba	0	X	0	Corinthians	Couto Pereira
+8ª	18/06/2017	16h00m	Bahia	2	X	4	Palmeiras	Arena Fonte Nova
+8ª	18/06/2017	16h00m	Chapecoense	0	X	2	Botafogo	Arena Condá
+8ª	18/06/2017	16h00m	São Paulo	1	X	2	Atlético/MG	Morumbi
+8ª	18/06/2017	16h00m	Fluminense	2	X	2	Flamengo	Maracanã
+8ª	18/06/2017	19h00m	Sport	1	X	3	Vitória	Ilha do Retiro
+8ª	19/06/2017	20h00m	Cruzeiro	3	X	3	Grêmio	Mineirão
+9ª	21/06/2017	19h30m	Vitória	0	X	2	Santos	Barradão
+9ª	21/06/2017	21h00m	Palmeiras	1	X	0	Atlético/GO	Allianz Parque
+9ª	21/06/2017	21h00m	Botafogo	3	X	1	Vasco	Nilton Santos
+9ª	21/06/2017	21h45m	Atlético/MG	2	X	2	Sport	Independência
+9ª	21/06/2017	21h45m	Atlético/PR	1	X	0	São Paulo	Arena da Baixada
+9ª	21/06/2017	21h45m	Avaí	0	X	3	Fluminense	Ressacada
+9ª	22/06/2017	19h30m	Ponte Preta	1	X	0	Cruzeiro	Moisés Lucarelli
+9ª	22/06/2017	19h30m	Corinthians	3	X	0	Bahia	Arena Corinthians
+9ª	22/06/2017	21h00m	Grêmio	2	X	0	Coritiba	Grêmio Arena
+9ª	22/06/2017	21h00m	Flamengo	5	X	1	Chapecoense	Luso Brasileiro
+10ª	24/06/2017	19h00m	Santos	0	X	1	Sport	Vila Belmiro
+10ª	25/06/2017	11h00m	Vasco	1	X	0	Atlético/GO	São Januário
+10ª	25/06/2017	16h00m	Ponte Preta	1	X	2	Palmeiras	Moisés Lucarelli
+10ª	25/06/2017	16h00m	São Paulo	1	X	1	Fluminense	Morumbi
+10ª	25/06/2017	16h00m	Cruzeiro	2	X	0	Coritiba	Mineirão
+10ª	25/06/2017	16h00m	Atlético/PR	4	X	1	Vitória	Arena da Baixada
+10ª	25/06/2017	16h00m	Grêmio	0	X	1	Corinthians	Grêmio Arena
+10ª	25/06/2017	18h30m	Bahia	0	X	1	Flamengo	Arena Fonte Nova
+10ª	25/06/2017	19h00m	Chapecoense	0	X	1	Atlético/MG	Arena Condá
+10ª	26/06/2017	20h00m	Botafogo	0	X	2	Avaí	Nilton Santos
+11ª	01/07/2017	16h00m	Palmeiras	1	X	0	Grêmio	Pacaembu
+11ª	01/07/2017	19h00m	Atlético/GO	1	X	1	Santos	Olímpico Pedro Ludovico
+11ª	02/07/2017	16h00m	Sport	1	X	0	Atlético/PR	Ilha do Retiro
+11ª	02/07/2017	16h00m	Vitória	0	X	0	Bahia	Barradão
+11ª	02/07/2017	16h00m	Corinthians	1	X	0	Botafogo	Arena Corinthians
+11ª	02/07/2017	16h00m	Atlético/MG	3	X	1	Cruzeiro	Independência
+11ª	02/07/2017	16h00m	Flamengo	2	X	0	São Paulo	Luso Brasileiro
+11ª	02/07/2017	19h00m	Coritiba	2	X	2	Vasco	Durival de Britto
+11ª	02/07/2017	19h00m	Avaí	0	X	0	Ponte Preta	Ressacada
+11ª	03/07/2017	20h00m	Fluminense	3	X	3	Chapecoense	Giulite Coutinho
+12ª	08/07/2017	16h00m	Atlético/GO	1	X	2	Vitória	Olímpico Pedro Ludovico
+12ª	08/07/2017	18h00m	Vasco	0	X	1	Flamengo	São Januário
+12ª	08/07/2017	19h00m	Corinthians	2	X	0	Ponte Preta	Arena Corinthians
+12ª	09/07/2017	11h00m	Chapecoense	1	X	1	Atlético/PR	Arena Condá
+12ª	09/07/2017	16h00m	Cruzeiro	3	X	1	Palmeiras	Mineirão
+12ª	09/07/2017	16h00m	Grêmio	0	X	2	Avaí	Grêmio Arena
+12ª	09/07/2017	16h00m	Bahia	1	X	1	Fluminense	Arena Fonte Nova
+12ª	09/07/2017	19h00m	Santos	3	X	2	São Paulo	Vila Belmiro
+12ª	09/07/2017	19h00m	Botafogo	1	X	1	Atlético/MG	Nilton Santos
+12ª	10/07/2017	20h00m	Coritiba	0	X	3	Sport	Couto Pereira
+13ª	12/07/2017	19h30m	Atlético/MG	0	X	1	Santos	Independência
+13ª	12/07/2017	19h30m	Ponte Preta	0	X	3	Bahia	Moisés Lucarelli
+13ª	12/07/2017	21h00m	Fluminense	0	X	1	Botafogo	Maracanã
+13ª	12/07/2017	21h45m	Atlético/PR	0	X	2	Cruzeiro	Arena da Baixada
+13ª	12/07/2017	21h45m	Palmeiras	0	X	2	Corinthians	Allianz Parque
+13ª	12/07/2017	21h45m	Vitória	1	X	4	Vasco	Barradão
+13ª	13/07/2017	19h30m	São Paulo	2	X	2	Atlético/GO	Morumbi
+13ª	13/07/2017	19h30m	Sport	3	X	0	Chapecoense	Arena Pernambuco
+13ª	13/07/2017	19h30m	Flamengo	0	X	1	Grêmio	Ilha do Urubu
+13ª	13/07/2017	21h00m	Avaí	1	X	4	Coritiba	Ressacada
+14ª	15/07/2017	19h00m	Corinthians	2	X	2	Atlético/PR	Arena Corinthians
+14ª	16/07/2017	11h00m	Palmeiras	4	X	2	Vitória	Allianz Parque
+14ª	16/07/2017	16h00m	Grêmio	3	X	1	Ponte Preta	Grêmio Arena
+14ª	16/07/2017	16h00m	Cruzeiro	1	X	1	Flamengo	Mineirão
+14ª	16/07/2017	16h00m	Vasco	0	X	0	Santos	Nilton Santos
+14ª	16/07/2017	16h00m	Atlético/GO	1	X	2	Atlético/MG	Olímpico Pedro Ludovico
+14ª	16/07/2017	16h00m	Chapecoense	2	X	0	São Paulo	Arena Condá
+14ª	16/07/2017	19h00m	Coritiba	1	X	2	Fluminense	Couto Pereira
+14ª	16/07/2017	19h00m	Bahia	1	X	1	Avaí	Pituaçu
+14ª	17/07/2017	20h00m	Botafogo	2	X	1	Sport	Nilton Santos
+15ª	19/07/2017	19h30m	Santos	1	X	0	Chapecoense	Vila Belmiro
+15ª	19/07/2017	19h30m	Vitória	1	X	3	Grêmio	Barradão
+15ª	19/07/2017	21h00m	Ponte Preta	4	X	0	Coritiba	Moisés Lucarelli
+15ª	19/07/2017	21h00m	Avaí	0	X	0	Corinthians	Ressacada
+15ª	19/07/2017	21h45m	São Paulo	1	X	0	Vasco	Morumbi
+15ª	19/07/2017	21h45m	Atlético/MG	0	X	2	Bahia	Independência
+15ª	19/07/2017	21h45m	Flamengo	2	X	2	Palmeiras	Ilha do Urubu
+15ª	20/07/2017	19h30m	Fluminense	1	X	1	Cruzeiro	Giulite Coutinho
+15ª	20/07/2017	20h00m	Sport	4	X	0	Atlético/GO	Ilha do Retiro
+15ª	20/07/2017	21h00m	Atlético/PR	0	X	0	Botafogo	Arena da Baixada
+16ª	22/07/2017	16h00m	Vitória	1	X	2	Chapecoense	Barradão
+16ª	22/07/2017	19h00m	Flamengo	2	X	1	Coritiba	Ilha do Urubu
+16ª	23/07/2017	11h00m	Santos	3	X	0	Bahia	Pacaembu
+16ª	23/07/2017	16h00m	Fluminense	0	X	1	Corinthians	Maracanã
+16ª	23/07/2017	16h00m	Avaí	1	X	0	Cruzeiro	Ressacada
+16ª	23/07/2017	16h00m	Sport	0	X	2	Palmeiras	Arena Pernambuco
+16ª	23/07/2017	19h00m	Atlético/GO	1	X	1	Botafogo	Olímpico Pedro Ludovico
+16ª	23/07/2017	19h00m	Atlético/MG	1	X	2	Vasco	Independência
+16ª	23/07/2017	19h00m	Atlético/PR	0	X	2	Ponte Preta	Arena da Baixada
+16ª	24/07/2017	20h00m	São Paulo	1	X	1	Grêmio	Morumbi
+17ª	29/07/2017	16h00m	Botafogo	3	X	4	São Paulo	Nilton Santos
+17ª	29/07/2017	19h00m	Palmeiras	2	X	0	Avaí	Allianz Parque
+17ª	30/07/2017	11h00m	Chapecoense	1	X	2	Atlético/GO	Arena Condá
+17ª	30/07/2017	16h00m	Bahia	1	X	3	Sport	Arena Fonte Nova
+17ª	30/07/2017	16h00m	Corinthians	1	X	1	Flamengo	Arena Corinthians
+17ª	30/07/2017	16h00m	Coritiba	0	X	2	Atlético/MG	Couto Pereira
+17ª	30/07/2017	19h00m	Grêmio	1	X	1	Santos	Grêmio Arena
+17ª	30/07/2017	19h00m	Cruzeiro	0	X	0	Vitória	Mineirão
+17ª	31/07/2017	20h00m	Vasco	0	X	1	Atlético/PR	Raulino de Oliveira
+17ª	09/08/2017	20h00m	Ponte Preta	0	X	0	Fluminense	Moisés Lucarelli
+18ª	02/08/2017	19h30m	Sport	2	X	2	Fluminense	Ilha do Retiro
+18ª	02/08/2017	19h30m	Chapecoense	1	X	1	Bahia	Arena Condá
+18ª	02/08/2017	21h00m	Vitória	3	X	1	Ponte Preta	Barradão
+18ª	02/08/2017	21h00m	Atlético/MG	0	X	2	Corinthians	Mineirão
+18ª	02/08/2017	21h45m	Santos	3	X	2	Flamengo	Pacaembu
+18ª	02/08/2017	21h45m	Botafogo	1	X	2	Palmeiras	Nilton Santos
+18ª	02/08/2017	21h45m	Atlético/GO	0	X	1	Grêmio	Olímpico Pedro Ludovico
+18ª	03/08/2017	19h30m	São Paulo	1	X	2	Coritiba	Morumbi
+18ª	03/08/2017	19h30m	Atlético/PR	5	X	0	Avaí	Arena da Baixada
+18ª	03/08/2017	20h00m	Vasco	0	X	3	Cruzeiro	Raulino de Oliveira
+19ª	05/08/2017	19h00m	Corinthians	3	X	1	Sport	Arena Corinthians
+19ª	05/08/2017	19h00m	Fluminense	3	X	1	Atlético/GO	Maracanã
+19ª	06/08/2017	11h00m	Flamengo	0	X	2	Vitória	Ilha do Urubu
+19ª	06/08/2017	16h00m	Palmeiras	0	X	1	Atlético/PR	Allianz Parque
+19ª	06/08/2017	16h00m	Cruzeiro	0	X	0	Botafogo	Mineirão
+19ª	06/08/2017	16h00m	Coritiba	2	X	0	Chapecoense	Couto Pereira
+19ª	06/08/2017	16h00m	Grêmio	2	X	0	Atlético/MG	Grêmio Arena
+19ª	06/08/2017	16h00m	Bahia	2	X	1	São Paulo	Arena Fonte Nova
+19ª	06/08/2017	19h00m	Ponte Preta	0	X	0	Vasco	Moisés Lucarelli
+19ª	06/08/2017	19h00m	Avaí	0	X	0	Santos	Ressacada
+20ª	12/08/2017	16h00m	Atlético/GO	1	X	0	Coritiba	Olímpico Pedro Ludovico
+20ª	12/08/2017	19h00m	Vitória	0	X	1	Avaí	Barradão
+20ª	13/08/2017	11h00m	São Paulo	3	X	2	Cruzeiro	Morumbi
+20ª	13/08/2017	16h00m	Atlético/MG	2	X	0	Flamengo	Independência
+20ª	13/08/2017	16h00m	Sport	0	X	0	Ponte Preta	Ilha do Retiro
+20ª	13/08/2017	16h00m	Vasco	1	X	1	Palmeiras	Raulino de Oliveira
+20ª	13/08/2017	19h00m	Atlético/PR	4	X	1	Bahia	Arena da Baixada
+20ª	13/08/2017	19h00m	Botafogo	1	X	0	Grêmio	Nilton Santos
+20ª	14/08/2017	20h00m	Santos	0	X	0	Fluminense	Pacaembu
+20ª	23/08/2017	19h30m	Chapecoense	0	X	1	Corinthians	Arena Condá
+21ª	19/08/2017	16h00m	Corinthians	0	X	1	Vitória	Arena Corinthians
+21ª	19/08/2017	19h00m	Flamengo	2	X	0	Atlético/GO	Ilha do Urubu
+21ª	20/08/2017	11h00m	Grêmio	0	X	0	Atlético/PR	Grêmio Arena
+21ª	20/08/2017	16h00m	Bahia	3	X	0	Vasco	Arena Fonte Nova
+21ª	20/08/2017	16h00m	Ponte Preta	2	X	1	Botafogo	Moisés Lucarelli
+21ª	20/08/2017	16h00m	Avaí	1	X	1	São Paulo	Ressacada
+21ª	20/08/2017	16h00m	Cruzeiro	2	X	0	Sport	Mineirão
+21ª	20/08/2017	19h00m	Coritiba	0	X	0	Santos	Couto Pereira
+21ª	20/08/2017	19h00m	Palmeiras	0	X	2	Chapecoense	Allianz Parque
+21ª	21/08/2017	20h00m	Fluminense	2	X	1	Atlético/MG	Maracanã
+22ª	26/08/2017	16h00m	Fluminense	0	X	1	Vasco	Maracanã
+22ª	26/08/2017	19h00m	Corinthians	0	X	1	Atlético/GO	Arena Corinthians
+22ª	27/08/2017	16h00m	Bahia	1	X	2	Botafogo	Arena Fonte Nova
+22ª	27/08/2017	16h00m	Ponte Preta	1	X	2	Atlético/MG	Moisés Lucarelli
+22ª	27/08/2017	16h00m	Flamengo	2	X	0	Atlético/PR	Ilha do Urubu
+22ª	27/08/2017	16h00m	Palmeiras	4	X	2	São Paulo	Allianz Parque
+22ª	27/08/2017	19h00m	Avaí	1	X	0	Chapecoense	Ressacada
+22ª	27/08/2017	19h00m	Cruzeiro	1	X	1	Santos	Mineirão
+22ª	28/08/2017	20h00m	Coritiba	0	X	1	Vitória	Couto Pereira
+22ª	02/09/2017	16h00m	Grêmio	5	X	0	Sport	Grêmio Arena
+23ª	09/09/2017	16h00m	Atlético/MG	1	X	1	Palmeiras	Independência
+23ª	09/09/2017	18h00m	Vasco	1	X	0	Grêmio	São Januário
+23ª	09/09/2017	19h00m	São Paulo	2	X	2	Ponte Preta	Morumbi
+23ª	10/09/2017	11h00m	Atlético/PR	1	X	1	Coritiba	Arena da Baixada
+23ª	10/09/2017	16h00m	Sport	0	X	1	Avaí	Ilha do Retiro
+23ª	10/09/2017	16h00m	Vitória	2	X	2	Fluminense	Barradão
+23ª	10/09/2017	16h00m	Santos	2	X	0	Corinthians	Vila Belmiro
+23ª	10/09/2017	19h00m	Chapecoense	1	X	2	Cruzeiro	Arena Condá
+23ª	10/09/2017	19h00m	Botafogo	2	X	0	Flamengo	Nilton Santos
+23ª	11/09/2017	20h00m	Atlético/GO	1	X	1	Bahia	Olímpico Pedro Ludovico
+24ª	16/09/2017	19h00m	Botafogo	2	X	0	Santos	Nilton Santos
+24ª	16/09/2017	21h00m	Ponte Preta	1	X	3	Atlético/GO	Moisés Lucarelli
+24ª	17/09/2017	11h00m	Avaí	1	X	1	Atlético/MG	Ressacada
+24ª	17/09/2017	16h00m	Atlético/PR	3	X	1	Fluminense	Arena da Baixada
+24ª	17/09/2017	16h00m	Grêmio	0	X	1	Chapecoense	Grêmio Arena
+24ª	17/09/2017	16h00m	Vitória	1	X	2	São Paulo	Barradão
+24ª	17/09/2017	16h00m	Flamengo	2	X	0	Sport	Ilha do Urubu
+24ª	17/09/2017	16h00m	Corinthians	1	X	0	Vasco	Arena Corinthians
+24ª	17/09/2017	19h00m	Cruzeiro	1	X	0	Bahia	Mineirão
+24ª	18/09/2017	20h00m	Palmeiras	1	X	0	Coritiba	Pacaembu
+25ª	23/09/2017	19h00m	Flamengo	1	X	1	Avaí	Ilha do Urubu
+25ª	23/09/2017	21h00m	Santos	1	X	0	Atlético/PR	Vila Belmiro
+25ª	24/09/2017	11h00m	São Paulo	1	X	1	Corinthians	Morumbi
+25ª	24/09/2017	16h00m	Coritiba	2	X	3	Botafogo	Couto Pereira
+25ª	24/09/2017	16h00m	Atlético/GO	1	X	2	Cruzeiro	Olímpico Pedro Ludovico
+25ª	24/09/2017	16h00m	Chapecoense	1	X	0	Ponte Preta	Arena Condá
+25ª	24/09/2017	16h00m	Fluminense	0	X	1	Palmeiras	Maracanã
+25ª	24/09/2017	19h00m	Bahia	1	X	0	Grêmio	Arena Fonte Nova
+25ª	24/09/2017	19h00m	Atlético/MG	1	X	3	Vitória	Independência
+25ª	25/09/2017	20h00m	Sport	1	X	1	Vasco	Ilha do Retiro
+26ª	30/09/2017	16h00m	Bahia	1	X	1	Coritiba	Arena Fonte Nova
+26ª	30/09/2017	16h00m	Vasco	1	X	1	Chapecoense	São Januário
+26ª	30/09/2017	19h00m	Palmeiras	0	X	1	Santos	Allianz Parque
+26ª	01/10/2017	16h00m	São Paulo	1	X	0	Sport	Morumbi
+26ª	01/10/2017	16h00m	Cruzeiro	1	X	1	Corinthians	Mineirão
+26ª	01/10/2017	16h00m	Botafogo	2	X	3	Vitória	Nilton Santos
+26ª	01/10/2017	16h00m	Avaí	0	X	2	Atlético/GO	Ressacada
+26ª	01/10/2017	16h00m	Grêmio	1	X	0	Fluminense	Grêmio Arena
+26ª	01/10/2017	19h00m	Atlético/PR	0	X	2	Atlético/MG	Arena da Baixada
+26ª	02/10/2017	20h00m	Ponte Preta	1	X	0	Flamengo	Moisés Lucarelli
+27ª	11/10/2017	19h30m	Botafogo	2	X	1	Chapecoense	Nilton Santos
+27ª	11/10/2017	19h30m	Atlético/PR	2	X	2	Atlético/GO	Arena da Baixada
+27ª	11/10/2017	21h00m	Corinthians	3	X	1	Coritiba	Arena Corinthians
+27ª	11/10/2017	21h45m	Atlético/MG	1	X	0	São Paulo	Independência
+27ª	11/10/2017	21h45m	Avaí	1	X	2	Vasco	Ressacada
+27ª	11/10/2017	21h45m	Grêmio	0	X	1	Cruzeiro	Grêmio Arena
+27ª	12/10/2017	17h00m	Vitória	1	X	2	Sport	Barradão
+27ª	12/10/2017	17h00m	Ponte Preta	1	X	1	Santos	Moisés Lucarelli
+27ª	12/10/2017	17h00m	Flamengo	1	X	1	Fluminense	Maracanã
+27ª	12/10/2017	21h00m	Palmeiras	2	X	2	Bahia	Pacaembu
+28ª	07/10/2017	16h00m	Cruzeiro	2	X	1	Ponte Preta	Mineirão
+28ª	14/10/2017	19h00m	Vasco	1	X	0	Botafogo	Maracanã
+28ª	14/10/2017	21h00m	São Paulo	2	X	1	Atlético/PR	Pacaembu
+28ª	15/10/2017	17h00m	Fluminense	1	X	0	Avaí	Maracanã
+28ª	15/10/2017	17h00m	Sport	1	X	1	Atlético/MG	Ilha do Retiro
+28ª	15/10/2017	17h00m	Atlético/GO	1	X	3	Palmeiras	Olímpico Pedro Ludovico
+28ª	15/10/2017	17h00m	Chapecoense	0	X	1	Flamengo	Arena Condá
+28ª	15/10/2017	19h00m	Bahia	2	X	0	Corinthians	Arena Fonte Nova
+28ª	15/10/2017	19h00m	Coritiba	0	X	1	Grêmio	Couto Pereira
+28ª	16/10/2017	20h00m	Santos	2	X	2	Vitória	Pacaembu
+29ª	18/10/2017	19h30m	Coritiba	1	X	0	Cruzeiro	Couto Pereira
+29ª	18/10/2017	19h30m	Atlético/GO	0	X	1	Vasco	Serra Dourada
+29ª	18/10/2017	21h00m	Atlético/MG	2	X	3	Chapecoense	Independência
+29ª	18/10/2017	21h45m	Corinthians	0	X	0	Grêmio	Arena Corinthians
+29ª	18/10/2017	21h45m	Avaí	1	X	1	Botafogo	Ressacada
+29ª	18/10/2017	21h45m	Fluminense	3	X	1	São Paulo	Maracanã
+29ª	19/10/2017	20h00m	Palmeiras	2	X	0	Ponte Preta	Pacaembu
+29ª	19/10/2017	20h00m	Vitória	2	X	3	Atlético/PR	Barradão
+29ª	19/10/2017	21h00m	Sport	1	X	1	Santos	Ilha do Retiro
+29ª	19/10/2017	21h00m	Flamengo	4	X	1	Bahia	Ilha do Urubu
+30ª	21/10/2017	17h00m	Vasco	1	X	1	Coritiba	Maracanã
+30ª	22/10/2017	17h00m	Santos	1	X	0	Atlético/GO	Vila Belmiro
+30ª	22/10/2017	17h00m	São Paulo	2	X	0	Flamengo	Pacaembu
+30ª	22/10/2017	17h00m	Cruzeiro	1	X	3	Atlético/MG	Mineirão
+30ª	22/10/2017	17h00m	Atlético/PR	2	X	1	Sport	Arena da Baixada
+30ª	22/10/2017	17h00m	Grêmio	1	X	3	Palmeiras	Grêmio Arena
+30ª	22/10/2017	17h00m	Bahia	2	X	1	Vitória	Arena Fonte Nova
+30ª	22/10/2017	19h00m	Ponte Preta	1	X	2	Avaí	Moisés Lucarelli
+30ª	22/10/2017	19h00m	Chapecoense	2	X	0	Fluminense	Arena Condá
+30ª	23/10/2017	20h00m	Botafogo	2	X	1	Corinthians	Nilton Santos
+31ª	28/10/2017	17h00m	São Paulo	2	X	1	Santos	Pacaembu
+31ª	28/10/2017	19h00m	Flamengo	0	X	0	Vasco	Maracanã
+31ª	28/10/2017	21h00m	Atlético/PR	0	X	0	Chapecoense	Arena da Baixada
+31ª	29/10/2017	17h00m	Atlético/MG	0	X	0	Botafogo	Independência
+31ª	29/10/2017	17h00m	Ponte Preta	1	X	0	Corinthians	Moisés Lucarelli
+31ª	29/10/2017	17h00m	Fluminense	1	X	1	Bahia	Maracanã
+31ª	29/10/2017	18h00m	Sport	3	X	4	Coritiba	Ilha do Retiro
+31ª	29/10/2017	18h00m	Vitória	1	X	1	Atlético/GO	Barradão
+31ª	29/10/2017	19h00m	Avaí	2	X	2	Grêmio	Ressacada
+31ª	30/10/2017	20h00m	Palmeiras	2	X	2	Cruzeiro	Allianz Parque
+32ª	04/11/2017	17h00m	Santos	3	X	1	Atlético/MG	Vila Belmiro
+32ª	04/11/2017	19h00m	Atlético/GO	0	X	1	São Paulo	Serra Dourada
+32ª	04/11/2017	19h00m	Botafogo	1	X	2	Fluminense	Nilton Santos
+32ª	04/11/2017	21h00m	Coritiba	4	X	0	Avaí	Couto Pereira
+32ª	05/11/2017	17h00m	Grêmio	3	X	1	Flamengo	Grêmio Arena
+32ª	05/11/2017	17h00m	Cruzeiro	1	X	0	Atlético/PR	Mineirão
+32ª	05/11/2017	17h00m	Corinthians	3	X	2	Palmeiras	Arena Corinthians
+32ª	05/11/2017	18h00m	Bahia	2	X	0	Ponte Preta	Arena Fonte Nova
+32ª	05/11/2017	19h00m	Chapecoense	1	X	1	Sport	Arena Condá
+32ª	05/11/2017	19h00m	Vasco	1	X	1	Vitória	Maracanã
+33ª	08/11/2017	19h30m	Ponte Preta	0	X	1	Grêmio	Moisés Lucarelli
+33ª	08/11/2017	19h30m	Avaí	1	X	2	Bahia	Ressacada
+33ª	08/11/2017	21h00m	Atlético/PR	0	X	1	Corinthians	Arena da Baixada
+33ª	08/11/2017	21h00m	Sport	1	X	2	Botafogo	Ilha do Retiro
+33ª	08/11/2017	21h45m	Vitória	3	X	1	Palmeiras	Barradão
+33ª	08/11/2017	21h45m	Flamengo	2	X	0	Cruzeiro	Ilha do Urubu
+33ª	08/11/2017	21h45m	Santos	1	X	2	Vasco	Vila Belmiro
+33ª	09/11/2017	20h00m	São Paulo	2	X	2	Chapecoense	Pacaembu
+33ª	09/11/2017	20h00m	Atlético/MG	3	X	2	Atlético/GO	Independência
+33ª	09/11/2017	21h00m	Fluminense	2	X	2	Coritiba	Maracanã
+34ª	11/11/2017	17h00m	Botafogo	0	X	1	Atlético/PR	Nilton Santos
+34ª	11/11/2017	19h00m	Corinthians	1	X	0	Avaí	Arena Corinthians
+34ª	12/11/2017	17h00m	Grêmio	1	X	1	Vitória	Alfredo Jaconi
+34ª	12/11/2017	17h00m	Atlético/GO	2	X	0	Sport	Olímpico Pedro Ludovico
+34ª	12/11/2017	17h00m	Vasco	1	X	1	São Paulo	São Januário
+34ª	12/11/2017	17h00m	Palmeiras	2	X	0	Flamengo	Allianz Parque
+34ª	12/11/2017	18h00m	Bahia	2	X	2	Atlético/MG	Arena Fonte Nova
+34ª	12/11/2017	19h00m	Cruzeiro	3	X	1	Fluminense	Mineirão
+34ª	12/11/2017	19h00m	Coritiba	1	X	1	Ponte Preta	Couto Pereira
+34ª	13/11/2017	20h00m	Chapecoense	2	X	0	Santos	Arena Condá
+35ª	15/11/2017	17h00m	Ponte Preta	2	X	1	Atlético/PR	Moisés Lucarelli
+35ª	15/11/2017	19h30m	Cruzeiro	2	X	2	Avaí	Mineirão
+35ª	15/11/2017	19h30m	Grêmio	1	X	0	São Paulo	Grêmio Arena
+35ª	15/11/2017	21h45m	Corinthians	3	X	1	Fluminense	Arena Corinthians
+35ª	15/11/2017	21h45m	Vasco	1	X	1	Atlético/MG	São Januário
+35ª	16/11/2017	20h00m	Palmeiras	5	X	1	Sport	Allianz Parque
+35ª	16/11/2017	20h00m	Botafogo	1	X	2	Atlético/GO	Nilton Santos
+35ª	16/11/2017	20h00m	Chapecoense	2	X	1	Vitória	Arena Condá
+35ª	16/11/2017	21h00m	Bahia	3	X	1	Santos	Arena Fonte Nova
+35ª	16/11/2017	21h00m	Coritiba	1	X	0	Flamengo	Couto Pereira
+36ª	19/11/2017	17h00m	Flamengo	3	X	0	Corinthians	Ilha do Urubu
+36ª	19/11/2017	17h00m	Sport	1	X	0	Bahia	Ilha do Retiro
+36ª	19/11/2017	17h00m	Vitória	1	X	1	Cruzeiro	Barradão
+36ª	19/11/2017	17h00m	Atlético/GO	1	X	1	Chapecoense	Olímpico Pedro Ludovico
+36ª	19/11/2017	17h00m	São Paulo	0	X	0	Botafogo	Pacaembu
+36ª	19/11/2017	19h00m	Atlético/MG	3	X	0	Coritiba	Independência
+36ª	19/11/2017	19h00m	Atlético/PR	3	X	1	Vasco	Arena da Baixada
+36ª	19/11/2017	19h00m	Santos	1	X	0	Grêmio	Vila Belmiro
+36ª	20/11/2017	17h00m	Fluminense	2	X	0	Ponte Preta	Maracanã
+36ª	20/11/2017	20h00m	Avaí	2	X	1	Palmeiras	Ressacada
+37ª	25/11/2017	17h00m	Fluminense	1	X	2	Sport	Maracanã
+37ª	26/11/2017	17h00m	Ponte Preta	2	X	3	Vitória	Moisés Lucarelli
+37ª	26/11/2017	17h00m	Avaí	1	X	0	Atlético/PR	Ressacada
+37ª	26/11/2017	17h00m	Corinthians	2	X	2	Atlético/MG	Arena Corinthians
+37ª	26/11/2017	17h00m	Cruzeiro	0	X	1	Vasco	Mineirão
+37ª	26/11/2017	17h00m	Coritiba	1	X	2	São Paulo	Couto Pereira
+37ª	26/11/2017	17h00m	Grêmio	1	X	1	Atlético/GO	Grêmio Arena
+37ª	26/11/2017	19h00m	Bahia	0	X	1	Chapecoense	Arena Fonte Nova
+37ª	26/11/2017	19h00m	Flamengo	1	X	2	Santos	Ilha do Urubu
+37ª	27/11/2017	20h00m	Palmeiras	2	X	0	Botafogo	Allianz Parque
+38ª	03/12/2017	17h00m	Atlético/PR	3	X	0	Palmeiras	Arena da Baixada
+38ª	03/12/2017	17h00m	Botafogo	2	X	2	Cruzeiro	Nilton Santos
+38ª	03/12/2017	17h00m	Vasco	2	X	1	Ponte Preta	São Januário
+38ª	03/12/2017	17h00m	Santos	1	X	1	Avaí	Vila Belmiro
+38ª	03/12/2017	17h00m	São Paulo	1	X	1	Bahia	Morumbi
+38ª	03/12/2017	17h00m	Atlético/MG	4	X	3	Grêmio	Independência
+38ª	03/12/2017	17h00m	Sport	1	X	0	Corinthians	Ilha do Retiro
+38ª	03/12/2017	17h00m	Vitória	1	X	2	Flamengo	Barradão
+38ª	03/12/2017	17h00m	Atlético/GO	1	X	1	Fluminense	Olímpico Pedro Ludovico
+38ª	03/12/2017	17h00m	Chapecoense	2	X	1	Coritiba	Arena Condá

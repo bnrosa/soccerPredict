@@ -1,0 +1,380 @@
+1ª	19/04/2014	18h30m	Fluminense	3	x	0	Figueirense	Maracanã
+1ª	19/04/2014	18h30m	Internacional	1	x	0	Vitória	Beira-Rio
+1ª	19/04/2014	21h00m	Chapecoense	0	x	0	Coritiba	Arena Condá 
+1ª	20/04/2014	16h00m	Atlético/MG	0	x	0	Corinthians	João Havelange
+1ª	20/04/2014	16h00m	Atlético/PR	1	x	0	Grêmio	Orlando Scarpelli 
+1ª	20/04/2014	16h00m	Bahia	1	x	2	Cruzeiro	Fonte Nova
+1ª	20/04/2014	16h00m	São Paulo	3	x	0	Botafogo	Morumbi
+1ª	20/04/2014	18h30m	Criciúma	1	x	2	Palmeiras	Heriberto Hülse
+1ª	20/04/2014	18h30m	Flamengo	0	x	0	Goiás	Mané Garrincha
+1ª	20/04/2014	18h30m	Santos	1	x	1	Sport	Vila Belmiro
+2ª	26/04/2014	18h30m	Coritiba	0	x	0	Santos	Couto Pereira
+2ª	26/04/2014	21h00m	Palmeiras	0	x	1	Fluminense	Pacaembu
+2ª	27/04/2014	16h00m	Botafogo	2	x	2	Internacional	Maracanã
+2ª	27/04/2014	16h00m	Corinthians	2	x	0	Flamengo	Pacaembu
+2ª	27/04/2014	16h00m	Cruzeiro	1	x	1	São Paulo	João Havelange
+2ª	27/04/2014	16h00m	Vitória	2	x	2	Atlético/PR	Pituaçu
+2ª	27/04/2014	18h30m	Figueirense	0	x	2	Bahia	Arena Barueri
+2ª	27/04/2014	18h30m	Goiás	1	x	0	Criciúma	Juscelino Kubitschek
+2ª	27/04/2014	18h30m	Grêmio	2	x	1	Atlético/MG	Arena do Grêmio
+2ª	27/04/2014	18h30m	Sport	2	x	1	Chapecoense	Ilha do Retiro
+3ª	03/05/2014	18h30m	Atlético/PR	2	x	3	Cruzeiro	Mané Garrincha
+3ª	03/05/2014	18h30m	Santos	0	x	0	Grêmio	Vila Belmiro
+3ª	03/05/2014	18h30m	São Paulo	2	x	2	Coritiba	Pacaembu
+3ª	03/05/2014	21h00m	Fluminense	1	x	2	Vitória	Maracanã
+3ª	04/05/2014	16h00m	Bahia	1	x	0	Botafogo	Fonte Nova
+3ª	04/05/2014	16h00m	Criciúma	1	x	0	Figueirense	Heriberto Hülse
+3ª	04/05/2014	16h00m	Flamengo	4	x	2	Palmeiras	Maracanã
+3ª	04/05/2014	16h00m	Internacional	2	x	1	Sport	Beira-Rio
+3ª	04/05/2014	18h30m	Atlético/MG	0	x	1	Goiás	Independência
+3ª	04/05/2014	18h30m	Chapecoense	0	x	1	Corinthians	Arena Condá 
+4ª	10/05/2014	18h30m	Internacional	2	x	1	Atlético/PR	Beira-Rio
+4ª	10/05/2014	18h30m	Palmeiras	2	x	0	Goiás	Pacaembu
+4ª	10/05/2014	21h00m	Botafogo	6	x	0	Criciúma	Maracanã
+4ª	11/05/2014	16h00m	Atlético/MG	2	x	1	Cruzeiro	Independência
+4ª	11/05/2014	16h00m	Chapecoense	1	x	2	Grêmio	Arena Condá 
+4ª	11/05/2014	16h00m	Fluminense	2	x	0	Flamengo	Maracanã
+4ª	11/05/2014	16h00m	São Paulo	1	x	1	Corinthians	Arena Barueri
+4ª	11/05/2014	18h30m	Bahia	1	x	1	Vitória	Fonte Nova
+4ª	11/05/2014	18h30m	Coritiba	0	x	1	Sport	Couto Pereira
+4ª	11/05/2014	18h30m	Figueirense	0	x	2	Santos	Do Café
+5ª	14/05/2014	22h00m	Goiás	2	x	0	Botafogo	Mário Helênio
+5ª	17/05/2014	18h30m	Cruzeiro	3	x	2	Coritiba	Mineirão
+5ª	18/05/2014	16h00m	Corinthians	0	x	1	Figueirense	Arena Corinthians
+5ª	04/06/2014	21h00m	Sport	1	x	0	Bahia	Ilha do Retiro
+5ª	18/05/2014	16h00m	Atlético/PR	1	x	1	Chapecoense	Willie Davids
+5ª	18/05/2014	16h00m	Grêmio	1	x	0	Fluminense	Arena do Grêmio
+5ª	18/05/2014	16h00m	Flamengo	0	x	2	São Paulo	Maracanã
+5ª	18/05/2014	18h30m	Santos	1	x	2	Atlético/MG	Arena Pantanal
+5ª	18/05/2014	18h30m	Vitória	0	x	1	Palmeiras	Pituaçu
+5ª	18/05/2014	18h30m	Criciúma	0	x	0	Internacional	Heriberto Hülse
+6ª	21/05/2014	19h30m	Coritiba	1	x	1	Internacional	Couto Pereira
+6ª	21/05/2014	19h30m	Flamengo	1	x	1	Bahia	Cláudio Moacyr
+6ª	21/05/2014	21h00m	Criciúma	1	x	0	Chapecoense	Heriberto Hülse
+6ª	21/05/2014	21h00m	Cruzeiro	2	x	0	Sport	Mineirão
+6ª	21/05/2014	22h00m	Corinthians	1	x	1	Atlético/PR	Canindé
+6ª	21/05/2014	22h00m	Fluminense	5	x	2	São Paulo	Maracanã
+6ª	21/05/2014	22h00m	Grêmio	2	x	1	Botafogo	Alfredo Jaconi
+6ª	22/05/2014	19h30m	Goiás	2	x	2	Santos	Serra Dourada
+6ª	22/05/2014	19h30m	Palmeiras	1	x	0	Figueirense	Fonte Luminosa
+6ª	22/05/2014	21h00m	Vitória	2	x	3	Atlético/MG	Jóia da Princesa
+7ª	24/05/2014	18h30m	Bahia	0	x	1	Fluminense	Arena Barueri
+7ª	24/05/2014	21h00m	São Paulo	1	x	0	Grêmio	Morumbi
+7ª	25/05/2014	16h00m	Figueirense	0	x	1	Goiás	Orlando Scarpelli 
+7ª	25/05/2014	16h00m	Santos	0	x	0	Flamengo	Morumbi
+7ª	25/05/2014	16h00m	Sport	1	x	4	Corinthians	Ilha do Retiro
+7ª	25/05/2014	18h30m	Atlético/MG	0	x	0	Criciúma	João Lamego
+7ª	25/05/2014	18h30m	Atlético/PR	2	x	0	Coritiba	Willie Davids
+7ª	25/05/2014	18h30m	Botafogo	1	x	1	Vitória	Cláudio Moacyr
+7ª	25/05/2014	18h30m	Chapecoense	2	x	0	Palmeiras	Arena Condá 
+7ª	25/05/2014	18h30m	Internacional	1	x	3	Cruzeiro	Centenário
+8ª	28/05/2014	19h30m	Criciúma	1	x	0	Coritiba	Heriberto Hülse
+8ª	28/05/2014	19h30m	Palmeiras	0	x	2	Botafogo	Paulo Constantino
+8ª	28/05/2014	19h30m	Sport	0	x	0	Grêmio	Ilha do Retiro
+8ª	28/05/2014	21h00m	Goiás	0	x	0	Vitória	Serra Dourada
+8ª	28/05/2014	21h00m	Internacional	2	x	0	Chapecoense	Centenário
+8ª	28/05/2014	22h00m	Atlético/MG	2	x	0	Fluminense	João Lamego
+8ª	28/05/2014	22h00m	Atlético/PR	2	x	2	São Paulo	João Havelange
+8ª	28/05/2014	22h00m	Corinthians	1	x	0	Cruzeiro	Canindé
+8ª	29/05/2014	19h30m	Flamengo	1	x	1	Figueirense	Morumbi
+8ª	29/05/2014	21h00m	Bahia	0	x	2	Santos	Jóia da Princesa
+9ª	31/05/2014	18h30m	Coritiba	3	x	0	Goiás	Durival de Britto
+9ª	31/05/2014	18h30m	São Paulo	2	x	1	Atlético/MG	Morumbi
+9ª	31/05/2014	21h00m	Vitória	0	x	1	Sport	Barradão
+9ª	01/06/2014	16h00m	Chapecoense	2	x	1	Bahia	Arena Condá 
+9ª	01/06/2014	16h00m	Cruzeiro	3	x	0	Flamengo	João Havelange
+9ª	01/06/2014	16h00m	Grêmio	0	x	0	Palmeiras	Alfredo Jaconi
+9ª	01/06/2014	16h00m	Santos	2	x	0	Criciúma	1º de Maio
+9ª	01/06/2014	18h30m	Figueirense	1	x	3	Atlético/PR	Orlando Scarpelli 
+9ª	01/06/2014	18h30m	Fluminense	1	x	1	Internacional	Cláudio Moacyr
+9ª	11/10/2014	18h30m	Botafogo	1	x	0	Corinthians	Arena da Amazônia
+10ª	16/07/2014	19h30m	Coritiba	0	x	2	Figueirense	Couto Pereira
+10ª	16/07/2014	19h30m	Grêmio	0	x	0	Goiás	Arena do Grêmio
+10ª	16/07/2014	19h30m	Sport	1	x	0	Botafogo	Ilha do Retiro
+10ª	16/07/2014	22h00m	Bahia	0	x	2	São Paulo	Fonte Nova
+10ª	16/07/2014	22h00m	Criciúma	3	x	2	Fluminense	Heriberto Hülse
+10ª	16/07/2014	22h00m	Flamengo	1	x	2	Atlético/PR	Cláudio Moacyr
+10ª	17/07/2014	19h30m	Corinthians	2	x	1	Internacional	Arena Corinthians
+10ª	17/07/2014	19h30m	Santos	2	x	0	Palmeiras	Vila Belmiro
+10ª	17/07/2014	21h00m	Cruzeiro	3	x	1	Vitória	Mineirão
+10ª	06/08/2014	21h00m	Chapecoense	1	x	1	Atlético/MG	Arena Condá 
+11ª	19/07/2014	18h30m	Atlético/MG	1	x	1	Bahia	Independência
+11ª	19/07/2014	18h30m	Figueirense	0	x	1	Grêmio	Orlando Scarpelli 
+11ª	19/07/2014	18h30m	São Paulo	0	x	1	Chapecoense	Morumbi
+11ª	19/07/2014	21h00m	Botafogo	1	x	0	Coritiba	Raulino de Oliveira
+11ª	20/07/2014	16h00m	Internacional	4	x	0	Flamengo	Beira-Rio
+11ª	20/07/2014	16h00m	Palmeiras	1	x	2	Cruzeiro	Pacaembu
+11ª	20/07/2014	16h00m	Vitória	0	x	0	Corinthians	Barradão
+11ª	20/07/2014	18h30m	Atlético/PR	2	x	0	Criciúma	Arena da Baixada
+11ª	20/07/2014	18h30m	Fluminense	1	x	0	Santos	Raulino de Oliveira
+11ª	20/07/2014	18h30m	Goiás	0	x	0	Sport	Serra Dourada
+12ª	26/07/2014	18h30m	Criciúma	1	x	3	Vitória	Heriberto Hülse
+12ª	26/07/2014	18h30m	Cruzeiro	5	x	0	Figueirense	Mineirão
+12ª	26/07/2014	18h30m	Santos	3	x	0	Chapecoense	Vila Belmiro
+12ª	26/07/2014	21h00m	Bahia	0	x	1	Internacional	Fonte Nova
+12ª	27/07/2014	16h00m	Atlético/PR	0	x	3	Fluminense	Arena da Baixada
+12ª	27/07/2014	16h00m	Corinthians	2	x	0	Palmeiras	Arena Corinthians
+12ª	27/07/2014	16h00m	Goiás	2	x	1	São Paulo	Serra Dourada
+12ª	27/07/2014	16h00m	Sport	2	x	1	Atlético/MG	Ilha do Retiro
+12ª	27/07/2014	18h30m	Flamengo	1	x	0	Botafogo	Maracanã
+12ª	27/07/2014	18h30m	Grêmio	2	x	3	Coritiba	Arena do Grêmio
+13ª	02/08/2014	18h30m	Botafogo	1	x	1	Cruzeiro	Maracanã
+13ª	02/08/2014	18h30m	São Paulo	1	x	1	Criciúma	Morumbi
+13ª	02/08/2014	21h00m	Vitória	2	x	1	Grêmio	Barradão
+13ª	03/08/2014	16h00m	Chapecoense	1	x	0	Flamengo	Arena Condá 
+13ª	03/08/2014	16h00m	Coritiba	0	x	0	Corinthians	Couto Pereira
+13ª	03/08/2014	16h00m	Figueirense	3	x	0	Sport	Orlando Scarpelli 
+13ª	03/08/2014	16h00m	Palmeiras	1	x	1	Bahia	Pacaembu
+13ª	03/08/2014	18h30m	Atlético/MG	3	x	1	Atlético/PR	Independência
+13ª	03/08/2014	18h30m	Fluminense	2	x	0	Goiás	Maracanã
+13ª	03/08/2014	18h30m	Internacional	1	x	0	Santos	Beira-Rio
+14ª	09/08/2014	18h30m	Bahia	1	x	0	Goiás	Fonte Nova
+14ª	09/08/2014	18h30m	Criciúma	0	x	0	Cruzeiro	Heriberto Hülse
+14ª	09/08/2014	21h00m	Fluminense	1	x	1	Coritiba	Maracanã
+14ª	10/08/2014	16h00m	Atlético/PR	2	x	0	Botafogo	Arena da Baixada
+14ª	10/08/2014	16h00m	Flamengo	1	x	0	Sport	Maracanã
+14ª	10/08/2014	16h00m	Internacional	2	x	0	Grêmio	Beira-Rio
+14ª	10/08/2014	16h00m	Santos	0	x	1	Corinthians	Vila Belmiro
+14ª	10/08/2014	18h30m	Atlético/MG	2	x	1	Palmeiras	Independência
+14ª	10/08/2014	18h30m	Chapecoense	0	x	1	Figueirense	Arena Condá 
+14ª	10/08/2014	18h30m	São Paulo	3	x	1	Vitória	Morumbi
+15ª	16/08/2014	18h30m	Goiás	0	x	1	Internacional	Serra Dourada
+15ª	16/08/2014	21h00m	Corinthians	1	x	1	Bahia	Arena Corinthians
+15ª	17/08/2014	16h00m	Coritiba	0	x	1	Flamengo	Couto Pereira
+15ª	17/08/2014	16h00m	Cruzeiro	3	x	0	Santos	Mineirão
+15ª	17/08/2014	16h00m	Grêmio	2	x	0	Criciúma	Arena do Grêmio
+15ª	17/08/2014	16h00m	Palmeiras	1	x	2	São Paulo	Pacaembu
+15ª	17/08/2014	16h00m	Vitória	0	x	0	Chapecoense	Barradão
+15ª	17/08/2014	18h30m	Botafogo	2	x	0	Fluminense	Mané Garrincha
+15ª	17/08/2014	18h30m	Figueirense	2	x	2	Atlético/MG	Orlando Scarpelli 
+15ª	17/08/2014	18h30m	Sport	1	x	1	Atlético/PR	Ilha do Retiro
+16ª	20/08/2014	19h30m	Figueirense	1	x	0	Botafogo	Orlando Scarpelli 
+16ª	20/08/2014	19h30m	Santos	2	x	0	Atlético/PR	Vila Belmiro
+16ª	20/08/2014	19h30m	Sport	2	x	1	Palmeiras	Arena Pernambuco
+16ª	20/08/2014	21h00m	Bahia	0	x	0	Criciúma	Fonte Nova
+16ª	20/08/2014	21h00m	Coritiba	2	x	0	Vitória	Couto Pereira
+16ª	20/08/2014	22h00m	Chapecoense	1	x	0	Fluminense	Arena Condá 
+16ª	20/08/2014	22h00m	Flamengo	2	x	1	Atlético/MG	Maracanã
+16ª	20/08/2014	22h00m	Internacional	0	x	1	São Paulo	Beira-Rio
+16ª	21/08/2014	19h30m	Corinthians	5	x	2	Goiás	Arena Corinthians
+16ª	21/08/2014	20h30m	Cruzeiro	1	x	0	Grêmio	Mineirão
+17ª	23/08/2014	18h30m	Atlético/MG	1	x	0	Internacional	Independência
+17ª	23/08/2014	18h30m	Botafogo	1	x	0	Chapecoense	Maracanã
+17ª	23/08/2014	21h00m	Palmeiras	1	x	0	Coritiba	Pacaembu
+17ª	24/08/2014	16h00m	Criciúma	0	x	2	Flamengo	Heriberto Hülse
+17ª	24/08/2014	16h00m	Fluminense	4	x	0	Sport	Maracanã
+17ª	24/08/2014	16h00m	Grêmio	2	x	1	Corinthians	Arena do Grêmio
+17ª	24/08/2014	16h00m	São Paulo	2	x	1	Santos	Morumbi
+17ª	24/08/2014	16h00m	Vitória	0	x	1	Figueirense	Barradão
+17ª	24/08/2014	18h30m	Atlético/PR	0	x	0	Bahia	Arena da Baixada
+17ª	24/08/2014	18h30m	Goiás	0	x	1	Cruzeiro	Serra Dourada
+18ª	30/08/2014	18h30m	Cruzeiro	4	x	2	Chapecoense	Mineirão
+18ª	30/08/2014	18h30m	Palmeiras	0	x	1	Internacional	Pacaembu
+18ª	31/08/2014	16h00m	Botafogo	1	x	0	Santos	Maracanã
+18ª	31/08/2014	16h00m	Corinthians	1	x	1	Fluminense	Arena Corinthians
+18ª	31/08/2014	16h00m	Coritiba	0	x	0	Atlético/MG	Couto Pereira
+18ª	31/08/2014	16h00m	Figueirense	1	x	1	São Paulo	Orlando Scarpelli 
+18ª	31/08/2014	16h00m	Sport	2	x	0	Criciúma	Ilha do Retiro
+18ª	31/08/2014	18h30m	Goiás	3	x	1	Atlético/PR	Serra Dourada
+18ª	31/08/2014	18h30m	Grêmio	1	x	0	Bahia	Arena do Grêmio
+18ª	31/08/2014	18h30m	Vitória	1	x	2	Flamengo	Barradão
+19ª	06/09/2014	18h30m	Flamengo	0	x	1	Grêmio	Maracanã
+19ª	06/09/2014	18h30m	Santos	3	x	1	Vitória	Pacaembu
+19ª	06/09/2014	21h00m	Chapecoense	0	x	0	Goiás	Arena Condá 
+19ª	07/09/2014	16h00m	Atlético/MG	1	x	0	Botafogo	Independência
+19ª	07/09/2014	16h00m	Criciúma	0	x	0	Corinthians	Heriberto Hülse
+19ª	07/09/2014	16h00m	Fluminense	3	x	3	Cruzeiro	Maracanã
+19ª	07/09/2014	16h00m	São Paulo	2	x	0	Sport	Morumbi
+19ª	07/09/2014	18h30m	Atlético/PR	1	x	1	Palmeiras	Arena da Baixada
+19ª	07/09/2014	18h30m	Bahia	0	x	0	Coritiba	Fonte Nova
+19ª	07/09/2014	18h30m	Internacional	2	x	3	Figueirense	Beira-Rio
+20ª	10/09/2014	19h30m	Figueirense	1	x	1	Fluminense	Orlando Scarpelli 
+20ª	10/09/2014	19h30m	Grêmio	1	x	0	Atlético/PR	Arena do Grêmio
+20ª	10/09/2014	19h30m	Palmeiras	1	x	0	Criciúma	Pacaembu
+20ª	10/09/2014	21h00m	Coritiba	3	x	0	Chapecoense	Couto Pereira
+20ª	10/09/2014	21h00m	Sport	3	x	1	Santos	Ilha do Retiro
+20ª	10/09/2014	22h00m	Botafogo	2	x	4	São Paulo	Maracanã
+20ª	10/09/2014	22h00m	Goiás	1	x	0	Flamengo	Serra Dourada
+20ª	10/09/2014	22h00m	Vitória	2	x	0	Internacional	Barradão
+20ª	11/09/2014	19h30m	Corinthians	1	x	0	Atlético/MG	Arena Corinthians
+20ª	11/09/2014	20h30m	Cruzeiro	2	x	1	Bahia	Mineirão
+21ª	13/09/2014	18h30m	Chapecoense	3	x	1	Sport	Arena Condá 
+21ª	13/09/2014	18h30m	Fluminense	3	x	0	Palmeiras	Maracanã
+21ª	13/09/2014	21h00m	Santos	2	x	1	Coritiba	Vila Belmiro
+21ª	14/09/2014	16h00m	Bahia	3	x	0	Figueirense	Jóia da Princesa
+21ª	14/09/2014	16h00m	Flamengo	1	x	0	Corinthians	Maracanã
+21ª	14/09/2014	16h00m	Internacional	2	x	0	Botafogo	Beira-Rio
+21ª	14/09/2014	16h00m	São Paulo	2	x	0	Cruzeiro	Morumbi
+21ª	14/09/2014	18h30m	Atlético/MG	0	x	0	Grêmio	Independência
+21ª	14/09/2014	18h30m	Atlético/PR	2	x	0	Vitória	Arena da Baixada
+21ª	14/09/2014	18h30m	Criciúma	1	x	0	Goiás	Heriberto Hülse
+22ª	17/09/2014	19h30m	Cruzeiro	2	x	0	Atlético/PR	Mineirão
+22ª	17/09/2014	19h30m	Vitória	3	x	1	Fluminense	Barradão
+22ª	17/09/2014	21h00m	Figueirense	1	x	1	Criciúma	Orlando Scarpelli 
+22ª	17/09/2014	21h00m	Sport	0	x	0	Internacional	Ilha do Retiro
+22ª	17/09/2014	22h00m	Botafogo	2	x	3	Bahia	Maracanã
+22ª	17/09/2014	22h00m	Coritiba	3	x	1	São Paulo	Couto Pereira
+22ª	17/09/2014	22h00m	Palmeiras	2	x	2	Flamengo	Pacaembu
+22ª	18/09/2014	19h30m	Corinthians	1	x	1	Chapecoense	Arena Corinthians
+22ª	18/09/2014	19h30m	Goiás	2	x	3	Atlético/MG	Serra Dourada
+22ª	18/09/2014	20h30m	Grêmio	0	x	0	Santos	Arena do Grêmio
+23ª	20/09/2014	18h30m	Atlético/PR	0	x	1	Internacional	Arena da Baixada
+23ª	20/09/2014	21h00m	Criciúma	1	x	1	Botafogo	Heriberto Hülse
+23ª	21/09/2014	16h00m	Corinthians	3	x	2	São Paulo	Arena Corinthians
+23ª	21/09/2014	16h00m	Cruzeiro	2	x	3	Atlético/MG	Mineirão
+23ª	21/09/2014	16h00m	Flamengo	1	x	1	Fluminense	Maracanã
+23ª	21/09/2014	16h00m	Sport	1	x	0	Coritiba	Ilha do Retiro
+23ª	21/09/2014	16h00m	Vitória	2	x	1	Bahia	Fonte Nova
+23ª	21/09/2014	18h30m	Goiás	6	x	0	Palmeiras	Serra Dourada
+23ª	21/09/2014	18h30m	Grêmio	1	x	0	Chapecoense	Arena do Grêmio
+23ª	21/09/2014	18h30m	Santos	3	x	1	Figueirense	Vila Belmiro
+24ª	24/09/2014	19h30m	Coritiba	1	x	2	Cruzeiro	Couto Pereira
+24ª	24/09/2014	19h30m	Internacional	3	x	0	Criciúma	Beira-Rio
+24ª	24/09/2014	21h00m	Bahia	1	x	0	Sport	Fonte Nova
+24ª	24/09/2014	21h00m	Chapecoense	3	x	0	Atlético/PR	Arena Condá 
+24ª	24/09/2014	22h00m	Figueirense	1	x	0	Corinthians	Orlando Scarpelli 
+24ª	24/09/2014	22h00m	Fluminense	0	x	0	Grêmio	Maracanã
+24ª	24/09/2014	22h00m	São Paulo	2	x	2	Flamengo	Morumbi
+24ª	25/09/2014	19h30m	Botafogo	1	x	0	Goiás	Maracanã
+24ª	25/09/2014	19h30m	Palmeiras	2	x	0	Vitória	Pacaembu
+24ª	25/09/2014	20h30m	Atlético/MG	3	x	2	Santos	Independência
+25ª	27/09/2014	18h30m	Chapecoense	1	x	1	Criciúma	Arena Condá 
+25ª	27/09/2014	18h30m	Sport	0	x	0	Cruzeiro	Arena Pernambuco
+25ª	27/09/2014	21h00m	São Paulo	1	x	3	Fluminense	Morumbi
+25ª	28/09/2014	16h00m	Atlético/MG	2	x	0	Vitória	Independência
+25ª	28/09/2014	16h00m	Atlético/PR	1	x	0	Corinthians	Arena da Baixada
+25ª	28/09/2014	16h00m	Bahia	2	x	1	Flamengo	Fonte Nova
+25ª	28/09/2014	16h00m	Botafogo	0	x	2	Grêmio	Maracanã
+25ª	28/09/2014	18h30m	Figueirense	3	x	1	Palmeiras	Orlando Scarpelli 
+25ª	28/09/2014	18h30m	Internacional	4	x	2	Coritiba	Beira-Rio
+25ª	28/09/2014	18h30m	Santos	2	x	0	Goiás	Pacaembu
+26ª	02/10/2014	19h30m	Palmeiras	4	x	2	Chapecoense	Pacaembu
+26ª	04/10/2014	16h20m	Coritiba	1	x	0	Atlético/PR	Couto Pereira
+26ª	04/10/2014	16h20m	Flamengo	0	x	1	Santos	Maracanã
+26ª	04/10/2014	16h20m	Fluminense	1	x	1	Bahia	Mané Garrincha
+26ª	04/10/2014	16h20m	Grêmio	0	x	1	São Paulo	Arena do Grêmio
+26ª	04/10/2014	16h20m	Vitória	2	x	1	Botafogo	Barradão
+26ª	04/10/2014	18h30m	Corinthians	3	x	0	Sport	Arena Corinthians
+26ª	04/10/2014	18h30m	Criciúma	3	x	1	Atlético/MG	Heriberto Hülse
+26ª	04/10/2014	18h30m	Cruzeiro	2	x	1	Internacional	Mineirão
+26ª	04/10/2014	21h00m	Goiás	1	x	0	Figueirense	Serra Dourada
+27ª	08/10/2014	19h30m	Botafogo	0	x	1	Palmeiras	Maracanã
+27ª	08/10/2014	19h30m	Coritiba	1	x	0	Criciúma	Couto Pereira
+27ª	08/10/2014	19h30m	São Paulo	1	x	0	Atlético/PR	Morumbi
+27ª	08/10/2014	21h00m	Vitória	2	x	2	Goiás	Barradão
+27ª	08/10/2014	22h00m	Cruzeiro	0	x	1	Corinthians	Mineirão
+27ª	08/10/2014	22h00m	Figueirense	1	x	2	Flamengo	Orlando Scarpelli 
+27ª	08/10/2014	22h00m	Grêmio	2	x	0	Sport	Arena do Grêmio
+27ª	09/10/2014	19h30m	Fluminense	0	x	0	Atlético/MG	Maracanã
+27ª	09/10/2014	19h30m	Santos	1	x	0	Bahia	Vila Belmiro
+27ª	09/10/2014	20h30m	Chapecoense	5	x	0	Internacional	Arena Condá 
+28ª	01/06/2014	16h00m	Corinthians	1	x	1	Botafogo	Arena Corinthians
+28ª	11/10/2014	18h30m	Goiás	3	x	0	Coritiba	Serra Dourada
+28ª	11/10/2014	21h00m	Palmeiras	2	x	1	Grêmio	Pacaembu
+28ª	12/10/2014	16h00m	Atlético/MG	1	x	0	São Paulo	Independência
+28ª	12/10/2014	16h00m	Bahia	0	x	1	Chapecoense	Fonte Nova
+28ª	12/10/2014	16h00m	Flamengo	3	x	0	Cruzeiro	Maracanã
+28ª	12/10/2014	16h00m	Internacional	2	x	1	Fluminense	Beira-Rio
+28ª	12/10/2014	18h30m	Atlético/PR	3	x	0	Figueirense	Arena da Baixada
+28ª	12/10/2014	18h30m	Criciúma	3	x	0	Santos	Heriberto Hülse
+28ª	12/10/2014	18h30m	Sport	1	x	2	Vitória	Ilha do Retiro
+29ª	18/10/2014	18h30m	Fluminense	4	x	2	Criciúma	Maracanã
+29ª	18/10/2014	18h30m	Goiás	0	x	0	Grêmio	Serra Dourada
+29ª	18/10/2014	18h30m	São Paulo	2	x	1	Bahia	Morumbi
+29ª	18/10/2014	21h00m	Atlético/MG	1	x	0	Chapecoense	Independência
+29ª	19/10/2014	16h00m	Atlético/PR	2	x	1	Flamengo	Arena da Baixada
+29ª	19/10/2014	16h00m	Figueirense	4	x	0	Coritiba	Orlando Scarpelli 
+29ª	19/10/2014	16h00m	Internacional	1	x	2	Corinthians	Beira-Rio
+29ª	19/10/2014	16h00m	Palmeiras	1	x	3	Santos	Pacaembu
+29ª	19/10/2014	18h30m	Botafogo	1	x	1	Sport	Raulino de Oliveira
+29ª	19/10/2014	18h30m	Vitória	0	x	1	Cruzeiro	Barradão
+30ª	21/10/2014	21h50m	Bahia	1	x	1	Atlético/MG	Fonte Nova
+30ª	22/10/2014	19h30m	Corinthians	2	x	1	Vitória	Arena Pantanal
+30ª	22/10/2014	19h30m	Criciúma	0	x	1	Atlético/PR	Heriberto Hülse
+30ª	22/10/2014	19h30m	Cruzeiro	1	x	1	Palmeiras	Mineirão
+30ª	22/10/2014	19h30m	Flamengo	2	x	0	Internacional	Maracanã
+30ª	22/10/2014	21h00m	Coritiba	2	x	0	Botafogo	Couto Pereira
+30ª	22/10/2014	21h00m	Grêmio	1	x	0	Figueirense	Arena do Grêmio
+30ª	22/10/2014	22h00m	Chapecoense	0	x	0	São Paulo	Arena Condá 
+30ª	22/10/2014	22h00m	Santos	0	x	1	Fluminense	Vila Belmiro
+30ª	22/10/2014	22h30m	Sport	0	x	1	Goiás	Ilha do Retiro
+31ª	25/10/2014	16h20m	Figueirense	1	x	1	Cruzeiro	Orlando Scarpelli 
+31ª	25/10/2014	16h20m	Fluminense	2	x	1	Atlético/PR	Maracanã
+31ª	25/10/2014	16h20m	Palmeiras	1	x	1	Corinthians	Pacaembu
+31ª	25/10/2014	18h30m	Atlético/MG	3	x	2	Sport	Independência
+31ª	25/10/2014	18h30m	Chapecoense	1	x	1	Santos	Arena Condá 
+31ª	25/10/2014	18h30m	Coritiba	1	x	1	Grêmio	Couto Pereira
+31ª	25/10/2014	18h30m	Vitória	3	x	1	Criciúma	Barradão
+31ª	25/10/2014	21h00m	Botafogo	2	x	1	Flamengo	Arena da Amazônia
+31ª	25/10/2014	21h00m	Internacional	2	x	0	Bahia	Beira-Rio
+31ª	27/10/2014	20h30m	São Paulo	3	x	0	Goiás	Morumbi
+32ª	01/11/2014	19h30m	Goiás	0	x	2	Fluminense	Serra Dourada
+32ª	01/11/2014	19h30m	Grêmio	1	x	0	Vitória	Arena do Grêmio
+32ª	01/11/2014	21h00m	Corinthians	2	x	2	Coritiba	Arena Corinthians
+32ª	02/11/2014	17h00m	Criciúma	1	x	2	São Paulo	Heriberto Hülse
+32ª	02/11/2014	17h00m	Cruzeiro	2	x	1	Botafogo	Mineirão
+32ª	02/11/2014	17h00m	Santos	1	x	2	Internacional	Vila Belmiro
+32ª	02/11/2014	17h00m	Sport	1	x	0	Figueirense	Ilha do Retiro
+32ª	02/11/2014	19h30m	Atlético/PR	1	x	0	Atlético/MG	Arena da Baixada
+32ª	02/11/2014	19h30m	Flamengo	3	x	0	Chapecoense	Maracanã
+32ª	02/11/2014	20h00m	Bahia	0	x	1	Palmeiras	Fonte Nova
+33ª	08/11/2014	19h30m	Coritiba	1	x	0	Fluminense	Couto Pereira
+33ª	08/11/2014	19h30m	Palmeiras	0	x	2	Atlético/MG	Pacaembu
+33ª	08/11/2014	21h00m	Botafogo	0	x	2	Atlético/PR	Raulino de Oliveira
+33ª	09/11/2014	17h00m	Figueirense	1	x	0	Chapecoense	Orlando Scarpelli 
+33ª	09/11/2014	17h00m	Grêmio	4	x	1	Internacional	Arena do Grêmio
+33ª	09/11/2014	17h00m	Sport	2	x	2	Flamengo	Arena Pernambuco
+33ª	09/11/2014	17h00m	Vitória	1	x	2	São Paulo	Barradão
+33ª	09/11/2014	19h30m	Corinthians	1	x	0	Santos	Arena Corinthians
+33ª	09/11/2014	19h30m	Cruzeiro	3	x	1	Criciúma	Mineirão
+33ª	09/11/2014	19h30m	Goiás	3	x	0	Bahia	Serra Dourada
+34ª	15/11/2014	19h30m	Criciúma	0	x	3	Grêmio	Heriberto Hülse
+34ª	15/11/2014	19h30m	Fluminense	1	x	0	Botafogo	Maracanã
+34ª	16/11/2014	17h00m	Atlético/PR	0	x	1	Sport	Arena da Baixada
+34ª	16/11/2014	17h00m	Bahia	1	x	2	Corinthians	Fonte Nova
+34ª	16/11/2014	17h00m	Flamengo	3	x	2	Coritiba	Maracanã
+34ª	16/11/2014	17h00m	Internacional	1	x	0	Goiás	Beira-Rio
+34ª	16/11/2014	17h00m	Santos	0	x	1	Cruzeiro	Vila Belmiro
+34ª	16/11/2014	19h30m	Atlético/MG	1	x	1	Figueirense	Independência
+34ª	16/11/2014	19h30m	Chapecoense	0	x	1	Vitória	Arena Condá 
+34ª	16/11/2014	19h30m	São Paulo	2	x	0	Palmeiras	Morumbi
+35ª	12/11/2014	22h00m	São Paulo	1	x	1	Internacional	Morumbi
+35ª	19/11/2014	19h30m	Atlético/PR	1	x	1	Santos	Arena da Baixada
+35ª	19/11/2014	19h30m	Botafogo	0	x	1	Figueirense	São Januário
+35ª	19/11/2014	21h00m	Criciúma	0	x	1	Bahia	Heriberto Hülse
+35ª	19/11/2014	21h00m	Goiás	0	x	1	Corinthians	Mangueirão
+35ª	19/11/2014	21h00m	Vitória	1	x	1	Coritiba	Barradão
+35ª	19/11/2014	22h00m	Atlético/MG	4	x	0	Flamengo	Independência
+35ª	19/11/2014	22h00m	Palmeiras	0	x	2	Sport	Allianz Parque
+35ª	20/11/2014	19h30m	Fluminense	1	x	4	Chapecoense	Maracanã
+35ª	20/11/2014	21h50m	Grêmio	1	x	2	Cruzeiro	Arena do Grêmio
+36ª	22/11/2014	19h30m	Internacional	2	x	1	Atlético/MG	Beira-Rio
+36ª	22/11/2014	21h00m	Bahia	1	x	2	Atlético/PR	Fonte Nova
+36ª	23/11/2014	17h00m	Cruzeiro	2	x	1	Goiás	Mineirão
+36ª	23/11/2014	17h00m	Figueirense	2	x	0	Vitória	Orlando Scarpelli 
+36ª	23/11/2014	17h00m	Flamengo	1	x	1	Criciúma	Castelão
+36ª	23/11/2014	17h00m	Santos	0	x	1	São Paulo	Arena Pantanal
+36ª	23/11/2014	17h00m	Sport	2	x	2	Fluminense	Arena Pernambuco
+36ª	23/11/2014	19h30m	Chapecoense	2	x	0	Botafogo	Arena Condá 
+36ª	23/11/2014	19h30m	Corinthians	1	x	0	Grêmio	Arena Corinthians
+36ª	23/11/2014	19h30m	Coritiba	2	x	0	Palmeiras	Couto Pereira
+37ª	29/11/2014	19h30m	Criciúma	2	x	2	Sport	Heriberto Hülse
+37ª	29/11/2014	19h30m	Internacional	3	x	1	Palmeiras	Beira-Rio
+37ª	29/11/2014	21h00m	Flamengo	4	x	0	Vitória	Arena da Amazônia
+37ª	30/11/2014	17h00m	Chapecoense	1	x	1	Cruzeiro	Arena Condá 
+37ª	30/11/2014	17h00m	Fluminense	5	x	2	Corinthians	Maracanã
+37ª	30/11/2014	17h00m	Santos	2	x	0	Botafogo	Vila Belmiro
+37ª	30/11/2014	17h00m	São Paulo	1	x	1	Figueirense	Morumbi
+37ª	30/11/2014	19h30m	Atlético/MG	1	x	2	Coritiba	Independência
+37ª	30/11/2014	19h30m	Atlético/PR	1	x	0	Goiás	Arena da Baixada
+37ª	30/11/2014	19h30m	Bahia	1	x	0	Grêmio	Fonte Nova
+38ª	06/12/2014	16h30m	Corinthians	2	x	1	Criciúma	Arena Corinthians
+38ª	06/12/2014	16h30m	Figueirense	1	x	2	Internacional	Orlando Scarpelli 
+38ª	07/12/2014	17h00m	Botafogo	0	x	0	Atlético/MG	Mané Garrincha
+38ª	07/12/2014	17h00m	Coritiba	3	x	2	Bahia	Couto Pereira
+38ª	07/12/2014	17h00m	Cruzeiro	2	x	1	Fluminense	Mineirão
+38ª	07/12/2014	17h00m	Goiás	4	x	2	Chapecoense	Serra Dourada
+38ª	07/12/2014	17h00m	Grêmio	1	x	1	Flamengo	Arena do Grêmio
+38ª	07/12/2014	17h00m	Palmeiras	1	x	1	Atlético/PR	Allianz Parque
+38ª	07/12/2014	17h00m	Sport	1	x	0	São Paulo	Arena Pernambuco
+38ª	07/12/2014	17h00m	Vitória	0	x	1	Santos	Barradão

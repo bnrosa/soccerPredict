@@ -1,0 +1,380 @@
+1ª	19/05/2012	21h00m	Figueirense	2	x	1	Náutico	Orlando Scarpelli
+1ª	19/05/2012	18h30m	Palmeiras	1	x	1	Portuguesa	Pacaembu
+1ª	19/05/2012	18h30m	Sport	1	x	1	Flamengo	Ilha do Retiro
+1ª	20/05/2012	16h00m	Botafogo	4	x	2	São Paulo	João Havelange
+1ª	20/05/2012	16h00m	Corinthians	0	x	1	Fluminense	Pacaembu
+1ª	20/05/2012	16h00m	Internacional	2	x	0	Coritiba	Beira Rio
+1ª	20/05/2012	16h00m	Ponte Preta	0	x	1	Atlético/MG	Móises Lucarelli
+1ª	20/05/2012	18h30m	Bahia	0	x	0	Santos	Pituaçu
+1ª	20/05/2012	18h30m	Cruzeiro	0	x	0	Atlético/GO	Parque do Sabiá
+1ª	20/05/2012	18h30m	Vasco	2	x	1	Grêmio	São Januário
+2ª	26/05/2012	18h30m	Flamengo	3	x	3	Internacional	João Havelange
+2ª	26/05/2012	18h30m	Portuguesa	0	x	1	Vasco	Canindé
+2ª	26/05/2012	18h30m	Atlético/GO	1	x	1	Ponte Preta	Serra Dourada
+2ª	26/05/2012	21h00m	Náutico	0	x	0	Cruzeiro	Aflitos
+2ª	27/05/2012	16h00m	Santos	0	x	0	Sport	Vila Belmiro
+2ª	27/05/2012	16h00m	São Paulo	1	x	0	Bahia	Morumbi
+2ª	27/05/2012	16h00m	Atlético/MG	1	x	0	Corinthians	Independência
+2ª	27/05/2012	16h00m	Coritiba	2	x	3	Botafogo	Couto Pereira
+2ª	27/05/2012	18h30m	Fluminense	2	x	2	Figueirense	João Havelange
+2ª	27/05/2012	18h30m	Grêmio	1	x	0	Palmeiras	Olímpico
+3ª	06/06/2012	19h30m	Sport	2	x	1	Palmeiras	Ilha do Retiro
+3ª	06/06/2012	19h30m	Atlético/GO	0	x	1	Grêmio	Serra Dourada
+3ª	06/06/2012	20h30m	Vasco	4	x	2	Náutico	São Januário
+3ª	06/06/2012	20h30m	Atlético/MG	1	x	1	Bahia	Independência
+3ª	06/06/2012	20h30m	Coritiba	2	x	0	Portuguesa	Couto Pereira
+3ª	06/06/2012	21h50m	Santos	1	x	1	Fluminense	Vila Belmiro
+3ª	06/06/2012	21h50m	Internacional	1	x	0	São Paulo	Beira Rio
+3ª	06/06/2012	21h50m	Ponte Preta	2	x	2	Flamengo	Móises Lucarelli
+3ª	07/06/2012	21h00m	Botafogo	2	x	3	Cruzeiro	João Havelange
+3ª	07/06/2012	21h00m	Corinthians	1	x	1	Figueirense	Pacaembu
+4ª	09/06/2012	18h30m	Flamengo	3	x	1	Coritiba	João Havelange
+4ª	10/06/2012	16h00m	Portuguesa	2	x	0	Atlético/GO	Canindé
+4ª	09/06/2012	21h00m	Palmeiras	0	x	1	Atlético/MG	Pacaembu
+4ª	10/06/2012	17h00m	Fluminense	0	x	0	Internacional	João Havelange
+4ª	10/06/2012	18h30m	São Paulo	1	x	0	Santos	Morumbi
+4ª	10/06/2012	17h00m	Grêmio	2	x	0	Corinthians	Olímpico
+4ª	10/06/2012	17h00m	Bahia	1	x	2	Vasco	Pituaçu
+4ª	10/06/2012	18h30m	Cruzeiro	1	x	0	Sport	Dilzon Melo
+4ª	10/06/2012	18h30m	Figueirense	0	x	0	Ponte Preta	Orlando Scarpelli
+4ª	10/06/2012	18h30m	Náutico	3	x	2	Botafogo	Aflitos
+5ª	16/06/2012	18h30m	Cruzeiro	1	x	0	Figueirense	Independência
+5ª	16/06/2012	18h30m	Internacional	1	x	2	Botafogo	Beira Rio
+5ª	16/06/2012	21h00m	Fluminense	4	x	1	Portuguesa	João Havelange
+5ª	17/06/2012	16h00m	Bahia	2	x	1	Sport	Pituaçu
+5ª	17/06/2012	16h00m	Flamengo	1	x	0	Santos	João Havelange
+5ª	17/06/2012	16h00m	Palmeiras	1	x	1	Vasco	Arena Barueri
+5ª	17/06/2012	16h00m	São Paulo	1	x	0	Atlético/MG	Morumbi
+5ª	17/06/2012	18h30m	Coritiba	3	x	0	Atlético/GO	Couto Pereira
+5ª	17/06/2012	18h30m	Náutico	1	x	0	Grêmio	Aflitos
+5ª	17/06/2012	18h30m	Ponte Preta	1	x	0	Corinthians	Móises Lucarelli
+6ª	23/06/2012	18h30m	Vasco	1	x	3	Cruzeiro	São Januário
+6ª	23/06/2012	21h00m	Atlético/MG	5	x	1	Náutico	Independência
+6ª	23/06/2012	18h30m	Portuguesa	1	x	0	São Paulo	Canindé
+6ª	24/06/2012	18h30m	Sport	0	x	2	Internacional	Ilha do Retiro
+6ª	24/06/2012	16h00m	Corinthians	2	x	1	Palmeiras	Pacaembu
+6ª	24/06/2012	16h00m	Grêmio	2	x	0	Flamengo	Olímpico
+6ª	24/06/2012	16h00m	Figueirense	1	x	1	Bahia	Orlando Scarpelli
+6ª	24/06/2012	18h30m	Botafogo	1	x	2	Ponte Preta	João Havelange
+6ª	24/06/2012	18h30m	Santos	2	x	2	Coritiba	Vila Belmiro
+6ª	24/06/2012	18h30m	Atlético/GO	1	x	4	Fluminense	Serra Dourada
+7ª	30/06/2012	16h20m	Cruzeiro	2	x	3	São Paulo	Arena do Jacaré
+7ª	30/06/2012	16h20m	Náutico	0	x	2	Fluminense	Aflitos
+7ª	30/06/2012	18h30m	Vasco	3	x	2	Ponte Preta	São Januário
+7ª	01/07/2012	16h00m	Bahia	1	x	1	Internacional	Pituaçu
+7ª	01/07/2012	16h00m	Coritiba	2	x	3	Sport	Couto Pereira
+7ª	01/07/2012	16h00m	Portuguesa	0	x	0	Santos	Canindé
+7ª	01/07/2012	18h30m	Flamengo	3	x	2	Atlético/GO	João Havelange
+7ª	01/07/2012	18h30m	Grêmio	0	x	1	Atlético/MG	Olímpico
+7ª	01/07/2012	18h30m	Palmeiras	3	x	1	Figueirense	Arena Barueri
+7ª	11/07/2012	19h30m	Corinthians	1	x	3	Botafogo	Pacaembu
+8ª	07/07/2012	18h30m	Botafogo	3	x	0	Bahia	João Havelange
+8ª	07/07/2012	18h30m	Internacional	2	x	1	Cruzeiro	Beira Rio
+8ª	07/07/2012	21h00m	Atlético/GO	0	x	1	Náutico	Serra Dourada
+8ª	08/07/2012	16h00m	Figueirense	1	x	1	Vasco	Orlando Scarpelli
+8ª	08/07/2012	16h00m	Fluminense	1	x	0	Flamengo	João Havelange
+8ª	08/07/2012	16h00m	Santos	4	x	2	Grêmio	Vila Belmiro
+8ª	08/07/2012	16h00m	São Paulo	3	x	1	Coritiba	Morumbi
+8ª	08/07/2012	18h30m	Atlético/MG	2	x	0	Portuguesa	Independência
+8ª	08/07/2012	18h30m	Ponte Preta	1	x	0	Palmeiras	Móises Lucarelli
+8ª	08/07/2012	18h30m	Sport	1	x	1	Corinthians	Ilha do Retiro
+9ª	14/07/2012	18h30m	Corinthians	2	x	1	Náutico	Pacaembu
+9ª	14/07/2012	18h30m	Figueirense	3	x	4	Atlético/MG	Orlando Scarpelli
+9ª	14/07/2012	21h00m	Ponte Preta	4	x	1	Coritiba	Móises Lucarelli
+9ª	15/07/2012	16h00m	Botafogo	1	x	1	Fluminense	João Havelange
+9ª	15/07/2012	16h00m	Internacional	0	x	0	Santos	Beira Rio
+9ª	15/07/2012	16h00m	Cruzeiro	1	x	3	Grêmio	Arena do Jacaré
+9ª	15/07/2012	16h00m	Bahia	1	x	2	Flamengo	Pituaçu
+9ª	15/07/2012	18h30m	Vasco	1	x	0	Atlético/GO	São Januário
+9ª	15/07/2012	18h30m	Palmeiras	1	x	1	São Paulo	Arena Barueri
+9ª	15/07/2012	18h30m	Sport	2	x	1	Portuguesa	Ilha do Retiro
+10ª	18/07/2012	19h30m	Santos	0	x	0	Botafogo	Vila Belmiro
+10ª	18/07/2012	19h30m	Grêmio	3	x	1	Sport	Olímpico
+10ª	18/07/2012	20h30m	Portuguesa	0	x	2	Cruzeiro	Canindé
+10ª	18/07/2012	20h30m	Náutico	3	x	0	Ponte Preta	Aflitos
+10ª	18/07/2012	21h50m	São Paulo	0	x	1	Vasco	Morumbi
+10ª	18/07/2012	21h50m	Flamengo	0	x	3	Corinthians	João Havelange
+10ª	18/07/2012	21h50m	Atlético/MG	3	x	1	Internacional	Independência
+10ª	19/07/2012	21h00m	Fluminense	4	x	0	Bahia	João Havelange
+10ª	19/07/2012	21h00m	Coritiba	1	x	1	Palmeiras	Couto Pereira
+10ª	19/07/2012	21h00m	Atlético/GO	3	x	2	Figueirense	Serra Dourada
+11ª	21/07/2012	18h30m	Sport	1	x	4	Atlético/MG	Ilha do Retiro
+11ª	21/07/2012	18h30m	Vasco	2	x	0	Santos	São Januário
+11ª	21/07/2012	21h00m	Corinthians	1	x	1	Portuguesa	Pacaembu
+11ª	22/07/2012	16h00m	Palmeiras	3	x	0	Náutico	Arena Barueri
+11ª	22/07/2012	16h00m	Figueirense	0	x	2	São Paulo	Orlando Scarpelli
+11ª	22/07/2012	16h00m	Internacional	4	x	1	Atlético/GO	Beira Rio
+11ª	22/07/2012	16h00m	Cruzeiro	1	x	0	Flamengo	Arena do Jacaré
+11ª	22/07/2012	18h30m	Ponte Preta	1	x	2	Fluminense	Móises Lucarelli
+11ª	22/07/2012	18h30m	Botafogo	0	x	1	Grêmio	João Havelange
+11ª	22/07/2012	18h30m	Bahia	2	x	2	Coritiba	Pituaçu
+12ª	25/07/2012	19h30m	Ponte Preta	1	x	1	Sport	Móises Lucarelli
+12ª	25/07/2012	19h30m	Figueirense	0	x	1	Internacional	Orlando Scarpelli
+12ª	25/07/2012	20h30m	Náutico	3	x	4	Coritiba	Aflitos
+12ª	25/07/2012	20h30m	Vasco	1	x	0	Botafogo	João Havelange
+12ª	25/07/2012	21h50m	Atlético/GO	4	x	3	São Paulo	Serra Dourada
+12ª	25/07/2012	21h50m	Corinthians	2	x	0	Cruzeiro	Pacaembu
+12ª	25/07/2012	21h50m	Grêmio	1	x	0	Fluminense	Olímpico
+12ª	25/07/2012	21h00m	Atlético/MG	2	x	0	Santos	Independência
+12ª	25/07/2012	21h00m	Palmeiras	0	x	2	Bahia	Arena Barueri
+12ª	26/07/2012	21h00m	Flamengo	0	x	0	Portuguesa	João Havelange
+13ª	28/07/2012	18h30m	Internacional	0	x	0	Vasco	Beira Rio
+13ª	28/07/2012	18h30m	Coritiba	2	x	1	Grêmio	Couto Pereira
+13ª	28/07/2012	21h00m	Botafogo	1	x	0	Figueirense	João Havelange
+13ª	29/07/2012	16h00m	Fluminense	0	x	0	Atlético/MG	João Havelange
+13ª	29/07/2012	16h00m	Sport	0	x	0	Atlético/GO	Ilha do Retiro
+13ª	29/07/2012	16h00m	Bahia	0	x	0	Corinthians	Pituaçu
+13ª	29/07/2012	16h00m	São Paulo	4	x	1	Flamengo	Morumbi
+13ª	29/07/2012	18h30m	Cruzeiro	2	x	1	Palmeiras	Arena do Jacaré
+13ª	29/07/2012	18h30m	Portuguesa	3	x	1	Náutico	Canindé
+13ª	29/07/2012	18h30m	Santos	2	x	1	Ponte Preta	Vila Belmiro
+14ª	26/09/2012	21h00m	Flamengo	2	x	1	Atlético/MG	Raulino de Oliveira
+14ª	04/08/2012	18h30m	Palmeiras	0	x	1	Internacional	Pacaembu
+14ª	04/08/2012	18h30m	Atlético/GO	1	x	2	Botafogo	Serra Dourada
+14ª	04/08/2012	21h00m	Portuguesa	2	x	0	Figueirense	Canindé
+14ª	05/08/2012	16h00m	Coritiba	0	x	2	Fluminense	Couto Pereira
+14ª	05/08/2012	16h00m	Vasco	0	x	0	Corinthians	São Januário
+14ª	05/08/2012	16h00m	Grêmio	3	x	1	Bahia	Olímpico
+14ª	05/08/2012	16h00m	São Paulo	1	x	0	Sport	Morumbi
+14ª	05/08/2012	18h30m	Cruzeiro	1	x	2	Ponte Preta	Arena do Jacaré
+14ª	05/08/2012	18h30m	Náutico	3	x	0	Santos	Aflitos
+15ª	08/08/2012	19h30m	Internacional	0	x	0	Náutico	Beira Rio
+15ª	08/08/2012	19h30m	Sport	0	x	2	Vasco	Ilha do Retiro
+15ª	08/08/2012	20h30m	Corinthians	1	x	1	Atlético/GO	Pacaembu
+15ª	08/08/2012	20h30m	Bahia	0	x	0	Portuguesa	Pituaçu
+15ª	08/08/2012	21h50m	Figueirense	0	x	2	Flamengo	Orlando Scarpelli
+15ª	09/08/2012	21h00m	Fluminense	2	x	1	São Paulo	João Havelange
+15ª	08/08/2012	21h50m	Santos	4	x	2	Cruzeiro	Vila Belmiro
+15ª	08/08/2012	21h50m	Botafogo	1	x	2	Palmeiras	João Havelange
+15ª	09/08/2012	21h00m	Atlético/MG	1	x	0	Coritiba	Independência
+15ª	09/08/2012	21h00m	Ponte Preta	0	x	0	Grêmio	Móises Lucarelli
+16ª	11/08/2012	18h30m	Sport	0	x	1	Figueirense	Ilha do Retiro
+16ª	11/08/2012	18h30m	Bahia	0	x	1	Cruzeiro	Pituaçu
+16ª	11/08/2012	21h00m	Flamengo	2	x	0	Náutico	João Havelange
+16ª	12/08/2012	16h00m	Coritiba	1	x	2	Corinthians	Couto Pereira
+16ª	12/08/2012	16h00m	São Paulo	1	x	2	Grêmio	Morumbi
+16ª	12/08/2012	16h00m	Internacional	2	x	1	Ponte Preta	Beira Rio
+16ª	12/08/2012	16h00m	Atlético/MG	1	x	0	Vasco	Independência
+16ª	12/08/2012	18h30m	Fluminense	1	x	0	Palmeiras	João Havelange
+16ª	11/08/2012	18h30m	Santos	2	x	2	Atlético/GO	Pacaembu
+16ª	12/08/2012	18h30m	Portuguesa	1	x	1	Botafogo	Canindé
+17ª	15/08/2012	19h30m	Cruzeiro	1	x	1	Fluminense	Arena do Jacaré
+17ª	15/08/2012	19h30m	Grêmio	1	x	2	Portuguesa	Olímpico
+17ª	15/08/2012	20h30m	Atlético/GO	1	x	1	Atlético/MG	Serra Dourada
+17ª	15/08/2012	20h30m	Ponte Preta	0	x	2	Bahia	Móises Lucarelli
+17ª	15/08/2012	21h50m	Náutico	3	x	0	São Paulo	Aflitos
+17ª	15/08/2012	21h50m	Botafogo	2	x	0	Sport	João Havelange
+17ª	15/08/2012	21h50m	Palmeiras	1	x	0	Flamengo	Pacaembu
+17ª	15/08/2012	20h30m	Vasco	2	x	2	Coritiba	São Januário
+17ª	15/08/2012	20h30m	Corinthians	1	x	0	Internacional	Pacaembu
+17ª	15/08/2012	20h30m	Figueirense	1	x	3	Santos	Orlando Scarpelli
+18ª	18/08/2012	18h30m	Náutico	1	x	0	Bahia	Aflitos
+18ª	18/08/2012	18h30m	Fluminense	1	x	0	Sport	Raulino de Oliveira
+18ª	18/08/2012	21h00m	São Paulo	3	x	0	Ponte Preta	Morumbi
+18ª	19/08/2012	16h00m	Santos	3	x	2	Corinthians	Vila Belmiro
+18ª	19/08/2012	16h00m	Grêmio	4	x	0	Figueirense	Olímpico
+18ª	19/08/2012	16h00m	Atlético/MG	3	x	2	Botafogo	Independência
+18ª	19/08/2012	16h00m	Coritiba	4	x	0	Cruzeiro	Couto Pereira
+18ª	19/08/2012	18h30m	Portuguesa	1	x	1	Internacional	Canindé
+18ª	19/08/2012	18h30m	Flamengo	1	x	0	Vasco	João Havelange
+18ª	19/08/2012	18h30m	Atlético/GO	2	x	1	Palmeiras	Serra Dourada
+19ª	25/08/2012	18h30m	Vasco	1	x	2	Fluminense	João Havelange
+19ª	25/08/2012	18h30m	Palmeiras	1	x	2	Santos	Pacaembu
+19ª	25/08/2012	21h00m	Ponte Preta	2	x	1	Portuguesa	Móises Lucarelli
+19ª	26/08/2012	16h00m	Corinthians	1	x	2	São Paulo	Pacaembu
+19ª	26/08/2012	16h00m	Internacional	0	x	1	Grêmio	Beira Rio
+19ª	26/08/2012	18h30m	Cruzeiro	2	x	2	Atlético/MG	Independência
+19ª	26/08/2012	16h00m	Botafogo	0	x	0	Flamengo	João Havelange
+19ª	26/08/2012	16h00m	Figueirense	3	x	1	Coritiba	Orlando Scarpelli
+19ª	26/08/2012	18h30m	Sport	0	x	0	Náutico	Ilha do Retiro
+19ª	26/08/2012	18h30m	Bahia	1	x	1	Atlético/GO	Pituaçu
+20ª	29/08/2012	19h30m	Coritiba	1	x	0	Internacional	Couto Pereira
+20ª	29/08/2012	19h30m	Santos	1	x	3	Bahia	Vila Belmiro
+20ª	29/08/2012	20h30m	Atlético/MG	2	x	2	Ponte Preta	Independência
+20ª	29/08/2012	20h30m	Náutico	3	x	2	Figueirense	Aflitos
+20ª	29/08/2012	20h30m	Portuguesa	3	x	0	Palmeiras	Canindé
+20ª	29/08/2012	22h00m	Atlético/GO	0	x	2	Cruzeiro	Serra Dourada
+20ª	29/08/2012	22h00m	Fluminense	1	x	1	Corinthians	João Havelange
+20ª	29/08/2012	22h00m	Grêmio	2	x	0	Vasco	Olímpico
+20ª	30/08/2012	21h00m	Flamengo	1	x	1	Sport	João Havelange
+20ª	30/08/2012	21h00m	São Paulo	4	x	0	Botafogo	Morumbi
+21ª	01/09/2012	18h30m	Figueirense	2	x	2	Fluminense	Orlando Scarpelli
+21ª	01/09/2012	18h30m	Palmeiras	0	x	0	Grêmio	Pacaembu
+21ª	01/09/2012	21h00m	Vasco	2	x	0	Portuguesa	São Januário
+21ª	02/09/2012	16h00m	Bahia	1	x	0	São Paulo	Pituaçu
+21ª	02/09/2012	16h00m	Corinthians	1	x	0	Atlético/MG	Pacaembu
+21ª	02/09/2012	16h00m	Internacional	4	x	1	Flamengo	Beira Rio
+21ª	02/09/2012	16h00m	Sport	2	x	1	Santos	Ilha do Retiro
+21ª	02/09/2012	18h30m	Botafogo	2	x	0	Coritiba	João Havelange
+21ª	02/09/2012	18h30m	Cruzeiro	3	x	0	Náutico	Arena do Jacaré
+21ª	02/09/2012	18h30m	Ponte Preta	3	x	1	Atlético/GO	Móises Lucarelli
+22ª	05/09/2012	19h30m	Bahia	0	x	0	Atlético/MG	Pituaçu
+22ª	05/09/2012	19h30m	Flamengo	0	x	1	Ponte Preta	João Havelange
+22ª	05/09/2012	19h30m	Náutico	1	x	1	Vasco	Aflitos
+22ª	05/09/2012	19h30m	Portuguesa	3	x	0	Coritiba	Canindé
+22ª	05/09/2012	20h30m	Grêmio	2	x	1	Atlético/GO	Olímpico
+22ª	05/09/2012	22h00m	Cruzeiro	1	x	3	Botafogo	Arena do Jacaré
+22ª	05/09/2012	22h00m	Figueirense	1	x	0	Corinthians	Orlando Scarpelli
+22ª	05/09/2012	22h00m	São Paulo	1	x	1	Internacional	Morumbi
+22ª	06/09/2012	21h00m	Fluminense	3	x	1	Santos	João Havelange
+22ª	06/09/2012	21h00m	Palmeiras	3	x	1	Sport	Pacaembu
+23ª	08/09/2012	18h30m	Coritiba	3	x	0	Flamengo	Couto Pereira
+23ª	08/09/2012	18h30m	Ponte Preta	2	x	2	Figueirense	Móises Lucarelli
+23ª	08/09/2012	21h00m	Corinthians	3	x	1	Grêmio	Pacaembu
+23ª	09/09/2012	16h00m	Botafogo	3	x	1	Náutico	João Havelange
+23ª	09/09/2012	16h00m	Internacional	0	x	1	Fluminense	Beira Rio
+23ª	09/09/2012	16h00m	Santos	0	x	0	São Paulo	Vila Belmiro
+23ª	09/09/2012	18h30m	Atlético/GO	1	x	1	Portuguesa	Serra Dourada
+23ª	09/09/2012	18h30m	Atlético/MG	3	x	0	Palmeiras	Independência
+23ª	09/09/2012	18h30m	Sport	2	x	1	Cruzeiro	Ilha do Retiro
+23ª	09/09/2012	18h30m	Vasco	0	x	4	Bahia	São Januário
+24ª	12/09/2012	19h30m	Corinthians	1	x	1	Ponte Preta	Pacaembu
+24ª	12/09/2012	19h30m	Figueirense	2	x	0	Cruzeiro	Orlando Scarpelli
+24ª	12/09/2012	19h30m	Portuguesa	0	x	2	Fluminense	Canindé
+24ª	12/09/2012	20h30m	Atlético/GO	1	x	2	Coritiba	Serra Dourada
+24ª	12/09/2012	20h30m	Sport	1	x	1	Bahia	Ilha do Retiro
+24ª	12/09/2012	22h00m	Atlético/MG	1	x	0	São Paulo	Independência
+24ª	12/09/2012	22h00m	Santos	2	x	0	Flamengo	Vila Belmiro
+24ª	12/09/2012	22h00m	Vasco	3	x	1	Palmeiras	São Januário
+24ª	13/09/2012	21h00m	Botafogo	1	x	1	Internacional	João Havelange
+24ª	13/09/2012	21h00m	Grêmio	2	x	0	Náutico	Olímpico
+25ª	15/09/2012	18h30m	Fluminense	1	x	2	Atlético/GO	Raulino de Oliveira
+25ª	15/09/2012	18h30m	São Paulo	3	x	1	Portuguesa	Morumbi
+25ª	16/09/2012	16h00m	Bahia	2	x	1	Figueirense	Pituaçu
+25ª	16/09/2012	16h00m	Coritiba	1	x	2	Santos	Couto Pereira
+25ª	16/09/2012	16h00m	Cruzeiro	1	x	1	Vasco	Dilzon Melo
+25ª	16/09/2012	16h00m	Náutico	1	x	0	Atlético/MG	Aflitos
+25ª	16/09/2012	16h00m	Palmeiras	0	x	2	Corinthians	Pacaembu
+25ª	16/09/2012	18h30m	Flamengo	1	x	1	Grêmio	João Havelange
+25ª	16/09/2012	18h30m	Internacional	2	x	2	Sport	Beira Rio
+25ª	16/09/2012	18h30m	Ponte Preta	0	x	0	Botafogo	Móises Lucarelli
+26ª	22/09/2012	18h30m	Figueirense	1	x	3	Palmeiras	Orlando Scarpelli
+26ª	22/09/2012	18h30m	Fluminense	2	x	1	Náutico	Raulino de Oliveira
+26ª	22/09/2012	21h00m	Santos	1	x	3	Portuguesa	Vila Belmiro
+26ª	23/09/2012	16h00m	Atlético/GO	1	x	2	Flamengo	Serra Dourada
+26ª	23/09/2012	16h00m	Botafogo	2	x	2	Corinthians	João Havelange
+26ª	23/09/2012	16h00m	Ponte Preta	0	x	0	Vasco	Móises Lucarelli
+26ª	23/09/2012	16h00m	São Paulo	1	x	0	Cruzeiro	Morumbi
+26ª	23/09/2012	18h30m	Atlético/MG	0	x	0	Grêmio	Independência
+26ª	23/09/2012	18h30m	Internacional	3	x	1	Bahia	Beira Rio
+26ª	23/09/2012	18h30m	Sport	1	x	0	Coritiba	Ilha do Retiro
+27ª	29/09/2012	18h30m	Cruzeiro	0	x	0	Internacional	Dilzon Melo
+27ª	29/09/2012	18h30m	Náutico	2	x	0	Atlético/GO	Aflitos
+27ª	29/09/2012	18h30m	Portuguesa	1	x	1	Atlético/MG	Canindé
+27ª	29/09/2012	18h30m	Vasco	3	x	1	Figueirense	São Januário
+27ª	29/09/2012	21h00m	Palmeiras	3	x	0	Ponte Preta	Pacaembu
+27ª	30/09/2012	16h00m	Bahia	2	x	0	Botafogo	Pituaçu
+27ª	30/09/2012	16h00m	Corinthians	3	x	0	Sport	Pacaembu
+27ª	30/09/2012	16h00m	Coritiba	1	x	1	São Paulo	Couto Pereira
+27ª	30/09/2012	16h00m	Flamengo	0	x	1	Fluminense	João Havelange
+27ª	30/09/2012	18h30m	Grêmio	1	x	1	Santos	Olímpico
+28ª	04/10/2012	21h00m	Coritiba	1	x	0	Ponte Preta	Couto Pereira
+28ª	04/10/2012	21h00m	Flamengo	0	x	0	Bahia	João Havelange
+28ª	04/10/2012	21h00m	Portuguesa	5	x	1	Sport	Canindé
+28ª	06/10/2012	16h20m	Atlético/GO	0	x	1	Vasco	Serra Dourada
+28ª	06/10/2012	16h20m	Náutico	2	x	1	Corinthians	Aflitos
+28ª	06/10/2012	16h20m	Santos	1	x	1	Internacional	Vila Belmiro
+28ª	06/10/2012	16h20m	São Paulo	3	x	0	Palmeiras	Morumbi
+28ª	06/10/2012	18h30m	Atlético/MG	6	x	0	Figueirense	Independência
+28ª	06/10/2012	18h30m	Fluminense	1	x	0	Botafogo	João Havelange
+28ª	06/10/2012	18h30m	Grêmio	2	x	1	Cruzeiro	Olímpico
+29ª	10/10/2012	19h30m	Bahia	0	x	2	Fluminense	Pituaçu
+29ª	10/10/2012	19h30m	Botafogo	0	x	2	Santos	João Havelange
+29ª	10/10/2012	19h30m	Cruzeiro	2	x	0	Portuguesa	Dilzon Melo
+29ª	10/10/2012	19h30m	Figueirense	3	x	1	Atlético/GO	Orlando Scarpelli
+29ª	10/10/2012	19h30m	Ponte Preta	2	x	1	Náutico	Móises Lucarelli
+29ª	10/10/2012	22h00m	Corinthians	3	x	2	Flamengo	Pacaembu
+29ª	10/10/2012	22h00m	Internacional	3	x	0	Atlético/MG	Beira Rio
+29ª	10/10/2012	22h00m	Vasco	0	x	2	São Paulo	São Januário
+29ª	11/10/2012	21h00m	Palmeiras	0	x	1	Coritiba	Arena da Fonte
+29ª	11/10/2012	21h00m	Sport	1	x	3	Grêmio	Ilha do Retiro
+30ª	13/10/2012	18h30m	Atlético/GO	3	x	1	Internacional	Serra Dourada
+30ª	13/10/2012	18h30m	Flamengo	1	x	1	Cruzeiro	João Havelange
+30ª	13/10/2012	21h00m	Portuguesa	1	x	1	Corinthians	Canindé
+30ª	14/10/2012	16h00m	Atlético/MG	2	x	1	Sport	Independência
+30ª	14/10/2012	16h00m	Coritiba	2	x	1	Bahia	Couto Pereira
+30ª	14/10/2012	16h00m	Náutico	1	x	0	Palmeiras	Aflitos
+30ª	14/10/2012	16h00m	Santos	2	x	0	Vasco	Vila Belmiro
+30ª	14/10/2012	16h00m	São Paulo	2	x	0	Figueirense	Morumbi
+30ª	14/10/2012	18h30m	Fluminense	2	x	1	Ponte Preta	João Havelange
+30ª	14/10/2012	18h30m	Grêmio	1	x	1	Botafogo	Olímpico
+31ª	17/10/2012	19h30m	Bahia	0	x	1	Palmeiras	Pituaçu
+31ª	17/10/2012	19h30m	Coritiba	2	x	1	Náutico	Couto Pereira
+31ª	17/10/2012	19h30m	Fluminense	2	x	2	Grêmio	João Havelange
+31ª	17/10/2012	19h30m	Internacional	2	x	3	Figueirense	Beira Rio
+31ª	17/10/2012	22h00m	Cruzeiro	2	x	0	Corinthians	Arena do Jacaré
+31ª	17/10/2012	22h00m	Portuguesa	0	x	0	Flamengo	Canindé
+31ª	17/10/2012	22h00m	Santos	2	x	2	Atlético/MG	Vila Belmiro
+31ª	18/10/2012	21h00m	Botafogo	3	x	2	Vasco	João Havelange
+31ª	18/10/2012	21h00m	São Paulo	2	x	0	Atlético/GO	Morumbi
+31ª	18/10/2012	21h00m	Sport	3	x	1	Ponte Preta	Ilha do Retiro
+32ª	20/10/2012	18h30m	Corinthians	1	x	1	Bahia	Pacaembu
+32ª	20/10/2012	18h30m	Grêmio	0	x	0	Coritiba	Olímpico
+32ª	20/10/2012	18h30m	Palmeiras	2	x	0	Cruzeiro	Arena da Fonte
+32ª	21/10/2012	16h00m	Atlético/MG	3	x	2	Fluminense	Independência
+32ª	21/10/2012	16h00m	Flamengo	1	x	0	São Paulo	João Havelange
+32ª	21/10/2012	16h00m	Náutico	0	x	0	Portuguesa	Aflitos
+32ª	21/10/2012	18h30m	Atlético/GO	0	x	1	Sport	Serra Dourada
+32ª	21/10/2012	18h30m	Ponte Preta	1	x	0	Santos	Móises Lucarelli
+32ª	24/10/2012	20h30m	Vasco	1	x	2	Internacional	São Januário
+32ª	24/10/2012	22h00m	Figueirense	0	x	2	Botafogo	Orlando Scarpelli
+33ª	25/10/2012	21h00m	Fluminense	2	x	1	Coritiba	João Havelange
+33ª	25/10/2012	21h00m	Ponte Preta	1	x	0	Cruzeiro	Móises Lucarelli
+33ª	25/10/2012	21h00m	Santos	0	x	0	Náutico	Vila Belmiro
+33ª	27/10/2012	16h20m	Corinthians	1	x	0	Vasco	Pacaembu
+33ª	27/10/2012	16h20m	Internacional	2	x	1	Palmeiras	Beira Rio
+33ª	27/10/2012	18h30m	Bahia	1	x	1	Grêmio	Pituaçu
+33ª	27/10/2012	18h30m	Botafogo	4	x	0	Atlético/GO	João Havelange
+33ª	27/10/2012	18h30m	Figueirense	0	x	0	Portuguesa	Orlando Scarpelli
+33ª	27/10/2012	18h30m	Sport	2	x	4	São Paulo	Ilha do Retiro
+33ª	31/10/2012	21h50m	Atlético/MG	1	x	1	Flamengo	Independência
+34ª	03/11/2012	19h30m	Cruzeiro	0	x	4	Santos	Arena do Jacaré
+34ª	03/11/2012	21h00m	Flamengo	1	x	0	Figueirense	Raulino de Oliveira
+34ª	03/11/2012	19h30m	Grêmio	1	x	0	Ponte Preta	Olímpico
+34ª	04/11/2012	17h00m	Atlético/GO	0	x	2	Corinthians	Elmo Serejo Farias
+34ª	04/11/2012	17h00m	Palmeiras	2	x	2	Botafogo	Arena da Fonte
+34ª	04/11/2012	17h00m	São Paulo	1	x	1	Fluminense	Morumbi
+34ª	04/11/2012	17h00m	Vasco	0	x	3	Sport	São Januário
+34ª	04/11/2012	19h30m	Coritiba	1	x	0	Atlético/MG	Couto Pereira
+34ª	04/11/2012	19h30m	Náutico	3	x	0	Internacional	Aflitos
+34ª	04/11/2012	19h30m	Portuguesa	0	x	1	Bahia	Canindé
+35ª	10/11/2012	19h30m	Atlético/GO	2	x	1	Santos	Bezerrão
+35ª	10/11/2012	19h30m	Botafogo	3	x	0	Portuguesa	João Havelange
+35ª	10/11/2012	21h00m	Corinthians	5	x	1	Coritiba	Pacaembu
+35ª	11/11/2012	17h00m	Grêmio	2	x	1	São Paulo	Olímpico
+35ª	11/11/2012	17h00m	Palmeiras	2	x	3	Fluminense	Eduardo José Farah
+35ª	11/11/2012	17h00m	Vasco	1	x	1	Atlético/MG	São Januário
+35ª	11/11/2012	19h30m	Cruzeiro	3	x	1	Bahia	Arena do Jacaré
+35ª	11/11/2012	19h30m	Figueirense	1	x	1	Sport	Orlando Scarpelli
+35ª	11/11/2012	19h30m	Náutico	0	x	1	Flamengo	Aflitos
+35ª	11/11/2012	19h30m	Ponte Preta	1	x	0	Internacional	Móises Lucarelli
+36ª	17/11/2012	19h30m	Coritiba	1	x	2	Vasco	Couto Pereira
+36ª	17/11/2012	19h30m	Santos	2	x	0	Figueirense	Vila Belmiro
+36ª	18/11/2012	17h00m	Atlético/MG	2	x	2	Atlético/GO	Independência
+36ª	18/11/2012	17h00m	Bahia	1	x	0	Ponte Preta	Pituaçu
+36ª	18/11/2012	17h00m	Flamengo	1	x	1	Palmeiras	Raulino de Oliveira
+36ª	18/11/2012	17h00m	Fluminense	0	x	2	Cruzeiro	João Havelange
+36ª	18/11/2012	17h00m	São Paulo	2	x	1	Náutico	Morumbi
+36ª	18/11/2012	19h30m	Internacional	0	x	2	Corinthians	Beira Rio
+36ª	18/11/2012	19h30m	Portuguesa	2	x	2	Grêmio	Canindé
+36ª	18/11/2012	19h30m	Sport	2	x	0	Botafogo	Ilha do Retiro
+37ª	24/11/2012	19h30m	Corinthians	1	x	1	Santos	Pacaembu
+37ª	24/11/2012	19h30m	Vasco	1	x	1	Flamengo	João Havelange
+37ª	25/11/2012	17h00m	Bahia	1	x	1	Náutico	Pituaçu
+37ª	25/11/2012	17h00m	Botafogo	2	x	3	Atlético/MG	João Havelange
+37ª	25/11/2012	17h00m	Cruzeiro	2	x	1	Coritiba	Arena do Jacaré
+37ª	25/11/2012	17h00m	Figueirense	2	x	4	Grêmio	Orlando Scarpelli
+37ª	25/11/2012	17h00m	Internacional	0	x	2	Portuguesa	Beira Rio
+37ª	25/11/2012	17h00m	Palmeiras	1	x	2	Atlético/GO	Pacaembu
+37ª	25/11/2012	17h00m	Ponte Preta	0	x	0	São Paulo	Móises Lucarelli
+37ª	25/11/2012	17h00m	Sport	1	x	1	Fluminense	Ilha do Retiro
+38ª	01/12/2012	19h30m	Flamengo	2	x	2	Botafogo	João Havelange
+38ª	02/12/2012	17h00m	Fluminense	1	x	2	Vasco	João Havelange
+38ª	01/12/2012	19h30m	Santos	3	x	1	Palmeiras	Vila Belmiro
+38ª	02/12/2012	17h00m	São Paulo	3	x	1	Corinthians	Morumbi
+38ª	02/12/2012	17h00m	Grêmio	0	x	0	Internacional	Olímpico
+38ª	02/12/2012	17h00m	Atlético/MG	3	x	2	Cruzeiro	Independência
+38ª	02/12/2012	17h00m	Portuguesa	0	x	0	Ponte Preta	Canindé
+38ª	02/12/2012	17h00m	Coritiba	3	x	0	Figueirense	Couto Pereira
+38ª	02/12/2012	17h00m	Náutico	1	x	0	Sport	Aflitos
+38ª	02/12/2012	17h00m	Atlético/GO	0	x	1	Bahia	Serra Dourada

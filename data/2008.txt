@@ -1,0 +1,380 @@
+1ª	10/05/2008	18h10m	Náutico	2	x	1	Goiás	Aflitos
+1ª	10/05/2008	18h10m	São Paulo	0	x	1	Grêmio	Morumbi
+1ª	10/05/2008	18h10m	Vitória	0	x	2	Cruzeiro	Barradão
+1ª	11/05/2008	16h00m	Botafogo	2	x	0	Sport	João Havelange
+1ª	11/05/2008	16h00m	Coritiba	2	x	0	Palmeiras	Couto Pereira
+1ª	11/05/2008	16h00m	Internacional	1	x	0	Vasco	Beira-Rio
+1ª	11/05/2008	16h00m	Ipatinga	0	x	1	Atlético/PR	Ipatingão
+1ª	11/05/2008	18h10m	Atlético/MG	0	x	0	Fluminense	Mineirão
+1ª	11/05/2008	18h10m	Flamengo	3	x	1	Santos	Maracanã
+1ª	11/05/2008	18h10m	Portuguesa	5	x	5	Figueirense	Canindé
+2ª	17/05/2008	18h10m	Cruzeiro	1	x	0	Botafogo	Mineirão
+2ª	17/05/2008	18h10m	Sport	0	x	0	Vitória	Ilha do Retiro
+2ª	17/05/2008	18h10m	Vasco	3	x	1	Portuguesa	São Januário
+2ª	18/05/2008	16h00m	Atlético/PR	1	x	1	São Paulo	Kyocera Arena
+2ª	18/05/2008	16h00m	Fluminense	0	x	2	Náutico	Maracanã
+2ª	18/05/2008	16h00m	Goiás	1	x	1	Atlético/MG	Serra Dourada
+2ª	18/05/2008	16h00m	Grêmio	0	x	0	Flamengo	Olímpico
+2ª	18/05/2008	18h10m	Figueirense	2	x	1	Coritiba	Orlando Scarpelli
+2ª	18/05/2008	18h10m	Palmeiras	2	x	1	Internacional	Palestra Itália
+2ª	18/05/2008	18h10m	Santos	4	x	0	Ipatinga	Vila Belmiro
+3ª	24/05/2008	18h10m	Grêmio	2	x	0	Náutico	Olímpico
+3ª	24/05/2008	18h10m	Flamengo	2	x	1	Internacional	Maracanã
+3ª	24/05/2008	18h10m	Vitória	4	x	0	Figueirense	Barradão
+3ª	25/05/2008	16h00m	Cruzeiro	4	x	0	Santos	Mineirão
+3ª	25/05/2008	16h00m	São Paulo	1	x	1	Coritiba	Morumbi
+3ª	25/05/2008	16h00m	Sport	2	x	1	Fluminense	Ilha do Retiro
+3ª	25/05/2008	16h00m	Goiás	1	x	1	Ipatinga	Serra Dourada
+3ª	25/05/2008	18h10m	Portuguesa	1	x	1	Palmeiras	Canindé
+3ª	25/05/2008	18h10m	Atlético/PR	1	x	1	Atlético/MG	Kyocera Arena
+3ª	25/05/2008	18h10m	Botafogo	1	x	1	Vasco	Maracanã
+4ª	31/05/2008	18h10m	Vasco	2	x	1	Grêmio	São Januário
+4ª	31/05/2008	18h10m	Internacional	1	x	1	Sport	Beira-Rio
+4ª	31/05/2008	18h10m	Figueirense	0	x	0	Goiás	Orlando Scarpelli
+4ª	01/06/2008	16h00m	Náutico	3	x	0	Botafogo	Aflitos
+4ª	01/06/2008	16h00m	Santos	0	x	0	São Paulo	Vila Belmiro
+4ª	01/06/2008	16h00m	Coritiba	1	x	1	Cruzeiro	Couto Pereira
+4ª	01/06/2008	16h00m	Ipatinga	2	x	0	Vitória	Ipatingão
+4ª	01/06/2008	18h10m	Palmeiras	1	x	0	Atlético/PR	Palestra Itália
+4ª	01/06/2008	18h10m	Atlético/MG	2	x	0	Portuguesa	Mineirão
+4ª	01/06/2008	18h10m	Fluminense	0	x	1	Flamengo	Maracanã
+5ª	07/06/2008	18h10m	São Paulo	5	x	1	Atlético/MG	Morumbi
+5ª	07/06/2008	18h10m	Flamengo	5	x	0	Figueirense	Maracanã
+5ª	07/06/2008	18h10m	Ipatinga	0	x	0	Náutico	Ipatingão
+5ª	08/06/2008	16h00m	Atlético/PR	5	x	0	Goiás	Kyocera Arena
+5ª	08/06/2008	16h00m	Grêmio	2	x	1	Fluminense	Olímpico
+5ª	08/06/2008	16h00m	Sport	2	x	0	Palmeiras	Ilha do Retiro
+5ª	08/06/2008	16h00m	Portuguesa	3	x	1	Internacional	Canindé
+5ª	08/06/2008	18h10m	Vitória	1	x	0	Santos	Barradão
+5ª	08/06/2008	18h10m	Cruzeiro	1	x	0	Vasco	Mineirão
+5ª	08/06/2008	18h10m	Botafogo	2	x	1	Coritiba	João Havelange
+6ª	12/06/2008	20h30m	Fluminense	1	x	1	Santos	Maracanã
+6ª	12/06/2008	20h30m	Palmeiras	5	x	2	Cruzeiro	Palestra Itália
+6ª	12/06/2008	20h30m	Atlético/MG	4	x	2	Ipatinga	Mineirão
+6ª	14/06/2008	16h00m	Flamengo	2	x	4	São Paulo	Maracanã
+6ª	14/06/2008	16h00m	Internacional	2	x	1	Botafogo	Beira-Rio
+6ª	14/06/2008	16h00m	Figueirense	3	x	1	Sport	Orlando Scarpelli
+6ª	14/06/2008	16h00m	Portuguesa	1	x	0	Atlético/PR	Canindé
+6ª	14/06/2008	18h10m	Náutico	1	x	1	Vasco	Aflitos
+6ª	14/06/2008	18h10m	Goiás	0	x	3	Grêmio	Serra Dourada
+6ª	14/06/2008	18h10m	Coritiba	0	x	0	Vitória	Couto Pereira
+7ª	21/06/2008	18h10m	Botafogo	0	x	1	Portuguesa	João Havelange
+7ª	21/06/2008	18h10m	São Paulo	1	x	0	Sport	Morumbi
+7ª	21/06/2008	18h10m	Cruzeiro	3	x	0	Figueirense	Mineirão
+7ª	22/06/2008	16h00m	Ipatinga	1	x	3	Flamengo	Ipatingão
+7ª	22/06/2008	16h00m	Vitória	2	x	1	Internacional	Barradão
+7ª	22/06/2008	16h00m	Vasco	0	x	2	Palmeiras	São Januário
+7ª	22/06/2008	16h00m	Grêmio	3	x	0	Atlético/PR	Olímpico
+7ª	21/06/2008	18h10m	Coritiba	2	x	1	Fluminense	Couto Pereira
+7ª	22/06/2008	18h10m	Santos	0	x	4	Goiás	Vila Belmiro
+7ª	22/06/2008	18h10m	Náutico	2	x	1	Atlético/MG	Aflitos
+8ª	28/06/2008	18h10m	Vasco	4	x	2	Ipatinga	São Januário
+8ª	28/06/2008	18h10m	Portuguesa	0	x	0	Santos	Canindé
+8ª	28/06/2008	18h10m	Vitória	3	x	0	Goiás	Barradão
+8ª	29/06/2008	16h00m	Figueirense	1	x	1	Atlético/MG	Orlando Scarpelli
+8ª	29/06/2008	16h00m	Sport	1	x	2	Flamengo	Ilha do Retiro
+8ª	29/06/2008	16h00m	Cruzeiro	1	x	1	São Paulo	Mineirão
+8ª	29/06/2008	16h00m	Atlético/PR	1	x	1	Coritiba	Kyocera Arena
+8ª	29/06/2008	18h10m	Palmeiras	2	x	0	Náutico	Palestra Itália
+8ª	29/06/2008	18h10m	Fluminense	0	x	0	Botafogo	Maracanã
+8ª	29/06/2008	18h10m	Grêmio	1	x	1	Internacional	Olímpico
+9ª	05/07/2008	18h10m	Atlético/PR	1	x	0	Santos	Kyocera Arena
+9ª	05/07/2008	18h10m	Flamengo	3	x	0	Náutico	Maracanã
+9ª	05/07/2008	18h10m	Sport	1	x	0	Cruzeiro	Ilha do Retiro
+9ª	06/07/2008	16h00m	Figueirense	2	x	1	Vasco	Orlando Scarpelli
+9ª	06/07/2008	16h00m	Atlético/MG	1	x	1	Palmeiras	Mineirão
+9ª	06/07/2008	16h00m	Portuguesa	1	x	2	Vitória	Canindé
+9ª	06/07/2008	16h00m	Internacional	3	x	0	Coritiba	Beira-Rio
+9ª	06/07/2008	18h10m	São Paulo	1	x	1	Ipatinga	Morumbi
+9ª	06/07/2008	18h10m	Goiás	1	x	0	Fluminense	Serra Dourada
+9ª	06/07/2008	18h10m	Botafogo	2	x	0	Grêmio	João Havelange
+10ª	09/07/2008	19h30m	Internacional	1	x	0	Goiás	Beira-Rio
+10ª	09/07/2008	19h30m	Coritiba	4	x	0	Portuguesa	Couto Pereira
+10ª	09/07/2008	20h30m	Fluminense	3	x	0	Atlético/PR	Maracanã
+10ª	09/07/2008	20h30m	Vitória	5	x	2	Botafogo	Barradão
+10ª	09/07/2008	21h45m	Santos	1	x	1	Grêmio	Vila Belmiro
+10ª	09/07/2008	21h45m	Náutico	2	x	1	São Paulo	Aflitos
+10ª	09/07/2008	21h45m	Atlético/MG	1	x	1	Flamengo	Mineirão
+10ª	10/07/2008	20h30m	Vasco	4	x	0	Sport	São Januário
+10ª	10/07/2008	20h30m	Palmeiras	1	x	1	Figueirense	Palestra Itália
+10ª	10/07/2008	20h30m	Ipatinga	2	x	2	Cruzeiro	Ipatingão
+11ª	12/07/2008	18h10m	Fluminense	2	x	1	Vitória	Maracanã
+11ª	12/07/2008	18h10m	Goiás	2	x	2	Coritiba	Serra Dourada
+11ª	13/07/2008	16h00m	São Paulo	2	x	1	Palmeiras	Morumbi
+11ª	13/07/2008	16h00m	Atlético/PR	1	x	1	Internacional	Kyocera Arena
+11ª	13/07/2008	16h00m	Santos	2	x	2	Botafogo	Vila Belmiro
+11ª	13/07/2008	16h00m	Cruzeiro	2	x	1	Atlético/MG	Mineirão
+11ª	13/07/2008	16h00m	Ipatinga	0	x	1	Figueirense	Ipatingão
+11ª	13/07/2008	18h10m	Grêmio	2	x	1	Portuguesa	Olímpico
+11ª	13/07/2008	18h10m	Flamengo	3	x	1	Vasco	Maracanã
+11ª	13/07/2008	18h10m	Náutico	0	x	2	Sport	Aflitos
+12ª	16/07/2008	19h30m	Sport	2	x	2	Grêmio	Ilha do Retiro
+12ª	16/07/2008	19h30m	Botafogo	4	x	0	Ipatinga	João Havelange
+12ª	16/07/2008	20h30m	Portuguesa	3	x	2	Náutico	Canindé
+12ª	16/07/2008	20h30m	Figueirense	3	x	0	Santos	Orlando Scarpelli
+12ª	16/07/2008	21h45m	Cruzeiro	1	x	0	Atlético/PR	Mineirão
+12ª	16/07/2008	21h45m	Palmeiras	3	x	1	Fluminense	Palestra Itália
+12ª	16/07/2008	21h45m	Vitória	1	x	3	São Paulo	Barradão
+12ª	17/07/2008	20h30m	Internacional	1	x	0	Atlético/MG	Beira-Rio
+12ª	17/07/2008	20h30m	Coritiba	1	x	0	Flamengo	Couto Pereira
+12ª	17/07/2008	20h30m	Vasco	1	x	1	Goiás	São Januário
+13ª	19/07/2008	18h10m	Ipatinga	4	x	1	Portuguesa	Ipatingão
+13ª	19/07/2008	18h10m	Fluminense	1	x	0	Figueirense	Maracanã
+13ª	19/07/2008	18h10m	Grêmio	1	x	0	Cruzeiro	Olímpico
+13ª	20/07/2008	16h00m	Goiás	3	x	2	Palmeiras	Serra Dourada
+13ª	20/07/2008	16h00m	Santos	1	x	0	Sport	Vila Belmiro
+13ª	20/07/2008	16h00m	Atlético/PR	3	x	1	Vasco	Kyocera Arena
+13ª	20/07/2008	16h00m	Náutico	1	x	1	Internacional	Aflitos
+13ª	20/07/2008	18h10m	São Paulo	2	x	1	Botafogo	Morumbi
+13ª	20/07/2008	18h10m	Flamengo	0	x	1	Vitória	Maracanã
+13ª	20/07/2008	18h10m	Atlético/MG	3	x	2	Coritiba	Mineirão
+14ª	23/07/2008	19h30m	Coritiba	1	x	0	Ipatinga	Couto Pereira
+14ª	23/07/2008	19h30m	Cruzeiro	0	x	1	Goiás	Mineirão
+14ª	23/07/2008	20h30m	Vitória	2	x	0	Náutico	Barradão
+14ª	23/07/2008	21h45m	Internacional	2	x	0	São Paulo	Beira-Rio
+14ª	23/07/2008	21h45m	Botafogo	4	x	0	Atlético/MG	João Havelange
+14ª	23/07/2008	21h45m	Portuguesa	2	x	2	Flamengo	Canindé
+14ª	23/07/2008	21h45m	Vasco	3	x	3	Fluminense	Maracanã
+14ª	24/07/2008	20h30m	Palmeiras	4	x	2	Santos	Palestra Itália
+14ª	24/07/2008	20h30m	Figueirense	1	x	7	Grêmio	Orlando Scarpelli
+14ª	24/07/2008	20h30m	Sport	1	x	0	Atlético/PR	Ilha do Retiro
+15ª	26/07/2008	18h10m	Fluminense	1	x	3	Cruzeiro	Maracanã
+15ª	26/07/2008	18h10m	Ipatinga	1	x	0	Internacional	Ipatingão
+15ª	26/07/2008	18h10m	Náutico	1	x	2	Coritiba	Aflitos
+15ª	27/07/2008	16h00m	Grêmio	1	x	1	Palmeiras	Olímpico
+15ª	27/07/2008	16h00m	Santos	5	x	2	Vasco	Vila Belmiro
+15ª	27/07/2008	16h00m	Goiás	1	x	2	Sport	Serra Dourada
+15ª	27/07/2008	16h00m	Atlético/PR	0	x	0	Figueirense	Kyocera Arena
+15ª	27/07/2008	18h10m	São Paulo	3	x	1	Portuguesa	Morumbi
+15ª	27/07/2008	18h10m	Atlético/MG	2	x	1	Vitória	Mineirão
+15ª	27/07/2008	18h10m	Flamengo	0	x	0	Botafogo	Maracanã
+16ª	30/07/2008	19h30m	Vitória	2	x	1	Atlético/PR	Barradão
+16ª	30/07/2008	19h30m	Cruzeiro	4	x	2	Náutico	Mineirão
+16ª	30/07/2008	20h30m	Portuguesa	3	x	1	Fluminense	Canindé
+16ª	30/07/2008	20h30m	Botafogo	2	x	0	Goiás	João Havelange
+16ª	30/07/2008	21h45m	Internacional	0	x	1	Santos	Beira-Rio
+16ª	30/07/2008	21h45m	Figueirense	1	x	1	São Paulo	Orlando Scarpelli
+16ª	30/07/2008	21h45m	Palmeiras	1	x	0	Flamengo	Palestra Itália
+16ª	31/07/2008	20h30m	Coritiba	0	x	1	Grêmio	Couto Pereira
+16ª	31/07/2008	20h30m	Vasco	6	x	1	Atlético/MG	São Januário
+16ª	31/07/2008	20h30m	Sport	3	x	1	Ipatinga	Ilha do Retiro
+17ª	02/08/2008	18h10m	Fluminense	1	x	2	Internacional	Maracanã
+17ª	02/08/2008	18h10m	Goiás	4	x	0	Portuguesa	Serra Dourada
+17ª	02/08/2008	18h10m	Náutico	1	x	2	Figueirense	Aflitos
+17ª	03/08/2008	16h00m	Flamengo	1	x	2	Cruzeiro	Maracanã
+17ª	03/08/2008	16h00m	Ipatinga	1	x	2	Palmeiras	Ipatingão
+17ª	03/08/2008	16h00m	São Paulo	4	x	0	Vasco	Morumbi
+17ª	03/08/2008	16h00m	Grêmio	2	x	0	Vitória	Olímpico
+17ª	03/08/2008	18h10m	Atlético/PR	0	x	3	Botafogo	Kyocera Arena
+17ª	03/08/2008	18h10m	Santos	1	x	3	Coritiba	Vila Belmiro
+17ª	03/08/2008	18h10m	Atlético/MG	2	x	1	Sport	Mineirão
+18ª	06/08/2008	19h30m	Grêmio	1	x	0	Ipatinga	Olímpico
+18ª	06/08/2008	19h30m	Vasco	0	x	2	Coritiba	São Januário
+18ª	06/08/2008	20h30m	Atlético/PR	2	x	0	Náutico	Kyocera Arena
+18ª	06/08/2008	20h30m	Sport	2	x	0	Portuguesa	Ilha do Retiro
+18ª	06/08/2008	21h45m	Santos	2	x	3	Atlético/MG	Vila Belmiro
+18ª	06/08/2008	21h45m	Goiás	2	x	1	Flamengo	Serra Dourada
+18ª	06/08/2008	21h45m	Fluminense	3	x	1	São Paulo	Maracanã
+18ª	07/08/2008	20h30m	Figueirense	1	x	2	Botafogo	Orlando Scarpelli
+18ª	07/08/2008	20h30m	Palmeiras	3	x	0	Vitória	Palestra Itália
+18ª	07/08/2008	20h30m	Cruzeiro	2	x	0	Internacional	Mineirão
+19ª	09/08/2008	18h10m	Flamengo	1	x	0	Atlético/PR	Maracanã
+19ª	09/08/2008	18h10m	Atlético/MG	0	x	4	Grêmio	Mineirão
+19ª	09/08/2008	18h10m	São Paulo	2	x	1	Goiás	Morumbi
+19ª	10/08/2008	16h00m	Coritiba	3	x	0	Sport	Couto Pereira
+19ª	10/08/2008	16h00m	Botafogo	1	x	0	Palmeiras	João Havelange
+19ª	10/08/2008	16h00m	Vitória	5	x	0	Vasco	Barradão
+19ª	10/08/2008	16h00m	Portuguesa	2	x	1	Cruzeiro	Canindé
+19ª	10/08/2008	18h10m	Ipatinga	2	x	1	Fluminense	Ipatingão
+19ª	10/08/2008	18h10m	Náutico	1	x	0	Santos	Aflitos
+19ª	10/08/2008	18h10m	Internacional	1	x	1	Figueirense	Beira-Rio
+20ª	16/08/2008	18h20m	Atlético/PR	5	X	0	Ipatinga	Kyocera Arena
+20ª	16/08/2008	18h20m	Cruzeiro	2	X	1	Vitória	Mineirão
+20ª	16/08/2008	18h20m	Figueirense	2	X	1	Portuguesa	Orlando Scarpelli
+20ª	17/08/2008	16h00m	Goiás	3	X	0	Náutico	Serra Dourada
+20ª	17/08/2008	16h00m	Grêmio	1	X	0	São Paulo	Olímpico
+20ª	17/08/2008	16h00m	Santos	2	X	2	Flamengo	Vila Belmiro
+20ª	17/08/2008	16h00m	Vasco	4	X	0	Internacional	São Januário
+20ª	17/08/2008	18h10m	Fluminense	1	X	0	Atlético/MG	Maracanã
+20ª	17/08/2008	18h10m	Palmeiras	1	X	0	Coritiba	Palestra Itália
+20ª	17/08/2008	18h10m	Sport	0	X	1	Botafogo	Ilha do Retiro
+21ª	20/08/2008	19h30m	Coritiba	3	X	0	Figueirense	Couto Pereira
+21ª	20/08/2008	19h30m	Vitória	0	X	0	Sport	Barradão
+21ª	20/08/2008	20h30m	Botafogo	1	X	0	Cruzeiro	João Havelange
+21ª	20/08/2008	20h30m	São Paulo	3	X	1	Atlético/PR	Morumbi
+21ª	20/08/2008	22h00m	Internacional	4	X	1	Palmeiras	Beira-Rio
+21ª	20/08/2008	22h00m	Ipatinga	1	X	1	Santos	Ipatingão
+21ª	20/08/2008	22h00m	Náutico	1	X	3	Fluminense	Aflitos
+21ª	21/08/2008	20h30m	Atlético/MG	1	X	1	Goiás	Mineirão
+21ª	21/08/2008	20h30m	Flamengo	2	X	1	Grêmio	Maracanã
+21ª	21/08/2008	20h30m	Portuguesa	0	X	1	Vasco	Canindé
+22ª	23/08/2008	18h20m	Figueirense	1	X	2	Vitória	Orlando Scarpelli
+22ª	23/08/2008	18h20m	Fluminense	1	X	1	Sport	Maracanã
+22ª	24/08/2008	16h00m	Coritiba	2	X	2	São Paulo	Couto Pereira
+22ª	24/08/2008	16h00m	Internacional	1	X	1	Flamengo	Beira-Rio
+22ª	24/08/2008	16h00m	Ipatinga	1	X	0	Goiás	Ipatingão
+22ª	24/08/2008	16h00m	Palmeiras	4	X	2	Portuguesa	Palestra Itália
+22ª	24/08/2008	16h00m	Santos	2	X	0	Cruzeiro	Vila Belmiro
+22ª	24/08/2008	18h10m	Atlético/MG	4	X	0	Atlético/PR	Mineirão
+22ª	24/08/2008	18h10m	Náutico	1	X	1	Grêmio	Aflitos
+22ª	24/08/2008	18h10m	Vasco	1	X	1	Botafogo	Maracanã
+23ª	30/08/2008	18h20m	Botafogo	1	X	1	Náutico	João Havelange
+23ª	30/08/2008	18h20m	Goiás	2	X	0	Figueirense	Serra Dourada
+23ª	30/08/2008	18h20m	Vitória	0	X	0	Ipatinga	Barradão
+23ª	31/08/2008	16h00m	Atlético/PR	1	X	2	Palmeiras	Kyocera Arena
+23ª	31/08/2008	16h00m	Grêmio	2	X	1	Vasco	Olímpico
+23ª	31/08/2008	16h00m	São Paulo	0	X	0	Santos	Morumbi
+23ª	31/08/2008	16h00m	Sport	1	X	0	Internacional	Ilha do Retiro
+23ª	31/08/2008	18h10m	Cruzeiro	1	X	1	Coritiba	Mineirão
+23ª	31/08/2008	18h10m	Flamengo	2	X	2	Fluminense	Maracanã
+23ª	31/08/2008	18h10m	Portuguesa	1	X	1	Atlético/MG	Canindé
+24ª	03/09/2008	22h00m	Atlético/MG	1	X	1	São Paulo	Mineirão
+24ª	03/09/2008	22h00m	Figueirense	2	X	3	Flamengo	Orlando Scarpelli
+24ª	03/09/2008	22h00m	Santos	2	X	0	Vitória	Vila Belmiro
+24ª	03/09/2008	19h30m	Goiás	4	X	0	Atlético/PR	Serra Dourada
+24ª	04/09/2008	20h30m	Palmeiras	0	X	3	Sport	Palestra Itália
+24ª	04/09/2008	20h30m	Vasco	1	X	3	Cruzeiro	São Januário
+24ª	06/09/2008	18h20m	Coritiba	0	X	1	Botafogo	Couto Pereira
+24ª	06/09/2008	18h20m	Fluminense	0	X	0	Grêmio	Maracanã
+24ª	06/09/2008	18h20m	Internacional	1	X	0	Portuguesa	Beira-Rio
+24ª	06/09/2008	18h20m	Náutico	2	X	0	Ipatinga	Aflitos
+25ª	13/09/2008	18h20m	Atlético/PR	2	X	0	Portuguesa	Kyocera Arena
+25ª	13/09/2008	18h20m	Grêmio	1	X	2	Goiás	Olímpico
+25ª	13/09/2008	18h20m	Ipatinga	3	X	2	Atlético/MG	Ipatingão
+25ª	14/09/2008	16h00m	Cruzeiro	0	X	1	Palmeiras	Mineirão
+25ª	14/09/2008	16h00m	São Paulo	2	X	0	Flamengo	Morumbi
+25ª	14/09/2008	16h00m	Sport	5	X	0	Figueirense	Ilha do Retiro
+25ª	14/09/2008	16h00m	Vasco	1	X	3	Náutico	São Januário
+25ª	14/09/2008	18h10m	Botafogo	1	X	2	Internacional	João Havelange
+25ª	14/09/2008	18h10m	Santos	2	X	0	Fluminense	Vila Belmiro
+25ª	14/09/2008	18h10m	Vitória	1	X	0	Coritiba	Barradão
+26ª	20/09/2008	18h20m	Atlético/MG	2	X	1	Náutico	Mineirão
+26ª	20/09/2008	18h20m	Fluminense	2	X	3	Coritiba	Maracanã
+26ª	20/09/2008	18h20m	Goiás	4	X	1	Santos	Serra Dourada
+26ª	21/09/2008	16h00m	Atlético/PR	0	X	0	Grêmio	Kyocera Arena
+26ª	21/09/2008	16h00m	Figueirense	3	X	4	Cruzeiro	Orlando Scarpelli
+26ª	21/09/2008	16h00m	Portuguesa	3	X	1	Botafogo	Canindé
+26ª	21/09/2008	16h00m	Sport	0	X	0	São Paulo	Ilha do Retiro
+26ª	21/09/2008	18h10m	Flamengo	1	X	0	Ipatinga	Maracanã
+26ª	21/09/2008	18h10m	Internacional	1	X	0	Vitória	Beira-Rio
+26ª	21/09/2008	18h10m	Palmeiras	2	X	0	Vasco	Palestra Itália
+27ª	27/09/2008	18h20m	Atlético/MG	0	X	0	Figueirense	Mineirão
+27ª	27/09/2008	18h20m	Flamengo	2	X	1	Sport	Maracanã
+27ª	27/09/2008	18h20m	Goiás	3	X	0	Vitória	Serra Dourada
+27ª	28/09/2008	16h00m	Coritiba	1	X	1	Atlético/PR	Couto Pereira
+27ª	28/09/2008	16h00m	Ipatinga	3	X	1	Vasco	Ipatingão
+27ª	28/09/2008	16h00m	Náutico	0	X	0	Palmeiras	Aflitos
+27ª	28/09/2008	16h00m	São Paulo	2	X	0	Cruzeiro	Morumbi
+27ª	28/09/2008	18h10m	Botafogo	1	X	1	Fluminense	Maracanã
+27ª	28/09/2008	18h10m	Internacional	4	X	1	Grêmio	Beira-Rio
+27ª	28/09/2008	18h10m	Santos	1	X	1	Portuguesa	Vila Belmiro
+28ª	01/10/2008	16h00m	Fluminense	1	X	1	Goiás	Maracanã
+28ª	02/10/2008	20h30m	Cruzeiro	1	X	0	Sport	Mineirão
+28ª	02/10/2008	20h30m	Vitória	3	X	1	Portuguesa	Barradão
+28ª	04/10/2008	16h00m	Ipatinga	1	X	3	São Paulo	Ipatingão
+28ª	04/10/2008	18h20m	Náutico	0	X	2	Flamengo	Aflitos
+28ª	04/10/2008	16h00m	Palmeiras	3	X	1	Atlético/MG	Palestra Itália
+28ª	04/10/2008	18h20m	Coritiba	4	X	2	Internacional	Couto Pereira
+28ª	04/10/2008	16h00m	Grêmio	2	X	1	Botafogo	Olímpico
+28ª	04/10/2008	18h20m	Santos	4	X	0	Atlético/PR	Vila Belmiro
+28ª	04/10/2008	18h20m	Vasco	2	X	4	Figueirense	São Januário
+29ª	08/10/2008	22h00m	Figueirense	0	X	0	Palmeiras	Orlando Scarpelli
+29ª	08/10/2008	22h00m	Grêmio	2	X	0	Santos	Olímpico
+29ª	08/10/2008	22h00m	Sport	2	X	2	Vasco	Ilha do Retiro
+29ª	09/10/2008	16h00m	Botafogo	3	X	1	Vitória	João Havelange
+29ª	09/10/2008	20h30m	Cruzeiro	1	X	0	Ipatinga	Mineirão
+29ª	09/10/2008	20h30m	São Paulo	1	X	0	Náutico	Morumbi
+29ª	11/10/2008	18h20m	Atlético/PR	1	X	3	Fluminense	Kyocera Arena
+29ª	11/10/2008	18h20m	Flamengo	0	X	3	Atlético/MG	Maracanã
+29ª	11/10/2008	18h20m	Goiás	1	X	1	Internacional	Serra Dourada
+29ª	11/10/2008	18h20m	Portuguesa	0	X	0	Coritiba	Canindé
+30ª	18/10/2008	18h20m	Botafogo	0	X	1	Santos	João Havelange
+30ª	18/10/2008	18h20m	Figueirense	1	X	1	Ipatinga	Orlando Scarpelli
+30ª	18/10/2008	18h20m	Internacional	2	X	1	Atlético/PR	Beira-Rio
+30ª	19/10/2008	16h00m	Atlético/MG	0	X	2	Cruzeiro	Mineirão
+30ª	19/10/2008	16h00m	Coritiba	1	X	1	Goiás	Couto Pereira
+30ª	19/10/2008	16h00m	Palmeiras	2	X	2	São Paulo	A definir
+30ª	19/10/2008	16h00m	Vitória	2	X	2	Fluminense	Barradão
+30ª	19/10/2008	18h10m	Portuguesa	2	X	0	Grêmio	Canindé
+30ª	19/10/2008	18h10m	Sport	2	X	2	Náutico	Ilha do Retiro
+30ª	19/10/2008	18h10m	Vasco	0	X	1	Flamengo	Maracanã
+31ª	22/10/2008	22h00m	Goiás	2	X	4	Vasco	Serra Dourada
+31ª	23/10/2008	20h30m	Flamengo	5	X	0	Coritiba	Maracanã
+31ª	23/10/2008	20h30m	Grêmio	1	X	0	Sport	Olímpico
+31ª	23/10/2008	20h30m	São Paulo	2	X	1	Vitória	Morumbi
+31ª	25/10/2008	16h00m	Fluminense	3	X	0	Palmeiras	Maracanã
+31ª	25/10/2008	16h00m	Ipatinga	0	X	3	Botafogo	Ipatingão
+31ª	25/10/2008	18h20m	Atlético/MG	2	X	2	Internacional	Mineirão
+31ª	25/10/2008	18h20m	Atlético/PR	1	X	0	Cruzeiro	Kyocera Arena
+31ª	25/10/2008	18h20m	Náutico	1	X	1	Portuguesa	Aflitos
+31ª	25/10/2008	18h20m	Santos	3	X	0	Figueirense	Vila Belmiro
+32ª	29/10/2008	19h30m	Coritiba	2	X	1	Atlético/MG	Couto Pereira
+32ª	29/10/2008	19h30m	Portuguesa	2	X	0	Ipatinga	Canindé
+32ª	29/10/2008	20h30m	Internacional	1	X	1	Náutico	Beira-Rio
+32ª	29/10/2008	20h30m	Palmeiras	1	X	0	Goiás	Palestra Itália
+32ª	29/10/2008	21h50m	Botafogo	1	X	2	São Paulo	João Havelange
+32ª	29/10/2008	21h50m	Cruzeiro	3	X	0	Grêmio	Mineirão
+32ª	29/10/2008	21h50m	Vitória	0	X	0	Flamengo	Barradão
+32ª	30/10/2008	20h30m	Figueirense	0	X	1	Fluminense	Orlando Scarpelli
+32ª	30/10/2008	20h30m	Sport	1	X	1	Santos	Ilha do Retiro
+32ª	30/10/2008	20h30m	Vasco	2	X	2	Atlético/PR	São Januário
+33ª	01/11/2008	18h20m	Flamengo	2	X	2	Portuguesa	Maracanã
+33ª	01/11/2008	18h20m	Ipatinga	2	X	0	Coritiba	Ipatingão
+33ª	01/11/2008	18h20m	Náutico	1	X	0	Vitória	Aflitos
+33ª	02/11/2008	17h00m	Atlético/MG	2	X	1	Botafogo	Mineirão
+33ª	02/11/2008	17h00m	Atlético/PR	1	X	0	Sport	Kyocera Arena
+33ª	02/11/2008	17h00m	Goiás	3	X	0	Cruzeiro	Serra Dourada
+33ª	02/11/2008	17h00m	Santos	1	X	2	Palmeiras	Vila Belmiro
+33ª	02/11/2008	19h10m	Fluminense	0	X	1	Vasco	Maracanã
+33ª	02/11/2008	19h10m	Grêmio	1	X	1	Figueirense	Olímpico
+33ª	02/11/2008	19h10m	São Paulo	3	X	0	Internacional	Morumbi
+34ª	08/11/2008	18h30m	Figueirense	0	X	2	Atlético/PR	Orlando Scarpelli
+34ª	08/11/2008	18h30m	Portuguesa	2	X	3	São Paulo	Canindé
+34ª	08/11/2008	18h30m	Vasco	1	X	0	Santos	São Januário
+34ª	09/11/2008	17h00m	Coritiba	0	X	0	Náutico	Couto Pereira
+34ª	09/11/2008	17h00m	Cruzeiro	1	X	0	Fluminense	Mineirão
+34ª	09/11/2008	17h00m	Palmeiras	0	X	1	Grêmio	Palestra Itália
+34ª	09/11/2008	17h00m	Sport	2	X	1	Goiás	Ilha do Retiro
+34ª	09/11/2008	19h10m	Botafogo	0	X	1	Flamengo	Maracanã
+34ª	09/11/2008	19h10m	Internacional	4	X	0	Ipatinga	Beira-Rio
+34ª	09/11/2008	19h10m	Vitória	0	X	1	Atlético/MG	Barradão
+35ª	12/11/2008	22h00m	Atlético/MG	4	X	1	Vasco	Mineirão
+35ª	15/11/2008	18h30m	Fluminense	3	X	1	Portuguesa	Maracanã
+35ª	15/11/2008	18h30m	Ipatinga	3	X	0	Sport	Ipatingão
+35ª	15/11/2008	18h30m	Náutico	5	X	2	Cruzeiro	Aflitos
+35ª	16/11/2008	17h00m	Flamengo	5	X	2	Palmeiras	Maracanã
+35ª	16/11/2008	17h00m	Goiás	3	X	1	Botafogo	Serra Dourada
+35ª	16/11/2008	17h00m	São Paulo	3	X	1	Figueirense	Morumbi
+35ª	16/11/2008	19h10m	Atlético/PR	2	X	1	Vitória	Kyocera Arena
+35ª	16/11/2008	19h10m	Grêmio	2	X	1	Coritiba	Olímpico
+35ª	16/11/2008	19h10m	Santos	1	X	0	Internacional	Vila Belmiro
+36ª	20/11/2008	20h30m	Figueirense	4	X	3	Náutico	Orlando Scarpelli
+36ª	22/11/2008	18h30m	Botafogo	2	X	2	Atlético/PR	João Havelange
+36ª	22/11/2008	18h30m	Coritiba	5	X	1	Santos	Couto Pereira
+36ª	22/11/2008	18h30m	Portuguesa	0	X	0	Goiás	Canindé
+36ª	23/11/2008	17h00m	Cruzeiro	3	X	2	Flamengo	Mineirão
+36ª	23/11/2008	17h00m	Vasco	1	X	2	São Paulo	São Januário
+36ª	23/11/2008	17h00m	Vitória	4	X	2	Grêmio	Barradão
+36ª	23/11/2008	19h10m	Internacional	0	X	2	Fluminense	Beira-Rio
+36ª	23/11/2008	19h10m	Palmeiras	2	X	0	Ipatinga	Palestra Itália
+36ª	23/11/2008	19h10m	Sport	3	X	0	Atlético/MG	Ilha do Retiro
+37ª	30/11/2008	17h00m	Botafogo	1	X	3	Figueirense	João Havelange
+37ª	30/11/2008	17h00m	Internacional	1	X	0	Cruzeiro	Beira-Rio
+37ª	30/11/2008	17h00m	Vitória	0	X	0	Palmeiras	Barradão
+37ª	30/11/2008	17h00m	Portuguesa	2	X	2	Sport	Canindé
+37ª	30/11/2008	17h00m	Coritiba	0	X	2	Vasco	Couto Pereira
+37ª	30/11/2008	17h00m	Náutico	2	X	1	Atlético/PR	Aflitos
+37ª	30/11/2008	17h00m	Flamengo	3	X	3	Goiás	Maracanã
+37ª	30/11/2008	17h00m	Ipatinga	1	X	4	Grêmio	Ipatingão
+37ª	30/11/2008	17h00m	Atlético/MG	0	X	0	Santos	Mineirão
+37ª	30/11/2008	17h00m	São Paulo	1	X	1	Fluminense	Morumbi
+38ª	07/12/2008	17h00m	Fluminense	1	X	1	Ipatinga	Maracanã
+38ª	07/12/2008	17h00m	Grêmio	2	X	0	Atlético/MG	Olímpico
+38ª	07/12/2008	17h00m	Goiás	0	X	1	São Paulo	Serra Dourada
+38ª	07/12/2008	17h00m	Santos	0	X	0	Náutico	Vila Belmiro
+38ª	07/12/2008	17h00m	Atlético/PR	5	X	3	Flamengo	Kyocera Arena
+38ª	07/12/2008	17h00m	Sport	4	X	3	Coritiba	Ilha do Retiro
+38ª	07/12/2008	17h00m	Vasco	0	X	2	Vitória	São Januário
+38ª	07/12/2008	17h00m	Figueirense	3	X	1	Internacional	Orlando Scarpelli
+38ª	07/12/2008	17h00m	Cruzeiro	4	X	1	Portuguesa	Mineirão
+38ª	07/12/2008	17h00m	Palmeiras	0	X	1	Botafogo	Palestra Itália

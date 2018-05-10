@@ -1,0 +1,380 @@
+1ª	09/05/2009	18h30m	Avaí	2	x	2	Atlético/MG	Ressacada
+1ª	09/05/2009	18h30m	Palmeiras	2	x	1	Coritiba	Palestra Itália
+1ª	09/05/2009	18h30m	Sport	1	x	1	Barueri	Ilha do Retiro
+1ª	10/05/2009	16h00m	Atlético/PR	0	x	2	Vitória	Arena da Baixada
+1ª	10/05/2009	16h00m	Corinthians	0	x	1	Internacional	Pacaembu
+1ª	10/05/2009	16h00m	Cruzeiro	2	x	0	Flamengo	Mineirão
+1ª	10/05/2009	16h00m	Fluminense	1	x	0	São Paulo	Maracanã
+1ª	10/05/2009	18h30m	Goiás	3	x	3	Náutico	Serra Dourada
+1ª	10/05/2009	18h30m	Grêmio	1	x	1	Santos	Olímpico
+1ª	10/05/2009	18h30m	Santo André	1	x	1	Botafogo	Bruno José Daniel
+2ª	16/05/2009	18h30m	Atlético/MG	2	x	1	Grêmio	Mineirão
+2ª	16/05/2009	18h30m	Coritiba	2	x	4	Santo André	Couto Pereira
+2ª	16/05/2009	18h30m	Flamengo	0	x	0	Avaí	Maracanã
+2ª	17/05/2009	16h00m	Barueri	0	x	0	Fluminense	Arena Barueri
+2ª	17/05/2009	16h00m	Internacional	2	x	0	Palmeiras	Beira Rio
+2ª	17/05/2009	16h00m	Santos	3	x	3	Goiás	Vila Belmiro
+2ª	17/05/2009	16h00m	São Paulo	2	x	2	Atlético/PR	Morumbi
+2ª	17/05/2009	18h30m	Botafogo	0	x	0	Corinthians	João Havelange
+2ª	17/05/2009	18h30m	Náutico	2	x	0	Cruzeiro	Aflitos
+2ª	17/05/2009	18h30m	Vitória	1	x	0	Sport	Barradão
+3ª	23/05/2009	18h30m	Corinthians	2	x	1	Barueri	Pacaembu
+3ª	23/05/2009	18h30m	Cruzeiro	2	x	0	Vitória	Mineirão
+3ª	23/05/2009	18h30m	Goiás	0	x	1	Internacional	Serra Dourada
+3ª	24/05/2009	16h00m	Atlético/PR	2	x	3	Náutico	Arena da Baixada
+3ª	24/05/2009	16h00m	Grêmio	2	x	0	Botafogo	Olímpico
+3ª	24/05/2009	16h00m	Fluminense	1	x	4	Santos	Maracanã
+3ª	24/05/2009	16h00m	Palmeiras	0	x	0	São Paulo	Palestra Itália
+3ª	24/05/2009	18h30m	Santo André	1	x	2	Flamengo	Bruno José Daniel
+3ª	24/05/2009	18h30m	Sport	2	x	3	Atlético/MG	Ilha do Retiro
+3ª	24/05/2009	18h30m	Avaí	2	x	2	Coritiba	Ressacada
+4ª	31/05/2009	16h00m	Flamengo	2	x	1	Atlético/PR	Maracanã
+4ª	30/05/2009	18h30m	Coritiba	1	x	3	Goiás	Couto Pereira
+4ª	30/05/2009	18h30m	Atlético/MG	0	x	0	Santo André	Mineirão
+4ª	31/05/2009	16h00m	São Paulo	3	x	0	Cruzeiro	Morumbi
+4ª	31/05/2009	16h00m	Santos	3	x	1	Corinthians	Vila Belmiro
+4ª	31/05/2009	16h00m	Náutico	1	x	1	Fluminense	Aflitos
+4ª	30/05/2009	18h30m	Botafogo	2	x	2	Sport	João Havelange
+4ª	31/05/2009	16h00m	Vitória	1	x	0	Grêmio	Barradão
+4ª	31/05/2009	18h30m	Barueri	2	x	2	Palmeiras	Arena Barueri
+4ª	31/05/2009	18h30m	Internacional	2	x	1	Avaí	Beira Rio
+5ª	04/06/2009	21h00m	Grêmio	3	x	0	Náutico	Olímpico
+5ª	04/06/2009	21h00m	Santo André	3	x	3	Santos	Bruno José Daniel
+5ª	06/06/2009	21h00m	Corinthians	2	x	0	Coritiba	Pacaembu
+5ª	07/06/2009	16h00m	Palmeiras	2	x	1	Vitória	Palestra Itália
+5ª	07/06/2009	16h00m	Sport	4	x	2	Flamengo	Ilha do Retiro
+5ª	07/06/2009	16h00m	Avaí	0	x	0	São Paulo	Ressacada
+5ª	07/06/2009	16h00m	Atlético/PR	0	x	4	Atlético/MG	Arena da Baixada
+5ª	07/06/2009	18h30m	Cruzeiro	1	x	1	Internacional	Mineirão
+5ª	07/06/2009	18h30m	Fluminense	1	x	0	Botafogo	Maracanã
+5ª	07/06/2009	18h30m	Goiás	2	x	2	Barueri	Serra Dourada
+6ª	13/06/2009	18h30m	São Paulo	1	x	1	Santo André	Morumbi
+6ª	13/06/2009	18h30m	Sport	0	x	1	Atlético/PR	Ilha do Retiro
+6ª	13/06/2009	18h30m	Botafogo	2	x	0	Santos	João Havelange
+6ª	14/06/2009	16h00m	Coritiba	5	x	0	Flamengo	Couto Pereira
+6ª	14/06/2009	16h00m	Fluminense	0	x	0	Grêmio	Maracanã
+6ª	14/06/2009	16h00m	Goiás	0	x	0	Corinthians	Serra Dourada
+6ª	14/06/2009	16h00m	Atlético/MG	3	x	0	Náutico	Mineirão
+6ª	14/06/2009	18h30m	Internacional	0	x	0	Vitória	Beira Rio
+6ª	14/06/2009	18h30m	Palmeiras	3	x	1	Cruzeiro	Palestra Itália
+6ª	14/06/2009	18h30m	Barueri	3	x	1	Avaí	Arena Barueri
+7ª	20/06/2009	16h00m	Atlético/PR	2	x	2	Palmeiras	Arena da Baixada
+7ª	20/06/2009	16h00m	Santo André	2	x	1	Sport	Bruno José Daniel
+7ª	20/06/2009	16h00m	Vitória	4	x	3	Botafogo	Barradão
+7ª	20/06/2009	18h30m	Avaí	3	x	2	Fluminense	Ressacada
+7ª	20/06/2009	18h30m	Grêmio	2	x	2	Goiás	Olímpico
+7ª	20/06/2009	18h30m	Náutico	0	x	1	Coritiba	Aflitos
+7ª	21/06/2009	18h30m	Corinthians	3	x	1	São Paulo	Pacaembu
+7ª	21/06/2009	18h30m	Cruzeiro	2	x	4	Barueri	Mineirão
+7ª	21/06/2009	18h30m	Flamengo	4	x	0	Internacional	Maracanã
+7ª	21/06/2009	18h30m	Santos	2	x	3	Atlético/MG	Vila Belmiro
+8ª	27/06/2009	16h00m	Atlético/PR	1	x	0	Corinthians	Arena da Baixada
+8ª	27/06/2009	16h00m	Barueri	4	x	2	Atlético/MG	Arena Barueri
+8ª	27/06/2009	16h00m	São Paulo	2	x	0	Náutico	Morumbi
+8ª	27/06/2009	18h30m	Botafogo	1	x	4	Goiás	João Havelange
+8ª	27/06/2009	18h30m	Cruzeiro	1	x	0	Avaí	Mineirão
+8ª	28/06/2009	18h30m	Fluminense	0	x	0	Flamengo	Maracanã
+8ª	28/06/2009	18h30m	Internacional	3	x	0	Coritiba	Beira Rio
+8ª	28/06/2009	18h30m	Palmeiras	1	x	1	Santos	Palestra Itália
+8ª	28/06/2009	18h30m	Sport	3	x	1	Grêmio	Ilha do Retiro
+8ª	28/06/2009	18h30m	Vitória	4	x	1	Santo André	Barradão
+9ª	04/07/2009	18h30m	Flamengo	2	x	1	Vitória	Maracanã
+9ª	04/07/2009	18h30m	Santo André	1	x	1	Barueri	Bruno José Daniel
+9ª	04/07/2009	18h30m	Santos	1	x	0	Sport	Vila Belmiro
+9ª	05/07/2009	16h00m	Atlético/MG	1	x	1	Botafogo	Mineirão
+9ª	05/07/2009	16h00m	Coritiba	2	x	0	São Paulo	Couto Pereira
+9ª	05/07/2009	16h00m	Goiás	1	x	0	Cruzeiro	Serra Dourada
+9ª	05/07/2009	16h00m	Grêmio	4	x	1	Atlético/PR	Olímpico
+9ª	05/07/2009	18h30m	Avaí	0	x	3	Palmeiras	Ressacada
+9ª	05/07/2009	18h30m	Náutico	0	x	2	Internacional	Aflitos
+9ª	08/07/2009	21h50m	Corinthians	4	x	2	Fluminense	Pacaembu
+10ª	11/07/2009	18h30m	Avaí	1	x	2	Botafogo	Ressacada
+10ª	11/07/2009	18h30m	Barueri	3	x	1	Coritiba	Arena Barueri
+10ª	11/07/2009	18h30m	Palmeiras	4	x	1	Náutico	Palestra Itália
+10ª	12/07/2009	16h00m	Atlético/PR	3	x	2	Internacional	Arena da Baixada
+10ª	12/07/2009	16h00m	Cruzeiro	0	x	3	Atlético/MG	Mineirão
+10ª	12/07/2009	16h00m	Grêmio	3	x	0	Corinthians	Olímpico
+10ª	12/07/2009	16h00m	São Paulo	2	x	2	Flamengo	Morumbi
+10ª	12/07/2009	18h30m	Fluminense	0	x	1	Santo André	Maracanã
+10ª	12/07/2009	18h30m	Sport	1	x	0	Goiás	Ilha do Retiro
+10ª	12/07/2009	18h30m	Vitória	6	x	2	Santos	Barradão
+11ª	15/07/2009	19h30m	Coritiba	2	x	1	Grêmio	Couto Pereira
+11ª	15/07/2009	19h30m	Goiás	0	x	2	Avaí	Serra Dourada
+11ª	15/07/2009	21h00m	Santo André	1	x	0	Atlético/PR	Bruno José Daniel
+11ª	15/07/2009	21h00m	Santos	3	x	3	Barueri	Vila Belmiro
+11ª	15/07/2009	21h50m	Internacional	4	x	2	Fluminense	Beira Rio
+11ª	15/07/2009	21h50m	Flamengo	1	x	2	Palmeiras	Maracanã
+11ª	16/07/2009	21h00m	Atlético/MG	2	x	0	São Paulo	Mineirão
+11ª	16/07/2009	21h00m	Náutico	1	x	1	Vitória	Aflitos
+11ª	16/07/2009	21h00m	Corinthians	4	x	3	Sport	Pacaembu
+11ª	27/08/2009	21h00m	Botafogo	1	x	1	Cruzeiro	João Havelange
+12ª	18/07/2009	18h30m	Fluminense	1	x	4	Goiás	Maracanã
+12ª	18/07/2009	18h30m	Palmeiras	1	x	0	Santo André	Palestra Itália
+12ª	19/07/2009	16h00m	Vitória	0	x	0	Atlético/MG	Barradão
+12ª	19/07/2009	16h00m	Cruzeiro	1	x	2	Corinthians	Mineirão
+12ª	19/07/2009	16h00m	Grêmio	2	x	1	Internacional	Olímpico
+12ª	19/07/2009	16h00m	São Paulo	2	x	1	Santos	Morumbi
+12ª	19/07/2009	16h00m	Atlético/PR	0	x	0	Coritiba	Arena da Baixada
+12ª	19/07/2009	18h30m	Barueri	4	x	0	Náutico	Arena Barueri
+12ª	19/07/2009	18h30m	Botafogo	2	x	2	Flamengo	João Havelange
+12ª	19/07/2009	18h30m	Sport	1	x	3	Avaí	Ilha do Retiro
+13ª	22/07/2009	19h30m	Avaí	1	x	0	Grêmio	Ressacada
+13ª	22/07/2009	19h30m	Flamengo	1	x	1	Barueri	Maracanã
+13ª	22/07/2009	19h30m	Santo André	0	x	2	Cruzeiro	Bruno José Daniel
+13ª	22/07/2009	21h00m	Santos	1	x	0	Atlético/PR	Vila Belmiro
+13ª	22/07/2009	21h50m	Goiás	2	x	1	Palmeiras	Serra Dourada
+13ª	22/07/2009	21h50m	Internacional	2	x	2	São Paulo	Beira Rio
+13ª	22/07/2009	21h50m	Náutico	2	x	2	Botafogo	Aflitos
+13ª	23/07/2009	21h00m	Atlético/MG	2	x	1	Fluminense	Mineirão
+13ª	23/07/2009	21h00m	Corinthians	2	x	1	Vitória	Pacaembu
+13ª	23/07/2009	21h00m	Coritiba	1	x	1	Sport	Couto Pereira
+14ª	25/07/2009	18h30m	Grêmio	3	x	2	Santo André	Olímpico
+14ª	25/07/2009	18h30m	Atlético/PR	1	x	3	Avaí	Arena da Baixada
+14ª	25/07/2009	18h30m	Botafogo	3	x	2	Internacional	João Havelange
+14ª	26/07/2009	16h00m	Corinthians	0	x	3	Palmeiras	Pacaembu
+14ª	26/07/2009	16h00m	Santos	1	x	2	Flamengo	Vila Belmiro
+14ª	26/07/2009	16h00m	Atlético/MG	0	x	1	Goiás	Mineirão
+14ª	26/07/2009	16h00m	Sport	3	x	3	Náutico	Ilha do Retiro
+14ª	26/07/2009	18h30m	Barueri	1	x	2	São Paulo	Arena Barueri
+14ª	26/07/2009	18h30m	Fluminense	1	x	1	Cruzeiro	Maracanã
+14ª	26/07/2009	18h30m	Vitória	1	x	0	Coritiba	Barradão
+15ª	29/07/2009	19h30m	Coritiba	2	x	2	Botafogo	Couto Pereira
+15ª	29/07/2009	19h30m	Náutico	1	x	2	Santos	Aflitos
+15ª	29/07/2009	21h00m	Goiás	3	x	0	Atlético/PR	Serra Dourada
+15ª	29/07/2009	21h00m	Internacional	3	x	2	Barueri	Beira Rio
+15ª	29/07/2009	21h50m	Cruzeiro	1	x	0	Sport	Mineirão
+15ª	29/07/2009	21h50m	Palmeiras	1	x	0	Fluminense	Palestra Itália
+15ª	29/07/2009	21h50m	Santo André	1	x	1	Corinthians	Teixeirão
+15ª	30/07/2009	21h00m	Avaí	4	x	0	Vitória	Ressacada
+15ª	30/07/2009	21h00m	São Paulo	2	x	1	Grêmio	Morumbi
+15ª	30/07/2009	21h00m	Flamengo	3	x	1	Atlético/MG	Maracanã
+16ª	01/08/2009	18h30m	Botafogo	2	x	1	Barueri	João Havelange
+16ª	01/08/2009	18h30m	Sport	0	x	1	Palmeiras	Ilha do Retiro
+16ª	02/08/2009	16h00m	Atlético/PR	1	x	0	Fluminense	Arena da Baixada
+16ª	02/08/2009	16h00m	Corinthians	0	x	0	Avaí	Pacaembu
+16ª	02/08/2009	16h00m	Flamengo	1	x	1	Náutico	Maracanã
+16ª	02/08/2009	16h00m	Vitória	0	x	1	São Paulo	Barradão
+16ª	02/08/2009	18h30m	Atlético/MG	3	x	2	Coritiba	Mineirão
+16ª	02/08/2009	18h30m	Grêmio	4	x	1	Cruzeiro	Olímpico
+16ª	02/08/2009	18h30m	Santo André	1	x	2	Goiás	Anacleto Campanella
+16ª	26/08/2009	21h00m	Santos	3	x	3	Internacional	Vila Belmiro
+17ª	05/08/2009	19h30m	Cruzeiro	0	x	2	Atlético/PR	Mineirão
+17ª	05/08/2009	21h00m	Avaí	1	x	0	Santo André	Ressacada
+17ª	05/08/2009	21h00m	São Paulo	3	x	1	Botafogo	Morumbi
+17ª	05/08/2009	21h50m	Coritiba	0	x	1	Santos	Couto Pereira
+17ª	05/08/2009	21h50m	Goiás	3	x	2	Flamengo	Serra Dourada
+17ª	05/08/2009	21h50m	Náutico	1	x	0	Corinthians	Aflitos
+17ª	06/08/2009	21h00m	Barueri	4	x	0	Vitória	Arena Barueri
+17ª	06/08/2009	21h00m	Fluminense	5	x	1	Sport	Maracanã
+17ª	06/08/2009	21h00m	Palmeiras	1	x	1	Grêmio	Palestra Itália
+17ª	02/09/2009	21h00m	Internacional	3	x	0	Atlético/MG	Beira Rio
+18ª	08/08/2009	18h30m	Botafogo	0	x	1	Atlético/PR	João Havelange
+18ª	08/08/2009	18h30m	Náutico	2	x	1	Santo André	Aflitos
+18ª	08/08/2009	18h30m	Santos	2	x	2	Avaí	Vila Belmiro
+18ª	09/08/2009	16h00m	Coritiba	1	x	3	Cruzeiro	Couto Pereira
+18ª	09/08/2009	16h00m	Flamengo	1	x	0	Corinthians	Maracanã
+18ª	09/08/2009	16h00m	Vitória	2	x	2	Fluminense	Barradão
+18ª	09/08/2009	18h30m	Barueri	1	x	0	Grêmio	Arena Barueri
+18ª	09/08/2009	18h30m	São Paulo	3	x	1	Goiás	Morumbi
+18ª	10/08/2009	21h00m	Internacional	3	x	0	Sport	Beira Rio
+18ª	12/08/2009	21h50m	Atlético/MG	1	x	1	Palmeiras	Mineirão
+19ª	15/08/2009	18h30m	Avaí	2	x	1	Náutico	Ressacada
+19ª	15/08/2009	18h30m	Palmeiras	1	x	1	Botafogo	Palestra Itália
+19ª	15/08/2009	18h30m	Santo André	0	x	2	Internacional	Bruno José Daniel
+19ª	16/08/2009	16h00m	Corinthians	2	x	0	Atlético/MG	Pacaembu
+19ª	16/08/2009	16h00m	Fluminense	1	x	3	Coritiba	Maracanã
+19ª	16/08/2009	16h00m	Goiás	3	x	2	Vitória	Serra Dourada
+19ª	16/08/2009	16h00m	Grêmio	4	x	1	Flamengo	Olímpico
+19ª	16/08/2009	16h00m	Sport	1	x	2	São Paulo	Ilha do Retiro
+19ª	16/08/2009	18h30m	Atlético/PR	3	x	0	Barueri	Arena da Baixada
+19ª	16/08/2009	18h30m	Cruzeiro	0	x	0	Santos	Mineirão
+20ª	19/08/2009	19h30m	Santos	1	x	0	Grêmio	Vila Belmiro
+20ª	19/08/2009	19h30m	Vitória	2	x	1	Atlético/PR	Barradão
+20ª	19/08/2009	19h30m	Botafogo	1	x	2	Santo André	João Havelange
+20ª	19/08/2009	21h00m	Barueri	2	x	1	Sport	Arena Barueri
+20ª	19/08/2009	21h50m	São Paulo	1	x	0	Fluminense	Morumbi
+20ª	19/08/2009	21h50m	Coritiba	1	x	0	Palmeiras	Couto Pereira
+20ª	19/08/2009	21h50m	Internacional	1	x	2	Corinthians	Beira-Rio
+20ª	20/08/2009	21h00m	Flamengo	1	x	2	Cruzeiro	Maracanã
+20ª	20/08/2009	21h00m	Náutico	2	x	0	Goiás	Aflitos
+20ª	20/08/2009	21h00m	Atlético/MG	2	x	2	Avaí	Mineirão
+21ª	22/08/2009	18h30m	Palmeiras	2	x	1	Internacional	Palestra Itália
+21ª	22/08/2009	18h30m	Santo André	1	x	0	Coritiba	Bruno José Daniel
+21ª	22/08/2009	18h30m	Sport	2	x	0	Vitória	Ilha do Retiro
+21ª	23/08/2009	16h00m	Corinthians	3	x	3	Botafogo	Pacaembu
+21ª	23/08/2009	16h00m	Atlético/PR	1	x	0	São Paulo	Arena da Baixada
+21ª	23/08/2009	16h00m	Grêmio	4	x	1	Atlético/MG	Olímpico
+21ª	23/08/2009	16h00m	Fluminense	0	x	0	Barueri	Maracanã
+21ª	23/08/2009	18h30m	Goiás	2	x	1	Santos	Serra Dourada
+21ª	23/08/2009	18h30m	Cruzeiro	4	x	2	Náutico	Mineirão
+21ª	23/08/2009	18h30m	Avaí	3	x	0	Flamengo	Ressacada
+22ª	26/08/2009	21h50m	Barueri	2	x	2	Corinthians	Arena Barueri
+22ª	29/08/2009	18h30m	Coritiba	2	x	0	Avaí	Couto Pereira
+22ª	29/08/2009	18h30m	Flamengo	3	x	0	Santo André	Maracanã
+22ª	29/08/2009	18h30m	Náutico	3	x	0	Atlético/PR	Aflitos
+22ª	30/08/2009	16h00m	São Paulo	0	x	0	Palmeiras	Morumbi
+22ª	30/08/2009	16h00m	Santos	2	x	0	Fluminense	Vila Belmiro
+22ª	30/08/2009	16h00m	Atlético/MG	1	x	1	Sport	Mineirão
+22ª	30/08/2009	18h30m	Internacional	4	x	0	Goiás	Beira-Rio
+22ª	30/08/2009	18h30m	Vitória	3	x	3	Cruzeiro	Barradão
+22ª	30/08/2009	18h30m	Botafogo	3	x	3	Grêmio	João Havelange
+23ª	02/09/2009	21h50m	Corinthians	2	x	1	Santos	Pacaembu
+23ª	05/09/2009	18h30m	Palmeiras	2	x	1	Barueri	Palestra Itália
+23ª	05/09/2009	18h30m	Grêmio	1	x	1	Vitória	Olímpico
+23ª	05/09/2009	18h30m	Sport	2	x	1	Botafogo	Ilha do Retiro
+23ª	06/09/2009	16h00m	Atlético/PR	0	x	0	Flamengo	Arena da Baixada
+23ª	06/09/2009	16h00m	Goiás	2	x	2	Coritiba	Serra Dourada
+23ª	06/09/2009	16h00m	Cruzeiro	1	x	2	São Paulo	Mineirão
+23ª	06/09/2009	18h30m	Santo André	1	x	2	Atlético/MG	Bruno José Daniel
+23ª	06/09/2009	18h30m	Fluminense	1	x	1	Náutico	Maracanã
+23ª	06/09/2009	18h30m	Avaí	0	x	2	Internacional	Ressacada
+24ª	12/09/2009	18h30m	Flamengo	3	x	0	Sport	Maracanã
+24ª	12/09/2009	18h30m	São Paulo	2	x	0	Avaí	Morumbi
+24ª	13/09/2009	16h00m	Atlético/MG	2	x	1	Atlético/PR	Mineirão
+24ª	13/09/2009	16h00m	Internacional	2	x	3	Cruzeiro	Beira-Rio
+24ª	13/09/2009	16h00m	Santos	1	x	0	Santo André	Vila Belmiro
+24ª	13/09/2009	16h00m	Vitória	3	x	2	Palmeiras	Barradão
+24ª	13/09/2009	18h30m	Barueri	3	x	1	Goiás	Arena Barueri
+24ª	13/09/2009	18h30m	Botafogo	0	x	0	Fluminense	João Havelange
+24ª	13/09/2009	18h30m	Náutico	0	x	2	Grêmio	Aflitos
+24ª	16/09/2009	21h50m	Coritiba	1	x	1	Corinthians	Couto Pereira
+25ª	19/09/2009	18h30m	Atlético/PR	1	x	0	Sport	Arena da Baixada
+25ª	19/09/2009	18h30m	Náutico	0	x	0	Atlético/MG	Aflitos
+25ª	19/09/2009	18h30m	Vitória	2	x	0	Internacional	Barradão
+25ª	20/09/2009	16h00m	Avaí	4	x	0	Barueri	Ressacada
+25ª	20/09/2009	16h00m	Grêmio	5	x	1	Fluminense	Olímpico
+25ª	20/09/2009	16h00m	Santo André	1	x	1	São Paulo	Santa Cruz
+25ª	20/09/2009	18h30m	Corinthians	1	x	4	Goiás	Pacaembu
+25ª	20/09/2009	18h30m	Flamengo	3	x	0	Coritiba	Maracanã
+25ª	20/09/2009	18h30m	Santos	0	x	0	Botafogo	Vila Belmiro
+25ª	23/09/2009	21h50m	Cruzeiro	1	x	2	Palmeiras	Mineirão
+26ª	26/09/2009	18h30m	Barueri	0	x	1	Cruzeiro	Arena Barueri
+26ª	26/09/2009	18h30m	Palmeiras	2	x	1	Atlético/PR	Palestra Itália
+26ª	27/09/2009	16h00m	Coritiba	2	x	0	Náutico	Couto Pereira
+26ª	27/09/2009	16h00m	Fluminense	3	x	2	Avaí	Maracanã
+26ª	27/09/2009	16h00m	Goiás	2	x	1	Grêmio	Serra Dourada
+26ª	27/09/2009	16h00m	Internacional	0	x	0	Flamengo	Beira-Rio
+26ª	27/09/2009	16h00m	São Paulo	1	x	1	Corinthians	Morumbi
+26ª	27/09/2009	18h30m	Atlético/MG	3	x	1	Santos	Mineirão
+26ª	27/09/2009	18h30m	Botafogo	1	x	3	Vitória	João Havelange
+26ª	27/09/2009	18h30m	Sport	2	x	1	Santo André	Ilha do Retiro
+27ª	30/09/2009	21h50m	Náutico	1	x	2	São Paulo	Aflitos
+27ª	03/10/2009	18h30m	Atlético/MG	2	x	1	Barueri	Mineirão
+27ª	03/10/2009	18h30m	Corinthians	1	x	3	Atlético/PR	Pacaembu
+27ª	03/10/2009	18h30m	Santo André	1	x	0	Vitória	Bruno José Daniel
+27ª	04/10/2009	16h00m	Goiás	1	x	3	Botafogo	Serra Dourada
+27ª	04/10/2009	16h00m	Grêmio	3	x	3	Sport	Olímpico
+27ª	04/10/2009	16h00m	Santos	1	x	3	Palmeiras	Vila Belmiro
+27ª	04/10/2009	18h30m	Avaí	2	x	2	Cruzeiro	Ressacada
+27ª	04/10/2009	18h30m	Coritiba	2	x	0	Internacional	Couto Pereira
+27ª	04/10/2009	18h30m	Flamengo	2	x	0	Fluminense	Maracanã
+28ª	07/10/2009	19h30m	Sport	0	x	1	Santos	Ilha do Retiro
+28ª	07/10/2009	19h30m	Barueri	0	x	0	Santo André	Arena Barueri
+28ª	07/10/2009	21h00m	Atlético/PR	0	x	0	Grêmio	Arena da Baixada
+28ª	07/10/2009	21h00m	São Paulo	2	x	2	Coritiba	Morumbi
+28ª	07/10/2009	21h50m	Fluminense	1	x	1	Corinthians	Maracanã
+28ª	07/10/2009	21h50m	Vitória	3	x	3	Flamengo	Barradão
+28ª	07/10/2009	21h50m	Internacional	3	x	1	Náutico	Beira Rio
+28ª	08/10/2009	21h00m	Botafogo	3	x	1	Atlético/MG	João Havelange
+28ª	08/10/2009	21h00m	Palmeiras	2	x	2	Avaí	Palestra Itália
+28ª	08/10/2009	21h00m	Cruzeiro	3	x	0	Goiás	Mineirão
+29ª	10/10/2009	16h10m	Corinthians	2	x	1	Grêmio	Pacaembu
+29ª	10/10/2009	16h10m	Flamengo	2	x	1	São Paulo	Maracanã
+29ª	10/10/2009	16h10m	Santo André	1	x	2	Fluminense	Bruno José Daniel
+29ª	10/10/2009	18h30m	Coritiba	1	x	2	Barueri	Couto Pereira
+29ª	10/10/2009	18h30m	Internacional	1	x	1	Atlético/PR	Beira-Rio
+29ª	12/10/2009	16h00m	Atlético/MG	0	x	1	Cruzeiro	Mineirão
+29ª	12/10/2009	16h00m	Botafogo	2	x	2	Avaí	João Havelange
+29ª	12/10/2009	16h00m	Goiás	1	x	1	Sport	Serra Dourada
+29ª	12/10/2009	16h00m	Náutico	3	x	0	Palmeiras	Aflitos
+29ª	12/10/2009	16h00m	Santos	0	x	0	Vitória	Vila Belmiro
+30ª	17/10/2009	18h30m	São Paulo	0	x	1	Atlético/MG	Morumbi
+30ª	17/10/2009	18h30m	Barueri	0	x	0	Santos	Arena Barueri
+30ª	17/10/2009	18h30m	Avaí	2	x	1	Goiás	Ressacada
+30ª	18/10/2009	16h00m	Sport	2	x	0	Corinthians	Ilha do Retiro
+30ª	18/10/2009	16h00m	Grêmio	2	x	0	Coritiba	Olímpico
+30ª	18/10/2009	16h00m	Fluminense	2	x	2	Internacional	Maracanã
+30ª	18/10/2009	16h10m	Palmeiras	0	x	2	Flamengo	Palestra Itália
+30ª	18/10/2009	18h30m	Atlético/PR	3	x	0	Santo André	Arena da Baixada
+30ª	18/10/2009	18h30m	Cruzeiro	1	x	0	Botafogo	Mineirão
+30ª	18/10/2009	18h30m	Vitória	3	x	1	Náutico	Barradão
+31ª	21/10/2009	21h50m	Santo André	2	x	0	Palmeiras	Bruno José Daniel
+31ª	24/10/2009	18h30m	Atlético/MG	1	x	0	Vitória	Mineirão
+31ª	24/10/2009	18h30m	Náutico	2	x	1	Barueri	Aflitos
+31ª	25/10/2009	16h00m	Coritiba	3	x	2	Atlético/PR	Couto Pereira
+31ª	25/10/2009	16h00m	Goiás	2	x	2	Fluminense	Serra Dourada
+31ª	25/10/2009	16h00m	Internacional	1	x	0	Grêmio	Beira Rio
+31ª	25/10/2009	16h00m	Santos	3	x	4	São Paulo	Vila Belmiro
+31ª	25/10/2009	18h30m	Avaí	2	x	2	Sport	Ressacada
+31ª	25/10/2009	18h30m	Corinthians	0	x	1	Cruzeiro	Pacaembu
+31ª	25/10/2009	18h30m	Flamengo	1	x	0	Botafogo	Maracanã
+32ª	28/10/2009	19h30m	Atlético/PR	1	x	1	Santos	Arena da Baixada
+32ª	28/10/2009	19h30m	Botafogo	1	x	0	Náutico	João Havelange
+32ª	28/10/2009	21h00m	Cruzeiro	3	x	2	Santo André	Mineirão
+32ª	28/10/2009	21h00m	Grêmio	3	x	1	Avaí	Olímpico
+32ª	28/10/2009	21h50m	Barueri	2	x	0	Flamengo	Arena Barueri
+32ª	28/10/2009	21h50m	Vitória	0	x	1	Corinthians	Barradão
+32ª	28/10/2009	21h50m	São Paulo	1	x	0	Internacional	Morumbi
+32ª	29/10/2009	21h00m	Palmeiras	4	x	0	Goiás	Palestra Itália
+32ª	29/10/2009	21h00m	Fluminense	2	x	1	Atlético/MG	Maracanã
+32ª	29/10/2009	21h00m	Sport	1	x	1	Coritiba	Ilha do Retiro
+33ª	31/10/2009	18h30m	Avaí	2	x	0	Atlético/PR	Ressacada
+33ª	31/10/2009	18h30m	Flamengo	1	x	0	Santos	Maracanã
+33ª	31/10/2009	18h30m	São Paulo	1	x	0	Barueri	Morumbi
+33ª	01/11/2009	16h00m	Coritiba	1	x	0	Vitória	Couto Pereira
+33ª	01/11/2009	16h00m	Goiás	2	x	3	Atlético/MG	Serra Dourada
+33ª	01/11/2009	16h00m	Internacional	0	x	1	Botafogo	Beira Rio
+33ª	01/11/2009	16h00m	Palmeiras	2	x	2	Corinthians	Palestra Itália
+33ª	01/11/2009	18h30m	Cruzeiro	2	x	3	Fluminense	Mineirão
+33ª	01/11/2009	18h30m	Náutico	3	x	2	Sport	Aflitos
+33ª	01/11/2009	18h30m	Santo André	2	x	0	Grêmio	Bruno José Daniel
+34ª	04/11/2009	21h50m	Grêmio	1	x	1	São Paulo	Olímpico
+34ª	07/11/2009	18h30m	Santos	3	x	1	Náutico	Vila Belmiro
+34ª	07/11/2009	18h30m	Sport	2	x	3	Cruzeiro	Ilha do Retiro
+34ª	07/11/2009	18h30m	Vitória	0	x	1	Avaí	Barradão
+34ª	08/11/2009	16h00m	Atlético/MG	1	x	3	Flamengo	Mineirão
+34ª	08/11/2009	16h00m	Corinthians	2	x	0	Santo André	Pacaembu
+34ª	08/11/2009	16h00m	Fluminense	1	x	0	Palmeiras	Maracanã
+34ª	08/11/2009	18h30m	Atlético/PR	2	x	0	Goiás	Arena da Baixada
+34ª	08/11/2009	18h30m	Barueri	1	x	1	Internacional	Arena Barueri
+34ª	08/11/2009	18h30m	Botafogo	2	x	0	Coritiba	João Havelange
+35ª	11/11/2009	21h50m	Palmeiras	2	x	2	Sport	Palestra Itália
+35ª	14/11/2009	19h30m	Coritiba	2	x	1	Atlético/MG	Couto Pereira
+35ª	14/11/2009	19h30m	Cruzeiro	1	x	1	Grêmio	Mineirão
+35ª	14/11/2009	19h30m	São Paulo	2	x	0	Vitória	Morumbi
+35ª	15/11/2009	17h00m	Avaí	3	x	1	Corinthians	Ressacada
+35ª	15/11/2009	17h00m	Barueri	3	x	0	Botafogo	Arena Barueri
+35ª	15/11/2009	17h00m	Náutico	0	x	2	Flamengo	Aflitos
+35ª	15/11/2009	19h30m	Fluminense	2	x	1	Atlético/PR	Maracanã
+35ª	15/11/2009	19h30m	Goiás	3	x	1	Santo André	Serra Dourada
+35ª	15/11/2009	19h30m	Internacional	3	x	1	Santos	Beira Rio
+36ª	18/11/2009	21h50m	Grêmio	2	x	0	Palmeiras	Olímpico
+36ª	21/11/2009	19h30m	Atlético/PR	1	x	1	Cruzeiro	Arena da Baixada
+36ª	21/11/2009	19h30m	Corinthians	2	x	3	Náutico	Pacaembu
+36ª	22/11/2009	17h00m	Botafogo	3	x	2	São Paulo	João Havelange
+36ª	22/11/2009	17h00m	Santo André	4	x	2	Avaí	Bruno José Daniel
+36ª	22/11/2009	17h00m	Santos	4	x	0	Coritiba	Vila Belmiro
+36ª	22/11/2009	17h00m	Sport	0	x	3	Fluminense	Ilha do Retiro
+36ª	22/11/2009	19h30m	Atlético/MG	0	x	1	Internacional	Mineirão
+36ª	22/11/2009	19h30m	Flamengo	0	x	0	Goiás	Maracanã
+36ª	22/11/2009	19h30m	Vitória	2	x	1	Barueri	Barradão
+37ª	29/11/2009	17h00m	Corinthians	0	x	2	Flamengo	Brinco de Ouro
+37ª	29/11/2009	17h00m	Palmeiras	3	x	1	Atlético/MG	Palestra Itália
+37ª	29/11/2009	17h00m	Santo André	5	x	3	Náutico	Bruno José Daniel
+37ª	29/11/2009	17h00m	Atlético/PR	2	x	0	Botafogo	Arena da Baixada
+37ª	29/11/2009	17h00m	Grêmio	4	x	2	Barueri	Olímpico
+37ª	29/11/2009	17h00m	Fluminense	4	x	0	Vitória	Maracanã
+37ª	29/11/2009	17h00m	Goiás	4	x	2	São Paulo	Serra Dourada
+37ª	29/11/2009	17h00m	Sport	1	x	2	Internacional	Ilha do Retiro
+37ª	29/11/2009	17h00m	Cruzeiro	4	x	1	Coritiba	Mineirão
+37ª	29/11/2009	17h00m	Avaí	2	x	2	Santos	Ressacada
+38ª	06/12/2009	17h00m	São Paulo	4	x	0	Sport	Morumbi
+38ª	06/12/2009	17h00m	Santos	1	x	2	Cruzeiro	Vila Belmiro
+38ª	06/12/2009	17h00m	Barueri	0	x	0	Atlético/PR	Arena Barueri
+38ª	06/12/2009	17h00m	Coritiba	1	x	1	Fluminense	Couto Pereira
+38ª	06/12/2009	17h00m	Internacional	4	x	1	Santo André	Beira Rio
+38ª	06/12/2009	17h00m	Flamengo	2	x	1	Grêmio	Maracanã
+38ª	06/12/2009	17h00m	Vitória	2	x	2	Goiás	Barradão
+38ª	05/12/2009	19h30m	Náutico	0	x	1	Avaí	Aflitos
+38ª	05/12/2009	19h30m	Atlético/MG	0	x	3	Corinthians	Mineirão
+38ª	06/12/2009	17h00m	Botafogo	2	x	1	Palmeiras	João Havelange

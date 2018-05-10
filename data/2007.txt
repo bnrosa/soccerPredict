@@ -1,0 +1,380 @@
+1ª	12/05/2007	18h10m	Figueirense	3	x	6	Atlético/PR	Orlando Scarpelli
+1ª	12/05/2007	18h10m	Fluminense	2	x	2	Cruzeiro	Maracanã
+1ª	12/05/2007	18h10m	São Paulo	2	x	0	Goiás	Morumbi (1)
+1ª	13/05/2007	16h00m	Atlético/MG	2	x	1	Náutico	Mineirão
+1ª	13/05/2007	16h00m	Internacional	2	x	3	Botafogo	Beira-Rio
+1ª	13/05/2007	16h00m	Flamengo	2	x	4	Palmeiras	Maracanã
+1ª	13/05/2007	16h00m	Paraná	3	x	0	Grêmio	Durival de Brito
+1ª	13/05/2007	18h10m	América/RN	0	x	1	Vasco	Machadão
+1ª	13/05/2007	18h10m	Corinthians	1	x	0	Juventude	Pacaembu
+1ª	13/05/2007	18h10m	Sport	4	x	1	Santos	Ilha do Retiro
+2ª	19/05/2007	18h10m	Juventude	1	x	2	Paraná	Alfredo Jaconi
+2ª	19/05/2007	18h10m	Atlético/PR	2	x	1	Internacional	Kyocera Arena
+2ª	19/05/2007	18h10m	Santos	2	x	3	América/RN	Vila Belmiro
+2ª	20/05/2007	16h00m	Goiás	1	x	3	Flamengo	Serra Dourada
+2ª	20/05/2007	16h00m	Botafogo	2	x	1	Atlético/MG	Maracanã
+2ª	20/05/2007	16h00m	Cruzeiro	0	x	3	Corinthians	Mineirão
+2ª	20/05/2007	16h00m	Palmeiras	2	x	1	Figueirense	Palestra Itália
+2ª	20/05/2007	18h10m	Vasco	3	x	1	Sport	São Januário
+2ª	20/05/2007	18h10m	Náutico	1	x	0	São Paulo	Aflitos
+2ª	20/05/2007	18h10m	Grêmio	2	x	0	Fluminense	Olímpico
+3ª	26/05/2007	18h10m	América/RN	0	x	1	Figueirense	Machadão
+3ª	26/05/2007	18h10m	Corinthians	0	x	0	Atlético/MG	Pacaembu
+3ª	26/05/2007	18h10m	Fluminense	3	x	0	Internacional	Maracanã
+3ª	27/05/2007	16h00m	Atlético/PR	0	x	1	Santos	Kyocera Arena
+3ª	27/05/2007	16h00m	Náutico	2	x	2	Vasco	Aflitos
+3ª	27/05/2007	16h00m	Grêmio	1	x	0	Sport	Olímpico
+3ª	27/05/2007	16h00m	São Paulo	0	x	0	Palmeiras	Morumbi
+3ª	27/05/2007	18h10m	Flamengo	2	x	2	Botafogo	Maracanã
+3ª	27/05/2007	18h10m	Cruzeiro	3	x	4	Paraná	Mineirão
+3ª	27/05/2007	18h10m	Goiás	3	x	1	Juventude	Serra Dourada
+4ª	02/06/2007	18h10m	Figueirense	2	x	1	Goiás	Orlando Scarpelli
+4ª	02/06/2007	18h10m	Botafogo	3	x	0	Grêmio	Maracanã
+4ª	02/06/2007	18h10m	Atlético/MG	1	x	1	Atlético/PR	Mineirão
+4ª	03/06/2007	16h00m	Palmeiras	1	x	3	Cruzeiro	Palestra Itália
+4ª	03/06/2007	16h00m	Sport	2	x	2	Flamengo	Ilha do Retiro
+4ª	03/06/2007	16h00m	Santos	1	x	1	Corinthians	Vila Belmiro
+4ª	03/06/2007	16h00m	Juventude	3	x	0	América/RN	Alfredo Jaconi
+4ª	03/06/2007	18h10m	Vasco	1	x	1	Fluminense	Maracanã
+4ª	03/06/2007	18h10m	Paraná	0	x	1	São Paulo	Durival de Brito
+4ª	04/06/2007	20h30m	Internacional	2	x	0	Náutico	Beira-Rio
+5ª	09/06/2007	18h10m	Náutico	4	x	4	Paraná	Aflitos
+5ª	09/06/2007	18h10m	Palmeiras	1	x	1	Botafogo	Palestra Itália
+5ª	09/06/2007	18h10m	Vasco	4	x	0	Grêmio	São Januário
+5ª	10/06/2007	16h00m	América/RN	1	x	2	Corinthians	Machadão
+5ª	10/06/2007	16h00m	Fluminense	3	x	0	Sport	Maracanã
+5ª	10/06/2007	16h00m	Figueirense	4	x	0	Flamengo	Orlando Scarpelli
+5ª	10/06/2007	16h00m	Atlético/PR	0	x	3	Goiás	Kyocera Arena
+5ª	10/06/2007	18h10m	Cruzeiro	2	x	3	Juventude	Mineirão
+5ª	10/06/2007	18h10m	São Paulo	0	x	1	Atlético/MG	Morumbi
+5ª	10/06/2007	18h10m	Internacional	1	x	0	Santos	Beira-Rio
+6ª	16/06/2007	18h10m	Grêmio	0	x	2	Cruzeiro	Olímpico
+6ª	16/06/2007	18h10m	Corinthians	0	x	0	Paraná	Pacaembu
+6ª	16/06/2007	18h10m	Flamengo	2	x	2	Internacional	Maracanã
+6ª	17/06/2007	16h00m	Goiás	3	x	1	Palmeiras	Serra Dourada
+6ª	17/06/2007	16h00m	Atlético/MG	4	x	1	Figueirense	Mineirão
+6ª	17/06/2007	16h00m	São Paulo	2	x	0	Vasco	Morumbi
+6ª	17/06/2007	16h00m	Atlético/PR	1	x	1	Fluminense	Kyocera Arena
+6ª	17/06/2007	18h10m	Sport	2	x	2	América/RN	Ilha do Retiro
+6ª	17/06/2007	18h10m	Botafogo	3	x	1	Náutico	Maracanã
+6ª	17/06/2007	18h10m	Juventude	0	x	2	Santos	Alfredo Jaconi
+7ª	23/06/2007	18h10m	Juventude	1	x	1	Figueirense	Alfredo Jaconi
+7ª	23/06/2007	18h10m	Paraná	1	x	0	Sport	Durival de Brito
+7ª	24/06/2007	16h00m	Palmeiras	0	x	2	Atlético/PR	Palestra Itália
+7ª	24/06/2007	16h00m	América/RN	0	x	1	Fluminense	Machadão
+7ª	24/06/2007	16h00m	Santos	0	x	2	São Paulo	Vila Belmiro
+7ª	24/06/2007	16h00m	Cruzeiro	4	x	2	Atlético/MG	Mineirão
+7ª	24/06/2007	18h10m	Náutico	0	x	2	Goiás	Aflitos
+7ª	24/06/2007	18h10m	Internacional	0	x	2	Grêmio	Beira-Rio
+7ª	15/08/2007	20h30m	Botafogo	2	x	3	Corinthians	Maracanã
+7ª	18/10/2007	21h45m	Vasco	1	x	2	Flamengo	Maracanã
+8ª	28/06/2007	20h30m	Sport	4	x	1	Náutico	Ilha do Retiro
+8ª	28/06/2007	20h30m	Figueirense	0	x	0	São Paulo	Orlando Scarpelli
+8ª	30/06/2007	16h00m	América/RN	0	x	3	Goiás	Machadão
+8ª	30/06/2007	16h00m	Cruzeiro	3	x	1	Vasco	Mineirão
+8ª	30/06/2007	16h00m	Santos	0	x	0	Grêmio	Vila Belmiro
+8ª	30/06/2007	18h10m	Fluminense	1	x	2	Botafogo	João Havellange
+8ª	30/06/2007	18h10m	Paraná	2	x	2	Atlético/PR	Durival de Brito
+8ª	30/06/2007	18h10m	Internacional	1	x	1	Atlético/MG	Beira-Rio
+8ª	30/06/2007	18h10m	Corinthians	0	x	1	Palmeiras	Morumbi
+8ª	23/08/2007	20h30m	Flamengo	4	x	0	Juventude	Maracanã
+9ª	03/07/2007	19h30m	Palmeiras	2	x	0	América/RN	Palestra Itália
+9ª	03/07/2007	20h30m	Figueirense	2	x	1	Cruzeiro	Orlando Scarpelli
+9ª	03/07/2007	20h30m	Atlético/PR	1	x	1	Náutico	Kyocera Arena
+9ª	03/07/2007	20h30m	Grêmio	3	x	1	Juventude	Olímpico
+9ª	03/07/2007	20h30m	Fluminense	0	x	0	Paraná	Maracanã
+9ª	03/07/2007	20h30m	São Paulo	1	x	0	Internacional	Morumbi
+9ª	03/07/2007	21h45m	Goiás	1	x	1	Botafogo	Serra Dourada
+9ª	04/07/2007	16h00m	Sport	2	x	1	Corinthians	Ilha do Retiro
+9ª	04/07/2007	16h00m	Atlético/MG	1	x	1	Flamengo	Mineirão
+9ª	04/07/2007	16h00m	Vasco	4	x	0	Santos	São Januário
+10ª	06/07/2007	20h30m	Paraná	0	x	1	América/RN	Durival de Brito
+10ª	07/07/2007	16h00m	Corinthians	1	x	1	Fluminense	Pacaembu
+10ª	07/07/2007	16h00m	Santos	4	x	1	Cruzeiro	Vila Belmiro
+10ª	07/07/2007	16h00m	Atlético/MG	0	x	1	Grêmio	Mineirão
+10ª	07/07/2007	18h10m	Botafogo	2	x	0	Atlético/PR	Maracanã
+10ª	07/07/2007	18h10m	Goiás	3	x	2	Sport	Serra Dourada
+10ª	07/07/2007	18h10m	Internacional	2	x	1	Figueirense	Beira-Rio
+10ª	07/07/2007	18h10m	Náutico	0	x	1	Palmeiras	Aflitos
+10ª	07/07/2007	18h10m	Juventude	2	x	0	Vasco	Alfredo Jaconi
+10ª	07/07/2007	18h10m	Flamengo	0	x	0	São Paulo	Maracanã
+11ª	12/07/2007	20h30m	Paraná	1	x	2	Figueirense	Durival de Brito
+11ª	12/07/2007	20h30m	Juventude	1	x	1	Náutico	Alfredo Jaconi
+11ª	12/07/2007	20h30m	Vasco	1	x	0	Atlético/PR	São Januário
+11ª	14/07/2007	16h00m	Sport	2	x	0	Atlético/MG	Ilha do Retiro
+11ª	14/07/2007	16h00m	Santos	3	x	0	Botafogo	Vila Belmiro
+11ª	14/07/2007	16h00m	Grêmio	1	x	1	Palmeiras	Olímpico
+11ª	14/07/2007	18h10m	América/RN	1	x	2	Internacional	Machadão
+11ª	14/07/2007	18h10m	Cruzeiro	2	x	1	Goiás	Mineirão
+11ª	14/07/2007	18h10m	Corinthians	1	x	1	São Paulo	Pacaembu
+11ª	16/08/2007	20h30m	Fluminense	0	x	1	Flamengo	Maracanã
+12ª	18/07/2007	19h30m	Figueirense	0	x	1	Sport	Orlando Scarpelli
+12ª	18/07/2007	20h30m	Atlético/PR	4	x	0	Juventude	Kyocera Arena
+12ª	18/07/2007	20h30m	Atlético/MG	4	x	1	América/RN	Mineirão
+12ª	18/07/2007	21h45m	Náutico	1	x	4	Cruzeiro	Aflitos
+12ª	18/07/2007	21h45m	São Paulo	0	x	1	Fluminense	Morumbi
+12ª	18/07/2007	21h45m	Internacional	3	x	0	Corinthians	Beira-Rio
+12ª	19/07/2007	20h30m	Palmeiras	2	x	2	Santos	Palestra Itália
+12ª	19/07/2007	20h30m	Goiás	0	x	0	Grêmio	Serra Dourada
+12ª	19/07/2007	20h30m	Flamengo	1	x	2	Paraná	Parque do Sabiá
+12ª	14/06/2007	20h30m	Botafogo	4	x	0	Vasco	Maracanã
+13ª	21/07/2007	18h10m	América/RN	2	x	1	Atlético/PR	Machadão
+13ª	21/07/2007	18h10m	Juventude	2	x	0	Internacional	Alfredo Jaconi
+13ª	21/07/2007	18h10m	Vasco	4	x	0	Atlético/MG	São Januário
+13ª	22/07/2007	16h00m	Corinthians	0	x	3	Náutico	Pacaembu
+13ª	22/07/2007	16h00m	Cruzeiro	1	x	2	São Paulo	Mineirão
+13ª	22/07/2007	16h00m	Grêmio	1	x	0	Flamengo	Olímpico
+13ª	22/07/2007	16h00m	Fluminense	3	x	0	Goiás	Eng. Araripe
+13ª	22/07/2007	18h10m	Santos	3	x	1	Figueirense	Vila Belmiro
+13ª	22/07/2007	18h10m	Paraná	1	x	0	Palmeiras	Durival de Brito
+13ª	22/07/2007	18h10m	Sport	3	x	3	Botafogo	Ilha do Retiro
+14ª	25/07/2007	19h30m	Atlético/PR	2	x	2	Cruzeiro	Kyocera Arena
+14ª	25/07/2007	19h30m	Goiás	1	x	0	Santos	Serra Dourada
+14ª	25/07/2007	20h30m	Náutico	0	x	2	Grêmio	Aflitos
+14ª	25/07/2007	20h30m	Flamengo	3	x	1	América/RN	Mário Heleno
+14ª	25/07/2007	21h45m	Palmeiras	3	x	2	Vasco	Palestra Itália
+14ª	25/07/2007	21h45m	Figueirense	2	x	2	Corinthians	Orlando Scarpelli
+14ª	25/07/2007	21h45m	Internacional	1	x	0	Paraná	Beira-Rio
+14ª	26/07/2007	20h30m	Botafogo	3	x	1	Juventude	Giulitte Coutinho
+14ª	26/07/2007	20h30m	Atlético/MG	3	x	0	Fluminense	Mineirão
+14ª	26/07/2007	20h30m	São Paulo	3	x	1	Sport	Morumbi
+15ª	28/07/2007	18h10m	Santos	1	x	2	Náutico	Vila Belmiro
+15ª	28/07/2007	18h10m	Grêmio	1	x	1	Atlético/PR	Olímpico
+15ª	28/07/2007	18h10m	Vasco	4	x	1	Goiás	São Januário
+15ª	29/07/2007	16h00m	Corinthians	2	x	2	Flamengo	Pacaembu
+15ª	29/07/2007	16h00m	Sport	1	x	5	Internacional	Ilha do Retiro
+15ª	29/07/2007	16h00m	Juventude	1	x	1	Palmeiras	Alfredo Jaconi
+15ª	29/07/2007	16h00m	Paraná	1	x	3	Atlético/MG	Durival de Brito
+15ª	29/07/2007	18h10m	Fluminense	1	x	1	Figueirense	Mané Garrincha
+15ª	29/07/2007	18h10m	América/RN	0	x	1	São Paulo	Machadão
+15ª	29/07/2007	18h10m	Cruzeiro	3	x	2	Botafogo	Mineirão
+16ª	01/08/2007	19h30m	Goiás	2	x	0	Paraná	Serra Dourada
+16ª	01/08/2007	19h30m	Náutico	0	x	0	Fluminense	Aflitos
+16ª	01/08/2007	20h30m	Palmeiras	1	x	2	Sport	Palestra Itália
+16ª	01/08/2007	20h30m	Botafogo	4	x	2	América/RN	Maracanã
+16ª	01/08/2007	21h45m	Atlético/PR	2	x	2	Corinthians	Kyocera Arena
+16ª	01/08/2007	21h45m	Atlético/MG	1	x	2	Santos	Mineirão
+16ª	01/08/2007	21h45m	Internacional	0	x	2	Vasco	Beira-Rio
+16ª	02/08/2007	20h30m	Figueirense	1	x	0	Grêmio	Orlando Scarpelli
+16ª	02/08/2007	20h30m	São Paulo	3	x	1	Juventude	Morumbi
+16ª	12/09/2007	20h30m	Flamengo	3	x	1	Cruzeiro	Maracanã
+17ª	04/08/2007	18h10m	Corinthians	1	x	0	Goiás	Pacaembu
+17ª	04/08/2007	18h10m	América/RN	1	x	5	Náutico	Machadão
+17ª	04/08/2007	18h10m	Sport	3	x	2	Atlético/PR	Ilha do Retiro
+17ª	05/08/2007	16h00m	Fluminense	0	x	1	Palmeiras	Maracanã
+17ª	05/08/2007	16h00m	Cruzeiro	3	x	2	Internacional	Mineirão
+17ª	05/08/2007	16h00m	Santos	3	x	0	Flamengo	Vila Belmiro
+17ª	05/08/2007	16h00m	Juventude	1	x	2	Atlético/MG	Alfredo Jaconi
+17ª	05/08/2007	18h10m	Vasco	2	x	2	Figueirense	São Januário
+17ª	05/08/2007	18h10m	Paraná	0	x	0	Botafogo	Durival de Brito
+17ª	05/08/2007	18h10m	Grêmio	0	x	2	São Paulo	Olímpico
+18ª	08/08/2007	19h30m	Cruzeiro	2	x	0	Sport	Mineirão
+18ª	08/08/2007	19h30m	Juventude	0	x	0	Fluminense	Alfredo Jaconi
+18ª	08/08/2007	21h45m	Botafogo	0	x	2	São Paulo	Maracanã
+18ª	08/08/2007	20h30m	Náutico	4	x	2	Figueirense	Aflitos
+18ª	08/08/2007	21h45m	Atlético/PR	2	x	0	Flamengo	Kyocera Arena
+18ª	08/08/2007	21h45m	Goiás	3	x	2	Atlético/MG	Serra Dourada
+18ª	09/08/2007	20h30m	Vasco	2	x	0	Corinthians	São Januário
+18ª	09/08/2007	20h30m	Grêmio	3	x	0	América/RN	Olímpico
+18ª	09/08/2007	20h30m	Palmeiras	1	x	1	Internacional	Palestra Itália
+18ª	09/08/2007	20h30m	Santos	2	x	0	Paraná	Vila Belmiro
+19ª	11/08/2007	18h10m	Sport	3	x	0	Juventude	Ilha do Retiro
+19ª	11/08/2007	18h10m	São Paulo	2	x	0	Atlético/PR	Morumbi
+19ª	11/08/2007	18h10m	Flamengo	2	x	1	Náutico	Maracanã
+19ª	12/08/2007	16h00m	Corinthians	2	x	1	Grêmio	Pacaembu
+19ª	12/08/2007	16h00m	Atlético/MG	1	x	2	Palmeiras	Mineirão
+19ª	12/08/2007	16h00m	Figueirense	1	x	1	Botafogo	Orlando Scarpelli
+19ª	12/08/2007	16h00m	Internacional	1	x	0	Goiás	Beira-Rio
+19ª	12/08/2007	18h10m	América/RN	1	x	2	Cruzeiro	Machadão
+19ª	12/08/2007	18h10m	Paraná	0	x	0	Vasco	Durival de Brito
+19ª	12/08/2007	18h10m	Fluminense	3	x	0	Santos	Maracanã
+20ª	18/08/2007	18h10m	Atlético/PR	1	x	1	Figueirense	Kyocera Arena
+20ª	18/08/2007	18h10m	Grêmio	2	x	0	Paraná	Olímpico
+20ª	18/08/2007	18h10m	Santos	2	x	0	Sport	Vila Belmiro
+20ª	19/08/2007	16h00m	Juventude	2	x	2	Corinthians	Alfredo Jaconi
+20ª	19/08/2007	16h00m	Náutico	0	x	1	Atlético/MG	Aflitos
+20ª	19/08/2007	16h00m	Palmeiras	2	x	1	Flamengo	Palestra Itália
+20ª	19/08/2007	16h00m	Vasco	2	x	0	América/RN	São Januário
+20ª	19/08/2007	18h10m	Botafogo	1	x	1	Internacional	Maracanã
+20ª	19/08/2007	18h10m	Cruzeiro	4	x	2	Fluminense	Mineirão
+20ª	19/08/2007	18h10m	Goiás	0	x	0	São Paulo	Serra Dourada
+21ª	25/08/2007	18h10m	Corinthians	0	x	3	Cruzeiro	Pacaembu
+21ª	25/08/2007	18h10m	Fluminense	1	x	1	Grêmio	Maracanã
+21ª	25/08/2007	18h10m	Internacional	1	x	0	Atlético/PR	Beira-Rio
+21ª	26/08/2007	16h00m	Atlético/MG	1	x	2	Botafogo	Mineirão
+21ª	26/08/2007	16h00m	Figueirense	1	x	2	Palmeiras	Orlando Scarpelli
+21ª	26/08/2007	16h00m	Paraná	3	x	1	Juventude	Durival de Brito
+21ª	26/08/2007	16h00m	São Paulo	5	x	0	Náutico	Morumbi
+21ª	26/08/2007	18h10m	América/RN	1	x	4	Santos	Machadão
+21ª	26/08/2007	18h10m	Flamengo	3	x	1	Goiás	Maracanã
+21ª	26/08/2007	18h10m	Sport	0	x	0	Vasco	Ilha do Retiro
+22ª	29/08/2007	19h30m	Juventude	2	x	0	Goiás	Alfredo Jaconi
+22ª	29/08/2007	19h30m	Paraná	2	x	2	Cruzeiro	Durival de Brito
+22ª	29/08/2007	20h30m	Botafogo	1	x	1	Flamengo	Maracanã
+22ª	29/08/2007	20h30m	Figueirense	3	x	1	América/RN	Orlando Scarpelli
+22ª	29/08/2007	21h30m	Palmeiras	0	x	1	São Paulo	Pacaembu
+22ª	29/08/2007	21h45m	Atlético/MG	5	x	2	Corinthians	Mineirão
+22ª	29/08/2007	21h45m	Internacional	1	x	4	Fluminense	Beira-Rio
+22ª	29/08/2007	21h45m	Sport	2	x	0	Grêmio	Ilha do Retiro
+22ª	30/08/2007	20h30m	Santos	3	x	1	Atlético/PR	Vila Belmiro
+22ª	30/08/2007	20h30m	Vasco	4	x	1	Náutico	São Januário
+23ª	01/09/2007	18h10m	América/RN	0	x	3	Juventude	Machadão
+23ª	01/09/2007	18h10m	Flamengo	1	x	1	Sport	Maracanã
+23ª	01/09/2007	18h10m	São Paulo	6	x	0	Paraná	Morumbi
+23ª	02/09/2007	16h00m	Atlético/PR	1	x	0	Atlético/MG	Kyocera Arena
+23ª	02/09/2007	16h00m	Corinthians	2	x	0	Santos	Pacaembu
+23ª	02/09/2007	16h00m	Cruzeiro	5	x	0	Palmeiras	Mineirão
+23ª	02/09/2007	16h00m	Grêmio	3	x	0	Botafogo	Olímpico
+23ª	02/09/2007	18h10m	Fluminense	1	x	1	Vasco	Maracanã
+23ª	02/09/2007	18h10m	Goiás	2	x	1	Figueirense	Serra Dourada
+23ª	02/09/2007	18h10m	Náutico	1	x	1	Internacional	Aflitos
+24ª	05/09/2007	19h30m	Corinthians	1	x	0	América/RN	Pacaembu
+24ª	05/09/2007	19h30m	Goiás	2	x	3	Atlético/PR	Serra Dourada
+24ª	05/09/2007	20h30m	Flamengo	4	x	1	Figueirense	Maracanã
+24ª	05/09/2007	20h30m	Juventude	1	x	0	Cruzeiro	Alfredo Jaconi
+24ª	05/09/2007	21h45m	Atlético/MG	0	x	0	São Paulo	Mineirão
+24ª	05/09/2007	21h45m	Grêmio	3	x	1	Vasco	Olímpico
+24ª	05/09/2007	21h45m	Santos	2	x	1	Internacional	Vila Belmiro
+24ª	06/09/2007	20h30m	Botafogo	1	x	1	Palmeiras	Maracanã
+24ª	06/09/2007	20h30m	Paraná	2	x	4	Náutico	Durival de Brito
+24ª	06/09/2007	20h30m	Sport	0	x	2	Fluminense	Ilha do Retiro
+25ª	08/09/2007	16h00m	Figueirense	2	x	1	Atlético/MG	Orlando Scarpelli
+25ª	08/09/2007	16h00m	Internacional	3	x	0	Flamengo	Beira-Rio
+25ª	08/09/2007	16h00m	Vasco	0	x	2	São Paulo	São Januário
+25ª	08/09/2007	18h10m	Cruzeiro	2	x	0	Grêmio	Mineirão
+25ª	08/09/2007	18h10m	Santos	1	x	0	Juventude	Vila Belmiro
+25ª	09/09/2007	19h00m	América/RN	1	x	1	Sport	Machadão
+25ª	09/09/2007	19h00m	Fluminense	2	x	0	Atlético/PR	Maracanã
+25ª	09/09/2007	19h00m	Náutico	4	x	1	Botafogo	Aflitos
+25ª	09/09/2007	19h00m	Palmeiras	2	x	0	Goiás	Palestra Itália
+25ª	09/09/2007	19h00m	Paraná	1	x	0	Corinthians	Durival de Brito
+26ª	15/09/2007	18h10m	Fluminense	2	x	0	América/RN	Maracanã
+26ª	15/09/2007	18h10m	Goiás	0	x	3	Náutico	Serra Dourada
+26ª	15/09/2007	18h10m	São Paulo	2	x	1	Santos	Morumbi
+26ª	16/09/2007	16h00m	Atlético/MG	3	x	4	Cruzeiro	Mineirão
+26ª	16/09/2007	16h00m	Atlético/PR	2	x	1	Palmeiras	Kyocera Arena
+26ª	16/09/2007	16h00m	Corinthians	0	x	1	Botafogo	Pacaembu
+26ª	16/09/2007	16h00m	Sport	3	x	1	Paraná	Ilha do Retiro
+26ª	16/09/2007	18h10m	Figueirense	4	x	1	Juventude	Orlando Scarpelli
+26ª	16/09/2007	18h10m	Flamengo	1	x	1	Vasco	Maracanã
+26ª	16/09/2007	18h10m	Grêmio	1	x	0	Internacional	Olímpico
+27ª	22/09/2007	18h10m	Goiás	1	x	1	América/RN	Serra Dourada
+27ª	22/09/2007	18h10m	Grêmio	1	x	0	Santos	Olímpico
+27ª	22/09/2007	18h10m	São Paulo	2	x	0	Figueirense	Morumbi
+27ª	23/09/2007	16h00m	Atlético/MG	2	x	2	Internacional	Mineirão
+27ª	23/09/2007	16h00m	Juventude	2	x	2	Flamengo	Alfredo Jaconi
+27ª	23/09/2007	16h00m	Náutico	2	x	0	Sport	Aflitos
+27ª	23/09/2007	16h00m	Palmeiras	1	x	0	Corinthians	Morumbi
+27ª	23/09/2007	18h10m	Atlético/PR	2	x	1	Paraná	Kyocera Arena
+27ª	23/09/2007	18h10m	Botafogo	0	x	2	Fluminense	Maracanã
+27ª	23/09/2007	18h10m	Vasco	0	x	2	Cruzeiro	São Januário
+28ª	29/09/2007	18h10m	Corinthians	1	x	2	Sport	Pacaembu
+28ª	29/09/2007	18h10m	Flamengo	1	x	0	Atlético/MG	Maracanã
+28ª	29/09/2007	18h10m	Náutico	5	x	0	Atlético/PR	Aflitos
+28ª	30/09/2007	16h00m	Botafogo	0	x	3	Goiás	Maracanã
+28ª	30/09/2007	16h00m	Internacional	1	x	2	São Paulo	Beira-Rio
+28ª	30/09/2007	16h00m	Juventude	1	x	2	Grêmio	Alfredo Jaconi
+28ª	30/09/2007	16h00m	Santos	1	x	0	Vasco	Vila Belmiro
+28ª	30/09/2007	18h10m	América/RN	0	x	0	Palmeiras	Machadão
+28ª	30/09/2007	18h10m	Cruzeiro	1	x	2	Figueirense	Mineirão
+28ª	30/09/2007	18h10m	Paraná	3	x	1	Fluminense	Durival de Brito
+29ª	03/10/2007	19h30m	Palmeiras	2	x	1	Náutico	Palestra Itália
+29ª	03/10/2007	19h30m	Sport	4	x	0	Goiás	Ilha do Retiro
+29ª	03/10/2007	20h30m	Grêmio	2	x	2	Atlético/MG	Olímpico
+29ª	03/10/2007	20h30m	Vasco	0	x	1	Juventude	São Januário
+29ª	03/10/2007	21h45m	Atlético/PR	2	x	0	Botafogo	Kyocera Arena
+29ª	03/10/2007	21h45m	Cruzeiro	0	x	1	Santos	Mineirão
+29ª	03/10/2007	21h45m	Fluminense	1	x	1	Corinthians	Maracanã
+29ª	04/10/2007	20h30m	América/RN	3	x	2	Paraná	Machadão
+29ª	04/10/2007	20h30m	Figueirense	0	x	0	Internacional	Orlando Scarpelli
+29ª	04/10/2007	20h30m	Flamengo	1	x	0	São Paulo	Maracanã
+30ª	06/10/2007	18h10m	Botafogo	1	x	2	Santos	Maracanã
+30ª	06/10/2007	18h10m	Náutico	4	x	1	Juventude	Aflitos
+30ª	06/10/2007	18h10m	Palmeiras	2	x	0	Grêmio	Palestra Itália
+30ª	07/10/2007	16h00m	Atlético/MG	3	x	1	Sport	Mineirão
+30ª	07/10/2007	16h00m	Atlético/PR	1	x	0	Vasco	Kyocera Arena
+30ª	07/10/2007	16h00m	Internacional	2	x	0	América/RN	Beira-Rio
+30ª	07/10/2007	16h00m	São Paulo	0	x	1	Corinthians	Morumbi
+30ª	07/10/2007	18h10m	Figueirense	3	x	0	Paraná	Orlando Scarpelli
+30ª	07/10/2007	18h10m	Flamengo	0	x	2	Fluminense	Maracanã
+30ª	07/10/2007	18h10m	Goiás	0	x	0	Cruzeiro	Serra Dourada
+31ª	12/10/2007	20h30m	Cruzeiro	2	x	2	Náutico	Mineirão
+31ª	12/10/2007	20h30m	Juventude	0	x	0	Atlético/PR	Alfredo Jaconi
+31ª	12/10/2007	20h30m	Sport	0	x	0	Figueirense	Ilha do Retiro
+31ª	13/10/2007	16h00m	Corinthians	1	x	1	Internacional	Pacaembu
+31ª	13/10/2007	16h00m	Fluminense	1	x	1	São Paulo	Maracanã
+31ª	13/10/2007	16h00m	Paraná	0	x	1	Flamengo	Durival de Brito
+31ª	13/10/2007	18h10m	América/RN	0	x	1	Atlético/MG	Machadão
+31ª	13/10/2007	18h10m	Grêmio	2	x	1	Goiás	Olímpico
+31ª	13/10/2007	18h10m	Santos	1	x	1	Palmeiras	Vila Belmiro
+31ª	14/10/2007	16h00m	Vasco	2	x	1	Botafogo	Maracanã
+32ª	20/10/2007	18h10m	Botafogo	3	x	1	Sport	Maracanã
+32ª	20/10/2007	18h10m	Goiás	5	x	3	Fluminense	Serra Dourada
+32ª	20/10/2007	18h10m	Palmeiras	3	x	0	Paraná	Palestra Itália
+32ª	21/10/2007	16h00m	Atlético/MG	1	x	0	Vasco	Mineirão
+32ª	21/10/2007	16h00m	Atlético/PR	2	x	0	América/RN	Kyocera Arena
+32ª	21/10/2007	16h00m	Náutico	1	x	0	Corinthians	Aflitos
+32ª	21/10/2007	16h00m	São Paulo	1	x	0	Cruzeiro	Morumbi
+32ª	21/10/2007	18h10m	Figueirense	1	x	0	Santos	Orlando Scarpelli
+32ª	21/10/2007	18h10m	Flamengo	2	x	0	Grêmio	Maracanã
+32ª	21/10/2007	18h10m	Internacional	3	x	0	Juventude	Beira-Rio
+33ª	27/10/2007	18h10m	Cruzeiro	1	x	1	Atlético/PR	Mineirão
+33ª	27/10/2007	18h10m	Fluminense	1	x	1	Atlético/MG	Maracanã
+33ª	27/10/2007	18h10m	Santos	3	x	0	Goiás	Vila Belmiro
+33ª	28/10/2007	16h00m	América/RN	0	x	1	Flamengo	Machadão
+33ª	28/10/2007	17h00m	Corinthians	2	x	1	Figueirense	Pacaembu
+33ª	28/10/2007	16h00m	Grêmio	4	x	3	Náutico	Olímpico
+33ª	28/10/2007	16h00m	Sport	1	x	2	São Paulo	Ilha do Retiro
+33ª	28/10/2007	18h10m	Juventude	1	x	1	Botafogo	Alfredo Jaconi
+33ª	28/10/2007	18h10m	Paraná	1	x	0	Internacional	Durival de Brito
+33ª	28/10/2007	18h10m	Vasco	2	x	2	Palmeiras	São Januário
+34ª	31/10/2007	19h30m	Atlético/PR	2	x	0	Grêmio	Kyocera Arena
+34ª	31/10/2007	19h30m	Figueirense	0	x	2	Fluminense	Orlando Scarpelli
+34ª	31/10/2007	20h30m	Atlético/MG	0	x	0	Paraná	Mineirão
+34ª	31/10/2007	21h45m	Flamengo	2	x	1	Corinthians	Maracanã
+34ª	31/10/2007	21h45m	Goiás	2	x	3	Vasco	Serra Dourada
+34ª	31/10/2007	21h45m	Náutico	1	x	2	Santos	Aflitos
+34ª	31/10/2007	21h45m	São Paulo	3	x	0	América/RN	Morumbi
+34ª	01/11/2007	20h30m	Botafogo	4	x	1	Cruzeiro	Maracanã
+34ª	01/11/2007	20h30m	Internacional	0	x	0	Sport	Beira-Rio
+34ª	01/11/2007	20h30m	Palmeiras	0	x	1	Juventude	Palestra Itália
+35ª	03/11/2007	18h10m	Fluminense	2	x	1	Náutico	Maracanã
+35ª	03/11/2007	18h10m	Grêmio	1	x	2	Figueirense	Olímpico
+35ª	03/11/2007	18h10m	Paraná	1	x	0	Goiás	Durival de Brito
+35ª	04/11/2007	16h00m	Cruzeiro	3	x	1	Flamengo	Mineirão
+35ª	04/11/2007	16h00m	Santos	2	x	2	Atlético/MG	Vila Belmiro
+35ª	04/11/2007	17h00m	Corinthians	2	x	2	Atlético/PR	Pacaembu
+35ª	04/11/2007	18h10m	América/RN	1	x	1	Botafogo	Machadão
+35ª	04/11/2007	18h10m	Sport	3	x	1	Palmeiras	Ilha do Retiro
+35ª	04/11/2007	18h10m	Vasco	1	x	2	Internacional	São Januário
+35ª	07/11/2007	21h45m	Juventude	2	x	0	São Paulo	Alfredo Jaconi
+36ª	10/11/2007	18h10m	Botafogo	3	x	2	Paraná	Maracanã
+36ª	10/11/2007	18h10m	Internacional	1	x	0	Cruzeiro	Beira-Rio
+36ª	10/11/2007	18h10m	Náutico	4	x	0	América/RN	Aflitos
+36ª	11/11/2007	16h00m	Figueirense	3	x	3	Vasco	Orlando Scarpelli
+36ª	11/11/2007	16h00m	Goiás	1	x	1	Corinthians	Serra Dourada
+36ª	11/11/2007	17h00m	Atlético/PR	0	x	0	Sport	Kyocera Arena
+36ª	11/11/2007	18h10m	Atlético/MG	4	x	1	Juventude	Mineirão
+36ª	11/11/2007	18h10m	Flamengo	1	x	0	Santos	Maracanã
+36ª	11/11/2007	18h10m	São Paulo	1	x	0	Grêmio	Morumbi
+36ª	14/11/2007	21h45m	Palmeiras	1	x	0	Fluminense	Palestra Itália
+37ª	24/11/2007	18h10m	América/RN	0	x	3	Grêmio	Machadão
+37ª	24/11/2007	18h10m	Fluminense	3	x	2	Juventude	Maracanã
+37ª	25/11/2007	16h00m	Internacional	2	x	1	Palmeiras	Beira-Rio
+37ª	25/11/2007	16h00m	São Paulo	2	x	2	Botafogo	Morumbi
+37ª	25/11/2007	18h10m	Flamengo	2	x	0	Atlético/PR	Maracanã
+37ª	25/11/2007	18h10m	Paraná	2	x	3	Santos	Durival de Brito
+37ª	25/11/2007	18h10m	Sport	1	x	0	Cruzeiro	Ilha do Retiro
+37ª	28/11/2007	21h45m	Atlético/MG	4	x	1	Goiás	Mineirão
+37ª	28/11/2007	21h45m	Corinthians	0	x	1	Vasco	Pacaembu
+37ª	28/11/2007	21h45m	Figueirense	2	x	0	Náutico	Orlando Scarpelli
+38ª	02/12/2007	16h00m	Palmeiras	1	x	3	Atlético/MG	Palestra Itália
+38ª	02/12/2007	16h00m	Atlético/PR	2	x	1	São Paulo	Kyocera Arena
+38ª	02/12/2007	16h00m	Goiás	2	x	1	Internacional	Serra Dourada
+38ª	02/12/2007	16h00m	Botafogo	1	x	1	Figueirense	Maracanã
+38ª	02/12/2007	16h00m	Náutico	1	x	0	Flamengo	Aflitos
+38ª	02/12/2007	16h00m	Cruzeiro	2	x	0	América/RN	Mineirão
+38ª	02/12/2007	16h00m	Santos	2	x	4	Fluminense	Vila Belmiro
+38ª	02/12/2007	16h00m	Juventude	2	x	1	Sport	Alfredo Jaconi
+38ª	02/12/2007	16h00m	Grêmio	1	x	1	Corinthians	Olímpico
+38ª	02/12/2007	16h00m	Vasco	3	x	0	Paraná	São Januário

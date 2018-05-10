@@ -1,0 +1,380 @@
+1ª	15/04/2006	18h10m	Juventude	1	x	0	Paraná	Alfredo Jaconi
+1ª	15/04/2006	18h10m	Vasco	1	x	1	Internacional	São Januário
+1ª	16/04/2006	16h00m	Grêmio	2	x	0	Corinthians	Olímpico
+1ª	16/04/2006	16h00m	São Paulo	1	x	0	Flamengo	Morumbi
+1ª	16/04/2006	16h00m	São Caetano	2	x	1	Cruzeiro	Anacleto Campanella
+1ª	16/04/2006	16h00m	Botafogo	1	x	0	Fortaleza	Maracanã
+1ª	16/04/2006	18h10m	Santa Cruz	0	x	0	Figueirense	Arruda
+1ª	16/04/2006	18h10m	Palmeiras	2	x	3	Ponte Preta	Palestra Itália
+1ª	16/04/2006	18h10m	Goiás	0	x	0	Santos	Serra Dourada
+1ª	16/04/2006	18h10m	Atlético/PR	1	x	2	Fluminense	Kyocera Arena
+2ª	22/04/2006	18h10m	Cruzeiro	3	x	1	Grêmio	Mineirão
+2ª	22/04/2006	16h00m	Corinthians	3	x	0	São Caetano	Pacaembu
+2ª	22/04/2006	18h10m	Fluminense	1	x	0	Goiás	Maracanã
+2ª	22/04/2006	18h10m	Figueirense	6	x	1	Palmeiras	Orlando Scarpelli
+2ª	23/04/2006	16h00m	Internacional	1	x	0	Santa Cruz	Beira-Rio
+2ª	23/04/2006	16h00m	Santos	2	x	0	Atlético/PR	A definir
+2ª	23/04/2006	16h00m	Ponte Preta	1	x	2	Vasco	Moisés Lucarelli
+2ª	23/04/2006	16h00m	Flamengo	3	x	1	Juventude	Maracanã
+2ª	23/04/2006	18h10m	Paraná	0	x	0	Botafogo	Pinheirão
+2ª	23/04/2006	18h10m	Fortaleza	1	x	0	São Paulo	Castelão
+3ª	29/04/2006	16h00m	Fortaleza	2	x	1	São Caetano	Castelão
+3ª	29/04/2006	18h10m	Botafogo	0	x	4	Atlético/PR	Maracanã
+3ª	29/04/2006	18h10m	São Paulo	4	x	0	Santa Cruz	Morumbi
+3ª	30/04/2006	16h00m	Internacional	1	x	0	Flamengo	Beira-Rio
+3ª	30/04/2006	16h00m	Ponte Preta	3	x	2	Corinthians	Moisés Lucarelli
+3ª	30/04/2006	16h00m	Paraná	5	x	2	Grêmio	Pinheirão
+3ª	30/04/2006	16h00m	Palmeiras	1	x	2	Santos	Palestra Itália
+3ª	30/04/2006	18h10m	Vasco	1	x	1	Fluminense	Maracanã
+3ª	30/04/2006	18h10m	Juventude	1	x	1	Goiás	Alfredo Jaconi
+3ª	30/04/2006	18h10m	Figueirense	0	x	2	Cruzeiro	Orl. Scarpelli
+4ª	06/05/2006	16h00m	Santa Cruz	1	x	1	Ponte Preta	Arruda
+4ª	06/05/2006	18h10m	Fluminense	2	x	1	Paraná	Maracanã
+4ª	07/05/2006	18h10m	Goiás	2	x	1	Figueirense	Serra Dourada
+4ª	07/05/2006	16h00m	Grêmio	1	x	2	Vasco	Olímpico
+4ª	07/05/2006	16h00m	São Caetano	2	x	0	Palmeiras	Anacleto Campanella
+4ª	07/05/2006	16h00m	Atlético/PR	1	x	2	Internacional	Kyocera Arena
+4ª	07/05/2006	16h00m	Corinthians	1	x	3	São Paulo	Teixeirão
+4ª	07/05/2006	18h10m	Flamengo	1	x	0	Botafogo	Maracanã
+4ª	06/05/2006	18h10m	Santos	2	x	0	Fortaleza	Bruno José Daniel
+4ª	07/05/2006	18h10m	Cruzeiro	2	x	0	Juventude	Mineirão
+5ª	14/05/2006	16h00m	Santa Cruz	1	x	2	Atlético/PR	Arruda
+5ª	13/05/2006	18h10m	São Caetano	0	x	2	Juventude	Anacleto Campanella
+5ª	13/05/2006	18h10m	Botafogo	2	x	2	Grêmio	Maracanã
+5ª	13/05/2006	18h10m	Santos	3	x	1	Ponte Preta	Vila Belmiro
+5ª	14/05/2006	16h00m	Internacional	3	x	1	São Paulo	Beira-Rio
+5ª	14/05/2006	16h00m	Figueirense	1	x	0	Fluminense	Orlando Scarpelli
+5ª	14/05/2006	16h00m	Palmeiras	1	x	1	Cruzeiro	Palestra Itália
+5ª	14/05/2006	18h10m	Flamengo	0	x	0	Fortaleza	Maracanã
+5ª	14/05/2006	18h10m	Paraná	1	x	2	Corinthians	Pinheirão
+5ª	14/05/2006	18h10m	Goiás	2	x	0	Vasco	Serra Dourada
+6ª	20/05/2006	16h00m	Atlético/PR	2	x	3	Goiás	Kyocera Arena
+6ª	20/05/2006	16h00m	Fortaleza	1	x	1	Paraná	Castelão
+6ª	20/05/2006	18h10m	Internacional	2	x	4	Figueirense	Beira-Rio
+6ª	20/05/2006	18h10m	São Paulo	1	x	0	São Caetano	Morumbi
+6ª	21/05/2006	16h00m	Vasco	2	x	4	Corinthians	São Januário
+6ª	21/05/2006	16h00m	Cruzeiro	2	x	1	Flamengo	Mineirão
+6ª	21/05/2006	16h00m	Palmeiras	2	x	1	Santa Cruz	Palestra Itália
+6ª	21/05/2006	18h10m	Ponte Preta	1	x	1	Grêmio	Moisés Lucarelli
+6ª	21/05/2006	18h10m	Fluminense	1	x	0	Santos	Maracanã
+6ª	21/05/2006	18h10m	Juventude	1	x	0	Botafogo	Alfredo Jaconi
+7ª	24/05/2006	19h30m	Juventude	4	x	1	Santa Cruz	Alfredo Jaconi
+7ª	24/05/2006	19h30m	Paraná	0	x	0	Figueirense	Pinheirão
+7ª	24/05/2006	19h30m	Cruzeiro	5	x	1	Ponte Preta	Mineirão
+7ª	24/05/2006	20h30m	São Paulo	4	x	1	Palmeiras	Morumbi
+7ª	24/05/2006	21h45m	São Caetano	2	x	1	Atlético/PR	Anacleto Campanella
+7ª	24/05/2006	21h45m	Flamengo	2	x	2	Santos	Maracanã
+7ª	24/05/2006	21h45m	Fortaleza	2	x	5	Fluminense	Castelão
+7ª	25/05/2006	20h30m	Botafogo	4	x	1	Vasco	Maracanã
+7ª	25/05/2006	20h30m	Grêmio	2	x	0	Goiás	Olímpico
+7ª	25/05/2006	20h30m	Corinthians	0	x	1	Internacional	Pacaembu
+8ª	27/05/2006	18h10m	Figueirense	0	x	0	Fortaleza	Orlando Scarpelli
+8ª	27/05/2006	18h10m	Ponte Preta	2	x	5	Paraná	Moisés Lucarelli
+8ª	27/05/2006	18h10m	Atlético/PR	1	x	0	Juventude	Kyocera Arena
+8ª	28/05/2006	16h00m	Internacional	1	x	1	Cruzeiro	Beira-Rio
+8ª	28/05/2006	16h00m	Santos	2	x	0	Corinthians	Vila Belmiro
+8ª	28/05/2006	16h00m	Santa Cruz	1	x	1	Botafogo	Arruda
+8ª	28/05/2006	18h10m	Goiás	2	x	1	São Caetano	Serra Dourada
+8ª	28/05/2006	16h30m	Fluminense	1	x	0	Flamengo	Maracanã
+8ª	28/05/2006	18h10m	Vasco	1	x	1	São Paulo	São Januário
+8ª	28/05/2006	18h10m	Palmeiras	0	x	1	Grêmio	Palestra Itália
+9ª	31/05/2006	19h30m	Juventude	0	x	1	Ponte Preta	Alfredo Jaconi
+9ª	31/05/2006	19h30m	Cruzeiro	1	x	1	Atlético/PR	Mineirão
+9ª	31/05/2006	19h30m	Fortaleza	1	x	1	Vasco	Castelão
+9ª	31/05/2006	20h30m	São Caetano	1	x	1	Internacional	Anacleto Campanella
+9ª	31/05/2006	21h45m	Flamengo	2	x	1	Palmeiras	Maracanã
+9ª	31/05/2006	21h45m	Grêmio	1	x	0	Santos	Olímpico
+9ª	31/05/2006	21h45m	São Paulo	1	x	0	Fluminense	Morumbi
+9ª	01/06/2006	20h30m	Paraná	3	x	0	Santa Cruz	Pinheirão
+9ª	01/06/2006	20h30m	Botafogo	2	x	3	Figueirense	Maracanã
+9ª	01/06/2006	20h30m	Corinthians	0	x	1	Goiás	Pacaembu
+10ª	03/06/2006	16h00m	Fluminense	2	x	3	Internacional	Maracanã
+10ª	03/06/2006	16h00m	Fortaleza	0	x	2	Cruzeiro	Castelão
+10ª	03/06/2006	18h10m	Grêmio	1	x	1	São Caetano	Olímpico
+10ª	04/06/2006	16h00m	Atlético/PR	2	x	0	Palmeiras	Kyocera Arena
+10ª	04/06/2006	16h00m	Vasco	2	x	1	Santa Cruz	São Januário
+10ª	04/06/2006	16h00m	Corinthians	0	x	2	Flamengo	Pacaembu
+10ª	04/06/2006	16h00m	Ponte Preta	3	x	0	Figueirense	Moisés Lucarelli
+10ª	04/06/2006	18h10m	Goiás	1	x	2	Paraná	Serra Dourada
+10ª	04/06/2006	18h10m	Juventude	1	x	1	São Paulo	Alfredo Jaconi
+10ª	04/06/2006	18h10m	Santos	0	x	0	Botafogo	Vila Belmiro
+11ª	12/07/2006	19h30m	Internacional	2	x	0	Ponte Preta	Beira-Rio
+11ª	12/07/2006	19h30m	Atlético/PR	0	x	0	Fortaleza	Kyocera Arena
+11ª	12/07/2006	19h30m	Fluminense	3	x	2	Juventude	Maracanã
+11ª	12/07/2006	20h30m	São Paulo	2	x	1	Grêmio	Morumbi
+11ª	12/07/2006	21h45m	Figueirense	2	x	1	Santos	Orlando Scarpelli
+11ª	12/07/2006	21h45m	São Caetano	1	x	1	Botafogo	Anacleto Campanella
+11ª	12/07/2006	21h45m	Cruzeiro	2	x	0	Corinthians	Mineirão
+11ª	13/07/2006	20h30m	Santa Cruz	2	x	1	Goiás	Arruda
+11ª	13/07/2006	20h30m	Flamengo	1	x	4	Paraná	Maracanã
+11ª	13/07/2006	20h30m	Palmeiras	4	x	2	Vasco	Palestra Itália
+12ª	15/07/2006	16h00m	Botafogo	4	x	1	Ponte Preta	Maracanã
+12ª	15/07/2006	18h10m	São Paulo	2	x	1	Figueirense	Morumbi
+12ª	16/07/2006	16h00m	Grêmio	4	x	4	Fluminense	Olímpico
+12ª	16/07/2006	16h00m	São Caetano	2	x	0	Santos	Anacleto Campanella
+12ª	16/07/2006	16h00m	Cruzeiro	0	x	0	Goiás	Mineirão
+12ª	16/07/2006	16h00m	Palmeiras	1	x	0	Corinthians	Morumbi
+12ª	16/07/2006	18h10m	Flamengo	0	x	1	Vasco	Maracanã
+12ª	16/07/2006	18h10m	Juventude	2	x	0	Internacional	Alfredo Jaconi
+12ª	16/07/2006	18h10m	Paraná	2	x	1	Atlético/PR	Pinheirão
+12ª	16/07/2006	18h10m	Fortaleza	1	x	4	Santa Cruz	Castelão
+13ª	22/07/2006	16h00m	Figueirense	2	x	0	Grêmio	Orlando Scarpelli
+13ª	22/07/2006	16h00m	Paraná	1	x	0	Cruzeiro	Pinheirão
+13ª	22/07/2006	18h10m	Corinthians	2	x	2	Fortaleza	Pacaembu
+13ª	22/07/2006	18h10m	Fluminense	2	x	2	São Caetano	Maracanã
+13ª	23/07/2006	16h00m	Ponte Preta	1	x	3	São Paulo	Moisés Lucarelli
+13ª	23/07/2006	16h00m	Vasco	2	x	1	Atlético/PR	São Januário
+13ª	23/07/2006	16h00m	Santa Cruz	3	x	0	Flamengo	Arruda
+13ª	23/07/2006	18h10m	Santos	3	x	2	Juventude	Vila Belmiro
+13ª	23/07/2006	18h10m	Internacional	0	x	0	Botafogo	Beira-Rio
+13ª	23/07/2006	18h10m	Goiás	1	x	3	Palmeiras	Serra Dourada
+14ª	29/07/2006	16h00m	Juventude	1	x	0	Figueirense	Alfredo Jaconi
+14ª	29/07/2006	18h10m	São Caetano	1	x	1	Ponte Preta	Anacleto Campanella
+14ª	29/07/2006	18h10m	Palmeiras	4	x	2	Paraná	Palestra Itália
+14ª	30/07/2006	16h00m	Atlético/PR	1	x	0	Flamengo	Kyocera Arena
+14ª	30/07/2006	16h00m	Vasco	1	x	0	Cruzeiro	São Januário
+14ª	30/07/2006	16h00m	Santa Cruz	1	x	0	Corinthians	Arruda
+14ª	30/07/2006	16h00m	São Paulo	0	x	4	Santos	Morumbi
+14ª	30/07/2006	18h10m	Fluminense	1	x	1	Botafogo	Maracanã
+14ª	30/07/2006	18h10m	Internacional	0	x	0	Grêmio	Beira-Rio
+14ª	30/07/2006	18h10m	Goiás	1	x	1	Fortaleza	Serra Dourada
+15ª	05/08/2006	16h00m	Grêmio	1	x	0	Juventude	Olímpico
+15ª	05/08/2006	16h00m	Figueirense	1	x	1	São Caetano	Orlando Scarpelli
+15ª	05/08/2006	18h10m	Flamengo	1	x	0	Goiás	Maracanã
+15ª	05/08/2006	18h10m	Corinthians	2	x	1	Atlético/PR	Pacaembu
+15ª	06/08/2006	16h00m	Botafogo	1	x	1	São Paulo	Maracanã
+15ª	06/08/2006	16h00m	Santos	2	x	1	Internacional	Vila Belmiro
+15ª	06/08/2006	16h00m	Paraná	2	x	1	Vasco	Pinheirão
+15ª	06/08/2006	18h10m	Ponte Preta	3	x	0	Fluminense	Moisés Lucarelli
+15ª	06/08/2006	18h10m	Cruzeiro	3	x	3	Santa Cruz	Mineirão
+15ª	06/08/2006	18h10m	Fortaleza	0	x	0	Palmeiras	Castelão
+16ª	12/08/2006	16h00m	Juventude	0	x	0	Vasco	Alfredo Jaconi
+16ª	12/08/2006	16h00m	São Caetano	2	x	0	Santa Cruz	Anacleto Campanella
+16ª	12/08/2006	18h10m	Flamengo	0	x	0	Ponte Preta	Maracanã
+16ª	12/08/2006	18h10m	Corinthians	1	x	3	Figueirense	Pacaembu
+16ª	13/08/2006	16h00m	Botafogo	1	x	3	Palmeiras	Maracanã
+16ª	13/08/2006	16h00m	Grêmio	2	x	0	Atlético/PR	Olímpico
+16ª	13/08/2006	16h00m	Cruzeiro	2	x	3	Fluminense	Mineirão
+16ª	13/08/2006	18h10m	Fortaleza	1	x	2	Internacional	Castelão
+16ª	13/08/2006	18h10m	São Paulo	2	x	1	Goiás	Morumbi
+16ª	13/08/2006	18h10m	Paraná	1	x	1	Santos	Pinheirão
+17ª	16/08/2006	19h30m	Ponte Preta	1	x	3	Fortaleza	Moisés Lucarelli
+17ª	16/08/2006	19h30m	Vasco	1	x	2	São Caetano	São Januário
+17ª	16/08/2006	19h30m	Santa Cruz	2	x	4	Grêmio	Arruda
+17ª	16/08/2006	20h30m	Goiás	2	x	2	Botafogo	Serra Dourada
+17ª	16/08/2006	22h00m	Figueirense	1	x	1	Flamengo	Orlando Scarpelli
+17ª	17/08/2006	20h30m	Santos	2	x	0	Cruzeiro	Vila Belmiro
+17ª	16/08/2006	22h00m	Fluminense	1	x	2	Corinthians	Maracanã
+17ª	30/09/2006	16h00m	Internacional	3	x	2	Paraná	Beira-Rio
+17ª	30/09/2006	16h00m	Atlético/PR	0	x	0	São Paulo	Kyocera Arena
+17ª	17/08/2006	20h30m	Palmeiras	1	x	1	Juventude	Palestra Itália
+18ª	19/08/2006	16h00m	Ponte Preta	3	x	2	Goiás	Moisés Lucarelli
+18ª	19/08/2006	18h10m	Flamengo	1	x	0	Grêmio	Maracanã
+18ª	20/08/2006	16h00m	Fluminense	1	x	1	Santa Cruz	Maracanã
+18ª	20/08/2006	16h00m	Santos	0	x	2	Vasco	Vila Belmiro
+18ª	20/08/2006	16h00m	Cruzeiro	2	x	2	São Paulo	Mineirão
+18ª	20/08/2006	16h00m	Fortaleza	4	x	1	Juventude	Castelão
+18ª	20/08/2006	18h10m	Figueirense	3	x	3	Atlético/PR	Orlando Scarpelli
+18ª	20/08/2006	18h10m	Paraná	1	x	0	São Caetano	Pinheirão
+18ª	20/08/2006	18h10m	Internacional	1	x	1	Palmeiras	Beira-Rio
+18ª	20/08/2006	18h10m	Corinthians	1	x	0	Botafogo	Pacaembu
+19ª	24/08/2006	20h30m	Grêmio	4	x	1	Fortaleza	Olímpico
+19ª	23/08/2006	19h30m	Goiás	2	x	2	Internacional	Serra Dourada
+19ª	23/08/2006	19h30m	Palmeiras	3	x	0	Fluminense	Palestra Itália
+19ª	23/08/2006	20h30m	Botafogo	1	x	0	Cruzeiro	Maracanã
+19ª	23/08/2006	22h00m	Santa Cruz	1	x	1	Santos	Arruda
+19ª	23/08/2006	22h00m	Juventude	0	x	0	Corinthians	Alfredo Jaconi
+19ª	23/08/2006	22h00m	São Caetano	2	x	2	Flamengo	Anacleto Campanella
+19ª	24/08/2006	20h30m	São Paulo	3	x	2	Paraná	Morumbi
+19ª	23/08/2006	19h30m	Atlético/PR	3	x	0	Ponte Preta	Kyocera Arena
+19ª	24/08/2006	20h30m	Vasco	3	x	1	Figueirense	São Januário
+20ª	26/08/2006	16h00m	Fluminense	1	x	2	Atlético/PR	Maracanã
+20ª	27/08/2006	16h00m	Internacional	1	x	2	Vasco	Beira-Rio
+20ª	27/08/2006	18h10m	Figueirense	2	x	0	Santa Cruz	Orlando Scarpelli
+20ª	26/08/2006	18h10m	Santos	2	x	1	Goiás	Vila Belmiro
+20ª	27/08/2006	18h10m	Ponte Preta	1	x	1	Palmeiras	Moisés Lucarelli
+20ª	27/08/2006	16h00m	Paraná	0	x	1	Juventude	Pinheirão
+20ª	27/08/2006	16h00m	Flamengo	1	x	1	São Paulo	Maracanã
+20ª	26/08/2006	18h10m	Cruzeiro	3	x	0	São Caetano	Mineirão
+20ª	27/08/2006	18h10m	Fortaleza	2	x	3	Botafogo	Castelão
+20ª	27/08/2006	16h00m	Corinthians	0	x	2	Grêmio	Pacaembu
+21ª	30/08/2006	19h30m	Goiás	3	x	1	Fluminense	Serra Dourada
+21ª	30/08/2006	19h30m	Grêmio	2	x	1	Cruzeiro	Olímpico
+21ª	30/08/2006	19h30m	Santa Cruz	0	x	2	Internacional	Arruda
+21ª	30/08/2006	20h30m	Palmeiras	1	x	1	Figueirense	Palestra Itália
+21ª	30/08/2006	22h00m	Atlético/PR	2	x	1	Santos	Kyocera Arena
+21ª	30/08/2006	22h00m	Juventude	1	x	0	Flamengo	Alfredo Jaconi
+21ª	30/08/2006	22h00m	São Caetano	0	x	1	Corinthians	Anacleto Campanella
+21ª	31/08/2006	20h30m	Botafogo	4	x	0	Paraná	Maracanã
+21ª	31/08/2006	20h30m	São Paulo	1	x	1	Fortaleza	Morumbi
+21ª	31/08/2006	20h30m	Vasco	2	x	2	Ponte Preta	São Januário
+22ª	02/09/2006	16h00m	Cruzeiro	2	x	2	Figueirense	Mineirão
+22ª	02/09/2006	18h10m	Flamengo	1	x	2	Internacional	Maracanã
+22ª	03/09/2006	16h00m	Atlético/PR	0	x	5	Botafogo	Kyocera Arena
+22ª	03/09/2006	16h00m	Goiás	2	x	0	Juventude	Serra Dourada
+22ª	03/09/2006	16h00m	Grêmio	2	x	1	Paraná	Olímpico
+22ª	03/09/2006	16h00m	Santos	5	x	1	Palmeiras	Vila Belmiro
+22ª	03/09/2006	16h00m	São Caetano	0	x	0	Fortaleza	Anacleto Campanella
+22ª	03/09/2006	18h10m	Corinthians	1	x	0	Ponte Preta	Pacaembu
+22ª	03/09/2006	18h10m	Fluminense	1	x	1	Vasco	Maracanã
+22ª	03/09/2006	18h10m	Santa Cruz	1	x	3	São Paulo	Arruda
+23ª	09/09/2006	16h00m	Ponte Preta	2	x	0	Santa Cruz	Moisés Lucarelli
+23ª	09/09/2006	18h10m	Palmeiras	3	x	1	São Caetano	Palestra Itália
+23ª	09/09/2006	18h10m	Vasco	1	x	1	Grêmio	São Januário
+23ª	10/09/2006	16h00m	Figueirense	2	x	2	Goiás	Orlando Scarpelli
+23ª	10/09/2006	16h00m	Juventude	2	x	0	Cruzeiro	Alfredo Jaconi
+23ª	10/09/2006	16h00m	Paraná	1	x	0	Fluminense	Pinheirão
+23ª	10/09/2006	16h00m	São Paulo	0	x	0	Corinthians	Morumbi
+23ª	10/09/2006	18h10m	Botafogo	0	x	2	Flamengo	Maracanã
+23ª	10/09/2006	18h10m	Fortaleza	1	x	1	Santos	Castelão
+23ª	10/09/2006	18h10m	Internacional	2	x	0	Atlético/PR	Beira-Rio
+24ª	16/09/2006	16h00m	Atlético/PR	2	x	1	Santa Cruz	Kyocera Arena
+24ª	16/09/2006	18h10m	Corinthians	1	x	0	Paraná	Pacaembu
+24ª	16/09/2006	18h10m	Vasco	0	x	0	Goiás	São Januário
+24ª	17/09/2006	16h00m	Cruzeiro	1	x	0	Palmeiras	Mineirão
+24ª	17/09/2006	16h00m	Grêmio	4	x	0	Botafogo	Olímpico
+24ª	17/09/2006	16h00m	Juventude	1	x	0	São Caetano	Alfredo Jaconi
+24ª	17/09/2006	16h00m	São Paulo	2	x	0	Internacional	Morumbi
+24ª	17/09/2006	18h10m	Fluminense	2	x	0	Figueirense	Maracanã
+24ª	17/09/2006	18h10m	Fortaleza	3	x	4	Flamengo	Castelão
+24ª	17/09/2006	18h10m	Ponte Preta	1	x	0	Santos	Moisés Lucarelli
+25ª	20/09/2006	19h30m	Botafogo	2	x	1	Juventude	Maracanã
+25ª	20/09/2006	19h30m	Figueirense	1	x	0	Internacional	Orlando Scarpelli
+25ª	20/09/2006	19h30m	Paraná	2	x	0	Fortaleza	Pinheirão
+25ª	20/09/2006	20h30m	Goiás	2	x	2	Atlético/PR	Serra Dourada
+25ª	20/09/2006	22h00m	Corinthians	1	x	1	Vasco	Pacaembu
+25ª	20/09/2006	22h00m	Santos	1	x	1	Fluminense	Vila Belmiro
+25ª	20/09/2006	22h00m	São Caetano	0	x	1	São Paulo	Anacleto Campanella
+25ª	21/09/2006	20h30m	Flamengo	1	x	0	Cruzeiro	Maracanã
+25ª	20/09/2006	16h00m	Grêmio	4	x	0	Ponte Preta	Olímpico
+25ª	21/09/2006	20h30m	Santa Cruz	3	x	2	Palmeiras	Arruda
+26ª	23/09/2006	16h00m	Atlético/PR	3	x	1	São Caetano	Kyocera Arena
+26ª	23/09/2006	16h00m	Fluminense	1	x	3	Fortaleza	Maracanã
+26ª	24/09/2006	16h00m	Figueirense	0	x	1	Paraná	Orlando Scarpelli
+26ª	24/09/2006	16h00m	Internacional	1	x	1	Corinthians	Beira-Rio
+26ª	24/09/2006	16h00m	Palmeiras	3	x	1	São Paulo	Pacaembu
+26ª	24/09/2006	16h00m	Santa Cruz	1	x	0	Juventude	Arruda
+26ª	24/09/2006	16h00m	Santos	3	x	0	Flamengo	Vila Belmiro
+26ª	24/09/2006	18h10m	Goiás	4	x	0	Grêmio	Serra Dourada
+26ª	24/09/2006	18h10m	Ponte Preta	0	x	1	Cruzeiro	Moisés Lucarelli
+26ª	24/09/2006	18h10m	Vasco	0	x	0	Botafogo	Maracanã
+27ª	04/10/2006	19h30m	Fortaleza	1	x	1	Figueirense	Castelão
+27ª	04/10/2006	19h30m	Juventude	3	x	2	Atlético/PR	Alfredo Jaconi
+27ª	04/10/2006	19h30m	Paraná	2	x	1	Ponte Preta	Pinheirão
+27ª	04/10/2006	20h30m	Flamengo	4	x	1	Fluminense	Maracanã
+27ª	04/10/2006	22h00m	Grêmio	2	x	1	Palmeiras	Olímpico
+27ª	04/10/2006	22h00m	São Caetano	1	x	2	Goiás	Anacleto Campanella
+27ª	04/10/2006	22h00m	São Paulo	5	x	1	Vasco	Morumbi
+27ª	05/10/2006	20h30m	Botafogo	3	x	0	Santa Cruz	Maracanã
+27ª	05/10/2006	20h30m	Corinthians	0	x	3	Santos	Pacaembu
+27ª	05/10/2006	20h30m	Cruzeiro	2	x	1	Internacional	Mineirão
+28ª	07/10/2006	16h00m	Ponte Preta	3	x	1	Juventude	Moisés Lucarelli
+28ª	07/10/2006	18h10m	Vasco	2	x	0	Fortaleza	São Januário
+28ª	08/10/2006	16h00m	Atlético/PR	1	x	1	Cruzeiro	Kyocera Arena
+28ª	07/10/2006	18h10m	Fluminense	1	x	2	São Paulo	Maracanã
+28ª	08/10/2006	16h00m	Internacional	1	x	0	São Caetano	Beira-Rio
+28ª	08/10/2006	16h00m	Palmeiras	3	x	1	Flamengo	Palestra Itália
+28ª	08/10/2006	16h00m	Santa Cruz	1	x	3	Paraná	Arruda
+28ª	08/10/2006	18h10m	Figueirense	1	x	0	Botafogo	Orlando Scarpelli
+28ª	08/10/2006	16h00m	Goiás	3	x	1	Corinthians	Serra Dourada
+28ª	08/10/2006	18h10m	Santos	1	x	0	Grêmio	Vila Belmiro
+29ª	14/10/2006	18h10m	Botafogo	4	x	3	Santos	Maracanã
+29ª	14/10/2006	18h10m	São Caetano	0	x	2	Grêmio	Anacleto Campanella
+29ª	14/10/2006	18h10m	São Paulo	5	x	0	Juventude	Morumbi
+29ª	15/10/2006	16h00m	Figueirense	2	x	1	Ponte Preta	Orlando Scarpelli
+29ª	15/10/2006	16h00m	Flamengo	3	x	0	Corinthians	Maracanã
+29ª	15/10/2006	16h00m	Internacional	2	x	0	Fluminense	Beira-Rio
+29ª	15/10/2006	16h00m	Paraná	1	x	0	Goiás	Pinheirão
+29ª	14/10/2006	18h10m	Cruzeiro	0	x	0	Fortaleza	Mineirão
+29ª	15/10/2006	18h10m	Palmeiras	2	x	2	Atlético/PR	Palestra Itália
+29ª	15/10/2006	18h10m	Santa Cruz	0	x	4	Vasco	Arruda
+30ª	18/10/2006	22h00m	Vasco	3	x	0	Palmeiras	São Januário
+30ª	21/10/2006	16h00m	Goiás	5	x	3	Santa Cruz	Serra Dourada
+30ª	21/10/2006	18h10m	Ponte Preta	0	x	2	Internacional	Moisés Lucarelli
+30ª	21/10/2006	18h10m	Santos	2	x	1	Figueirense	Vila Belmiro
+30ª	22/10/2006	16h00m	Fortaleza	3	x	4	Atlético/PR	Castelão
+30ª	22/10/2006	16h00m	Grêmio	1	x	1	São Paulo	Olímpico
+30ª	22/10/2006	16h00m	Paraná	0	x	2	Flamengo	Pinheirão
+30ª	22/10/2006	18h10m	Botafogo	2	x	1	São Caetano	Maracanã
+30ª	22/10/2006	18h10m	Corinthians	1	x	0	Cruzeiro	Pacaembu
+30ª	22/10/2006	18h10m	Juventude	1	x	1	Fluminense	Alfredo Jaconi
+31ª	25/10/2006	22h00m	Corinthians	1	x	0	Palmeiras	Morumbi
+31ª	26/10/2006	20h30m	Fluminense	1	x	2	Grêmio	Maracanã
+31ª	26/10/2006	20h30m	Internacional	1	x	0	Juventude	Beira-Rio
+31ª	26/10/2006	20h30m	Santa Cruz	0	x	1	Fortaleza	Arruda
+31ª	26/10/2006	20h30m	Vasco	3	x	1	Flamengo	Maracanã
+31ª	28/10/2006	16h00m	Atlético/PR	4	x	0	Paraná	Kyocera Arena
+31ª	28/10/2006	16h00m	Figueirense	0	x	2	São Paulo	Orlando Scarpelli
+31ª	28/10/2006	16h00m	Ponte Preta	1	x	2	Botafogo	Moisés Lucarelli
+31ª	28/10/2006	18h10m	Goiás	2	x	3	Cruzeiro	Serra Dourada
+31ª	28/10/2006	18h10m	Santos	1	x	0	São Caetano	Vila Belmiro
+32ª	01/11/2006	19h30m	Atlético/PR	6	x	4	Vasco	Kyocera Arena
+32ª	01/11/2006	19h30m	Flamengo	1	x	1	Santa Cruz	Maracanã
+32ª	01/11/2006	19h30m	Palmeiras	1	x	3	Goiás	Palestra Itália
+32ª	01/11/2006	20h30m	Grêmio	1	x	2	Figueirense	Olímpico
+32ª	01/11/2006	21h45m	Fortaleza	0	x	4	Corinthians	Castelão
+32ª	01/11/2006	21h45m	Juventude	3	x	2	Santos	Alfredo Jaconi
+32ª	01/11/2006	21h45m	São Caetano	1	x	1	Fluminense	Anacleto Campanella
+32ª	02/11/2006	20h30m	Botafogo	0	x	1	Internacional	Maracanã
+32ª	02/11/2006	20h30m	Cruzeiro	2	x	2	Paraná	Mineirão
+32ª	02/11/2006	20h30m	São Paulo	1	x	1	Ponte Preta	Morumbi
+33ª	04/11/2006	18h10m	Figueirense	1	x	0	Juventude	Orlando Scarpelli
+33ª	04/11/2006	18h10m	Flamengo	1	x	0	Atlético/PR	Maracanã
+33ª	05/11/2006	16h00m	Cruzeiro	2	x	1	Vasco	Mineirão
+33ª	05/11/2006	16h00m	Fortaleza	0	x	3	Goiás	Castelão
+33ª	05/11/2006	16h00m	Grêmio	0	x	1	Internacional	Olímpico
+33ª	05/11/2006	16h00m	Ponte Preta	1	x	2	São Caetano	Moisés Lucarelli
+33ª	05/11/2006	16h00m	Santos	0	x	1	São Paulo	Vila Belmiro
+33ª	05/11/2006	18h10m	Botafogo	2	x	1	Fluminense	Maracanã
+33ª	05/11/2006	18h10m	Corinthians	1	x	0	Santa Cruz	Pacaembu
+33ª	05/11/2006	18h10m	Paraná	4	x	2	Palmeiras	Pinheirão
+34ª	08/11/2006	19h30m	Juventude	1	x	2	Grêmio	Alfredo Jaconi
+34ª	08/11/2006	19h30m	São Caetano	3	x	1	Figueirense	Anacleto Campanella
+34ª	08/11/2006	19h30m	Vasco	3	x	1	Paraná	São Januário
+34ª	08/11/2006	20h30m	Palmeiras	3	x	0	Fortaleza	Palestra Itália
+34ª	08/11/2006	21h45m	Atlético/PR	1	x	2	Corinthians	Kyocera Arena
+34ª	08/11/2006	21h45m	Goiás	0	x	1	Flamengo	Serra Dourada
+34ª	08/11/2006	21h45m	Internacional	0	x	0	Santos	Beira-Rio
+34ª	09/11/2006	20h30m	Fluminense	0	x	0	Ponte Preta	Maracanã
+34ª	09/11/2006	20h30m	Santa Cruz	4	x	1	Cruzeiro	Arruda
+34ª	09/11/2006	20h30m	São Paulo	3	x	0	Botafogo	Morumbi
+35ª	11/11/2006	18h10m	Internacional	3	x	0	Fortaleza	Beira-Rio
+35ª	11/11/2006	18h10m	Santos	1	x	0	Paraná	Vila Belmiro
+35ª	11/11/2006	18h10m	Vasco	1	x	1	Juventude	São Januário
+35ª	12/11/2006	16h00m	Figueirense	0	x	0	Corinthians	Orlando Scarpelli
+35ª	12/11/2006	16h00m	Goiás	0	x	2	São Paulo	Serra Dourada
+35ª	12/11/2006	16h00m	Ponte Preta	3	x	0	Flamengo	Moisés Lucarelli
+35ª	12/11/2006	18h10m	Atlético/PR	2	x	3	Grêmio	Kyocera Arena
+35ª	12/11/2006	18h10m	Fluminense	1	x	0	Cruzeiro	Maracanã
+35ª	12/11/2006	18h10m	Palmeiras	2	x	1	Botafogo	Palestra Itália
+35ª	12/11/2006	18h10m	Santa Cruz	0	x	3	São Caetano	Arruda
+36ª	18/11/2006	18h10m	Corinthians	1	x	1	Fluminense	Pacaembu
+36ª	18/11/2006	18h10m	Flamengo	0	x	2	Figueirense	Maracanã
+36ª	18/11/2006	18h10m	Grêmio	3	x	1	Santa Cruz	Olímpico
+36ª	19/11/2006	16h00m	Juventude	3	x	2	Palmeiras	Alfredo Jaconi
+36ª	19/11/2006	16h00m	São Caetano	0	x	1	Vasco	Anacleto Campanella
+36ª	19/11/2006	16h00m	São Paulo	1	x	1	Atlético/PR	Morumbi
+36ª	19/11/2006	18h10m	Botafogo	2	x	2	Goiás	Maracanã
+36ª	19/11/2006	18h10m	Cruzeiro	1	x	1	Santos	Mineirão
+36ª	19/11/2006	18h10m	Fortaleza	1	x	0	Ponte Preta	Castelão
+36ª	19/11/2006	16h00m	Paraná	1	x	0	Internacional	Pinheirão
+37ª	26/11/2006	16h00m	Botafogo	0	x	0	Corinthians	Maracanã
+37ª	26/11/2006	16h00m	Grêmio	3	x	0	Flamengo	Olímpico
+37ª	26/11/2006	16h00m	Juventude	2	x	2	Fortaleza	Alfredo Jaconi
+37ª	26/11/2006	16h00m	São Paulo	2	x	0	Cruzeiro	Morumbi
+37ª	26/11/2006	16h00m	São Caetano	0	x	2	Paraná	Anacleto Campanella
+37ª	26/11/2006	16h00m	Atlético/PR	1	x	4	Figueirense	Kyocera Arena
+37ª	26/11/2006	16h00m	Vasco	1	x	1	Santos	São Januário
+37ª	26/11/2006	16h00m	Goiás	3	x	0	Ponte Preta	Serra Dourada
+37ª	26/11/2006	16h00m	Santa Cruz	1	x	2	Fluminense	Arruda
+37ª	26/11/2006	16h00m	Palmeiras	1	x	4	Internacional	Palestra Itália
+38ª	02/12/2006	18h10m	Flamengo	4	x	1	São Caetano	Maracanã
+38ª	02/12/2006	18h10m	Internacional	1	x	4	Goiás	Beira-Rio
+38ª	03/12/2006	16h00m	Corinthians	5	x	3	Juventude	Pacaembu
+38ª	03/12/2006	16h00m	Cruzeiro	3	x	1	Botafogo	Mineirão
+38ª	03/12/2006	16h00m	Figueirense	0	x	0	Vasco	Orlando Scarpelli
+38ª	03/12/2006	16h00m	Fluminense	1	x	1	Palmeiras	Maracanã
+38ª	03/12/2006	16h00m	Paraná	0	x	0	São Paulo	Pinheirão
+38ª	03/12/2006	16h00m	Ponte Preta	1	x	1	Atlético/PR	Moisés Lucarelli
+38ª	03/12/2006	18h10m	Fortaleza	1	x	0	Grêmio	Castelão
+38ª	03/12/2006	18h10m	Santos	3	x	1	Santa Cruz	Vila Belmiro

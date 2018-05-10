@@ -1,0 +1,552 @@
+1ª 21/04/2004 16h00m Botafogo 1 X 4 Goiás Caio Martins
+1ª 21/04/2004 16h00m Figueirense 1 X 0 Internacional Orlando Scarpelli
+1ª 21/04/2004 16h00m São Caetano 1 X 0 Vitória Anacleto Campanella
+1ª 21/04/2004 18h00m Cruzeiro 2 X 1 Juventude Ipatingão
+1ª 21/04/2004 18h00m Palmeiras 0 X 0 Atlético/MG Parque Antártica
+1ª 21/04/2004 21h45m Grêmio 0 X 0 Flamengo Olímpico
+1ª 21/04/2004 21h45m Ponte Preta 3 X 2 Corinthians Moisés Lucarelli
+1ª 21/04/2004 21h45m Paraná 3 X 2 Santos Pinheirão
+1ª 22/04/2004 20h30m Coritiba 1 X 0 Guarani Couto Pereira
+1ª 22/04/2004 20h30m Vasco 0 X 1 Criciúma São Januário
+1ª 22/04/2004 20h30m Paysandu 3 X 3 Fluminense Mangueirão
+1ª 22/04/2004 20h30m São Paulo 1 X 0 Atlético/PR Morumbi
+2ª 24/04/2004 16h00m Flamengo 0 X 0 Ponte Preta Raulino Oliveira
+2ª 24/04/2004 16h00m Goiás 2 X 2 Cruzeiro Serra Dourada
+2ª 24/04/2004 16h00m Juventude 1 X 1 Grêmio Alfredo Jaconi
+2ª 25/04/2004 16h00m Internacional 1 X 0 Palmeiras Beira Rio
+2ª 25/04/2004 16h00m Atlético/MG 1 X 1 Vasco Mineirão
+2ª 25/04/2004 16h00m Fluminense 1 X 1 Coritiba Maracanã
+2ª 25/04/2004 16h00m Corinthians 2 X 1 Paysandu Pacaembu
+2ª 25/04/2004 16h00m Guarani 1 X 1 São Caetano Brinco de Ouro
+2ª 25/04/2004 16h00m Atlético/PR 0 X 3 Figueirense Joaquim Américo
+2ª 25/04/2004 17h00m Vitória 6 X 1 Paraná Barradão
+2ª 25/04/2004 18h00m Criciúma 1 X 1 São Paulo Heriberto Hulse
+2ª 25/04/2004 18h00m Santos 2 X 0 Botafogo Vila Belmiro
+3ª 28/04/2004 20h30m Botafogo 2 X 2 Atlético/MG Caio Martins
+3ª 28/04/2004 20h30m Coritiba 1 X 1 Internacional Couto Pereira
+3ª 28/04/2004 20h30m Cruzeiro 2 X 2 Criciúma Mineirão
+3ª 28/04/2004 20h30m Paysandu 0 X 3 Atlético/PR Mangueirão
+3ª 24/06/2004 20h30m São Caetano 1 X 0 Juventude Anacleto Campanella
+3ª 28/04/2004 20h30m Ponte Preta 2 X 0 Goiás Moisés Lucarelli
+3ª 28/04/2004 21h45m Figueirense 2 X 1 Santos Orlando Scarpelli
+3ª 28/04/2004 21h45m Grêmio 4 X 0 Corinthians Olímpico
+3ª 28/04/2004 21h45m São Paulo 1 X 0 Fluminense Morumbi
+3ª 29/04/2004 20h30m Vasco 0 X 1 Guarani São Januário
+3ª 29/04/2004 20h30m Paraná 2 X 1 Flamengo Pinheirão
+3ª 29/04/2004 20h30m Palmeiras 2 X 2 Vitória Parque Antártica
+4ª 01/05/2004 16h00m Internacional 1 X 0 Paysandu Beira Rio
+4ª 01/05/2004 16h00m Criciúma 1 X 0 Botafogo Heriberto Hulse
+4ª 01/05/2004 18h00m Goiás 4 X 0 Grêmio Serra Dourada
+4ª 01/05/2004 18h00m Atlético/MG 1 X 2 Ponte Preta Mineirão
+4ª 02/05/2004 16h00m Flamengo 1 X 1 São Caetano Raulino Oliveira
+4ª 02/05/2004 16h00m Santos 1 X 3 Cruzeiro Vila Belmiro
+4ª 02/05/2004 16h00m Fluminense 1 X 0 Vasco Maracanã
+4ª 02/05/2004 16h00m Corinthians 0 X 4 Palmeiras Morumbi
+4ª 02/05/2004 16h00m Juventude 4 X 0 Paraná Alfredo Jaconi
+4ª 02/05/2004 17h00m Vitória 3 X 1 Figueirense Barradão
+4ª 02/05/2004 18h00m Guarani 2 X 3 São Paulo Brinco de Ouro
+4ª 02/05/2004 18h00m Atlético/PR 1 X 1 Coritiba Joaquim Américo
+5ª 08/05/2004 16h00m Guarani 0 X 0 Atlético/PR Brinco de Ouro
+5ª 08/05/2004 16h00m Paraná 2 X 0 Cruzeiro Pinheirão
+5ª 08/05/2004 18h00m Vasco 1 X 1 Grêmio São Januário
+5ª 08/05/2004 18h00m Palmeiras 3 X 0 Ponte Preta Parque Antártica
+5ª 09/05/2004 16h00m Internacional 0 X 0 Fluminense Beira Rio
+5ª 09/05/2004 16h00m Atlético/MG 2 X 2 Corinthians Mineirão
+5ª 09/05/2004 16h00m Santos 2 X 1 Juventude Vila Belmiro
+5ª 09/05/2004 16h00m Botafogo 2 X 2 Paysandu Caio Martins
+5ª 09/05/2004 16h00m São Caetano 5 X 0 Criciúma Anacleto Campanella
+5ª 09/05/2004 17h00m Goiás 1 X 0 Figueirense Serra Dourada
+5ª 09/05/2004 18h00m Vitória 5 X 1 Flamengo Barradão
+5ª 09/05/2004 18h00m Coritiba 1 X 2 São Paulo Couto Pereira
+6ª 15/05/2004 16h00m Fluminense 1 X 0 Vitória Maracanã
+6ª 15/05/2004 16h00m Corinthians 1 X 0 Guarani Pacaembu
+6ª 15/05/2004 18h00m Paysandu 1 X 2 Vasco Mangueirão
+6ª 15/05/2004 18h00m Atlético/PR 1 X 0 Santos Joaquim Américo
+6ª 16/05/2004 16h00m Cruzeiro 2 X 1 Palmeiras Mineirão
+6ª 16/05/2004 16h00m Flamengo 1 X 2 Internacional Raulino Oliveira
+6ª 16/05/2004 16h00m Juventude 1 X 1 Atlético/MG Alfredo Jaconi
+6ª 16/05/2004 16h00m Figueirense 1 X 0 São Caetano Orlando Scarpelli
+6ª 16/05/2004 16h00m Criciúma 7 X 2 Goiás Heriberto Hulse
+6ª 16/05/2004 16h00m Ponte Preta 0 X 0 Coritiba Moisés Lucarelli
+6ª 16/05/2004 18h00m Grêmio 2 X 2 Botafogo Olímpico
+6ª 16/05/2004 18h00m São Paulo 2 X 2 Paraná Morumbi
+7ª 22/05/2004 16h00m Botafogo 1 X 1 Figueirense Caio Martins
+7ª 22/05/2004 16h00m Paysandu 1 X 3 Grêmio Mangueirão
+7ª 22/05/2004 18h00m Internacional 1 X 0 Goiás Beira Rio
+7ª 22/05/2004 18h00m Coritiba 0 X 1 Atlético/MG Couto Pereira
+7ª 23/05/2004 16h00m São Caetano 3 X 2 Vasco Anacleto Campanella
+7ª 23/05/2004 16h00m Santos 0 X 4 Palmeiras Vila Belmiro
+7ª 23/05/2004 16h00m Flamengo 1 X 2 Fluminense Maracanã
+7ª 23/05/2004 16h00m Criciúma 2 X 0 Vitória Heriberto Hulse
+7ª 23/05/2004 16h00m Paraná 0 X 1 Ponte Preta Pinheirão
+7ª 23/05/2004 16h00m Juventude 2 X 0 Guarani Alfredo Jaconi
+7ª 23/05/2004 18h00m Cruzeiro 2 X 1 São Paulo Mineirão
+7ª 23/05/2004 18h00m Corinthians 0 X 5 Atlético/PR Pacaembu
+8ª 29/05/2004 16h00m Fluminense 1 X 1 Criciúma Maracanã
+8ª 29/05/2004 16h00m Ponte Preta 0 X 1 Juventude Moisés Lucarelli
+8ª 29/05/2004 18h00m Vitória 2 X 1 Internacional Barradão
+8ª 29/05/2004 18h00m Palmeiras 2 X 0 Coritiba Parque Antártica
+8ª 30/05/2004 16h00m Goiás 2 X 2 Flamengo Serra Dourada
+8ª 30/05/2004 16h00m Atlético/MG 3 X 3 Santos Mineirão
+8ª 30/05/2004 16h00m Vasco 4 X 0 Botafogo Maracanã
+8ª 30/05/2004 16h00m São Paulo 1 X 1 Corinthians Morumbi
+8ª 30/05/2004 16h00m Guarani 1 X 0 Paraná Brinco de Ouro
+8ª 30/05/2004 16h00m Figueirense 1 X 1 Paysandu Orlando Scarpelli
+8ª 30/05/2004 18h00m Grêmio 1 X 2 São Caetano Olímpico
+8ª 30/05/2004 18h00m Atlético/PR 3 X 1 Cruzeiro Joaquim Américo
+9ª 12/06/2004 16h00m Fluminense 1 X 1 Guarani Maracanã
+9ª 12/06/2004 16h00m Paraná 1 X 1 Botafogo Pinheirão
+9ª 12/06/2004 18h00m Internacional 4 X 1 Atlético/MG Beira Rio
+9ª 12/06/2004 18h00m São Paulo 3 X 2 Grêmio Morumbi
+9ª 13/06/2004 16h00m Goiás 1 X 1 Corinthians Serra Dourada
+9ª 13/06/2004 16h00m Palmeiras 2 X 2 Vasco Parque Antártica
+9ª 13/06/2004 16h00m Cruzeiro 1 X 0 Paysandu Mineirão
+9ª 13/06/2004 16h00m Coritiba 1 X 0 São Caetano Couto Pereira
+9ª 13/06/2004 16h00m Criciúma 2 X 0 Juventude Heriberto Hulse
+9ª 13/06/2004 16h00m Ponte Preta 0 X 2 Figueirense Moisés Lucarelli
+9ª 13/06/2004 18h00m Flamengo 3 X 0 Atlético/PR Raulino Oliveira
+9ª 13/06/2004 18h00m Vitória 1 X 2 Santos Barradão
+10ª 19/06/2004 16h00m Grêmio 1 X 1 Coritiba Olímpico
+10ª 19/06/2004 16h00m Atlético/PR 1 X 3 Vitória Joaquim Américo
+10ª 19/06/2004 18h00m Vasco 0 X 0 Paraná São Januário
+10ª 19/06/2004 18h00m Figueirense 0 X 0 Cruzeiro Orlando Scarpelli
+10ª 20/06/2004 16h00m São Caetano 1 X 1 Palmeiras Anacleto Campanella
+10ª 20/06/2004 16h00m Corinthians 1 X 1 Flamengo Pacaembu
+10ª 20/06/2004 16h00m Botafogo 0 X 1 Ponte Preta Caio Martins
+10ª 20/06/2004 16h00m Paysandu 1 X 0 São Paulo Mangueirão
+10ª 20/06/2004 16h00m Guarani 2 X 1 Criciúma Brinco de Ouro
+10ª 20/06/2004 16h00m Juventude 1 X 1 Goiás Alfredo Jaconi
+10ª 20/06/2004 18h00m Atlético/MG 2 X 1 Fluminense Mineirão
+10ª 20/06/2004 18h00m Santos 3 X 0 Internacional Vila Belmiro
+11ª 26/06/2004 16h00m Criciúma 1 X 2 Grêmio Heriberto Hulse
+11ª 26/06/2004 16h00m Coritiba 1 X 1 Paraná Couto Pereira
+11ª 26/06/2004 18h00m Flamengo 0 X 3 Figueirense Raulino Oliveira
+11ª 26/06/2004 18h00m Atlético/MG 0 X 1 Atlético/PR Mineirão
+11ª 27/06/2004 16h00m Internacional 1 X 3 Vasco Beira Rio
+11ª 27/06/2004 16h00m Juventude 1 X 0 Corinthians Alfredo Jaconi
+11ª 27/06/2004 16h00m Paysandu 4 X 2 Vitória Mangueirão
+11ª 27/06/2004 16h00m Botafogo 3 X 3 Fluminense Maracanã
+11ª 27/06/2004 16h00m Palmeiras 2 X 1 São Paulo Morumbi
+11ª 27/06/2004 17h00m Goiás 3 X 2 São Caetano Serra Dourada
+11ª 27/06/2004 18h00m Ponte Preta 1 X 0 Cruzeiro Moisés Lucarelli
+11ª 27/06/2004 18h00m Santos 2 X 1 Guarani Vila Belmiro
+12ª 03/07/2004 16h00m Internacional 3 X 0 Criciúma Beira Rio
+12ª 03/07/2004 16h00m São Paulo 2 X 0 Ponte Preta Morumbi
+12ª 03/07/2004 16h00m Figueirense 2 X 2 Vasco Orlando Scarpelli
+12ª 03/07/2004 16h00m Atlético/PR 4 X 1 Juventude Joaquim Américo
+12ª 03/07/2004 17h00m Vitória 0 X 0 Goiás Barradão
+12ª 03/07/2004 18h00m Guarani 1 X 1 Atlético/MG Brinco de Ouro
+12ª 03/07/2004 18h00m Fluminense 2 X 0 Grêmio Maracanã
+12ª 04/07/2004 16h00m Paraná 1 X 2 Palmeiras Pinheirão
+12ª 04/07/2004 16h00m São Caetano 1 X 2 Botafogo Anacleto Campanella
+12ª 04/07/2004 16h00m Corinthians 2 X 3 Santos Pacaembu
+12ª 04/07/2004 18h00m Flamengo 4 X 1 Paysandu Raulino Oliveira
+12ª 04/07/2004 18h00m Cruzeiro 0 X 3 Coritiba Mineirão
+13ª 06/07/2004 20h30m Vasco 3 X 1 Vitória São Januário
+13ª 06/07/2004 20h30m Grêmio 2 X 2 Figueirense Olímpico
+13ª 06/07/2004 20h30m Goiás 4 X 0 Fluminense Serra Dourada
+13ª 06/07/2004 20h30m São Paulo 1 X 0 Atlético/MG Morumbi
+13ª 07/07/2004 20h30m Botafogo 5 X 1 Internacional Caio Martins
+13ª 07/07/2004 20h30m Paraná 1 X 0 Atlético/PR Pinheirão
+13ª 07/07/2004 20h30m Cruzeiro 2 X 0 Guarani Mineirão
+13ª 07/07/2004 20h30m Palmeiras 4 X 1 Juventude Parque Antártica
+13ª 07/07/2004 20h30m Paysandu 0 X 0 São Caetano Mangueirão
+13ª 07/07/2004 21h45m Criciúma 1 X 1 Flamengo Heriberto Hulse
+13ª 07/07/2004 21h45m Ponte Preta 0 X 4 Santos Moisés Lucarelli
+13ª 07/07/2004 21h45m Coritiba 1 X 2 Corinthians Couto Pereira
+14ª 10/07/2004 16h00m Vitória 1 X 0 Botafogo Barradão
+14ª 10/07/2004 16h00m Santos 2 X 1 São Paulo Vila Belmiro
+14ª 10/07/2004 16h00m Internacional 2 X 0 Grêmio Beira Rio
+14ª 10/07/2004 16h00m Flamengo 0 X 1 Vasco Maracanã
+14ª 10/07/2004 16h00m Juventude 1 X 0 Coritiba Alfredo Jaconi
+14ª 10/07/2004 17h00m Goiás 3 X 2 Paysandu Serra Dourada
+14ª 10/07/2004 18h00m Atlético/PR 0 X 0 Palmeiras Joaquim Américo
+14ª 10/07/2004 18h00m Corinthians 1 X 0 Paraná Pacaembu
+14ª 10/07/2004 20h30m Fluminense 1 X 0 São Caetano Giulitte Coutinho
+14ª 10/07/2004 20h30m Figueirense 2 X 0 Criciúma Orlando Scarpelli
+14ª 10/07/2004 20h30m Ponte Preta 3 X 1 Guarani Moisés Lucarelli
+14ª 10/07/2004 20h30m Atlético/MG 2 X 0 Cruzeiro Mineirão
+15ª 13/07/2004 20h30m Atlético/MG 1 X 1 Vitória Mineirão
+15ª 13/07/2004 20h30m Corinthians 1 X 0 Criciúma Pacaembu
+15ª 13/07/2004 20h30m Juventude 2 X 1 Fluminense Alfredo Jaconi
+15ª 13/07/2004 20h30m Vasco 2 X 3 Coritiba São Januário
+15ª 13/07/2004 20h30m Grêmio 2 X 3 Cruzeiro Olímpico
+15ª 13/07/2004 20h30m Guarani 2 X 1 Internacional Brinco de Ouro
+15ª 13/07/2004 20h30m Figueirense 0 X 0 Paraná Orlando Scarpelli
+15ª 13/07/2004 20h30m Paysandu 3 X 0 Ponte Preta Mangueirão
+15ª 13/07/2004 20h30m Atlético/PR 6 X 0 Goiás Joaquim Américo
+15ª 13/07/2004 21h45m Botafogo 1 X 1 Palmeiras Caio Martins
+15ª 13/07/2004 21h45m Santos 2 X 0 Flamengo Vila Belmiro
+15ª 13/07/2004 21h45m São Caetano 0 X 0 São Paulo Anacleto Campanella
+16ª 17/07/2004 16h00m Vitória 1 X 1 Corinthians Barradão
+16ª 17/07/2004 16h00m Cruzeiro 3 X 2 Botafogo Mineirão
+16ª 17/07/2004 16h00m Internacional 6 X 0 Atlético/PR Beira Rio
+16ª 17/07/2004 16h00m Palmeiras 2 X 0 Grêmio Parque Antártica
+16ª 17/07/2004 16h00m Paraná 0 X 1 São Caetano Pinheirão
+16ª 17/07/2004 17h00m Goiás 2 X 0 Guarani Serra Dourada
+16ª 17/07/2004 18h00m Flamengo 0 X 1 Juventude Raulino Oliveira
+16ª 17/07/2004 18h00m Fluminense 1 X 0 Santos Maracanã
+16ª 17/07/2004 20h30m São Paulo 2 X 1 Figueirense Morumbi
+16ª 17/07/2004 20h30m Criciúma 4 X 2 Atlético/MG Heriberto Hulse
+16ª 17/07/2004 20h30m Ponte Preta 3 X 2 Vasco Moisés Lucarelli
+16ª 17/07/2004 20h30m Coritiba 1 X 1 Paysandu Couto Pereira
+17ª 20/07/2004 20h30m Paysandu 1 X 0 Palmeiras Mangueirão
+17ª 20/07/2004 20h30m Atlético/MG 0 X 2 Goiás Mineirão
+17ª 20/07/2004 20h30m Guarani 0 X 1 Flamengo Brinco de Ouro
+17ª 20/07/2004 20h30m Grêmio 4 X 0 Paraná Olímpico
+17ª 20/07/2004 20h30m Vasco 3 X 2 Cruzeiro São Januário
+17ª 20/07/2004 20h30m Corinthians 0 X 0 Internacional Pacaembu
+17ª 20/07/2004 20h30m Figueirense 1 X 1 Coritiba Orlando Scarpelli
+17ª 20/07/2004 20h30m São Caetano 0 X 1 Ponte Preta Anacleto Campanella
+17ª 20/07/2004 20h30m Juventude 3 X 2 Vitória Alfredo Jaconi
+17ª 20/07/2004 21h45m Santos 5 X 2 Criciúma Vila Belmiro
+17ª 20/07/2004 21h45m Atlético/PR 4 X 1 Fluminense Joaquim Américo
+17ª 20/07/2004 21h45m Botafogo 1 X 0 São Paulo Caio Martins
+18ª 24/07/2004 16h00m Fluminense 2 X 0 Corinthians Maracanã
+18ª 24/07/2004 16h00m São Paulo 1 X 0 Vasco Morumbi
+18ª 24/07/2004 16h00m Internacional 1 X 2 Juventude Beira Rio
+18ª 24/07/2004 16h00m Coritiba 1 X 0 Botafogo Couto Pereira
+18ª 24/07/2004 16h00m Criciúma 4 X 1 Atlético/PR Heriberto Hulse
+18ª 24/07/2004 17h00m Vitória 3 X 2 Guarani Barradão
+18ª 24/07/2004 18h00m Flamengo 0 X 0 Atlético/MG Raulino Oliveira
+18ª 24/07/2004 18h00m Cruzeiro 0 X 1 São Caetano Mineirão
+18ª 24/07/2004 20h30m Goiás 3 X 3 Santos Serra Dourada
+18ª 24/07/2004 20h30m Palmeiras 0 X 0 Figueirense Parque Antártica
+18ª 24/07/2004 20h30m Ponte Preta 1 X 0 Grêmio Moisés Lucarelli
+18ª 24/07/2004 20h30m Paraná 2 X 0 Paysandu Pinheirão
+19ª 28/07/2004 20h30m Grêmio 4 X 0 Vitória Olímpico
+19ª 28/07/2004 20h30m Botafogo 0 X 0 Flamengo Maracanã
+19ª 28/07/2004 20h30m Paysandu 2 X 2 Criciúma Mangueirão
+19ª 28/07/2004 20h30m Atlético/PR 4 X 0 Ponte Preta Joaquim Américo
+19ª 28/07/2004 20h30m Corinthians 1 X 0 Cruzeiro Pacaembu
+19ª 28/07/2004 21h45m Figueirense 2 X 1 Fluminense Orlando Scarpelli
+19ª 28/07/2004 21h45m Guarani 1 X 0 Palmeiras Brinco de Ouro
+19ª 28/07/2004 21h45m Juventude 1 X 2 São Paulo Alfredo Jaconi
+19ª 29/07/2004 20h30m Vasco 3 X 1 Goiás São Januário
+19ª 29/07/2004 20h30m São Caetano 2 X 0 Internacional Anacleto Campanella
+19ª 29/07/2004 20h30m Atlético/MG 4 X 1 Paraná Mineirão
+19ª 29/07/2004 20h30m Santos 4 X 2 Coritiba Vila Belmiro
+20ª 31/07/2004 16h00m Atlético/PR 0 X 0 Grêmio Joaquim Américo
+20ª 31/07/2004 18h00m Fluminense 0 X 0 Cruzeiro Maracanã
+20ª 01/08/2004 16h00m Flamengo 0 X 1 Palmeiras Raulino Oliveira
+20ª 01/08/2004 16h00m Juventude 1 X 1 Vasco Alfredo Jaconi
+20ª 01/08/2004 16h00m Atlético/MG 3 X 1 Figueirense Mineirão
+20ª 01/08/2004 16h00m Corinthians 2 X 0 São Caetano Pacaembu
+20ª 01/08/2004 16h00m Santos 6 X 0 Paysandu Vila Belmiro
+20ª 01/08/2004 16h00m Criciúma 3 X 1 Ponte Preta Heriberto Hulse
+20ª 01/08/2004 17h00m Vitória 2 X 2 Coritiba Barradão
+20ª 01/08/2004 17h00m Goiás 3 X 0 Paraná Serra Dourada
+20ª 01/08/2004 18h00m Internacional 1 X 1 São Paulo Beira Rio
+20ª 01/08/2004 18h00m Guarani 0 X 2 Botafogo Brinco de Ouro
+21ª 04/08/2004 20h30m Ponte Preta 3 X 2 Fluminense Moisés Lucarelli
+21ª 04/08/2004 20h30m Palmeiras 0 X 3 Goiás Parque Antártica
+21ª 04/08/2004 20h30m Paysandu 2 X 1 Atlético/MG Mangueirão
+21ª 04/08/2004 20h30m Figueirense 1 X 1 Guarani Orlando Scarpelli
+21ª 04/08/2004 20h30m São Caetano 0 X 3 Atlético/PR Anacleto Campanella
+21ª 04/08/2004 20h30m Paraná 0 X 3 Criciúma Pinheirão
+21ª 04/08/2004 21h45m Grêmio 3 X 1 Santos Olímpico
+21ª 04/08/2004 21h45m Vasco 1 X 3 Corinthians São Januário
+21ª 04/08/2004 21h45m Coritiba 1 X 0 Flamengo Couto Pereira
+21ª 05/08/2004 20h30m Botafogo 0 X 1 Juventude Caio Martins
+21ª 05/08/2004 20h30m Cruzeiro 2 X 0 Internacional Mineirão
+21ª 05/08/2004 20h30m São Paulo 2 X 1 Vitória Morumbi
+22ª 07/08/2004 16h00m Fluminense 3 X 1 Paraná Maracanã
+22ª 07/08/2004 16h00m Santos 0 X 1 São Caetano Vila Belmiro
+22ª 07/08/2004 16h00m Goiás 1 X 2 Coritiba Serra Dourada
+22ª 07/08/2004 18h00m Atlético/MG 3 X 0 Grêmio Mineirão
+22ª 08/08/2004 16h00m Flamengo 1 X 0 São Paulo Raulino Oliveira
+22ª 08/08/2004 16h00m Corinthians 2 X 2 Botafogo Pacaembu
+22ª 08/08/2004 16h00m Internacional 1 X 2 Ponte Preta Beira Rio
+22ª 08/08/2004 16h00m Vitória 3 X 2 Cruzeiro Barradão
+22ª 08/08/2004 16h00m Guarani 0 X 0 Paysandu Brinco de Ouro
+22ª 08/08/2004 16h00m Juventude 0 X 0 Figueirense Alfredo Jaconi
+22ª 08/08/2004 18h00m Criciúma 1 X 2 Palmeiras Heriberto Hulse
+22ª 08/08/2004 18h00m Atlético/PR 2 X 0 Vasco Joaquim Américo
+23ª 11/08/2004 20h30m Grêmio 1 X 1 Guarani Olímpico
+23ª 11/08/2004 20h30m São Paulo 4 X 0 Goiás Morumbi
+23ª 11/08/2004 20h30m Paraná 1 X 2 Internacional Pinheirão
+23ª 11/08/2004 20h30m Paysandu 0 X 1 Juventude Mangueirão
+23ª 11/08/2004 20h30m Ponte Preta 1 X 0 Vitória Moisés Lucarelli
+23ª 11/08/2004 21h45m Figueirense 0 X 1 Corinthians Orlando Scarpelli
+23ª 11/08/2004 21h45m Vasco 2 X 3 Santos São Januário
+23ª 11/08/2004 21h45m Cruzeiro 2 X 0 Flamengo Mineirão
+23ª 12/08/2004 20h30m Botafogo 1 X 1 Atlético/PR Caio Martins
+23ª 12/08/2004 20h30m Coritiba 1 X 0 Criciúma Couto Pereira
+23ª 12/08/2004 20h30m São Caetano 1 X 1 Atlético/MG Anacleto Campanella
+23ª 12/08/2004 20h30m Palmeiras 3 X 2 Fluminense Parque Antártica
+24ª 14/08/2004 16h00m Internacional 4 X 0 Figueirense Beira Rio
+24ª 14/08/2004 16h00m Juventude 1 X 0 Cruzeiro Alfredo Jaconi
+24ª 14/08/2004 18h00m Flamengo 3 X 0 Grêmio Maracanã
+24ª 14/08/2004 18h00m Corinthians 2 X 0 Ponte Preta Pacaembu
+24ª 15/08/2004 16h00m Criciúma 1 X 0 Vasco Heriberto Hulse
+24ª 15/08/2004 16h00m Atlético/MG 1 X 2 Palmeiras Mineirão
+24ª 15/08/2004 16h00m Fluminense 1 X 1 Paysandu Maracanã
+24ª 15/08/2004 16h00m Goiás 3 X 1 Botafogo Serra Dourada
+24ª 15/08/2004 16h00m Guarani 0 X 0 Coritiba Brinco de Ouro
+24ª 15/08/2004 17h00m Vitória 1 X 2 São Caetano Barradão
+24ª 15/08/2004 18h00m Santos 5 X 1 Paraná Vila Belmiro
+24ª 15/08/2004 18h00m Atlético/PR 1 X 0 São Paulo Joaquim Américo
+25ª 18/08/2004 20h30m Figueirense 1 X 1 Atlético/PR Orlando Scarpelli
+25ª 18/08/2004 20h30m Grêmio 2 X 4 Juventude Olímpico
+25ª 18/08/2004 20h30m São Caetano 3 X 0 Guarani Anacleto Campanella
+25ª 18/08/2004 20h30m Cruzeiro 1 X 3 Goiás Mineirão
+25ª 18/08/2004 20h30m Palmeiras 3 X 1 Internacional Parque Antártica
+25ª 18/08/2004 20h30m Paraná 4 X 1 Vitória Pinheirão
+25ª 18/08/2004 21h50m Botafogo 2 X 0 Santos Caio Martins
+25ª 18/08/2004 21h50m Paysandu 2 X 1 Corinthians Mangueirão
+25ª 18/08/2004 21h50m Ponte Preta 1 X 0 Flamengo Moisés Lucarelli
+25ª 19/08/2004 20h30m Vasco 3 X 0 Atlético/MG São Januário
+25ª 19/08/2004 20h30m São Paulo 2 X 0 Criciúma Morumbi
+25ª 19/08/2004 20h30m Coritiba 2 X 0 Fluminense Couto Pereira
+26ª 21/08/2004 16h00m Flamengo 2 X 1 Paraná Raulino Oliveira
+26ª 21/08/2004 16h00m Corinthians 1 X 1 Grêmio Pacaembu
+26ª 21/08/2004 18h00m Santos 4 X 1 Figueirense Vila Belmiro
+26ª 22/08/2004 16h00m Fluminense 1 X 0 São Paulo Maracanã
+26ª 22/08/2004 16h00m Guarani 1 X 1 Vasco Brinco de Ouro
+26ª 22/08/2004 16h00m Criciúma 1 X 2 Cruzeiro Heriberto Hulse
+26ª 22/08/2004 16h00m Internacional 1 X 1 Coritiba Beira Rio
+26ª 22/08/2004 16h00m Goiás 5 X 0 Ponte Preta Serra Dourada
+26ª 22/08/2004 16h00m Atlético/PR 2 X 0 Paysandu Joaquim Américo
+26ª 22/08/2004 16h00m Juventude 2 X 2 São Caetano Alfredo Jaconi
+26ª 22/08/2004 18h00m Vitória 2 X 2 Palmeiras Barradão
+26ª 22/08/2004 18h00m Atlético/MG 1 X 1 Botafogo Mineirão
+27ª 28/08/2004 16h00m Botafogo 1 X 1 Criciúma Caio Martins
+27ª 28/08/2004 16h00m Paraná 1 X 2 Juventude Pinheirão
+27ª 28/08/2004 18h00m Paysandu 2 X 1 Internacional Mangueirão
+27ª 28/08/2004 18h00m Grêmio 1 X 1 Goiás Olímpico
+27ª 28/08/2004 18h00m São Paulo 3 X 3 Guarani Morumbi
+27ª 29/08/2004 16h00m São Caetano 0 X 1 Flamengo Anacleto Campanella
+27ª 29/08/2004 16h00m Palmeiras 0 X 1 Corinthians Morumbi
+27ª 29/08/2004 16h00m Vasco 1 X 1 Fluminense Maracanã
+27ª 29/08/2004 16h00m Coritiba 1 X 2 Atlético/PR Couto Pereira
+27ª 29/08/2004 16h00m Figueirense 2 X 1 Vitória Orlando Scarpelli
+27ª 29/08/2004 18h00m Ponte Preta 1 X 1 Atlético/MG Moisés Lucarelli
+27ª 29/08/2004 18h00m Cruzeiro 4 X 4 Santos Mineirão
+28ª 01/09/2004 20h30m Fluminense 3 X 1 Internacional Maracanã
+28ª 01/09/2004 20h30m Paysandu 2 X 0 Botafogo Mangueirão
+28ª 01/09/2004 20h30m São Paulo 2 X 3 Coritiba Morumbi
+28ª 01/09/2004 20h30m Figueirense 3 X 2 Goiás Orlando Scarpelli
+28ª 01/09/2004 20h30m Criciúma 0 X 4 São Caetano Heriberto Hulse
+28ª 01/09/2004 21h50m Grêmio 1 X 2 Vasco Olímpico
+28ª 01/09/2004 21h50m Ponte Preta 0 X 0 Palmeiras Moisés Lucarelli
+28ª 01/09/2004 21h50m Juventude 1 X 2 Santos Alfredo Jaconi
+28ª 02/09/2004 20h30m Flamengo 2 X 0 Vitória Raulino Oliveira
+28ª 02/09/2004 20h30m Atlético/PR 2 X 0 Guarani Joaquim Américo
+28ª 02/09/2004 20h30m Cruzeiro 1 X 4 Paraná Mineirão
+28ª 02/09/2004 20h30m Corinthians 1 X 0 Atlético/MG Pacaembu
+29ª 08/09/2004 20h30m Vasco 0 X 1 Paysandu São Januário
+29ª 08/09/2004 20h30m Atlético/MG 1 X 1 Juventude Mineirão
+29ª 08/09/2004 20h30m Paraná 0 X 2 São Paulo Pinheirão
+29ª 08/09/2004 20h30m Palmeiras 1 X 3 Cruzeiro Parque Antártica
+29ª 08/09/2004 20h30m São Caetano 1 X 0 Figueirense Anacleto Campanella
+29ª 08/09/2004 20h30m Goiás 2 X 1 Criciúma Serra Dourada
+29ª 08/09/2004 21h50m Santos 1 X 1 Atlético/PR Vila Belmiro
+29ª 08/09/2004 21h50m Internacional 0 X 0 Flamengo Beira Rio
+29ª 08/09/2004 21h50m Guarani 0 X 1 Corinthians Brinco de Ouro
+29ª 09/09/2004 20h30m Vitória 2 X 3 Fluminense Barradão
+29ª 09/09/2004 20h30m Botafogo 2 X 1 Grêmio Caio Martins
+29ª 09/09/2004 20h30m Coritiba 2 X 0 Ponte Preta Couto Pereira
+30ª 11/09/2004 16h00m São Paulo 0 X 0 Cruzeiro Morumbi
+30ª 11/09/2004 16h00m Vasco 1 X 2 São Caetano São Januário
+30ª 11/09/2004 16h00m Guarani 3 X 1 Juventude Brinco de Ouro
+30ª 11/09/2004 18h00m Goiás 1 X 0 Internacional Serra Dourada
+30ª 12/09/2004 16h00m Figueirense 3 X 1 Botafogo Orlando Scarpelli
+30ª 12/09/2004 16h00m Atlético/PR 3 X 1 Corinthians Joaquim Américo
+30ª 12/09/2004 16h00m Fluminense 2 X 1 Flamengo Maracanã
+30ª 12/09/2004 16h00m Palmeiras 1 X 2 Santos Parque Antártica
+30ª 12/09/2004 16h00m Ponte Preta 0 X 2 Paraná Moisés Lucarelli
+30ª 12/09/2004 17h00m Vitória 1 X 0 Criciúma Barradão
+30ª 12/09/2004 18h00m Grêmio 1 X 1 Paysandu Olímpico
+30ª 12/09/2004 18h00m Atlético/MG 2 X 1 Coritiba Mineirão
+31ª 18/09/2004 16h00m São Caetano 2 X 0 Grêmio Anacleto Campanella
+31ª 18/09/2004 16h00m Paraná 0 X 0 Guarani Pinheirão
+31ª 18/09/2004 18h00m Santos 2 X 0 Atlético/MG Vila Belmiro
+31ª 18/09/2004 18h00m Criciúma 0 X 2 Fluminense Heriberto Hulse
+31ª 19/09/2004 16h00m Flamengo 4 X 0 Goiás Raulino Oliveira
+31ª 19/09/2004 16h00m Corinthians 0 X 0 São Paulo Morumbi
+31ª 19/09/2004 16h00m Internacional 2 X 1 Vitória Beira Rio
+31ª 19/09/2004 16h00m Botafogo 2 X 2 Vasco Maracanã
+31ª 19/09/2004 16h00m Juventude 1 X 2 Ponte Preta Alfredo Jaconi
+31ª 19/09/2004 16h00m Paysandu 3 X 1 Figueirense Mangueirão
+31ª 19/09/2004 18h00m Cruzeiro 2 X 4 Atlético/PR Mineirão
+31ª 19/09/2004 18h00m Coritiba 0 X 0 Palmeiras Couto Pereira
+32ª 25/09/2004 16h00m Paysandu 3 X 1 Cruzeiro Mangueirão
+32ª 25/09/2004 16h00m Atlético/MG 1 X 1 Internacional Mineirão
+32ª 25/09/2004 16h00m Figueirense 0 X 1 Ponte Preta Orlando Scarpelli
+32ª 25/09/2004 16h00m São Caetano 1 X 0 Coritiba Anacleto Campanella
+32ª 25/09/2004 18h00m Grêmio 2 X 1 São Paulo Olímpico
+32ª 25/09/2004 18h00m Guarani 1 X 1 Fluminense Brinco de Ouro
+32ª 26/09/2004 16h00m Vasco 2 X 5 Palmeiras São Januário
+32ª 26/09/2004 16h00m Atlético/PR 2 X 1 Flamengo Joaquim Américo
+32ª 26/09/2004 16h00m Corinthians 1 X 0 Goiás Pacaembu
+32ª 26/09/2004 16h00m Juventude 1 X 0 Criciúma Alfredo Jaconi
+32ª 26/09/2004 18h00m Botafogo 4 X 3 Paraná Caio Martins
+32ª 26/09/2004 18h00m Santos 4 X 1 Vitória Vila Belmiro
+33ª 28/09/2004 20h30m Coritiba 2 X 1 Grêmio Couto Pereira
+33ª 28/09/2004 20h30m São Paulo 7 X 0 Paysandu Morumbi
+33ª 28/09/2004 20h30m Cruzeiro 3 X 3 Figueirense Mineirão
+33ª 28/09/2004 20h30m Fluminense 1 X 1 Atlético/MG Maracanã
+33ª 29/09/2004 20h30m Palmeiras 3 X 1 São Caetano Parque Antártica
+33ª 29/09/2004 20h30m Paraná 2 X 1 Vasco Pinheirão
+33ª 29/09/2004 20h30m Criciúma 1 X 1 Guarani Heriberto Hulse
+33ª 29/09/2004 20h30m Vitória 2 X 3 Atlético/PR Barradão
+33ª 29/09/2004 20h30m Goiás 1 X 2 Juventude Serra Dourada
+33ª 29/09/2004 21h50m Internacional 2 X 1 Santos Beira Rio
+33ª 29/09/2004 21h50m Flamengo 0 X 0 Corinthians Maracanã
+33ª 29/09/2004 21h50m Ponte Preta 1 X 1 Botafogo Moisés Lucarelli
+34ª 02/10/2004 16h00m Figueirense 3 X 2 Flamengo Orlando Scarpelli
+34ª 02/10/2004 16h00m São Paulo 2 X 1 Palmeiras Morumbi
+34ª 02/10/2004 16h00m Fluminense 1 X 4 Botafogo Maracanã
+34ª 02/10/2004 16h00m Atlético/PR 5 X 0 Atlético/MG Joaquim Américo
+34ª 02/10/2004 16h00m São Caetano 2 X 0 Goiás Anacleto Campanella
+34ª 02/10/2004 17h00m Vitória 4 X 1 Paysandu Barradão
+34ª 02/10/2004 18h00m Guarani 0 X 1 Santos Brinco de Ouro
+34ª 02/10/2004 18h00m Cruzeiro 5 X 0 Ponte Preta Mineirão
+34ª 02/10/2004 20h30m Grêmio 2 X 0 Criciúma Olímpico
+34ª 02/10/2004 20h30m Vasco 2 X 0 Internacional São Januário
+34ª 02/10/2004 20h30m Corinthians 1 X 2 Juventude Pacaembu
+34ª 02/10/2004 20h30m Paraná 1 X 0 Coritiba Pinheirão
+35ª 06/10/2004 20h30m Criciúma 2 X 1 Internacional Heriberto Hulse
+35ª 06/10/2004 20h30m Grêmio 2 X 3 Fluminense Olímpico
+35ª 06/10/2004 20h30m Vasco 1 X 0 Figueirense São Januário
+35ª 06/10/2004 20h30m Botafogo 1 X 1 São Caetano Caio Martins
+35ª 06/10/2004 20h30m Paysandu 2 X 2 Flamengo Mangueirão
+35ª 06/10/2004 20h30m Goiás 4 X 0 Vitória Serra Dourada
+35ª 06/10/2004 20h30m Ponte Preta 0 X 1 São Paulo Moisés Lucarelli
+35ª 06/10/2004 20h30m Atlético/MG 3 X 2 Guarani Mineirão
+35ª 06/10/2004 20h30m Santos 1 X 1 Corinthians Vila Belmiro
+35ª 06/10/2004 20h30m Coritiba 1 X 1 Cruzeiro Couto Pereira
+35ª 06/10/2004 20h30m Palmeiras 1 X 1 Paraná Parque Antártica
+35ª 06/10/2004 20h30m Juventude 3 X 3 Atlético/PR Alfredo Jaconi
+36ª 17/10/2004 16h00m Figueirense 2 X 0 Grêmio Orlando Scarpelli
+36ª 17/10/2004 16h00m Internacional 3 X 1 Botafogo Beira Rio
+36ª 17/10/2004 16h00m Flamengo 3 X 1 Criciúma Raulino Oliveira
+36ª 17/10/2004 16h00m Fluminense 1 X 4 Goiás Maracanã
+36ª 17/10/2004 16h00m Vitória 4 X 1 Vasco Barradão
+36ª 17/10/2004 16h00m São Caetano 3 X 0 Paysandu Anacleto Campanella
+36ª 17/10/2004 16h00m Guarani 2 X 0 Cruzeiro Brinco de Ouro
+36ª 17/10/2004 16h00m Atlético/MG 0 X 5 São Paulo Mineirão
+36ª 17/10/2004 16h00m Santos 4 X 0 Ponte Preta Vila Belmiro
+36ª 17/10/2004 16h00m Atlético/PR 1 X 1 Paraná Joaquim Américo
+36ª 17/10/2004 16h00m Corinthians 0 X 0 Coritiba Pacaembu
+36ª 17/10/2004 16h00m Juventude 0 X 2 Palmeiras Alfredo Jaconi
+37ª 24/10/2004 16h00m Criciúma 2 X 1 Figueirense Heriberto Hulse
+37ª 24/10/2004 16h00m Grêmio 1 X 3 Internacional Olímpico
+37ª 24/10/2004 16h00m Vasco 1 X 0 Flamengo Maracanã
+37ª 24/10/2004 16h00m Botafogo 1 X 1 Vitória Caio Martins
+37ª 24/10/2004 16h00m Paysandu 4 X 2 Goiás Mangueirão
+37ª 24/10/2004 16h00m São Caetano 2 X 0 Fluminense Anacleto Campanella
+37ª 24/10/2004 16h00m Guarani 0 X 0 Ponte Preta Brinco de Ouro
+37ª 24/10/2004 16h00m Cruzeiro 0 X 3 Atlético/MG Mineirão
+37ª 24/10/2004 16h00m São Paulo 1 X 0 Santos Morumbi
+37ª 24/10/2004 16h00m Coritiba 2 X 3 Juventude Couto Pereira
+37ª 24/10/2004 16h00m Palmeiras 3 X 1 Atlético/PR Parque Antártica
+37ª 24/10/2004 16h00m Paraná 1 X 2 Corinthians Pinheirão
+38ª 27/10/2004 20h30m Criciúma 1 X 1 Corinthians Heriberto Hulse
+38ª 27/10/2004 20h30m Internacional 1 X 3 Guarani Beira Rio
+38ª 27/10/2004 20h30m Flamengo 1 X 1 Santos Maracanã
+38ª 27/10/2004 20h30m Fluminense 7 X 1 Juventude Maracanã
+38ª 27/10/2004 20h30m Vitória 2 X 1 Atlético/MG Barradão
+38ª 27/10/2004 20h30m Goiás 2 X 0 Atlético/PR Serra Dourada
+38ª 27/10/2004 20h30m Ponte Preta 3 X 0 Paysandu Moisés Lucarelli
+38ª 27/10/2004 20h30m Cruzeiro 2 X 0 Grêmio Mineirão
+38ª 27/10/2004 20h30m São Paulo 4 X 2 São Caetano Morumbi
+38ª 27/10/2004 20h30m Coritiba 0 X 1 Vasco Couto Pereira
+38ª 27/10/2004 20h30m Palmeiras 2 X 1 Botafogo Parque Antártica
+38ª 27/10/2004 20h30m Paraná 2 X 1 Figueirense Pinheirão
+39ª 30/10/2004 16h00m Figueirense 1 X 0 São Paulo Orlando Scarpelli
+39ª 30/10/2004 16h00m Grêmio 2 X 3 Palmeiras Olímpico
+39ª 30/10/2004 16h00m Vasco 2 X 2 Ponte Preta São Januário
+39ª 30/10/2004 16h00m Botafogo 2 X 1 Cruzeiro Caio Martins
+39ª 30/10/2004 16h00m Paysandu 0 X 0 Coritiba Mangueirão
+39ª 30/10/2004 16h00m São Caetano 2 X 1 Paraná Anacleto Campanella
+39ª 30/10/2004 16h00m Guarani 1 X 1 Goiás Brinco de Ouro
+39ª 30/10/2004 16h00m Atlético/MG 2 X 2 Criciúma Mineirão
+39ª 30/10/2004 16h00m Santos 5 X 0 Fluminense Vila Belmiro
+39ª 30/10/2004 16h00m Atlético/PR 2 X 1 Internacional Joaquim Américo
+39ª 30/10/2004 16h00m Corinthians 1 X 0 Vitória Pacaembu
+39ª 30/10/2004 16h00m Juventude 1 X 0 Flamengo Alfredo Jaconi
+40ª 07/11/2004 16h00m Criciúma 1 X 1 Santos Heriberto Hulse
+40ª 07/11/2004 16h00m Internacional 3 X 0 Corinthians Beira Rio
+40ª 07/11/2004 16h00m Flamengo 1 X 0 Guarani Raulino Oliveira
+40ª 07/11/2004 16h00m Fluminense 1 X 2 Atlético/PR Maracanã
+40ª 07/11/2004 16h00m Vitória 1 X 1 Juventude Barradão
+40ª 07/11/2004 16h00m Goiás 1 X 0 Atlético/MG Serra Dourada
+40ª 07/11/2004 16h00m Ponte Preta 0 X 3 São Caetano Moisés Lucarelli
+40ª 07/11/2004 16h00m Cruzeiro 3 X 2 Vasco Mineirão
+40ª 07/11/2004 16h00m São Paulo 5 X 2 Botafogo Morumbi
+40ª 07/11/2004 16h00m Coritiba 2 X 0 Figueirense Couto Pereira
+40ª 07/11/2004 16h00m Palmeiras 1 X 0 Paysandu Parque Antártica
+40ª 07/11/2004 16h00m Paraná 1 X 0 Grêmio Pinheirão
+41ª 14/11/2004 16h00m Figueirense 0 X 1 Palmeiras Orlando Scarpelli
+41ª 14/11/2004 16h00m Grêmio 6 X 1 Ponte Preta Olímpico
+41ª 14/11/2004 16h00m Vasco 0 X 0 São Paulo São Januário
+41ª 14/11/2004 16h00m Botafogo 4 X 1 Coritiba Caio Martins
+41ª 14/11/2004 16h00m Paysandu 1 X 1 Paraná Mangueirão
+41ª 14/11/2004 16h00m São Caetano 4 X 1 Cruzeiro Anacleto Campanella
+41ª 14/11/2004 16h00m Guarani 0 X 0 Vitória Brinco de Ouro
+41ª 14/11/2004 16h00m Atlético/MG 6 X 1 Flamengo Mineirão
+41ª 14/11/2004 16h00m Santos 2 X 1 Goiás Vila Belmiro
+41ª 14/11/2004 16h00m Atlético/PR 6 X 1 Criciúma Joaquim Américo
+41ª 14/11/2004 16h00m Corinthians 1 X 1 Fluminense Pacaembu
+41ª 14/11/2004 16h00m Juventude 2 X 3 Internacional Alfredo Jaconi
+42ª 21/11/2004 16h00m Criciúma 1 X 0 Paysandu Heriberto Hulse
+42ª 21/11/2004 16h00m Internacional 1 X 0 São Caetano Beira Rio
+42ª 21/11/2004 16h00m Flamengo 0 X 0 Botafogo Maracanã
+42ª 21/11/2004 16h00m Fluminense 0 X 2 Figueirense Maracanã
+42ª 21/11/2004 16h00m Vitória 2 X 0 Grêmio Barradão
+42ª 21/11/2004 16h00m Goiás 3 X 2 Vasco Serra Dourada
+42ª 21/11/2004 16h00m Ponte Preta 2 X 3 Atlético/PR Moisés Lucarelli
+42ª 21/11/2004 16h00m Cruzeiro 0 X 1 Corinthians Mineirão
+42ª 21/11/2004 16h00m São Paulo 4 X 0 Juventude Morumbi
+42ª 21/11/2004 16h00m Coritiba 0 X 1 Santos Couto Pereira
+42ª 21/11/2004 16h00m Palmeiras 0 X 2 Guarani Parque Antártica
+42ª 21/11/2004 16h00m Paraná 1 X 0 Atlético/MG Pinheirão
+43ª 28/11/2004 16h00m Figueirense 2 X 1 Atlético/MG Orlando Scarpelli
+43ª 28/11/2004 16h00m Grêmio 3 X 3 Atlético/PR Olímpico
+43ª 28/11/2004 16h00m Vasco 1 X 1 Juventude São Januário
+43ª 28/11/2004 16h00m Botafogo 1 X 0 Guarani Caio Martins
+43ª 28/11/2004 16h00m Paysandu 1 X 1 Santos Mangueirão
+43ª 28/11/2004 16h00m São Caetano 2 X 1 Corinthians Anacleto Campanella
+43ª 28/11/2004 16h00m Ponte Preta 1 X 0 Criciúma Moisés Lucarelli
+43ª 28/11/2004 16h00m Cruzeiro 2 X 3 Fluminense Mineirão
+43ª 28/11/2004 16h00m São Paulo 2 X 1 Internacional Morumbi
+43ª 28/11/2004 16h00m Coritiba 5 X 1 Vitória Couto Pereira
+43ª 28/11/2004 16h00m Palmeiras 1 X 2 Flamengo Parque Antártica
+43ª 28/11/2004 16h00m Paraná 2 X 1 Goiás Pinheirão
+44ª 05/12/2004 16h00m Criciúma 1 X 2 Paraná Heriberto Hulse
+44ª 05/12/2004 16h00m Internacional 2 X 0 Cruzeiro Beira Rio
+44ª 05/12/2004 16h00m Flamengo 0 X 0 Coritiba Raulino Oliveira
+44ª 05/12/2004 16h00m Fluminense 1 X 0 Ponte Preta Maracanã
+44ª 05/12/2004 16h00m Vitória 1 X 4 São Paulo Barradão
+44ª 05/12/2004 16h00m Goiás 0 X 0 Palmeiras Serra Dourada
+44ª 05/12/2004 16h00m Guarani 2 X 1 Figueirense Brinco de Ouro
+44ª 05/12/2004 16h00m Atlético/MG 0 X 0 Paysandu Mineirão
+44ª 05/12/2004 16h00m Santos 5 X 1 Grêmio Vila Belmiro
+44ª 05/12/2004 16h00m Atlético/PR 5 X 2 São Caetano Joaquim Américo
+44ª 05/12/2004 16h00m Corinthians 3 X 1 Vasco Pacaembu
+44ª 05/12/2004 16h00m Juventude 1 X 0 Botafogo Alfredo Jaconi
+45ª 12/12/2004 16h00m Figueirense 1 X 0 Juventude Orlando Scarpelli
+45ª 12/12/2004 16h00m Grêmio 0 X 1 Atlético/MG Olímpico
+45ª 12/12/2004 16h00m Vasco 1 X 0 Atlético/PR São Januário
+45ª 12/12/2004 16h00m Botafogo 1 X 2 Corinthians Caio Martins
+45ª 12/12/2004 16h00m Paysandu 4 X 2 Guarani Mangueirão
+45ª 12/12/2004 16h00m São Caetano 0 X 3 Santos Anacleto Campanella
+45ª 12/12/2004 16h00m Ponte Preta 1 X 2 Internacional Moisés Lucarelli
+45ª 12/12/2004 16h00m Cruzeiro 4 X 0 Vitória Mineirão
+45ª 12/12/2004 16h00m São Paulo 1 X 1 Flamengo Morumbi
+45ª 12/12/2004 16h00m Coritiba 1 X 0 Goiás Couto Pereira
+45ª 12/12/2004 16h00m Palmeiras 3 X 2 Criciúma Parque Antártica
+45ª 12/12/2004 16h00m Paraná 0 X 1 Fluminense Pinheirão
+46ª 19/12/2004 16h00m Criciúma 3 X 3 Coritiba Heriberto Hulse
+46ª 19/12/2004 16h00m Internacional 2 X 1 Paraná Beira Rio
+46ª 19/12/2004 16h00m Flamengo 6 X 2 Cruzeiro Maracanã
+46ª 19/12/2004 16h00m Fluminense 1 X 1 Palmeiras Maracanã
+46ª 19/12/2004 16h00m Vitória 1 X 2 Ponte Preta Barradão
+46ª 19/12/2004 16h00m Goiás 2 X 0 São Paulo Serra Dourada
+46ª 19/12/2004 16h00m Guarani 2 X 0 Grêmio Brinco de Ouro
+46ª 19/12/2004 16h00m Atlético/MG 3 X 0 São Caetano Mineirão
+46ª 19/12/2004 16h00m Santos 2 X 1 Vasco Vila Belmiro
+46ª 19/12/2004 16h00m Atlético/PR 1 X 1 Botafogo Joaquim Américo
+46ª 19/12/2004 16h00m Corinthians 5 X 2 Figueirense Pacaembu
+46ª 19/12/2004 16h00m Juventude 1 X 2 Paysandu Alfredo Jaconi

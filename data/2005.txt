@@ -1,0 +1,462 @@
+1ª	23/04/2005	16h00m	Atlético/MG	4	x	1	Figueirense	Mineirão
+1ª	23/04/2005	16h00m	Paraná	0	x	2	Goiás	Pinheirão
+1ª	23/04/2005	18h10m	Flamengo	1	x	1	Cruzeiro	Maracanã
+1ª	23/04/2005	18h10m	São Caetano	2	x	2	Palmeiras	Anacleto Campanella
+1ª	24/04/2005	16h00m	Corinthians	2	x	2	Juventude	Pacaembu
+1ª	24/04/2005	16h00m	Fluminense	2	x	1	São Paulo	Maracanã
+1ª	24/04/2005	16h00m	Fortaleza	0	x	1	Coritiba	Castelão
+1ª	24/04/2005	16h00m	Internacional	0	x	2	Botafogo	Beira Rio
+1ª	24/04/2005	18h10m	Atlético/PR	0	x	1	Ponte Preta	Joaquim Américo
+1ª	24/04/2005	18h10m	Brasiliense	0	x	1	Vasco	Boca do Jacaré
+1ª	24/04/2005	18h10m	Santos	4	x	1	Paysandu	Vila Belmiro
+2ª	30/04/2005	16h00m	Goiás	0	x	0	São Caetano	Serra Dourada
+2ª	30/04/2005	16h00m	Palmeiras	2	x	1	Brasiliense	Parque Antártica
+2ª	30/04/2005	16h00m	Vasco	0	x	0	Fortaleza	São Januário
+2ª	30/04/2005	18h10m	Ponte Preta	3	x	3	Atlético/MG	Moisés Lucarelli
+2ª	30/04/2005	18h10m	São Paulo	1	x	1	Paraná	Morumbi
+2ª	01/05/2005	16h00m	Botafogo	3	x	1	Corinthians	Caio Martins
+2ª	01/05/2005	16h00m	Cruzeiro	3	x	2	Internacional	Mineirão
+2ª	01/05/2005	16h00m	Figueirense	0	x	1	Flamengo	Orlando Scarpelli
+2ª	01/05/2005	16h00m	Juventude	1	x	0	Atlético/PR	Alfredo Jaconi
+2ª	01/05/2005	18h10m	Coritiba	2	x	3	Santos	Couto Pereira
+2ª	01/05/2005	18h10m	Paysandu	1	x	2	Fluminense	Mangueirão
+3ª	07/05/2005	16h00m	Goiás	0	x	0	Figueirense	Serra Dourada
+3ª	07/05/2005	16h00m	Paraná	2	x	2	Juventude	Pinheirão
+3ª	07/05/2005	18h10m	Ponte Preta	2	x	0	Paysandu	Moisés Lucarelli
+3ª	07/05/2005	18h10m	Santos	2	x	1	Atlético/PR	Vila Belmiro
+3ª	08/05/2005	16h00m	Corinthians	1	x	5	São Paulo	Pacaembu
+3ª	08/05/2005	16h00m	Coritiba	1	x	0	Palmeiras	Couto Pereira
+3ª	08/05/2005	16h00m	Fluminense	2	x	1	Cruzeiro	Maracanã
+3ª	08/05/2005	16h00m	Internacional	1	x	0	Flamengo	Beira Rio
+3ª	08/05/2005	18h10m	Atlético/MG	0	x	1	Brasiliense	Mineirão
+3ª	08/05/2005	18h10m	São Caetano	2	x	1	Fortaleza	Anacleto Campanella
+3ª	19/10/2005	20h30m	Vasco	1	x	0	Botafogo	São Januário
+4ª	14/05/2005	16h00m	Fortaleza	2	x	1	Ponte Preta	Castelão
+4ª	14/05/2005	18h10m	Botafogo	2	x	1	Atlético/MG	Caio Martins
+4ª	14/05/2005	18h10m	Figueirense	1	x	2	Internacional	Orlando Scarpelli
+4ª	14/05/2005	18h10m	São Paulo	1	x	0	Coritiba	Morumbi
+4ª	15/05/2005	16h00m	Atlético/PR	1	x	2	Corinthians	Joaquim Américo
+4ª	15/05/2005	16h00m	Cruzeiro	3	x	1	Goiás	Mineirão
+4ª	15/05/2005	16h00m	Juventude	4	x	1	Vasco	Alfredo Jaconi
+4ª	15/05/2005	16h00m	Paysandu	3	x	2	São Caetano	Mangueirão
+4ª	15/05/2005	18h10m	Brasiliense	0	x	3	Fluminense	Boca do Jacaré
+4ª	15/05/2005	18h10m	Flamengo	2	x	1	Santos	Maracanã
+4ª	15/05/2005	18h10m	Palmeiras	1	x	2	Paraná	Parque Antártica
+5ª	21/05/2005	16h00m	Fortaleza	2	x	0	Brasiliense	Castelão
+5ª	21/05/2005	16h00m	Juventude	2	x	0	Paysandu	Alfredo Jaconi
+5ª	21/05/2005	16h00m	Paraná	1	x	1	Ponte Preta	Pinheirão
+5ª	21/05/2005	18h10m	Fluminense	2	x	4	Coritiba	Maracanã
+5ª	21/05/2005	18h10m	Goiás	4	x	0	Botafogo	Serra Dourada
+5ª	22/05/2005	16h00m	Santos	3	x	0	Atlético/MG	Vila Belmiro
+5ª	22/05/2005	16h00m	São Caetano	1	x	0	Flamengo	Anacleto Campanella
+5ª	22/05/2005	16h00m	Vasco	3	x	1	São Paulo	São Januário
+5ª	22/05/2005	18h10m	Atlético/PR	1	x	3	Internacional	Joaquim Américo
+5ª	22/05/2005	18h10m	Corinthians	2	x	1	Figueirense	Pacaembu
+5ª	22/05/2005	18h10m	Cruzeiro	2	x	0	Palmeiras	Mineirão
+6ª	28/05/2005	16h00m	Paysandu	1	x	0	Goiás	Mangueirão
+6ª	28/05/2005	18h10m	Figueirense	2	x	0	São Caetano	Orlando Scarpelli
+6ª	28/05/2005	18h10m	São Paulo	1	x	1	Cruzeiro	Morumbi
+6ª	29/05/2005	16h00m	Atlético/MG	0	x	1	Corinthians	Mineirão
+6ª	29/05/2005	16h00m	Botafogo	2	x	0	Atlético/PR	Caio Martins
+6ª	29/05/2005	16h00m	Brasiliense	1	x	0	Paraná	Boca do Jacaré
+6ª	29/05/2005	16h00m	Flamengo	0	x	0	Fluminense	Maracanã
+6ª	29/05/2005	16h00m	Palmeiras	2	x	1	Santos	Parque Antártica
+6ª	29/05/2005	16h00m	Ponte Preta	4	x	2	Vasco	Moisés Lucarelli
+6ª	29/05/2005	18h10m	Coritiba	1	x	2	Juventude	Couto Pereira
+6ª	29/05/2005	18h10m	Internacional	1	x	0	Fortaleza	Beira Rio
+7ª	11/06/2005	16h00m	Cruzeiro	1	x	2	Ponte Preta	Mineirão
+7ª	11/06/2005	16h00m	Paraná	3	x	0	Fortaleza	Pinheirão
+7ª	11/06/2005	16h00m	São Caetano	2	x	0	Brasiliense	Anacleto Campanella
+7ª	11/06/2005	18h10m	Botafogo	3	x	2	Juventude	Caio Martins
+7ª	11/06/2005	18h10m	Goiás	2	x	1	Palmeiras	Serra Dourada
+7ª	12/06/2005	16h00m	Corinthians	4	x	2	Flamengo	Pacaembu
+7ª	12/06/2005	16h00m	Internacional	1	x	1	Atlético/MG	Beira Rio
+7ª	12/06/2005	16h00m	Santos	1	x	1	Fluminense	Vila Belmiro
+7ª	12/06/2005	18h10m	Atlético/PR	0	x	0	Figueirense	Joaquim Américo
+7ª	12/06/2005	18h10m	Paysandu	2	x	2	São Paulo	Mangueirão
+7ª	12/06/2005	18h10m	Vasco	2	x	2	Coritiba	São Januário
+8ª	18/06/2005	16h00m	Atlético/MG	2	x	3	São Caetano	Mineirão
+8ª	18/06/2005	16h00m	Figueirense	3	x	3	Paysandu	Orlando Scarpelli
+8ª	18/06/2005	16h00m	Ponte Preta	2	x	0	Goiás	Moisés Lucarelli
+8ª	18/06/2005	18h10m	Flamengo	1	x	1	Atlético/PR	Maracanã
+8ª	18/06/2005	18h10m	Palmeiras	5	x	2	Vasco	Parque Antártica
+8ª	19/06/2005	18h10m	Coritiba	2	x	1	Paraná	Couto Pereira
+8ª	18/06/2005	16h00m	Brasiliense	2	x	4	Corinthians	Boca do Jacaré
+8ª	19/06/2005	17h00m	Fluminense	3	x	0	Internacional	Maracanã
+8ª	19/06/2005	17h00m	São Paulo	1	x	0	Botafogo	Morumbi
+8ª	19/06/2005	18h10m	Fortaleza	0	x	0	Santos	Castelão
+8ª	19/06/2005	18h10m	Juventude	0	x	0	Cruzeiro	Alfredo Jaconi
+9ª	25/06/2005	16h00m	Juventude	1	x	3	Ponte Preta	Alfredo Jaconi
+9ª	25/06/2005	16h00m	Paraná	1	x	0	Atlético/MG	Pinheirão
+9ª	25/06/2005	18h10m	Flamengo	3	x	4	Brasiliense	Maracanã
+9ª	25/06/2005	18h10m	São Paulo	1	x	3	Internacional	Morumbi
+9ª	26/06/2005	16h00m	Botafogo	0	x	1	Figueirense	Caio Martins
+9ª	26/06/2005	16h00m	Corinthians	0	x	1	Fluminense	Pacaembu
+9ª	26/06/2005	16h00m	Goiás	2	x	1	Coritiba	Serra Dourada
+9ª	26/06/2005	16h00m	São Caetano	1	x	3	Santos	Anacleto Campanella
+9ª	26/06/2005	18h10m	Atlético/PR	0	x	0	Fortaleza	Joaquim Américo
+9ª	26/06/2005	18h10m	Cruzeiro	3	x	3	Vasco	Mineirão
+9ª	26/06/2005	18h10m	Paysandu	2	x	1	Palmeiras	Mangueirão
+10ª	03/07/2005	18h10m	Brasiliense	2	x	1	Atlético/PR	Boca do Jacaré
+10ª	02/07/2005	16h00m	Coritiba	3	x	1	Paysandu	Couto Pereira
+10ª	02/07/2005	16h00m	Fluminense	0	x	1	Paraná	Maracanã
+10ª	19/10/2005	20h30m	Ponte Preta	2	x	0	São Paulo	Moisés Lucarelli
+10ª	02/07/2005	18h10m	Vasco	1	x	2	Goiás	São Januário
+10ª	03/07/2005	16h00m	Atlético/MG	3	x	1	Flamengo	Mineirão
+10ª	03/07/2005	16h00m	Figueirense	0	x	0	Cruzeiro	Orlando Scarpelli
+10ª	03/07/2005	16h00m	Fortaleza	2	x	1	Corinthians	Castelão
+10ª	03/07/2005	18h10m	Internacional	2	x	1	São Caetano	Beira Rio
+10ª	03/07/2005	18h10m	Palmeiras	4	x	1	Botafogo	Parque Antártica
+10ª	03/07/2005	18h10m	Santos	0	x	0	Juventude	Vila Belmiro
+11ª	09/07/2005	16h00m	Juventude	2	x	1	Brasiliense	Alfredo Jaconi
+11ª	09/07/2005	16h00m	Paraná	3	x	0	Figueirense	Pinheirão
+11ª	09/07/2005	16h00m	Paysandu	1	x	2	Fortaleza	Mangueirão
+11ª	09/07/2005	18h10m	São Caetano	2	x	1	Ponte Preta	Anacleto Campanella
+11ª	09/07/2005	18h10m	São Paulo	2	x	0	Flamengo	Morumbi
+11ª	10/07/2005	16h00m	Botafogo	1	x	2	Fluminense	Caio Martins
+11ª	10/07/2005	16h00m	Corinthians	3	x	1	Palmeiras	Pacaembu
+11ª	10/07/2005	16h00m	Goiás	3	x	4	Santos	Serra Dourada
+11ª	10/07/2005	16h00m	Vasco	2	x	4	Internacional	São Januário
+11ª	10/07/2005	18h10m	Atlético/PR	1	x	0	Coritiba	Joaquim Américo
+11ª	10/07/2005	18h10m	Cruzeiro	2	x	1	Atlético/MG	Mineirão
+12ª	16/07/2005	16h00m	Goiás	1	x	3	Brasiliense	Serra Dourada
+12ª	19/10/2005	20h30m	Paysandu	4	x	1	Cruzeiro	Mangueirão
+12ª	16/07/2005	16h00m	Ponte Preta	2	x	1	Figueirense	Moisés Lucarelli
+12ª	16/07/2005	18h10m	Fluminense	0	x	1	São Caetano	Maracanã
+12ª	16/07/2005	18h10m	Paraná	2	x	3	Corinthians	Pinheirão
+12ª	17/07/2005	16h00m	Atlético/MG	2	x	3	Atlético/PR	Mineirão
+12ª	17/07/2005	16h00m	Coritiba	0	x	3	Botafogo	Couto Pereira
+12ª	17/07/2005	16h00m	Flamengo	1	x	0	Vasco	Maracanã
+12ª	17/07/2005	16h00m	Santos	2	x	1	São Paulo	Vila Belmiro
+12ª	17/07/2005	18h10m	Internacional	5	x	2	Juventude	Beira Rio
+12ª	17/07/2005	18h10m	Palmeiras	1	x	2	Fortaleza	Parque Antártica
+13ª	20/07/2005	19h30m	Botafogo	4	x	2	Ponte Preta	Caio Martins
+13ª	20/07/2005	19h30m	São Caetano	1	x	1	Paraná	Anacleto Campanella
+13ª	20/07/2005	20h30m	Atlético/PR	3	x	2	Fluminense	Joaquim Américo
+13ª	20/07/2005	20h30m	Fortaleza	1	x	4	Atlético/MG	Castelão
+13ª	20/07/2005	20h30m	Internacional	2	x	3	Goiás	Beira Rio
+13ª	20/07/2005	21h45m	Brasiliense	3	x	3	São Paulo	Boca do Jacaré
+13ª	20/07/2005	21h45m	Figueirense	1	x	4	Palmeiras	Orlando Scarpelli
+13ª	20/07/2005	21h45m	Santos	2	x	3	Vasco	Vila Belmiro
+13ª	21/07/2005	20h30m	Corinthians	3	x	2	Paysandu	Pacaembu
+13ª	21/07/2005	20h30m	Cruzeiro	2	x	2	Coritiba	Mineirão
+13ª	21/07/2005	20h30m	Flamengo	3	x	4	Juventude	Maracanã
+14ª	23/07/2005	16h00m	Botafogo	1	x	1	Brasiliense	Caio Martins
+14ª	23/07/2005	16h00m	Goiás	2	x	1	Fortaleza	Serra Dourada
+14ª	23/07/2005	16h00m	Paraná	2	x	0	Atlético/PR	Pinheirão
+14ª	23/07/2005	18h10m	São Paulo	0	x	1	São Caetano	Morumbi
+14ª	24/07/2005	16h00m	Coritiba	3	x	2	Flamengo	Couto Pereira
+14ª	19/10/2005	20h30m	Juventude	2	x	2	Figueirense	Alfredo Jaconi
+14ª	24/07/2005	16h00m	Palmeiras	1	x	0	Atlético/MG	Parque Antártica
+14ª	24/07/2005	16h00m	Vasco	2	x	3	Corinthians	São Januário
+14ª	24/07/2005	18h10m	Cruzeiro	3	x	2	Santos	Mineirão
+14ª	24/07/2005	18h10m	Paysandu	1	x	2	Internacional	Mangueirão
+14ª	24/07/2005	18h10m	Ponte Preta	2	x	1	Fluminense	Moisés Lucarelli
+15ª	27/07/2005	19h30m	Fortaleza	2	x	0	Juventude	Castelão
+15ª	27/07/2005	20h30m	Corinthians	4	x	3	Cruzeiro	Pacaembu
+15ª	27/07/2005	20h30m	Fluminense	1	x	1	Goiás	Maracanã
+15ª	27/07/2005	20h30m	São Caetano	0	x	1	Botafogo	Anacleto Campanella
+15ª	27/07/2005	21h45m	Atlético/MG	0	x	0	São Paulo	Mineirão
+15ª	27/07/2005	21h45m	Atlético/PR	7	x	2	Vasco	Joaquim Américo
+15ª	27/07/2005	21h45m	Santos	0	x	1	Ponte Preta	Vila Belmiro
+15ª	28/07/2005	20h30m	Brasiliense	0	x	0	Paysandu	Boca do Jacaré
+15ª	28/07/2005	20h30m	Figueirense	0	x	0	Coritiba	Orlando Scarpelli
+15ª	28/07/2005	20h30m	Flamengo	0	x	0	Palmeiras	Maracanã
+15ª	28/07/2005	20h30m	Internacional	0	x	2	Paraná	Beira Rio
+16ª	30/07/2005	16h00m	Cruzeiro	3	x	0	Fortaleza	Mineirão
+16ª	30/07/2005	16h00m	Goiás	3	x	1	Atlético/MG	Serra Dourada
+16ª	30/07/2005	16h00m	Vasco	3	x	2	São Caetano	São Januário
+16ª	31/07/2005	16h00m	Botafogo	0	x	2	Flamengo	Caio Martins
+16ª	31/07/2005	16h00m	Coritiba	1	x	1	Brasiliense	Couto Pereira
+16ª	31/07/2005	16h00m	Figueirense	1	x	1	Fluminense	Orlando Scarpelli
+16ª	31/07/2005	16h00m	Ponte Preta	1	x	1	Internacional	Moisés Lucarelli
+16ª	13/10/2005	20h30m	Santos	2	x	3	Corinthians	Vila Belmiro
+16ª	31/07/2005	18h10m	Juventude	2	x	1	São Paulo	Alfredo Jaconi
+16ª	31/07/2005	18h10m	Palmeiras	1	x	1	Atlético/PR	Parque Antártica
+16ª	31/07/2005	18h10m	Paysandu	3	x	4	Paraná	Mangueirão
+17ª	03/08/2005	19h30m	Brasiliense	1	x	2	Cruzeiro	Boca do Jacaré
+17ª	03/08/2005	19h30m	São Caetano	1	x	1	Juventude	Anacleto Campanella
+17ª	03/08/2005	20h30m	Atlético/MG	2	x	2	Paysandu	Mineirão
+17ª	03/08/2005	20h30m	Atlético/PR	1	x	0	Goiás	Joaquim Américo
+17ª	03/08/2005	20h30m	Corinthians	3	x	0	Coritiba	Pacaembu
+17ª	03/08/2005	21h45m	Flamengo	1	x	0	Ponte Preta	Maracanã
+17ª	03/08/2005	21h45m	Internacional	0	x	1	Santos	Beira Rio
+17ª	03/08/2005	21h45m	Paraná	2	x	0	Botafogo	Pinheirão
+17ª	04/08/2005	20h30m	Fluminense	3	x	2	Vasco	Maracanã
+17ª	04/08/2005	20h30m	Fortaleza	5	x	2	Figueirense	Castelão
+17ª	04/08/2005	20h30m	São Paulo	3	x	3	Palmeiras	Morumbi
+18ª	06/08/2005	16h00m	Atlético/PR	5	x	4	Cruzeiro	Joaquim Américo
+18ª	06/08/2005	16h00m	Botafogo	2	x	0	Paysandu	Caio Martins
+18ª	06/08/2005	16h00m	Corinthians	0	x	2	São Caetano	Pacaembu
+18ª	07/08/2005	16h00m	Brasiliense	0	x	0	Internacional	Boca do Jacaré
+18ª	07/08/2005	16h00m	Fortaleza	2	x	1	Flamengo	Castelão
+18ª	07/08/2005	16h00m	Juventude	1	x	2	Palmeiras	Alfredo Jaconi
+18ª	07/08/2005	16h00m	Paraná	1	x	1	Santos	Pinheirão
+18ª	12/10/2005	16h00m	Vasco	3	x	3	Figueirense	São Januário
+18ª	07/08/2005	18h10m	Atlético/MG	1	x	2	Fluminense	Mineirão
+18ª	07/08/2005	18h10m	Ponte Preta	0	x	3	Coritiba	Moisés Lucarelli
+18ª	07/08/2005	18h10m	São Paulo	0	x	1	Goiás	Morumbi
+19ª	10/08/2005	19h30m	São Caetano	3	x	2	Atlético/PR	Anacleto Campanella
+19ª	10/08/2005	20h30m	Coritiba	1	x	0	Atlético/MG	Couto Pereira
+19ª	10/08/2005	20h30m	Palmeiras	2	x	1	Ponte Preta	Parque Antártica
+19ª	10/08/2005	20h30m	Paysandu	0	x	2	Vasco	Mangueirão
+19ª	12/10/2005	16h00m	Cruzeiro	2	x	2	Botafogo	Mineirão
+19ª	10/08/2005	21h45m	Figueirense	3	x	1	São Paulo	Orlando Scarpelli
+19ª	10/08/2005	21h45m	Internacional	0	x	0	Corinthians	Beira Rio
+19ª	11/08/2005	20h30m	Flamengo	1	x	1	Paraná	Giulite Coutinho
+19ª	11/08/2005	20h30m	Fluminense	2	x	0	Fortaleza	Maracanã
+19ª	11/08/2005	20h30m	Goiás	1	x	0	Juventude	Serra Dourada
+19ª	11/08/2005	20h30m	Santos	1	x	1	Brasiliense	Vila Belmiro
+20ª	13/08/2005	16h00m	Coritiba	2	x	2	São Caetano	Couto Pereira
+20ª	13/08/2005	16h00m	Palmeiras	3	x	2	Internacional	Parque Antártica
+20ª	13/08/2005	18h10m	Paysandu	2	x	1	Atlético/PR	Mangueirão
+20ª	14/08/2005	16h00m	Cruzeiro	0	x	1	Paraná	Mineirão
+20ª	14/08/2005	16h00m	Figueirense	2	x	2	Brasiliense	Orlando Scarpelli
+20ª	14/08/2005	16h00m	Goiás	2	x	0	Flamengo	Serra Dourada
+20ª	14/08/2005	16h00m	Ponte Preta	3	x	5	Corinthians	Moisés Lucarelli
+20ª	14/08/2005	16h00m	Vasco	2	x	1	Atlético/MG	São Januário
+20ª	14/08/2005	18h10m	Botafogo	3	x	3	Santos	Caio Martins
+20ª	12/10/2005	16h00m	Juventude	3	x	4	Fluminense	Alfredo Jaconi
+20ª	14/08/2005	18h10m	São Paulo	3	x	2	Fortaleza	Morumbi
+21ª	20/08/2005	16h00m	Atlético/MG	2	x	1	Juventude	Mineirão
+21ª	20/08/2005	18h10m	Atlético/PR	4	x	2	São Paulo	Joaquim Américo
+21ª	20/08/2005	18h10m	São Caetano	0	x	1	Cruzeiro	Anacleto Campanella
+21ª	21/08/2005	16h00m	Brasiliense	4	x	0	Ponte Preta	Boca do Jacaré
+21ª	21/08/2005	16h00m	Corinthians	1	x	1	Goiás	Pacaembu
+21ª	21/08/2005	16h00m	Fluminense	2	x	2	Palmeiras	Maracanã
+21ª	28/10/2005	20h30m	Internacional	3	x	2	Coritiba	Beira Rio
+21ª	21/08/2005	16h00m	Paraná	0	x	0	Vasco	Pinheirão
+21ª	21/08/2005	18h10m	Flamengo	2	x	1	Paysandu	Giulite Coutinho
+21ª	21/08/2005	18h10m	Fortaleza	3	x	1	Botafogo	Castelão
+21ª	21/08/2005	18h10m	Santos	4	x	3	Figueirense	Vila Belmiro
+22ª	24/08/2005	19h30m	Ponte Preta	0	x	2	Atlético/PR	Moisés Lucarelli
+22ª	24/08/2005	20h30m	Goiás	1	x	1	Paraná	Serra Dourada
+22ª	24/08/2005	19h30m	Palmeiras	2	x	1	São Caetano	Parque Antártica
+22ª	24/08/2005	20h30m	Vasco	1	x	0	Brasiliense	São Januário
+22ª	24/08/2005	21h45m	Cruzeiro	0	x	0	Flamengo	Mineirão
+22ª	24/08/2005	21h45m	Juventude	1	x	0	Corinthians	Alfredo Jaconi
+22ª	24/08/2005	21h45m	Paysandu	2	x	3	Santos	Mangueirão
+22ª	25/08/2005	20h30m	Botafogo	0	x	1	Internacional	Caio Martins
+22ª	25/08/2005	20h30m	Coritiba	2	x	0	Fortaleza	Couto Pereira
+22ª	25/08/2005	20h30m	Figueirense	0	x	1	Atlético/MG	Orlando Scarpelli
+22ª	24/08/2005	21h45m	São Paulo	1	x	1	Fluminense	Morumbi
+23ª	27/08/2005	16h00m	Atlético/PR	2	x	2	Juventude	Joaquim Américo
+23ª	27/08/2005	16h00m	Brasiliense	3	x	2	Palmeiras	Boca do Jacaré
+23ª	27/08/2005	16h00m	São Caetano	0	x	1	Goiás	Anacleto Campanella
+23ª	28/08/2005	16h00m	Atlético/MG	1	x	0	Ponte Preta	Mineirão
+23ª	28/08/2005	16h00m	Corinthians	3	x	3	Botafogo	Pacaembu
+23ª	28/08/2005	16h00m	Flamengo	2	x	2	Figueirense	Maracanã
+23ª	28/08/2005	16h00m	Internacional	4	x	1	Cruzeiro	Beira Rio
+23ª	28/08/2005	16h00m	Paraná	0	x	4	São Paulo	Pinheirão
+23ª	28/08/2005	18h10m	Fluminense	5	x	2	Paysandu	Maracanã
+23ª	28/08/2005	18h10m	Fortaleza	4	x	2	Vasco	Castelão
+23ª	28/08/2005	18h10m	Santos	2	x	0	Coritiba	Vila Belmiro
+24ª	07/09/2005	16h00m	Botafogo	2	x	2	Vasco	Caio Martins
+24ª	07/09/2005	16h00m	Figueirense	3	x	0	Goiás	Orlando Scarpelli
+24ª	07/09/2005	16h00m	Fortaleza	5	x	2	São Caetano	Castelão
+24ª	07/09/2005	18h10m	Juventude	2	x	0	Paraná	Alfredo Jaconi
+24ª	24/10/2005	20h30m	São Paulo	1	x	1	Corinthians	Morumbi
+24ª	07/09/2005	21h45m	Atlético/PR	3	x	3	Santos	Joaquim Américo
+24ª	07/09/2005	21h45m	Cruzeiro	2	x	6	Fluminense	Mineirão
+24ª	07/09/2005	21h45m	Paysandu	2	x	2	Ponte Preta	Mangueirão
+24ª	07/09/2005	16h00m	Brasiliense	1	x	2	Atlético/MG	Boca do Jacaré
+24ª	08/09/2005	20h30m	Flamengo	1	x	1	Internacional	Maracanã
+24ª	08/09/2005	20h30m	Palmeiras	1	x	1	Coritiba	Parque Antártica
+25ª	24/10/2005	20h30m	Fluminense	1	x	1	Brasiliense	Maracanã
+25ª	11/09/2005	18h10m	Ponte Preta	2	x	1	Fortaleza	Moisés Lucarelli
+25ª	10/09/2005	16h00m	São Caetano	1	x	2	Paysandu	Anacleto Campanella
+25ª	11/09/2005	16h00m	Corinthians	2	x	0	Atlético/PR	Pacaembu
+25ª	11/09/2005	16h00m	Internacional	3	x	0	Figueirense	Beira Rio
+25ª	11/09/2005	16h00m	Paraná	1	x	3	Palmeiras	Pinheirão
+25ª	11/09/2005	16h00m	Santos	0	x	0	Flamengo	Vila Belmiro
+25ª	11/09/2005	16h00m	Vasco	5	x	2	Juventude	São Januário
+25ª	11/09/2005	18h10m	Atlético/MG	0	x	2	Botafogo	Mineirão
+25ª	11/09/2005	18h10m	Coritiba	1	x	4	São Paulo	Couto Pereira
+25ª	10/09/2005	16h00m	Goiás	1	x	0	Cruzeiro	Serra Dourada
+26ª	18/09/2005	16h00m	Brasiliense	0	x	2	Fortaleza	Boca do Jacaré
+26ª	17/09/2005	16h00m	Ponte Preta	1	x	0	Paraná	Moisés Lucarelli
+26ª	17/09/2005	17h00m	Paysandu	3	x	0	Juventude	Mangueirão
+26ª	17/09/2005	18h10m	Flamengo	2	x	0	São Caetano	Maracanã
+26ª	17/09/2005	18h10m	Palmeiras	2	x	1	Cruzeiro	Parque Antártica
+26ª	18/09/2005	16h00m	Botafogo	3	x	1	Goiás	Caio Martins
+26ª	18/09/2005	16h00m	Figueirense	2	x	3	Corinthians	Orlando Scarpelli
+26ª	18/09/2005	16h00m	Internacional	3	x	2	Atlético/PR	Beira Rio
+26ª	18/09/2005	16h00m	São Paulo	4	x	2	Vasco	Morumbi
+26ª	18/09/2005	18h10m	Atlético/MG	3	x	0	Santos	Mineirão
+26ª	18/09/2005	18h10m	Coritiba	0	x	0	Fluminense	Couto Pereira
+27ª	21/09/2005	19h30m	São Caetano	0	x	1	Figueirense	Anacleto Campanella
+27ª	21/09/2005	20h30m	Fortaleza	1	x	2	Internacional	Castelão
+27ª	21/09/2005	20h30m	Goiás	4	x	1	Paysandu	Serra Dourada
+27ª	21/09/2005	20h30m	Paraná	4	x	1	Brasiliense	Pinheirão
+27ª	21/09/2005	21h45m	Cruzeiro	2	x	3	São Paulo	Mineirão
+27ª	21/09/2005	21h45m	Fluminense	2	x	2	Flamengo	Maracanã
+27ª	21/09/2005	21h45m	Santos	2	x	1	Palmeiras	Vila Belmiro
+27ª	22/09/2005	20h30m	Atlético/PR	2	x	0	Botafogo	Joaquim Américo
+27ª	22/09/2005	20h30m	Corinthians	1	x	1	Atlético/MG	Pacaembu
+27ª	22/09/2005	20h30m	Juventude	0	x	0	Coritiba	Alfredo Jaconi
+27ª	22/09/2005	20h30m	Vasco	0	x	0	Ponte Preta	São Januário
+28ª	24/09/2005	16h00m	Brasiliense	1	x	1	São Caetano	Boca do Jacaré
+28ª	24/09/2005	16h00m	São Paulo	4	x	1	Paysandu	Morumbi
+28ª	24/09/2005	17h00m	Fortaleza	2	x	2	Paraná	Castelão
+28ª	25/09/2005	16h00m	Coritiba	2	x	0	Vasco	Couto Pereira
+28ª	25/09/2005	16h00m	Figueirense	2	x	0	Atlético/PR	Orlando Scarpelli
+28ª	25/09/2005	16h00m	Flamengo	1	x	3	Corinthians	Arena Petrobras
+28ª	25/09/2005	16h00m	Juventude	0	x	0	Botafogo	Alfredo Jaconi
+28ª	25/09/2005	16h00m	Ponte Preta	2	x	3	Cruzeiro	Moisés Lucarelli
+28ª	25/09/2005	18h10m	Atlético/MG	1	x	1	Internacional	Mineirão
+28ª	25/09/2005	18h10m	Fluminense	4	x	3	Santos	Raulino de Oliveira
+28ª	25/09/2005	18h10m	Palmeiras	3	x	1	Goiás	Parque Antártica
+29ª	01/10/2005	16h00m	Cruzeiro	2	x	0	Juventude	Mineirão
+29ª	01/10/2005	16h00m	Goiás	4	x	1	Ponte Preta	Serra Dourada
+29ª	01/10/2005	16h00m	Paraná	3	x	2	Coritiba	Pinheirão
+29ª	01/10/2005	17h00m	Paysandu	3	x	1	Figueirense	Mangueirão
+29ª	01/10/2005	18h10m	Santos	0	x	0	Fortaleza	Vila Belmiro
+29ª	01/10/2005	18h10m	São Caetano	3	x	1	Atlético/MG	Anacleto Campanella
+29ª	02/10/2005	16h00m	Corinthians	3	x	2	Brasiliense	Pacaembu
+29ª	02/10/2005	16h00m	Internacional	2	x	2	Fluminense	Beira Rio
+29ª	02/10/2005	16h00m	Vasco	0	x	0	Palmeiras	São Januário
+29ª	02/10/2005	18h10m	Atlético/PR	2	x	0	Flamengo	Joaquim Américo
+29ª	02/10/2005	18h10m	Botafogo	1	x	1	São Paulo	Caio Martins
+30ª	04/10/2005	20h30m	Atlético/MG	0	x	1	Paraná	Mineirão
+30ª	04/10/2005	20h30m	Coritiba	0	x	2	Goiás	Couto Pereira
+30ª	04/10/2005	20h30m	Ponte Preta	3	x	2	Juventude	Moisés Lucarelli
+30ª	04/10/2005	20h30m	Santos	2	x	0	São Caetano	Vila Belmiro
+30ª	05/10/2005	19h30m	Figueirense	1	x	0	Botafogo	Orlando Scarpelli
+30ª	05/10/2005	20h30m	Fortaleza	1	x	4	Atlético/PR	Castelão
+30ª	05/10/2005	20h30m	Palmeiras	5	x	3	Paysandu	Parque Antártica
+30ª	05/10/2005	20h30m	Vasco	3	x	3	Cruzeiro	São Januário
+30ª	05/10/2005	21h50m	Brasiliense	2	x	3	Flamengo	Boca do Jacaré
+30ª	05/10/2005	21h50m	Fluminense	0	x	2	Corinthians	Maracanã
+30ª	05/10/2005	21h50m	Internacional	3	x	0	São Paulo	Beira Rio
+31ª	08/10/2005	16h00m	Botafogo	1	x	2	Palmeiras	Arena Petrobras
+31ª	08/10/2005	16h00m	Corinthians	3	x	0	Fortaleza	Pacaembu
+31ª	08/10/2005	16h00m	Paraná	6	x	1	Fluminense	Pinheirão
+31ª	08/10/2005	18h10m	Goiás	4	x	3	Vasco	Serra Dourada
+31ª	08/10/2005	18h10m	Juventude	3	x	1	Santos	Alfredo Jaconi
+31ª	10/10/2005	20h30m	Paysandu	2	x	1	Coritiba	Mangueirão
+31ª	11/10/2005	20h30m	Atlético/PR	4	x	0	Brasiliense	Joaquim Américo
+31ª	08/10/2005	18h10m	Cruzeiro	4	x	0	Figueirense	Mineirão
+31ª	11/10/2005	20h30m	Flamengo	1	x	2	Atlético/MG	Arena Petrobras
+31ª	11/10/2005	20h30m	São Caetano	1	x	1	Internacional	Anacleto Campanella
+31ª	11/10/2005	20h30m	São Paulo	3	x	2	Ponte Preta	Morumbi
+32ª	15/10/2005	16h00m	Brasiliense	1	x	0	Juventude	Boca do Jacaré
+32ª	15/10/2005	16h00m	Fortaleza	1	x	2	Paysandu	Castelão
+32ª	15/10/2005	18h10m	Coritiba	1	x	2	Atlético/PR	Couto Pereira
+32ª	15/10/2005	18h10m	Figueirense	2	x	0	Paraná	Orlando Scarpelli
+32ª	16/10/2005	16h00m	Atlético/MG	0	x	1	Cruzeiro	Mineirão
+32ª	16/10/2005	16h00m	Flamengo	1	x	6	São Paulo	Arena Petrobras
+32ª	15/10/2005	16h00m	Fluminense	3	x	2	Botafogo	Raulino de Oliveira
+32ª	16/10/2005	16h00m	Internacional	3	x	1	Vasco	Beira Rio
+32ª	16/10/2005	16h00m	Palmeiras	1	x	1	Corinthians	Parque Antártica
+32ª	16/10/2005	18h10m	Ponte Preta	1	x	2	São Caetano	Moisés Lucarelli
+32ª	16/10/2005	18h10m	Santos	1	x	1	Goiás	Vila Belmiro
+33ª	22/10/2005	16h00m	Atlético/PR	2	x	0	Atlético/MG	Joaquim Américo
+33ª	21/10/2005	20h30m	São Caetano	2	x	2	Fluminense	Anacleto Campanella
+33ª	22/10/2005	20h30m	Botafogo	2	x	0	Coritiba	Arena Petrobras
+33ª	21/10/2005	20h30m	Brasiliense	1	x	2	Goiás	Boca do Jacaré
+33ª	22/10/2005	16h00m	Corinthians	1	x	0	Paraná	Pacaembu
+33ª	22/10/2005	18h10m	Figueirense	4	x	0	Ponte Preta	Orlando Scarpelli
+33ª	22/10/2005	16h00m	Fortaleza	1	x	1	Palmeiras	Castelão
+33ª	22/10/2005	16h00m	Vasco	2	x	1	Flamengo	São Januário
+33ª	22/10/2005	18h10m	Cruzeiro	4	x	3	Paysandu	Mineirão
+33ª	22/10/2005	18h10m	Juventude	2	x	1	Internacional	Alfredo Jaconi
+33ª	22/10/2005	20h30m	São Paulo	1	x	2	Santos	Morumbi
+34ª	25/10/2005	20h30m	Coritiba	0	x	3	Cruzeiro	Couto Pereira
+34ª	25/10/2005	20h30m	Goiás	0	x	1	Internacional	Serra Dourada
+34ª	26/10/2005	20h30m	Atlético/MG	2	x	3	Fortaleza	Mineirão
+34ª	26/10/2005	20h30m	Palmeiras	2	x	2	Figueirense	Parque Antártica
+34ª	26/10/2005	21h45m	Juventude	2	x	2	Flamengo	Alfredo Jaconi
+34ª	26/10/2005	21h45m	Vasco	1	x	3	Santos	São Januário
+34ª	27/10/2005	20h30m	Fluminense	4	x	1	Atlético/PR	Raulino de Oliveira
+34ª	27/10/2005	20h30m	Paraná	1	x	3	São Caetano	Pinheirão
+34ª	27/10/2005	20h30m	Paysandu	0	x	2	Corinthians	Mangueirão
+34ª	27/10/2005	20h30m	Ponte Preta	0	x	1	Botafogo	Moisés Lucarelli
+34ª	27/10/2005	20h30m	São Paulo	1	x	2	Brasiliense	Morumbi
+35ª	29/10/2005	16h00m	Figueirense	4	x	3	Juventude	Orlando Scarpelli
+35ª	29/10/2005	16h00m	Fortaleza	1	x	1	Goiás	Castelão
+35ª	30/10/2005	16h00m	Atlético/MG	1	x	3	Palmeiras	Mineirão
+35ª	30/10/2005	16h00m	Atlético/PR	2	x	1	Paraná	Joaquim Américo
+35ª	30/10/2005	16h00m	Corinthians	1	x	1	Vasco	Pacaembu
+35ª	30/10/2005	16h00m	Santos	1	x	2	Cruzeiro	Vila Belmiro
+35ª	30/10/2005	18h10m	Brasiliense	0	x	0	Botafogo	Boca do Jacaré
+35ª	30/10/2005	18h10m	Fluminense	4	x	3	Ponte Preta	Raulino de Oliveira
+35ª	30/10/2005	18h10m	São Caetano	0	x	1	São Paulo	Anacleto Campanella
+35ª	31/10/2005	20h30m	Flamengo	2	x	1	Coritiba	Arena Petrobras
+35ª	31/10/2005	20h30m	Internacional	1	x	0	Paysandu	Beira Rio
+36ª	02/11/2005	20h30m	Coritiba	4	x	1	Figueirense	Couto Pereira
+36ª	02/11/2005	20h30m	Juventude	2	x	0	Fortaleza	Alfredo Jaconi
+36ª	02/11/2005	20h30m	São Paulo	2	x	2	Atlético/MG	Morumbi
+36ª	02/11/2005	21h45m	Cruzeiro	2	x	1	Corinthians	Mineirão
+36ª	02/11/2005	21h45m	Goiás	1	x	2	Fluminense	Serra Dourada
+36ª	02/11/2005	21h45m	Ponte Preta	2	x	1	Santos	Moisés Lucarelli
+36ª	03/11/2005	20h30m	Botafogo	1	x	0	São Caetano	Arena Petrobras
+36ª	03/11/2005	20h30m	Palmeiras	0	x	1	Flamengo	Parque Antártica
+36ª	03/11/2005	20h30m	Paraná	3	x	1	Internacional	Pinheirão
+36ª	03/11/2005	20h30m	Paysandu	2	x	1	Brasiliense	Mangueirão
+36ª	03/11/2005	20h30m	Vasco	2	x	1	Atlético/PR	São Januário
+37ª	05/11/2005	16h00m	São Paulo	3	x	1	Juventude	Morumbi
+37ª	05/11/2005	18h10m	Fortaleza	3	x	1	Cruzeiro	Castelão
+37ª	06/11/2005	16h00m	Corinthians	7	x	1	Santos	Pacaembu
+37ª	06/11/2005	16h00m	Flamengo	3	x	1	Botafogo	Arena Petrobras
+37ª	06/11/2005	16h00m	Internacional	2	x	1	Ponte Preta	Beira Rio
+37ª	06/11/2005	16h00m	Paraná	2	x	0	Paysandu	Pinheirão
+37ª	06/11/2005	16h00m	São Caetano	1	x	2	Vasco	Anacleto Campanella
+37ª	06/11/2005	18h10m	Atlético/MG	1	x	2	Goiás	Mineirão
+37ª	06/11/2005	18h10m	Atlético/PR	4	x	0	Palmeiras	Joaquim Américo
+37ª	06/11/2005	18h10m	Brasiliense	1	x	1	Coritiba	Boca do Jacaré
+37ª	06/11/2005	18h10m	Fluminense	2	x	0	Figueirense	Raulino de Oliveira
+38ª	12/11/2005	18h10m	Botafogo	2	x	0	Paraná	Arena Petrobras
+38ª	12/11/2005	18h10m	Figueirense	1	x	0	Fortaleza	Orlando Scarpelli
+38ª	12/11/2005	18h10m	Palmeiras	2	x	1	São Paulo	Parque Antártica
+38ª	12/11/2005	18h10m	Paysandu	0	x	2	Atlético/MG	Mangueirão
+38ª	13/11/2005	16h00m	Coritiba	0	x	1	Corinthians	Couto Pereira
+38ª	13/11/2005	16h00m	Goiás	4	x	2	Atlético/PR	Serra Dourada
+38ª	13/11/2005	16h00m	Ponte Preta	2	x	2	Flamengo	Moisés Lucarelli
+38ª	13/11/2005	18h10m	Cruzeiro	1	x	0	Brasiliense	Mineirão
+38ª	13/11/2005	18h10m	Juventude	3	x	1	São Caetano	Alfredo Jaconi
+38ª	13/11/2005	18h10m	Santos	0	x	4	Internacional	Vila Belmiro
+38ª	13/11/2005	18h10m	Vasco	2	x	0	Fluminense	São Januário
+39ª	16/11/2005	21h45m	Santos	0	x	0	Paraná	Vila Belmiro
+39ª	16/11/2005	20h30m	Internacional	1	x	0	Brasiliense	Beira Rio
+39ª	16/11/2005	21h45m	Figueirense	5	x	1	Vasco	Orlando Scarpelli
+39ª	16/11/2005	21h45m	São Caetano	1	x	0	Corinthians	Anacleto Campanella
+39ª	17/11/2005	21h30m	Paysandu	2	x	0	Botafogo	Mangueirão
+39ª	16/11/2005	20h30m	Flamengo	3	x	0	Fortaleza	Arena Petrobras
+39ª	17/11/2005	20h30m	Coritiba	2	x	1	Ponte Preta	Couto Pereira
+39ª	17/11/2005	20h30m	Fluminense	0	x	2	Atlético/MG	Raulino de Oliveira
+39ª	17/11/2005	20h30m	Cruzeiro	1	x	2	Atlético/PR	Mineirão
+39ª	16/11/2005	20h30m	Palmeiras	3	x	2	Juventude	Parque Antártica
+39ª	16/11/2005	20h30m	Goiás	3	x	0	São Paulo	Serra Dourada
+40ª	19/11/2005	16h00m	Juventude	2	x	1	Goiás	Alfredo Jaconi
+40ª	19/11/2005	16h00m	São Paulo	4	x	2	Figueirense	Morumbi
+40ª	19/11/2005	18h10m	Brasiliense	1	x	0	Santos	Boca do Jacaré
+40ª	20/11/2005	16h00m	Atlético/MG	1	x	0	Coritiba	Mineirão
+40ª	20/11/2005	16h00m	Atlético/PR	2	x	2	São Caetano	Joaquim Américo
+40ª	20/11/2005	16h00m	Corinthians	1	x	1	Internacional	Pacaembu
+40ª	20/11/2005	16h00m	Paraná	0	x	1	Flamengo	Pinheirão
+40ª	20/11/2005	16h00m	Vasco	4	x	0	Paysandu	São Januário
+40ª	20/11/2005	18h10m	Botafogo	2	x	1	Cruzeiro	Arena Petrobras
+40ª	20/11/2005	18h10m	Fortaleza	5	x	1	Fluminense	Castelão
+40ª	20/11/2005	18h10m	Ponte Preta	2	x	6	Palmeiras	Moisés Lucarelli
+41ª	27/11/2005	16h00m	Santos	2	x	1	Botafogo	Vila Belmiro
+41ª	27/11/2005	16h00m	Internacional	2	x	1	Palmeiras	Beira Rio
+41ª	27/11/2005	16h00m	Paraná	2	x	0	Cruzeiro	Pinheirão
+41ª	27/11/2005	16h00m	São Caetano	1	x	1	Coritiba	Anacleto Campanella
+41ª	27/11/2005	16h00m	Fortaleza	1	x	0	São Paulo	Castelão
+41ª	27/11/2005	16h00m	Flamengo	0	x	0	Goiás	Arena Petrobras
+41ª	27/11/2005	16h00m	Atlético/PR	3	x	2	Paysandu	Joaquim Américo
+41ª	27/11/2005	16h00m	Fluminense	1	x	2	Juventude	Raulino de Oliveira
+41ª	27/11/2005	16h00m	Atlético/MG	0	x	0	Vasco	Mineirão
+41ª	27/11/2005	16h00m	Corinthians	3	x	1	Ponte Preta	Pacaembu
+41ª	27/11/2005	16h00m	Brasiliense	0	x	2	Figueirense	Boca do Jacaré
+42ª	04/12/2005	16h00m	São Paulo	3	x	1	Atlético/PR	Morumbi
+42ª	04/12/2005	16h00m	Juventude	1	x	3	Atlético/MG	Alfredo Jaconi
+42ª	04/12/2005	16h00m	Figueirense	3	x	1	Santos	Orlando Scarpelli
+42ª	04/12/2005	16h00m	Ponte Preta	3	x	1	Brasiliense	Moisés Lucarelli
+42ª	04/12/2005	16h00m	Paysandu	1	x	4	Flamengo	Mangueirão
+42ª	04/12/2005	16h00m	Vasco	3	x	1	Paraná	São Januário
+42ª	04/12/2005	16h00m	Coritiba	1	x	0	Internacional	Couto Pereira
+42ª	04/12/2005	16h00m	Botafogo	2	x	0	Fortaleza	Arena Petrobras
+42ª	04/12/2005	16h00m	Cruzeiro	1	x	3	São Caetano	Mineirão
+42ª	04/12/2005	16h00m	Palmeiras	3	x	2	Fluminense	Parque Antártica
+42ª	04/12/2005	16h00m	Goiás	3	x	2	Corinthians	Serra Dourada

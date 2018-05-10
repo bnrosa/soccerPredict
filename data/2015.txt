@@ -1,0 +1,380 @@
+1ª	09/05/2015	18h30m	Chapecoense	2	x	1	Coritiba	Arena Condá
+1ª	09/05/2015	18h30m	Palmeiras	2	x	2	Atlético/MG	Allianz Parque
+1ª	09/05/2015	21h00m	Fluminense	1	x	0	Joinville	Maracanã
+1ª	10/05/2015	11h00m	Grêmio	3	x	3	Ponte Preta	Arena do Grêmio
+1ª	10/05/2015	16h00m	Atlético/PR	3	x	0	Internacional	Arena da Baixada
+1ª	10/05/2015	16h00m	Cruzeiro	0	x	1	Corinthians	Arena Pantanal
+1ª	10/05/2015	16h00m	São Paulo	2	x	1	Flamengo	Morumbi
+1ª	10/05/2015	16h00m	Sport	4	x	1	Figueirense	Ilha do Retiro
+1ª	10/05/2015	18h30m	Avaí	1	x	1	Santos	Ressacada
+1ª	10/05/2015	18h30m	Vasco	0	x	0	Goiás	São Januário
+2ª	16/05/2015	18h30m	Coritiba	2	x	0	Grêmio	Couto Pereira
+2ª	16/05/2015	18h30m	Goiás	2	x	0	Atlético/PR	Serra Dourada
+2ª	16/05/2015	21h00m	Corinthians	1	x	0	Chapecoense	Fonte Luminosa
+2ª	17/05/2015	11h00m	Figueirense	0	x	0	Vasco	Orlando Scarpelli
+2ª	17/05/2015	16h00m	Atlético/MG	4	x	1	Fluminense	Mané Garrincha
+2ª	17/05/2015	16h00m	Flamengo	2	x	2	Sport	Maracanã
+2ª	17/05/2015	16h00m	Santos	1	x	0	Cruzeiro	Vila Belmiro
+2ª	17/05/2015	18h30m	Internacional	1	x	0	Avaí	Beira-Rio
+2ª	17/05/2015	18h30m	Joinville	0	x	0	Palmeiras	Arena Joinville
+2ª	17/05/2015	18h30m	Ponte Preta	1	x	0	São Paulo	Moisés Lucarelli
+3ª	23/05/2015	18h30m	São Paulo	3	x	0	Joinville	Morumbi
+3ª	23/05/2015	18h30m	Vasco	1	x	1	Internacional	São Januário
+3ª	23/05/2015	21h00m	Grêmio	1	x	0	Figueirense	Arena do Grêmio
+3ª	24/05/2015	11h00m	Palmeiras	0	x	1	Goiás	Allianz Parque
+3ª	24/05/2015	16h00m	Atlético/PR	1	x	0	Atlético/MG	Arena da Baixada
+3ª	24/05/2015	16h00m	Avaí	2	x	1	Flamengo	Ressacada
+3ª	24/05/2015	16h00m	Chapecoense	1	x	0	Santos	Arena Condá
+3ª	24/05/2015	16h00m	Fluminense	0	x	0	Corinthians	Maracanã
+3ª	24/05/2015	18h30m	Cruzeiro	1	x	1	Ponte Preta	Mineirão
+3ª	24/05/2015	18h30m	Sport	1	x	0	Coritiba	Ilha do Retiro
+4ª	30/05/2015	18h30m	Ponte Preta	3	x	1	Chapecoense	Moisés Lucarelli
+4ª	30/05/2015	18h30m	Coritiba	1	x	2	Avaí	Couto Pereira
+4ª	30/05/2015	21h00m	Joinville	1	x	2	Atlético/PR	Arena Joinville
+4ª	31/05/2015	11h00m	Santos	2	x	2	Sport	Vila Belmiro
+4ª	31/05/2015	16h00m	Corinthians	0	x	2	Palmeiras	Arena Corinthians
+4ª	31/05/2015	16h00m	Internacional	0	x	0	São Paulo	Beira-Rio
+4ª	31/05/2015	16h00m	Atlético/MG	3	x	0	Vasco	Independência
+4ª	31/05/2015	16h00m	Goiás	1	x	1	Grêmio	Serra Dourada
+4ª	31/05/2015	18h30m	Flamengo	2	x	3	Fluminense	Maracanã
+4ª	31/05/2015	18h30m	Figueirense	2	x	1	Cruzeiro	Orlando Scarpelli
+5ª	03/06/2015	19h30m	Vasco	0	x	3	Ponte Preta	São Januário
+5ª	03/06/2015	19h30m	Atlético/PR	1	x	0	Figueirense	Arena da Baixada
+5ª	03/06/2015	19h30m	Chapecoense	2	x	0	Joinville	Arena Condá
+5ª	03/06/2015	21h00m	São Paulo	3	x	2	Santos	Morumbi
+5ª	03/06/2015	22h00m	Grêmio	3	x	1	Corinthians	Arena do Grêmio
+5ª	03/06/2015	22h00m	Cruzeiro	1	x	0	Flamengo	Mineirão
+5ª	03/06/2015	22h00m	Avaí	1	x	4	Atlético/MG	Ressacada
+5ª	04/06/2015	16h00m	Fluminense	2	x	0	Coritiba	Maracanã
+5ª	04/06/2015	21h00m	Sport	1	x	0	Goiás	Ilha do Retiro
+5ª	04/06/2015	21h00m	Palmeiras	1	x	1	Internacional	Allianz Parque
+6ª	06/06/2015	18h30m	Atlético/MG	1	x	3	Cruzeiro	Independência
+6ª	06/06/2015	18h30m	Flamengo	1	x	0	Chapecoense	Maracanã
+6ª	06/06/2015	18h30m	Santos	2	x	2	Ponte Preta	Vila Belmiro
+6ª	06/06/2015	22h00m	Atlético/PR	2	x	0	Vasco	Arena da Baixada
+6ª	06/06/2015	22h00m	Joinville	0	x	1	Corinthians	Arena Joinville
+6ª	06/06/2015	22h00m	São Paulo	2	x	0	Grêmio	Morumbi
+6ª	07/06/2015	11h00m	Internacional	2	x	0	Coritiba	Beira-Rio
+6ª	07/06/2015	19h30m	Figueirense	2	x	1	Palmeiras	Orlando Scarpelli
+6ª	07/06/2015	19h30m	Fluminense	0	x	0	Sport	Maracanã
+6ª	07/06/2015	19h30m	Goiás	0	x	1	Avaí	Serra Dourada
+7ª	10/06/2015	19h30m	Atlético/MG	2	x	2	Santos	Independência
+7ª	13/06/2015	16h30m	Chapecoense	0	x	1	São Paulo	Arena Condá
+7ª	13/06/2015	16h30m	Corinthians	2	x	1	Internacional	Arena Corinthians
+7ª	13/06/2015	16h30m	Coritiba	0	x	1	Flamengo	Couto Pereira
+7ª	13/06/2015	21h00m	Sport	2	x	1	Joinville	Ilha do Retiro
+7ª	13/06/2015	21h00m	Vasco	1	x	3	Cruzeiro	São Januário
+7ª	14/06/2015	11h00m	Ponte Preta	0	x	0	Goiás	Moisés Lucarelli
+7ª	14/06/2015	16h00m	Avaí	1	x	0	Figueirense	Ressacada
+7ª	14/06/2015	16h00m	Grêmio	2	x	1	Atlético/PR	Arena do Grêmio
+7ª	14/06/2015	16h00m	Palmeiras	2	x	1	Fluminense	Allianz Parque
+8ª	18/06/2015	21h00m	Figueirense	0	x	0	Internacional	Orlando Scarpelli
+8ª	20/06/2015	16h30m	Santos	1	x	0	Corinthians	Vila Belmiro
+8ª	20/06/2015	16h30m	Flamengo	0	x	2	Atlético/MG	Maracanã
+8ª	20/06/2015	16h30m	Sport	2	x	1	Vasco	Arena Pernambuco
+8ª	20/06/2015	21h00m	Grêmio	1	x	0	Palmeiras	Arena do Grêmio
+8ª	21/06/2015	11h00m	Cruzeiro	0	x	1	Chapecoense	Mineirão
+8ª	21/06/2015	16h00m	São Paulo	1	x	1	Avaí	Morumbi
+8ª	21/06/2015	16h00m	Atlético/PR	2	x	2	Coritiba	Arena da Baixada
+8ª	21/06/2015	16h00m	Joinville	2	x	1	Goiás	Arena Joinville
+8ª	24/06/2015	19h30m	Fluminense	2	x	0	Ponte Preta	Maracanã
+9ª	27/06/2015	16h00m	Avaí	1	x	2	Grêmio	Ressacada
+9ª	27/06/2015	16h00m	Chapecoense	1	x	1	Sport	Arena Condá
+9ª	27/06/2015	21h00m	Corinthians	2	x	1	Figueirense	Arena Corinthians
+9ª	28/06/2015	11h00m	Atlético/MG	1	x	0	Joinville	Mineirão
+9ª	28/06/2015	16h00m	Coritiba	1	x	0	Cruzeiro	Couto Pereira
+9ª	28/06/2015	16h00m	Goiás	1	x	2	Fluminense	Serra Dourada
+9ª	28/06/2015	16h00m	Palmeiras	4	x	0	São Paulo	Allianz Parque
+9ª	28/06/2015	16h00m	Ponte Preta	2	x	1	Atlético/PR	Moisés Lucarelli
+9ª	28/06/2015	18h30m	Internacional	1	x	0	Santos	Beira-Rio
+9ª	28/06/2015	18h30m	Vasco	1	x	0	Flamengo	Arena Pantanal
+10ª	01/07/2015	19h30m	Sport	3	x	0	Internacional	Ilha do Retiro
+10ª	01/07/2015	19h30m	Vasco	1	x	0	Avaí	São Januário
+10ª	01/07/2015	21h00m	Atlético/MG	2	x	0	Coritiba	Independência
+10ª	01/07/2015	21h00m	Palmeiras	2	x	0	Chapecoense	Allianz Parque
+10ª	01/07/2015	22h00m	Atlético/PR	2	x	1	São Paulo	Arena da Baixada
+10ª	01/07/2015	22h00m	Grêmio	1	x	0	Cruzeiro	Arena do Grêmio
+10ª	01/07/2015	22h00m	Joinville	0	x	1	Flamengo	Arena Joinville
+10ª	02/07/2015	19h30m	Corinthians	2	x	0	Ponte Preta	Arena Corinthians
+10ª	02/07/2015	19h30m	Figueirense	3	x	1	Goiás	Orlando Scarpelli
+10ª	02/07/2015	21h00m	Fluminense	2	x	1	Santos	Maracanã
+11ª	04/07/2015	15h00m	Coritiba	0	x	0	Joinville	Couto Pereira
+11ª	04/07/2015	21h00m	Chapecoense	1	x	0	Vasco	Arena Condá
+11ª	04/07/2015	21h00m	Cruzeiro	2	x	0	Atlético/PR	Mineirão
+11ª	05/07/2015	11h00m	Avaí	2	x	2	Sport	Ressacada
+11ª	05/07/2015	16h00m	Goiás	0	x	0	Corinthians	Serra Dourada
+11ª	05/07/2015	16h00m	Santos	1	x	3	Grêmio	Vila Belmiro
+11ª	05/07/2015	16h00m	São Paulo	0	x	0	Fluminense	Morumbi
+11ª	05/07/2015	18h30m	Flamengo	1	x	2	Figueirense	Maracanã
+11ª	05/07/2015	18h30m	Internacional	1	x	3	Atlético/MG	Beira-Rio
+11ª	05/07/2015	18h30m	Ponte Preta	0	x	0	Palmeiras	Arena Pantanal
+12ª	08/07/2015	19h30m	Chapecoense	1	x	0	Grêmio	Arena Condá
+12ª	08/07/2015	19h30m	Coritiba	0	x	0	Ponte Preta	Couto Pereira
+12ª	08/07/2015	19h30m	Goiás	4	x	1	Santos	Serra Dourada
+12ª	08/07/2015	21h00m	Figueirense	0	x	2	Joinville	Orlando Scarpelli
+12ª	08/07/2015	21h00m	Palmeiras	3	x	0	Avaí	Allianz Parque
+12ª	08/07/2015	22h00m	Atlético/MG	2	x	1	Sport	Mineirão
+12ª	08/07/2015	22h00m	Internacional	1	x	2	Flamengo	Beira-Rio
+12ª	08/07/2015	22h00m	Vasco	0	x	4	São Paulo	Mané Garrincha
+12ª	09/07/2015	19h30m	Corinthians	2	x	0	Atlético/PR	Arena Corinthians
+12ª	09/07/2015	21h00m	Fluminense	1	x	0	Cruzeiro	Maracanã
+13ª	11/07/2015	18h30m	Grêmio	2	x	0	Vasco	Arena do Grêmio
+13ª	11/07/2015	18h30m	Santos	3	x	0	Figueirense	Vila Belmiro
+13ª	11/07/2015	21h00m	Ponte Preta	0	x	2	Atlético/MG	Moisés Lucarelli
+13ª	12/07/2015	11h00m	São Paulo	3	x	1	Coritiba	Morumbi
+13ª	12/07/2015	16h00m	Atlético/PR	1	x	2	Fluminense	Arena da Baixada
+13ª	12/07/2015	16h00m	Cruzeiro	1	x	0	Goiás	Mineirão
+13ª	12/07/2015	16h00m	Flamengo	0	x	3	Corinthians	Maracanã
+13ª	12/07/2015	16h00m	Joinville	0	x	2	Internacional	Arena Joinville
+13ª	12/07/2015	18h30m	Avaí	2	x	1	Chapecoense	Ressacada
+13ª	12/07/2015	18h30m	Sport	2	x	2	Palmeiras	Arena Pernambuco
+14ª	18/07/2015	18h30m	Flamengo	1	x	0	Grêmio	Maracanã
+14ª	18/07/2015	18h30m	Internacional	2	x	1	Goiás	Beira-Rio
+14ª	18/07/2015	21h00m	Corinthians	1	x	0	Atlético/MG	Arena Corinthians
+14ª	19/07/2015	11h00m	Atlético/PR	1	x	0	Chapecoense	Arena da Baixada
+14ª	19/07/2015	16h00m	Figueirense	0	x	0	Coritiba	Orlando Scarpelli
+14ª	19/07/2015	16h00m	Fluminense	1	x	2	Vasco	Maracanã
+14ª	19/07/2015	16h00m	Palmeiras	1	x	0	Santos	Allianz Parque
+14ª	19/07/2015	16h00m	Sport	2	x	0	São Paulo	Arena Pernambuco
+14ª	19/07/2015	18h30m	Cruzeiro	1	x	1	Avaí	Mineirão
+14ª	19/07/2015	18h30m	Joinville	1	x	1	Ponte Preta	Arena Joinville
+15ª	25/07/2015	18h30m	Avaí	1	x	2	Atlético/PR	Ressacada
+15ª	25/07/2015	19h30m	Grêmio	1	x	1	Sport	Arena do Grêmio
+15ª	25/07/2015	21h00m	Atlético/MG	1	x	0	Figueirense	Independência
+15ª	26/07/2015	11h00m	Chapecoense	2	x	1	Fluminense	Arena Condá
+15ª	26/07/2015	11h00m	Santos	2	x	0	Joinville	Vila Belmiro
+15ª	26/07/2015	16h00m	Coritiba	1	x	1	Corinthians	Couto Pereira
+15ª	26/07/2015	16h00m	Goiás	0	x	1	Flamengo	Serra Dourada
+15ª	26/07/2015	16h00m	Ponte Preta	0	x	0	Internacional	Moisés Lucarelli
+15ª	26/07/2015	16h00m	São Paulo	1	x	0	Cruzeiro	Morumbi
+15ª	26/07/2015	18h30m	Vasco	1	x	4	Palmeiras	São Januário
+16ª	29/07/2015	22h00m	Atlético/MG	3	x	1	São Paulo	Mineirão
+16ª	29/07/2015	22h00m	Corinthians	3	x	0	Vasco	Arena Corinthians
+16ª	01/08/2015	18h30m	Fluminense	1	x	0	Grêmio	Maracanã
+16ª	02/08/2015	11h00m	Coritiba	1	x	1	Goiás	Couto Pereira
+16ª	02/08/2015	11h00m	Palmeiras	0	x	1	Atlético/PR	Allianz Parque
+16ª	02/08/2015	16h00m	Figueirense	3	x	1	Ponte Preta	Orlando Scarpelli
+16ª	02/08/2015	16h00m	Flamengo	2	x	2	Santos	Maracanã
+16ª	02/08/2015	16h00m	Internacional	0	x	0	Chapecoense	Beira-Rio
+16ª	02/08/2015	16h00m	Joinville	2	x	0	Avaí	Arena Joinville
+16ª	02/08/2015	18h30m	Sport	0	x	0	Cruzeiro	Ilha do Retiro
+17ª	08/08/2015	18h30m	Avaí	1	x	0	Fluminense	Ressacada
+17ª	08/08/2015	21h00m	Santos	3	x	0	Coritiba	Vila Belmiro
+17ª	09/08/2015	11h00m	Atlético/PR	1	x	1	Sport	Arena da Baixada
+17ª	09/08/2015	11h00m	Vasco	0	x	0	Joinville	Maracanã
+17ª	09/08/2015	16h00m	Cruzeiro	2	x	1	Palmeiras	Mineirão
+17ª	09/08/2015	16h00m	Goiás	0	x	0	Atlético/MG	Serra Dourada
+17ª	09/08/2015	16h00m	Ponte Preta	1	x	0	Flamengo	Moisés Lucarelli
+17ª	09/08/2015	16h00m	São Paulo	1	x	1	Corinthians	Morumbi
+17ª	09/08/2015	18h30m	Chapecoense	2	x	2	Figueirense	Arena Condá
+17ª	09/08/2015	18h30m	Grêmio	5	x	0	Internacional	Arena do Grêmio
+18ª	12/08/2015	19h30m	Coritiba	2	x	1	Palmeiras	Couto Pereira
+18ª	12/08/2015	19h30m	Flamengo	3	x	2	Atlético/PR	Maracanã
+18ª	12/08/2015	21h00m	Goiás	0	x	0	Chapecoense	Serra Dourada
+18ª	12/08/2015	21h00m	Santos	1	x	0	Vasco	Vila Belmiro
+18ª	12/08/2015	22h00m	Corinthians	4	x	3	Sport	Arena Corinthians
+18ª	12/08/2015	22h00m	Figueirense	0	x	2	São Paulo	Orlando Scarpelli
+18ª	12/08/2015	22h00m	Internacional	1	x	0	Fluminense	Beira-Rio
+18ª	13/08/2015	19h30m	Ponte Preta	2	x	0	Avaí	Moisés Lucarelli
+18ª	13/08/2015	21h00m	Atlético/MG	0	x	2	Grêmio	Mineirão
+18ª	13/08/2015	21h00m	Joinville	3	x	0	Cruzeiro	Arena Joinville
+19ª	15/08/2015	18h30m	Atlético/PR	0	x	0	Santos	Arena da Baixada
+19ª	15/08/2015	18h30m	Vasco	0	x	1	Coritiba	Maracanã
+19ª	15/08/2015	21h00m	São Paulo	0	x	3	Goiás	Morumbi
+19ª	16/08/2015	11h00m	Palmeiras	4	x	2	Flamengo	Allianz Parque
+19ª	16/08/2015	16h00m	Avaí	1	x	2	Corinthians	Ressacada
+19ª	16/08/2015	16h00m	Cruzeiro	0	x	0	Internacional	Mineirão
+19ª	16/08/2015	16h00m	Fluminense	2	x	1	Figueirense	Maracanã
+19ª	16/08/2015	16h00m	Sport	1	x	1	Ponte Preta	Ilha do Retiro
+19ª	16/08/2015	18h30m	Chapecoense	2	x	1	Atlético/MG	Arena Condá
+19ª	16/08/2015	18h30m	Grêmio	2	x	1	Joinville	Arena do Grêmio
+20ª	22/08/2015	18h30m	Goiás	3	x	0	Vasco	Serra Dourada
+20ª	22/08/2015	18h30m	Santos	5	x	2	Avaí	Vila Belmiro
+20ª	22/08/2015	21h00m	Figueirense	2	x	1	Sport	Orlando Scarpelli
+20ª	23/08/2015	11h00m	Coritiba	1	x	0	Chapecoense	Couto Pereira
+20ª	23/08/2015	11h00m	Ponte Preta	0	x	0	Grêmio	Moisés Lucarelli
+20ª	23/08/2015	16h00m	Corinthians	3	x	0	Cruzeiro	Arena Corinthians
+20ª	23/08/2015	16h00m	Flamengo	2	x	1	São Paulo	Maracanã
+20ª	23/08/2015	16h00m	Internacional	2	x	0	Atlético/PR	Beira-Rio
+20ª	23/08/2015	16h00m	Joinville	2	x	1	Fluminense	Arena Joinville
+20ª	23/08/2015	18h30m	Atlético/MG	2	x	1	Palmeiras	Independência
+21ª	29/08/2015	18h30m	Vasco	0	x	1	Figueirense	Maracanã
+21ª	29/08/2015	21h00m	São Paulo	3	x	0	Ponte Preta	Morumbi
+21ª	30/08/2015	11h00m	Avaí	3	x	0	Internacional	Ressacada
+21ª	30/08/2015	11h00m	Grêmio	0	x	0	Coritiba	Arena do Grêmio
+21ª	30/08/2015	16h00m	Chapecoense	1	x	3	Corinthians	Arena Condá
+21ª	30/08/2015	16h00m	Fluminense	1	x	2	Atlético/MG	Maracanã
+21ª	30/08/2015	16h00m	Palmeiras	3	x	2	Joinville	Allianz Parque
+21ª	30/08/2015	16h00m	Sport	0	x	1	Flamengo	Arena Pernambuco
+21ª	30/08/2015	18h30m	Atlético/PR	3	x	0	Goiás	Arena da Baixada
+21ª	30/08/2015	18h30m	Cruzeiro	0	x	1	Santos	Mineirão
+22ª	02/09/2015	19h30m	Internacional	6	x	0	Vasco	Beira-Rio
+22ª	02/09/2015	19h30m	Joinville	0	x	0	São Paulo	Arena Joinville
+22ª	02/09/2015	19h30m	Ponte Preta	1	x	2	Cruzeiro	Moisés Lucarelli
+22ª	02/09/2015	21h00m	Atlético/MG	0	x	1	Atlético/PR	Independência
+22ª	02/09/2015	21h00m	Flamengo	3	x	0	Avaí	Arena das Dunas
+22ª	02/09/2015	22h00m	Corinthians	2	x	0	Fluminense	Arena Corinthians
+22ª	02/09/2015	22h00m	Coritiba	0	x	0	Sport	Couto Pereira
+22ª	02/09/2015	22h00m	Goiás	1	x	0	Palmeiras	Serra Dourada
+22ª	03/09/2015	19h30m	Santos	3	x	1	Chapecoense	Vila Belmiro
+22ª	03/09/2015	21h00m	Figueirense	0	x	2	Grêmio	Orlando Scarpelli
+23ª	05/09/2015	19h30m	São Paulo	2	x	0	Internacional	Morumbi
+23ª	05/09/2015	19h30m	Vasco	1	x	2	Atlético/MG	Maracanã
+23ª	05/09/2015	21h00m	Atlético/PR	0	x	0	Joinville	Arena da Baixada
+23ª	06/09/2015	11h00m	Chapecoense	0	x	0	Ponte Preta	Arena Condá
+23ª	06/09/2015	11h00m	Cruzeiro	5	x	1	Figueirense	Mineirão
+23ª	06/09/2015	16h00m	Avaí	0	x	2	Coritiba	Ressacada
+23ª	06/09/2015	16h00m	Fluminense	1	x	3	Flamengo	Maracanã
+23ª	06/09/2015	16h00m	Grêmio	2	x	1	Goiás	Arena do Grêmio
+23ª	06/09/2015	16h00m	Palmeiras	3	x	3	Corinthians	Allianz Parque
+23ª	06/09/2015	18h30m	Sport	1	x	1	Santos	Ilha do Retiro
+24ª	09/09/2015	19h30m	Atlético/MG	2	x	0	Avaí	Independência
+24ª	09/09/2015	19h30m	Internacional	1	x	0	Palmeiras	Beira-Rio
+24ª	09/09/2015	19h30m	Ponte Preta	0	x	1	Vasco	Moisés Lucarelli
+24ª	09/09/2015	21h00m	Figueirense	1	x	1	Atlético/PR	Orlando Scarpelli
+24ª	09/09/2015	22h00m	Corinthians	1	x	1	Grêmio	Arena Corinthians
+24ª	09/09/2015	22h00m	Coritiba	1	x	1	Fluminense	Couto Pereira
+24ª	09/09/2015	22h00m	Santos	3	x	0	São Paulo	Vila Belmiro
+24ª	10/09/2015	19h30m	Goiás	1	x	0	Sport	Serra Dourada
+24ª	10/09/2015	21h00m	Flamengo	2	x	0	Cruzeiro	Maracanã
+24ª	10/09/2015	21h00m	Joinville	0	x	0	Chapecoense	Arena Joinville
+25ª	12/09/2015	18h30m	Coritiba	0	x	1	Internacional	Couto Pereira
+25ª	12/09/2015	21h00m	Palmeiras	2	x	0	Figueirense	Allianz Parque
+25ª	13/09/2015	11h00m	Corinthians	3	x	0	Joinville	Arena Corinthians
+25ª	13/09/2015	11h00m	Ponte Preta	3	x	1	Santos	Moisés Lucarelli
+25ª	13/09/2015	16h00m	Chapecoense	1	x	3	Flamengo	Arena Condá
+25ª	13/09/2015	16h00m	Cruzeiro	1	x	1	Atlético/MG	Mineirão
+25ª	13/09/2015	16h00m	Grêmio	1	x	2	São Paulo	Arena do Grêmio
+25ª	13/09/2015	16h00m	Vasco	2	x	0	Atlético/PR	Maracanã
+25ª	13/09/2015	18h30m	Avaí	2	x	1	Goiás	Ressacada
+25ª	13/09/2015	18h30m	Sport	1	x	0	Fluminense	Arena Pernambuco
+26ª	16/09/2015	19h30m	Fluminense	1	x	4	Palmeiras	Maracanã
+26ª	16/09/2015	19h30m	Goiás	1	x	2	Ponte Preta	Serra Dourada
+26ª	16/09/2015	19h30m	Joinville	1	x	1	Sport	Arena Joinville
+26ª	16/09/2015	21h00m	Atlético/PR	1	x	2	Grêmio	Couto Pereira
+26ª	16/09/2015	21h00m	Figueirense	0	x	1	Avaí	Orlando Scarpelli
+26ª	16/09/2015	22h00m	Cruzeiro	2	x	2	Vasco	Mineirão
+26ª	16/09/2015	22h00m	Internacional	2	x	1	Corinthians	Beira-Rio
+26ª	16/09/2015	22h00m	Santos	4	x	0	Atlético/MG	Vila Belmiro
+26ª	17/09/2015	19h30m	São Paulo	0	x	0	Chapecoense	Morumbi
+26ª	17/09/2015	21h00m	Flamengo	0	x	2	Coritiba	Mané Garrincha
+27ª	19/09/2015	18h30m	Internacional	1	x	1	Figueirense	Beira-Rio
+27ª	19/09/2015	18h30m	Palmeiras	3	x	2	Grêmio	Allianz Parque
+27ª	19/09/2015	21h00m	Ponte Preta	3	x	1	Fluminense	Moisés Lucarelli
+27ª	20/09/2015	11h00m	Corinthians	2	x	0	Santos	Arena Corinthians
+27ª	20/09/2015	11h00m	Goiás	3	x	0	Joinville	Serra Dourada
+27ª	20/09/2015	16h00m	Atlético/MG	4	x	1	Flamengo	Independência
+27ª	20/09/2015	16h00m	Avaí	2	x	1	São Paulo	Ressacada
+27ª	20/09/2015	16h00m	Vasco	2	x	1	Sport	Maracanã
+27ª	20/09/2015	18h30m	Chapecoense	0	x	2	Cruzeiro	Arena Condá
+27ª	20/09/2015	18h30m	Coritiba	2	x	0	Atlético/PR	Couto Pereira
+28ª	26/09/2015	18h30m	Fluminense	2	x	0	Goiás	Maracanã
+28ª	26/09/2015	21h00m	Grêmio	3	x	1	Avaí	Arena do Grêmio
+28ª	27/09/2015	11h00m	Atlético/PR	1	x	2	Ponte Preta	Arena da Baixada
+28ª	27/09/2015	11h00m	Santos	3	x	1	Internacional	Vila Belmiro
+28ª	27/09/2015	16h00m	Figueirense	1	x	3	Corinthians	Orlando Scarpelli
+28ª	27/09/2015	16h00m	Flamengo	1	x	2	Vasco	Maracanã
+28ª	27/09/2015	16h00m	Joinville	2	x	2	Atlético/MG	Arena Joinville
+28ª	27/09/2015	16h00m	São Paulo	1	x	1	Palmeiras	Morumbi
+28ª	27/09/2015	18h30m	Cruzeiro	2	x	0	Coritiba	Mineirão
+28ª	27/09/2015	18h30m	Sport	3	x	0	Chapecoense	Ilha do Retiro
+29ª	03/10/2015	18h30m	Coritiba	0	x	3	Atlético/MG	Couto Pereira
+29ª	03/10/2015	18h30m	Internacional	2	x	1	Sport	Beira-Rio
+29ª	03/10/2015	21h00m	São Paulo	1	x	0	Atlético/PR	Morumbi
+29ª	04/10/2015	11h00m	Avaí	1	x	1	Vasco	Ressacada
+29ª	04/10/2015	11h00m	Flamengo	2	x	0	Joinville	Maracanã
+29ª	04/10/2015	16h00m	Cruzeiro	0	x	0	Grêmio	Mineirão
+29ª	04/10/2015	16h00m	Goiás	2	x	3	Figueirense	Serra Dourada
+29ª	04/10/2015	16h00m	Ponte Preta	2	x	2	Corinthians	Moisés Lucarelli
+29ª	04/10/2015	16h00m	Santos	3	x	1	Fluminense	Vila Belmiro
+29ª	04/10/2015	18h30m	Chapecoense	5	x	1	Palmeiras	Arena Condá
+30ª	14/10/2015	19h30m	Atlético/MG	2	x	1	Internacional	Independência
+30ª	14/10/2015	19h30m	Sport	3	x	0	Avaí	Ilha do Retiro
+30ª	14/10/2015	21h00m	Figueirense	3	x	0	Flamengo	Orlando Scarpelli
+30ª	14/10/2015	21h00m	Joinville	3	x	1	Coritiba	Arena Joinville
+30ª	14/10/2015	21h00m	Palmeiras	0	x	1	Ponte Preta	Allianz Parque
+30ª	14/10/2015	22h00m	Atlético/PR	2	x	2	Cruzeiro	Arena da Baixada
+30ª	14/10/2015	22h00m	Fluminense	2	x	0	São Paulo	Maracanã
+30ª	15/10/2015	19h30m	Corinthians	3	x	0	Goiás	Arena Corinthians
+30ª	15/10/2015	19h30m	Vasco	1	x	1	Chapecoense	Maracanã
+30ª	15/10/2015	21h00m	Grêmio	1	x	0	Santos	Arena do Grêmio
+31ª	17/10/2015	18h30m	Avaí	1	x	3	Palmeiras	Ressacada
+31ª	17/10/2015	21h00m	Joinville	1	x	0	Figueirense	Arena Joinville
+31ª	18/10/2015	11h00m	Cruzeiro	2	x	0	Fluminense	Mineirão
+31ª	18/10/2015	11h00m	Ponte Preta	3	x	0	Coritiba	Moisés Lucarelli
+31ª	18/10/2015	16h00m	Atlético/PR	1	x	4	Corinthians	Arena da Baixada
+31ª	18/10/2015	16h00m	Flamengo	0	x	1	Internacional	Maracanã
+31ª	18/10/2015	16h00m	São Paulo	2	x	2	Vasco	Morumbi
+31ª	18/10/2015	17h00m	Grêmio	2	x	3	Chapecoense	Arena do Grêmio
+31ª	18/10/2015	17h00m	Santos	3	x	1	Goiás	Vila Belmiro
+31ª	18/10/2015	18h30m	Sport	4	x	1	Atlético/MG	Ilha do Retiro
+32ª	24/10/2015	17h00m	Fluminense	0	x	1	Atlético/PR	Maracanã
+32ª	24/10/2015	18h30m	Figueirense	0	x	0	Santos	Orlando Scarpelli
+32ª	24/10/2015	18h30m	Internacional	1	x	0	Joinville	Beira-Rio
+32ª	24/10/2015	21h00m	Palmeiras	0	x	2	Sport	Pacaembu
+32ª	25/10/2015	17h00m	Chapecoense	0	x	0	Avaí	Arena Condá
+32ª	25/10/2015	17h00m	Corinthians	1	x	0	Flamengo	Arena Corinthians
+32ª	25/10/2015	17h00m	Coritiba	1	x	2	São Paulo	Couto Pereira
+32ª	25/10/2015	17h00m	Vasco	0	x	0	Grêmio	Maracanã
+32ª	25/10/2015	18h00m	Goiás	0	x	1	Cruzeiro	Serra Dourada
+32ª	25/10/2015	19h30m	Atlético/MG	2	x	1	Ponte Preta	Independência
+33ª	31/10/2015	17h00m	São Paulo	3	x	0	Sport	Morumbi
+33ª	31/10/2015	19h30m	Avaí	1	x	1	Cruzeiro	Ressacada
+33ª	31/10/2015	19h30m	Ponte Preta	1	x	0	Joinville	Moisés Lucarelli
+33ª	31/10/2015	21h00m	Coritiba	1	x	1	Figueirense	Couto Pereira
+33ª	01/11/2015	17h00m	Atlético/MG	0	x	3	Corinthians	Independência
+33ª	01/11/2015	17h00m	Chapecoense	0	x	0	Atlético/PR	Arena Condá
+33ª	01/11/2015	17h00m	Grêmio	2	x	0	Flamengo	Arena do Grêmio
+33ª	01/11/2015	17h00m	Santos	2	x	1	Palmeiras	Vila Belmiro
+33ª	01/11/2015	18h00m	Vasco	0	x	1	Fluminense	Nilton Santos
+33ª	01/11/2015	19h30m	Goiás	2	x	1	Internacional	Serra Dourada
+34ª	07/11/2015	17h00m	Internacional	1	x	0	Ponte Preta	Beira-Rio
+34ª	07/11/2015	19h30m	Atlético/PR	2	x	1	Avaí	Arena da Baixada
+34ª	07/11/2015	19h30m	Corinthians	2	x	1	Coritiba	Arena Corinthians
+34ª	07/11/2015	21h00m	Fluminense	2	x	3	Chapecoense	Maracanã
+34ª	08/11/2015	17h00m	Cruzeiro	2	x	1	São Paulo	Mineirão
+34ª	08/11/2015	17h00m	Figueirense	0	x	1	Atlético/MG	Orlando Scarpelli
+34ª	08/11/2015	17h00m	Flamengo	4	x	1	Goiás	Maracanã
+34ª	08/11/2015	17h00m	Palmeiras	0	x	2	Vasco	Allianz Parque
+34ª	08/11/2015	18h00m	Joinville	0	x	0	Santos	Arena Joinville
+34ª	08/11/2015	19h30m	Sport	1	x	0	Grêmio	Ilha do Retiro
+35ª	15/11/2015	17h00m	Cruzeiro	3	x	0	Sport	Mineirão
+35ª	18/11/2015	19h30m	Goiás	1	x	3	Coritiba	Serra Dourada
+35ª	18/11/2015	21h00m	Atlético/PR	3	x	3	Palmeiras	Arena da Baixada
+35ª	18/11/2015	21h00m	Avaí	2	x	1	Joinville	Ressacada
+35ª	18/11/2015	21h00m	Ponte Preta	0	x	1	Figueirense	Moisés Lucarelli
+35ª	19/11/2015	19h30m	Chapecoense	1	x	0	Internacional	Arena Condá
+35ª	19/11/2015	19h30m	Grêmio	1	x	0	Fluminense	Arena do Grêmio
+35ª	19/11/2015	22h00m	Santos	0	x	0	Flamengo	Vila Belmiro
+35ª	19/11/2015	22h00m	São Paulo	4	x	2	Atlético/MG	Morumbi
+35ª	19/11/2015	22h00m	Vasco	1	x	1	Corinthians	São Januário
+36ª	21/11/2015	19h30m	Palmeiras	1	x	1	Cruzeiro	Allianz Parque
+36ª	22/11/2015	17h00m	Atlético/MG	2	x	2	Goiás	Independência
+36ª	22/11/2015	17h00m	Corinthians	6	x	1	São Paulo	Arena Corinthians
+36ª	22/11/2015	17h00m	Figueirense	0	x	0	Chapecoense	Orlando Scarpelli
+36ª	22/11/2015	17h00m	Internacional	1	x	0	Grêmio	Beira-Rio
+36ª	22/11/2015	17h00m	Joinville	1	x	2	Vasco	Arena Joinville
+36ª	22/11/2015	18h00m	Flamengo	1	x	1	Ponte Preta	Mané Garrincha
+36ª	22/11/2015	19h30m	Coritiba	1	x	0	Santos	Couto Pereira
+36ª	22/11/2015	19h30m	Fluminense	3	x	1	Avaí	Kléber Andrade
+36ª	22/11/2015	19h30m	Sport	0	x	0	Atlético/PR	Ilha do Retiro
+37ª	28/11/2015	17h00m	São Paulo	3	x	2	Figueirense	Morumbi
+37ª	28/11/2015	19h30m	Fluminense	1	x	1	Internacional	Maracanã
+37ª	28/11/2015	21h00m	Avaí	1	x	0	Ponte Preta	Ressacada
+37ª	29/11/2015	17h00m	Cruzeiro	3	x	0	Joinville	Mineirão
+37ª	29/11/2015	17h00m	Grêmio	2	x	1	Atlético/MG	Arena do Grêmio
+37ª	29/11/2015	17h00m	Sport	2	x	0	Corinthians	Arena Pernambuco
+37ª	29/11/2015	17h00m	Vasco	1	x	0	Santos	São Januário
+37ª	29/11/2015	18h00m	Chapecoense	1	x	3	Goiás	Arena Condá
+37ª	29/11/2015	18h00m	Palmeiras	0	x	2	Coritiba	Allianz Parque
+37ª	29/11/2015	19h30m	Atlético/PR	3	x	0	Flamengo	Arena da Baixada
+38ª	06/12/2015	17h00m	Goiás	0	x	1	São Paulo	Serra Dourada
+38ª	06/12/2015	17h00m	Flamengo	1	x	2	Palmeiras	Maracanã
+38ª	06/12/2015	17h00m	Figueirense	1	x	0	Fluminense	Orlando Scarpelli
+38ª	06/12/2015	17h00m	Coritiba	0	x	0	Vasco	Couto Pereira
+38ª	06/12/2015	17h00m	Joinville	0	x	2	Grêmio	Arena Joinville
+38ª	06/12/2015	17h00m	Internacional	2	x	0	Cruzeiro	Beira-Rio
+38ª	06/12/2015	17h00m	Corinthians	1	x	1	Avaí	Arena Corinthians
+38ª	06/12/2015	17h00m	Santos	5	x	1	Atlético/PR	Vila Belmiro
+38ª	06/12/2015	17h00m	Ponte Preta	0	x	1	Sport	Moisés Lucarelli
+38ª	06/12/2015	17h00m	Atlético/MG	3	x	0	Chapecoense	Mineirão

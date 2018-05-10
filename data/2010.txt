@@ -1,0 +1,380 @@
+1ª	08/05/2010	18h30m	Botafogo	3	x	3	Santos	João Havelange
+1ª	08/05/2010	18h30m	Atlético/GO	0	x	0	Grêmio	Serra Dourada
+1ª	08/05/2010	18h30m	Palmeiras	1	x	0	Vitória	Palestra Itália
+1ª	09/05/2010	16h00m	Flamengo	1	x	1	São Paulo	Maracanã
+1ª	09/05/2010	16h00m	Atlético/MG	2	x	1	Vasco	Mineirão
+1ª	09/05/2010	16h00m	Internacional	1	x	2	Cruzeiro	Beira Rio
+1ª	09/05/2010	16h00m	Corinthians	2	x	1	Atlético/PR	Pacaembu
+1ª	09/05/2010	18h30m	Ceará	1	x	0	Fluminense	Castelão
+1ª	09/05/2010	18h30m	Guarani	1	x	0	Goiás	Brinco de Ouro
+1ª	09/05/2010	18h30m	Avaí	6	x	1	Grêmio Prudente	Ressacada
+2ª	15/05/2010	18h30m	Fluminense	1	x	0	Atlético/GO	Maracanã
+2ª	15/05/2010	18h30m	Grêmio Prudente	4	x	0	Atlético/MG	Eduardo José Farah
+2ª	15/05/2010	18h30m	Vitória	1	x	1	Flamengo	Barradão
+2ª	16/05/2010	16h00m	Goiás	2	x	3	Internacional	Serra Dourada
+2ª	16/05/2010	16h00m	Grêmio	1	x	2	Corinthians	Olímpico
+2ª	16/05/2010	16h00m	Santos	1	x	1	Ceará	Vila Belmiro
+2ª	16/05/2010	16h00m	São Paulo	1	x	2	Botafogo	Morumbi
+2ª	16/05/2010	18h30m	Atlético/PR	2	x	2	Guarani	Arena da Baixada
+2ª	16/05/2010	18h30m	Cruzeiro	2	x	2	Avaí	Mineirão
+2ª	16/05/2010	18h30m	Vasco	0	x	0	Palmeiras	São Januário
+3ª	22/05/2010	18h30m	Atlético/GO	1	x	2	Santos	Serra Dourada
+3ª	22/05/2010	18h30m	Palmeiras	4	x	2	Grêmio	Palestra Itália
+3ª	22/05/2010	16h00m	Botafogo	3	x	0	Goiás	João Havelange
+3ª	23/05/2010	16h00m	Corinthians	1	x	0	Fluminense	Pacaembu
+3ª	23/05/2010	16h00m	Atlético/MG	3	x	1	Atlético/PR	Mineirão
+3ª	23/05/2010	16h00m	Internacional	0	x	2	São Paulo	Beira Rio
+3ª	23/05/2010	16h00m	Ceará	1	x	0	Vitória	Castelão
+3ª	23/05/2010	18h30m	Avaí	2	x	0	Vasco	Ressacada
+3ª	23/05/2010	18h30m	Flamengo	3	x	1	Grêmio Prudente	Maracanã
+3ª	23/05/2010	18h30m	Guarani	2	x	2	Cruzeiro	Brinco de Ouro
+4ª	26/05/2010	19h30m	Vitória	4	x	3	Atlético/MG	Barradão
+4ª	26/05/2010	19h30m	Grêmio	3	x	0	Avaí	Olímpico
+4ª	26/05/2010	19h30m	Fluminense	2	x	1	Flamengo	Maracanã
+4ª	26/05/2010	20h30m	São Paulo	1	x	0	Palmeiras	Morumbi
+4ª	26/05/2010	21h50m	Grêmio Prudente	2	x	2	Corinthians	Eduardo José Farah
+4ª	26/05/2010	21h50m	Cruzeiro	1	x	0	Botafogo	Mineirão
+4ª	26/05/2010	21h50m	Santos	3	x	1	Guarani	Vila Belmiro
+4ª	27/05/2010	21h00m	Vasco	3	x	2	Internacional	São Januário
+4ª	27/05/2010	21h00m	Atlético/PR	2	x	1	Atlético/GO	Arena da Baixada
+4ª	27/05/2010	21h00m	Goiás	0	x	0	Ceará	Serra Dourada
+5ª	29/05/2010	18h30m	Flamengo	1	x	1	Grêmio	Maracanã
+5ª	29/05/2010	18h30m	Palmeiras	0	x	0	Grêmio Prudente	Arena Barueri
+5ª	29/05/2010	18h30m	Avaí	0	x	0	Vitória	Ressacada
+5ª	30/05/2010	16h00m	Corinthians	4	x	2	Santos	Pacaembu
+5ª	30/05/2010	16h00m	Guarani	0	x	0	São Paulo	Brinco de Ouro
+5ª	30/05/2010	16h00m	Atlético/MG	1	x	3	Fluminense	Mineirão
+5ª	30/05/2010	16h00m	Internacional	4	x	1	Atlético/PR	Beira Rio
+5ª	30/05/2010	18h30m	Ceará	1	x	0	Cruzeiro	Castelão
+5ª	30/05/2010	18h30m	Atlético/GO	1	x	3	Goiás	Serra Dourada
+5ª	30/05/2010	18h30m	Botafogo	1	x	1	Vasco	João Havelange
+6ª	02/06/2010	19h30m	Atlético/PR	3	x	2	Botafogo	Arena da Baixada
+6ª	02/06/2010	19h30m	Fluminense	2	x	1	Vitória	Maracanã
+6ª	02/06/2010	19h30m	Grêmio Prudente	1	x	0	Atlético/GO	Eduardo José Farah
+6ª	02/06/2010	21h00m	Ceará	2	x	0	Avaí	Castelão
+6ª	02/06/2010	21h50m	Palmeiras	0	x	1	Flamengo	Pacaembu
+6ª	02/06/2010	21h50m	Goiás	2	x	1	São Paulo	Serra Dourada
+6ª	02/06/2010	21h50m	Cruzeiro	0	x	0	Santos	Mineirão
+6ª	03/06/2010	21h00m	Grêmio	2	x	1	Atlético/MG	Olímpico
+6ª	03/06/2010	21h00m	Vasco	0	x	1	Guarani	São Januário
+6ª	03/06/2010	21h00m	Corinthians	2	x	0	Internacional	Pacaembu
+7ª	05/06/2010	18h30m	Avaí	0	x	3	Fluminense	Ressacada
+7ª	05/06/2010	18h30m	Flamengo	1	x	2	Goiás	Maracanã
+7ª	05/06/2010	18h30m	Vitória	1	x	0	Atlético/PR	Barradão
+7ª	06/06/2010	16h00m	São Paulo	3	x	1	Grêmio	Morumbi
+7ª	06/06/2010	16h00m	Santos	4	x	0	Vasco	Vila Belmiro
+7ª	06/06/2010	16h00m	Botafogo	2	x	2	Corinthians	João Havelange
+7ª	06/06/2010	16h00m	Atlético/MG	0	x	1	Ceará	Mineirão
+7ª	06/06/2010	18h30m	Internacional	1	x	1	Palmeiras	Beira Rio
+7ª	06/06/2010	18h30m	Guarani	1	x	0	Grêmio Prudente	Brinco de Ouro
+7ª	06/06/2010	18h30m	Atlético/GO	2	x	1	Cruzeiro	Serra Dourada
+8ª	14/07/2010	19h30m	Grêmio	1	x	1	Vitória	Olímpico
+8ª	14/07/2010	19h30m	Atlético/PR	0	x	2	Cruzeiro	Arena da Baixada
+8ª	14/07/2010	19h30m	São Paulo	1	x	2	Avaí	Morumbi
+8ª	14/07/2010	21h00m	Flamengo	1	x	0	Botafogo	Maracanã
+8ª	14/07/2010	21h50m	Guarani	0	x	3	Internacional	Brinco de Ouro
+8ª	14/07/2010	21h50m	Goiás	0	x	0	Vasco	Serra Dourada
+8ª	14/07/2010	21h50m	Ceará	0	x	0	Corinthians	Castelão
+8ª	15/07/2010	21h00m	Palmeiras	2	x	1	Santos	Pacaembu
+8ª	15/07/2010	21h00m	Atlético/MG	3	x	2	Atlético/GO	Arena do Jacaré
+8ª	15/07/2010	21h00m	Fluminense	1	x	1	Grêmio Prudente	Maracanã
+9ª	17/07/2010	18h30m	Vitória	3	x	2	São Paulo	Barradão
+9ª	17/07/2010	18h30m	Vasco	3	x	1	Atlético/PR	São Januário
+9ª	18/07/2010	18h30m	Cruzeiro	1	x	0	Goiás	Arena do Jacaré
+9ª	18/07/2010	16h00m	Corinthians	1	x	0	Atlético/MG	Pacaembu
+9ª	18/07/2010	16h00m	Atlético/GO	0	x	1	Flamengo	Serra Dourada
+9ª	18/07/2010	16h00m	Avaí	4	x	2	Palmeiras	Ressacada
+9ª	18/07/2010	16h00m	Internacional	2	x	1	Ceará	Beira Rio
+9ª	18/07/2010	18h30m	Santos	0	x	1	Fluminense	Vila Belmiro
+9ª	18/07/2010	18h30m	Botafogo	1	x	1	Guarani	João Havelange
+9ª	18/07/2010	18h30m	Grêmio Prudente	2	x	0	Grêmio	Eduardo José Farah
+10ª	21/07/2010	19h30m	Atlético/MG	1	x	2	Internacional	Arena do Jacaré
+10ª	21/07/2010	19h30m	Vitória	2	x	2	Goiás	Barradão
+10ª	21/07/2010	19h30m	São Paulo	1	x	1	Grêmio Prudente	Morumbi
+10ª	21/07/2010	21h00m	Flamengo	1	x	1	Avaí	Maracanã
+10ª	21/07/2010	21h50m	Atlético/PR	2	x	0	Santos	Arena da Baixada
+10ª	21/07/2010	21h50m	Grêmio	1	x	1	Vasco	Olímpico
+10ª	21/07/2010	21h50m	Atlético/GO	3	x	1	Corinthians	Serra Dourada
+10ª	22/07/2010	21h00m	Fluminense	1	x	0	Cruzeiro	Maracanã
+10ª	22/07/2010	21h00m	Guarani	1	x	1	Ceará	Brinco de Ouro
+10ª	22/07/2010	21h00m	Palmeiras	2	x	2	Botafogo	Pacaembu
+11ª	24/07/2010	18h30m	Avaí	0	x	0	Atlético/MG	Ressacada
+11ª	24/07/2010	18h30m	Vasco	2	x	0	Atlético/GO	São Januário
+11ª	24/07/2010	18h30m	Grêmio Prudente	0	x	0	Vitória	Eduardo José Farah
+11ª	25/07/2010	16h00m	Santos	1	x	0	São Paulo	Vila Belmiro
+11ª	25/07/2010	16h00m	Cruzeiro	2	x	2	Grêmio	Arena do Jacaré
+11ª	25/07/2010	16h00m	Internacional	1	x	0	Flamengo	Beira Rio
+11ª	25/07/2010	16h00m	Goiás	0	x	2	Atlético/PR	Serra Dourada
+11ª	25/07/2010	18h30m	Ceará	0	x	0	Palmeiras	Castelão
+11ª	25/07/2010	18h30m	Corinthians	3	x	1	Guarani	Pacaembu
+11ª	25/07/2010	18h30m	Botafogo	1	x	1	Fluminense	João Havelange
+12ª	31/07/2010	18h30m	Fluminense	3	x	1	Atlético/PR	Maracanã
+12ª	31/07/2010	18h30m	Atlético/GO	1	x	1	Guarani	Serra Dourada
+12ª	31/07/2010	18h30m	São Paulo	2	x	1	Ceará	Morumbi
+12ª	01/08/2010	16h00m	Palmeiras	1	x	1	Corinthians	Pacaembu
+12ª	01/08/2010	16h00m	Vitória	1	x	3	Botafogo	Barradão
+12ª	01/08/2010	16h00m	Avaí	4	x	1	Goiás	Ressacada
+12ª	01/08/2010	16h00m	Internacional	0	x	0	Grêmio	Beira Rio
+12ª	01/08/2010	18h30m	Atlético/MG	0	x	1	Cruzeiro	Arena do Jacaré
+12ª	01/08/2010	18h30m	Grêmio Prudente	1	x	2	Santos	Eduardo José Farah
+12ª	01/08/2010	18h30m	Flamengo	0	x	0	Vasco	Maracanã
+13ª	07/08/2010	18h30m	Botafogo	3	x	0	Atlético/MG	João Havelange
+13ª	07/08/2010	18h30m	Guarani	4	x	1	Avaí	Brinco de Ouro
+13ª	08/08/2010	16h00m	Ceará	0	x	0	Atlético/GO	Castelão
+13ª	08/08/2010	16h00m	Corinthians	1	x	0	Flamengo	Pacaembu
+13ª	08/08/2010	16h00m	Goiás	1	x	1	Palmeiras	Serra Dourada
+13ª	08/08/2010	16h00m	Grêmio	1	x	2	Fluminense	Olímpico
+13ª	13/10/2010	22h00m	Santos	1	x	0	Internacional	Vila Belmiro
+13ª	08/08/2010	18h30m	Atlético/PR	1	x	1	São Paulo	Arena da Baixada
+13ª	08/08/2010	18h30m	Cruzeiro	0	x	0	Grêmio Prudente	Ipatingão
+13ª	08/08/2010	18h30m	Vasco	1	x	0	Vitória	São Januário
+14ª	14/08/2010	18h30m	Atlético/GO	0	x	2	Botafogo	Serra Dourada
+14ª	14/08/2010	18h30m	Atlético/MG	3	x	1	Guarani	Ipatingão
+14ª	14/08/2010	18h30m	Flamengo	1	x	0	Ceará	Maracanã
+14ª	14/08/2010	18h30m	Palmeiras	2	x	0	Atlético/PR	Pacaembu
+14ª	15/08/2010	16h00m	Avaí	3	x	2	Corinthians	Ressacada
+14ª	15/08/2010	16h00m	Fluminense	3	x	0	Internacional	Maracanã
+14ª	15/08/2010	16h00m	Grêmio Prudente	1	x	2	Vasco	Eduardo José Farah
+14ª	15/08/2010	16h00m	São Paulo	2	x	2	Cruzeiro	Morumbi
+14ª	15/08/2010	18h30m	Grêmio	2	x	0	Goiás	Olimpíco
+14ª	15/08/2010	18h30m	Vitória	4	x	2	Santos	Barradão
+15ª	21/08/2010	18h30m	Botafogo	1	x	0	Avaí	João Havelange
+15ª	21/08/2010	18h30m	Ceará	2	x	1	Grêmio	Castelão
+15ª	21/08/2010	18h30m	Goiás	1	x	2	Grêmio Prudente	Serra Dourada
+15ª	22/08/2010	16h00m	Atlético/PR	1	x	0	Flamengo	Arena da Baixada
+15ª	22/08/2010	16h00m	Guarani	0	x	0	Palmeiras	Brinco de Ouro
+15ª	22/08/2010	16h00m	Internacional	1	x	1	Atlético/GO	Beira Rio
+15ª	22/08/2010	16h00m	Santos	2	x	0	Atlético/MG	Vila Belmiro
+15ª	22/08/2010	18h30m	Corinthians	3	x	0	São Paulo	Pacaembu
+15ª	22/08/2010	18h30m	Cruzeiro	0	x	1	Vitória	Ipatingão
+15ª	22/08/2010	18h30m	Vasco	2	x	2	Fluminense	Maracanã
+16ª	25/08/2010	19h30m	Goiás	0	x	3	Fluminense	Serra Dourada
+16ª	25/08/2010	19h30m	Avaí	0	x	1	Internacional	Ressacada
+16ª	25/08/2010	19h30m	Botafogo	1	x	0	Ceará	João Havelange
+16ª	25/08/2010	21h00m	Grêmio Prudente	0	x	1	Atlético/PR	Eduardo José Farah
+16ª	25/08/2010	21h50m	São Paulo	0	x	0	Vasco	Morumbi
+16ª	25/08/2010	21h50m	Cruzeiro	1	x	0	Corinthians	João Havelange
+16ª	25/08/2010	21h50m	Grêmio	1	x	2	Santos	Olímpico
+16ª	26/08/2010	21h00m	Flamengo	0	x	0	Atlético/MG	Maracanã
+16ª	26/08/2010	21h00m	Vitória	1	x	1	Guarani	Barradão
+16ª	26/08/2010	21h00m	Palmeiras	0	x	3	Atlético/GO	Pacaembu
+17ª	28/08/2010	18h30m	Internacional	1	x	0	Botafogo	Beira Rio
+17ª	28/08/2010	18h30m	Vasco	1	x	1	Cruzeiro	São Januário
+17ª	28/08/2010	18h30m	Ceará	2	x	2	Grêmio Prudente	Castelão
+17ª	29/08/2010	16h00m	Corinthians	2	x	1	Vitória	Pacaembu
+17ª	29/08/2010	16h00m	Guarani	2	x	1	Flamengo	Brinco de Ouro
+17ª	29/08/2010	16h00m	Atlético/MG	1	x	2	Palmeiras	Ipatingão
+17ª	28/08/2010	18h30m	Santos	2	x	0	Goiás	Vila Belmiro
+17ª	29/08/2010	18h30m	Fluminense	2	x	2	São Paulo	Maracanã
+17ª	29/08/2010	18h30m	Atlético/GO	2	x	2	Avaí	Serra Dourada
+17ª	29/08/2010	18h30m	Atlético/PR	1	x	1	Grêmio	Arena da Baixada
+18ª	01/09/2010	19h30m	Vitória	0	x	0	Internacional	Barradão
+18ª	01/09/2010	19h30m	Grêmio	1	x	0	Guarani	Olímpico
+18ª	01/09/2010	19h30m	Grêmio Prudente	0	x	1	Botafogo	Eduardo José Farah
+18ª	01/09/2010	21h00m	Goiás	1	x	3	Atlético/MG	Serra Dourada
+18ª	13/10/2010	22h00m	Vasco	2	x	0	Corinthians	São Januário
+18ª	01/09/2010	21h50m	Cruzeiro	1	x	0	Flamengo	João Havelange
+18ª	01/09/2010	21h50m	Atlético/PR	2	x	1	Ceará	Arena da Baixada
+18ª	02/09/2010	21h00m	Fluminense	1	x	1	Palmeiras	Maracanã
+18ª	02/09/2010	21h00m	Santos	2	x	1	Avaí	Vila Belmiro
+18ª	02/09/2010	21h00m	São Paulo	2	x	1	Atlético/GO	Morumbi
+19ª	04/09/2010	18h30m	Botafogo	2	x	2	Grêmio	João Havelange
+19ª	04/09/2010	18h30m	Ceará	0	x	2	Vasco	Castelão
+19ª	04/09/2010	18h30m	Corinthians	5	x	1	Goiás	Pacaembu
+19ª	05/09/2010	16h00m	Avaí	0	x	1	Atlético/PR	Ressacada
+19ª	05/09/2010	16h00m	Palmeiras	2	x	3	Cruzeiro	Pacaembu
+19ª	05/09/2010	16h00m	Guarani	2	x	1	Fluminense	Brinco de Ouro
+19ª	05/09/2010	16h00m	Flamengo	0	x	0	Santos	Maracanã
+19ª	05/09/2010	18h30m	Atlético/MG	2	x	3	São Paulo	Epaminondas Brito
+19ª	05/09/2010	18h30m	Atlético/GO	4	x	1	Vitória	Serra Dourada
+19ª	05/09/2010	18h30m	Internacional	2	x	0	Grêmio Prudente	Beira-Rio
+20ª	08/09/2010	19h30m	Fluminense	3	x	1	Ceará	João Havelange
+20ª	08/09/2010	19h30m	Cruzeiro	1	x	0	Internacional	João Havelange
+20ª	08/09/2010	19h30m	Grêmio	2	x	0	Atlético/GO	Olímpico
+20ª	08/09/2010	19h30m	Goiás	3	x	1	Guarani	Serra Dourada
+20ª	08/09/2010	22h00m	São Paulo	2	x	0	Flamengo	Morumbi
+20ª	08/09/2010	22h00m	Vitória	1	x	1	Palmeiras	Manoel Barradas
+20ª	08/09/2010	22h00m	Atlético/PR	1	x	1	Corinthians	Arena da Baixada
+20ª	09/09/2010	21h00m	Santos	0	x	1	Botafogo	Pacaembu
+20ª	09/09/2010	21h00m	Vasco	1	x	1	Atlético/MG	São Januário
+20ª	09/09/2010	21h00m	Grêmio Prudente	1	x	1	Avaí	Eduardo José Farah
+21ª	11/09/2010	18h30m	Corinthians	0	x	1	Grêmio	Pacaembu
+21ª	11/09/2010	18h30m	Flamengo	2	x	2	Vitória	Raulino de Oliveira
+21ª	11/09/2010	18h30m	Atlético/GO	2	x	1	Fluminense	Serra Dourada
+21ª	12/09/2010	16h00m	Palmeiras	0	x	0	Vasco	Pacaembu
+21ª	12/09/2010	16h00m	Botafogo	2	x	0	São Paulo	João Havelange
+21ª	12/09/2010	16h00m	Atlético/MG	1	x	0	Grêmio Prudente	Arena do Jacaré
+21ª	12/09/2010	16h00m	Avaí	1	x	2	Cruzeiro	Ressacada
+21ª	12/09/2010	18h30m	Guarani	1	x	0	Atlético/PR	Brinco de Ouro
+21ª	12/09/2010	18h30m	Internacional	0	x	0	Goiás	Beira-Rio
+21ª	12/09/2010	18h30m	Ceará	2	x	1	Santos	Castelão
+22ª	15/09/2010	19h30m	Santos	4	x	2	Atlético/GO	Vila Belmiro
+22ª	15/09/2010	19h30m	Cruzeiro	4	x	2	Guarani	Arena do Jacaré
+22ª	15/09/2010	19h30m	Grêmio	1	x	2	Palmeiras	Olímpico
+22ª	15/09/2010	19h30m	Goiás	4	x	1	Botafogo	Serra Dourada
+22ª	15/09/2010	19h30m	Atlético/PR	2	x	1	Atlético/MG	Arena da Baixada
+22ª	15/09/2010	22h00m	Fluminense	1	x	2	Corinthians	João Havelange
+22ª	15/09/2010	22h00m	Grêmio Prudente	1	x	2	Flamengo	Eduardo José Farah
+22ª	15/09/2010	22h00m	Vitória	0	x	0	Ceará	Manoel Barradas
+22ª	16/09/2010	21h00m	São Paulo	1	x	3	Internacional	Morumbi
+22ª	16/09/2010	21h00m	Vasco	1	x	1	Avaí	São Januário
+23ª	18/09/2010	18h30m	Corinthians	3	x	0	Grêmio Prudente	Pacaembu
+23ª	18/09/2010	18h30m	Botafogo	2	x	2	Cruzeiro	João Havelange
+23ª	18/09/2010	18h30m	Atlético/GO	1	x	2	Atlético/PR	Serra Dourada
+23ª	19/09/2010	16h00m	Palmeiras	0	x	2	São Paulo	Pacaembu
+23ª	19/09/2010	16h00m	Guarani	0	x	0	Santos	Brinco de Ouro
+23ª	19/09/2010	16h00m	Atlético/MG	2	x	3	Vitória	Arena do Jacaré
+23ª	19/09/2010	16h00m	Internacional	1	x	0	Vasco	Beira-Rio
+23ª	19/09/2010	18h30m	Flamengo	3	x	3	Fluminense	João Havelange
+23ª	19/09/2010	18h30m	Ceará	1	x	1	Goiás	Castelão
+23ª	19/09/2010	18h30m	Avaí	0	x	3	Grêmio	Ressacada
+24ª	22/09/2010	19h30m	São Paulo	2	x	1	Guarani	Morumbi
+24ª	22/09/2010	19h30m	Grêmio Prudente	0	x	1	Palmeiras	Eduardo José Farah
+24ª	22/09/2010	19h30m	Cruzeiro	2	x	0	Ceará	Arena do Jacaré
+24ª	22/09/2010	19h30m	Goiás	1	x	3	Atlético/GO	Serra Dourada
+24ª	22/09/2010	21h00m	Vasco	2	x	2	Botafogo	João Havelange
+24ª	22/09/2010	22h00m	Santos	2	x	3	Corinthians	Vila Belmiro
+24ª	22/09/2010	22h00m	Grêmio	2	x	2	Flamengo	Olímpico
+24ª	22/09/2010	22h00m	Atlético/PR	1	x	0	Internacional	Arena da Baixada
+24ª	23/09/2010	21h00m	Fluminense	5	x	1	Atlético/MG	João Havelange
+24ª	23/09/2010	21h00m	Vitória	3	x	0	Avaí	Manoel Barradas
+25ª	25/09/2010	18h30m	São Paulo	0	x	3	Goiás	Morumbi
+25ª	25/09/2010	18h30m	Santos	4	x	1	Cruzeiro	Arena Barueri
+25ª	25/09/2010	18h30m	Flamengo	1	x	3	Palmeiras	Maracanã
+25ª	25/09/2010	18h30m	Guarani	1	x	0	Vasco	Brinco de Ouro
+25ª	25/09/2010	18h30m	Atlético/GO	3	x	0	Grêmio Prudente	Serra Dourada
+25ª	26/09/2010	16h00m	Botafogo	1	x	1	Atlético/PR	João Havelange
+25ª	26/09/2010	16h00m	Internacional	3	x	2	Corinthians	Beira-Rio
+25ª	26/09/2010	16h00m	Vitória	1	x	2	Fluminense	Manoel Barradas
+25ª	26/09/2010	18h30m	Atlético/MG	1	x	2	Grêmio	Arena do Jacaré
+25ª	26/09/2010	18h30m	Avaí	5	x	0	Ceará	Ressacada
+26ª	28/09/2010	21h00m	Vasco	3	x	1	Santos	São Januário
+26ª	28/09/2010	21h10m	Goiás	1	x	1	Flamengo	Serra Dourada
+26ª	29/09/2010	19h30m	Palmeiras	2	x	0	Internacional	Arena Barueri
+26ª	29/09/2010	19h30m	Grêmio Prudente	4	x	2	Guarani	Eduardo José Farah
+26ª	29/09/2010	19h30m	Cruzeiro	3	x	0	Atlético/GO	Arena do Jacaré
+26ª	29/09/2010	19h30m	Atlético/PR	1	x	0	Vitória	Arena da Baixada
+26ª	29/09/2010	21h00m	Fluminense	1	x	0	Avaí	Raulino de Oliveira
+26ª	29/09/2010	22h00m	Corinthians	1	x	1	Botafogo	Pacaembu
+26ª	29/09/2010	22h00m	Grêmio	4	x	2	São Paulo	Olímpico
+26ª	29/09/2010	22h00m	Ceará	0	x	0	Atlético/MG	Castelão
+27ª	01/10/2010	21h00m	Vasco	3	x	2	Goiás	São Januário
+27ª	02/10/2010	16h00m	Corinthians	2	x	2	Ceará	Pacaembu
+27ª	02/10/2010	16h00m	Santos	1	x	1	Palmeiras	Vila Belmiro
+27ª	02/10/2010	16h00m	Grêmio Prudente	1	x	1	Fluminense	Eduardo José Farah
+27ª	02/10/2010	16h00m	Vitória	0	x	3	Grêmio	Manoel Barradas
+27ª	02/10/2010	18h30m	Botafogo	1	x	1	Flamengo	João Havelange
+27ª	02/10/2010	18h30m	Cruzeiro	0	x	0	Atlético/PR	Arena do Jacaré
+27ª	02/10/2010	18h30m	Internacional	3	x	0	Guarani	Beira-Rio
+27ª	02/10/2010	21h00m	Atlético/GO	2	x	3	Atlético/MG	Serra Dourada
+27ª	02/10/2010	21h00m	Avaí	0	x	0	São Paulo	Ressacada
+28ª	06/10/2010	19h30m	Fluminense	0	x	3	Santos	João Havelange
+28ª	06/10/2010	19h30m	Guarani	1	x	1	Botafogo	Brinco de Ouro
+28ª	06/10/2010	19h30m	Grêmio	4	x	0	Grêmio Prudente	Olímpico
+28ª	06/10/2010	21h50m	São Paulo	2	x	0	Vitória	Arena Barueri
+28ª	06/10/2010	21h50m	Atlético/MG	2	x	1	Corinthians	Arena do Jacaré
+28ª	06/10/2010	21h50m	Ceará	1	x	0	Internacional	Castelão
+28ª	06/10/2010	21h50m	Atlético/PR	0	x	0	Vasco	Arena da Baixada
+28ª	07/10/2010	21h00m	Palmeiras	4	x	1	Avaí	Pacaembu
+28ª	07/10/2010	21h00m	Flamengo	2	x	0	Atlético/GO	Raulino de Oliveira
+28ª	07/10/2010	21h00m	Goiás	0	x	1	Cruzeiro	Serra Dourada
+29ª	09/10/2010	18h30m	Grêmio Prudente	2	x	3	São Paulo	Eduardo José Farah
+29ª	09/10/2010	18h30m	Santos	2	x	0	Atlético/PR	Vila Belmiro
+29ª	09/10/2010	18h30m	Vasco	3	x	3	Grêmio	São Januário
+29ª	10/10/2010	16h00m	Avaí	2	x	2	Flamengo	Ressacada
+29ª	10/10/2010	16h00m	Botafogo	0	x	0	Palmeiras	João Havelange
+29ª	10/10/2010	16h00m	Corinthians	3	x	4	Atlético/GO	Pacaembu
+29ª	10/10/2010	16h00m	Cruzeiro	1	x	0	Fluminense	Arena do Jacaré
+29ª	10/10/2010	16h00m	Goiás	1	x	0	Vitória	Serra Dourada
+29ª	10/10/2010	18h30m	Ceará	2	x	0	Guarani	Castelão
+29ª	10/10/2010	18h30m	Internacional	1	x	0	Atlético/MG	Beira-Rio
+30ª	16/10/2010	16h00m	Atlético/PR	2	x	1	Goiás	Arena da Baixada
+30ª	16/10/2010	18h30m	Flamengo	3	x	0	Internacional	João Havelange
+30ª	17/10/2010	16h00m	Atlético/GO	2	x	0	Vasco	Serra Dourada
+30ª	17/10/2010	16h00m	Grêmio	2	x	1	Cruzeiro	Olímpico
+30ª	17/10/2010	16h00m	Guarani	0	x	0	Corinthians	Brinco de Ouro
+30ª	17/10/2010	16h00m	Atlético/MG	2	x	0	Avaí	Arena do Jacaré
+30ª	17/10/2010	18h30m	Fluminense	0	x	0	Botafogo	João Havelange
+30ª	17/10/2010	18h30m	Palmeiras	1	x	1	Ceará	Arena Barueri
+30ª	17/10/2010	18h30m	São Paulo	4	x	3	Santos	Morumbi
+30ª	17/10/2010	18h30m	Vitória	2	x	0	Grêmio Prudente	Barradão
+31ª	23/10/2010	18h30m	Botafogo	1	x	0	Vitória	João Havelange
+31ª	23/10/2010	18h30m	Guarani	0	x	1	Atlético/GO	Brinco de Ouro
+31ª	24/10/2010	16h00m	Atlético/PR	2	x	2	Fluminense	Arena da Baixada
+31ª	24/10/2010	16h00m	Ceará	2	x	0	São Paulo	Castelão
+31ª	24/10/2010	16h00m	Corinthians	1	x	0	Palmeiras	Pacaembu
+31ª	24/10/2010	16h00m	Goiás	1	x	0	Avaí	Serra Dourada
+31ª	24/10/2010	18h30m	Cruzeiro	3	x	4	Atlético/MG	a definir
+31ª	24/10/2010	18h30m	Grêmio	2	x	2	Internacional	Olímpico
+31ª	24/10/2010	18h30m	Santos	2	x	3	Grêmio Prudente	Vila Belmiro
+31ª	24/10/2010	18h30m	Vasco	1	x	1	Flamengo	João Havelange
+32ª	27/10/2010	22h00m	Flamengo	1	x	1	Corinthians	João Havelange
+32ª	28/10/2010	21h00m	Atlético/GO	1	x	1	Ceará	Serra Dourada
+32ª	28/10/2010	21h00m	Fluminense	2	x	0	Grêmio	João Havelange
+32ª	28/10/2010	21h00m	São Paulo	2	x	1	Atlético/PR	Arena Barueri
+32ª	30/10/2010	16h00m	Internacional	1	x	1	Santos	Beira Rio
+32ª	30/10/2010	16h00m	Vitória	4	x	2	Vasco	Barradão
+32ª	30/10/2010	18h30m	Atlético/MG	0	x	2	Botafogo	Arena do Jacaré
+32ª	30/10/2010	18h30m	Avaí	1	x	0	Guarani	Ressacada
+32ª	30/10/2010	18h30m	Grêmio Prudente	0	x	2	Cruzeiro	Eduardo José Farah
+32ª	30/10/2010	18h30m	Palmeiras	3	x	2	Goiás	Pacaembu
+33ª	03/11/2010	19h30m	Botafogo	3	x	2	Atlético/GO	João Havelange
+33ª	03/11/2010	19h30m	Goiás	0	x	2	Grêmio	Serra Dourada
+33ª	03/11/2010	19h30m	Guarani	0	x	0	Atlético/MG	Brinco de Ouro
+33ª	03/11/2010	19h30m	Internacional	0	x	0	Fluminense	Beira Rio
+33ª	03/11/2010	19h30m	Santos	1	x	1	Vitória	Vila Belmiro
+33ª	03/11/2010	21h50m	Ceará	2	x	2	Flamengo	Castelão
+33ª	03/11/2010	21h50m	Corinthians	4	x	0	Avaí	Pacaembu
+33ª	03/11/2010	21h50m	Cruzeiro	0	x	2	São Paulo	João Havelange
+33ª	04/11/2010	21h00m	Atlético/PR	1	x	0	Palmeiras	Arena da Baixada
+33ª	04/11/2010	21h00m	Vasco	2	x	1	Grêmio Prudente	São Januário
+34ª	06/11/2010	19h30m	Atlético/GO	2	x	2	Internacional	Serra Dourada
+34ª	06/11/2010	19h30m	Atlético/MG	2	x	2	Santos	Arena do Jacaré
+34ª	06/11/2010	19h30m	Grêmio	5	x	1	Ceará	Olímpico
+34ª	07/11/2010	17h00m	Avaí	0	x	0	Botafogo	Ressacada
+34ª	07/11/2010	17h00m	Grêmio Prudente	4	x	1	Goiás	Eduardo José Farah
+34ª	07/11/2010	17h00m	São Paulo	0	x	2	Corinthians	Morumbi
+34ª	07/11/2010	17h00m	Vitória	0	x	1	Cruzeiro	Barradão
+34ª	07/11/2010	19h30m	Flamengo	0	x	1	Atlético/PR	Raulino de Oliveira
+34ª	07/11/2010	19h30m	Fluminense	1	x	0	Vasco	João Havelange
+34ª	07/11/2010	19h30m	Palmeiras	1	x	0	Guarani	Arena Barueri
+35ª	10/11/2010	21h50m	Ceará	2	x	2	Botafogo	Castelão
+35ª	13/11/2010	19h30m	Atlético/MG	4	x	1	Flamengo	Arena do Jacaré
+35ª	13/11/2010	19h30m	Corinthians	1	x	0	Cruzeiro	Pacaembu
+35ª	13/11/2010	19h30m	Santos	0	x	0	Grêmio	Vila Belmiro
+35ª	14/11/2010	17h00m	Atlético/GO	3	x	0	Palmeiras	Serra Dourada
+35ª	14/11/2010	17h00m	Fluminense	1	x	1	Goiás	João Havelange
+35ª	14/11/2010	17h00m	Guarani	1	x	1	Vitória	Brinco de Ouro
+35ª	14/11/2010	17h00m	Internacional	2	x	3	Avaí	Beira Rio
+35ª	14/11/2010	19h30m	Atlético/PR	2	x	1	Grêmio Prudente	Arena da Baixada
+35ª	14/11/2010	19h30m	Vasco	1	x	1	São Paulo	São Januário
+36ª	20/11/2010	19h30m	Flamengo	2	x	1	Guarani	Maracanã
+36ª	20/11/2010	19h30m	Grêmio	3	x	1	Atlético/PR	Olímpico
+36ª	20/11/2010	19h30m	Grêmio Prudente	1	x	1	Ceará	Eduardo José Farah
+36ª	21/11/2010	17h00m	Botafogo	1	x	2	Internacional	João Havelange
+36ª	21/11/2010	17h00m	Palmeiras	0	x	2	Atlético/MG	Fonte Luminosa
+36ª	21/11/2010	17h00m	São Paulo	1	x	4	Fluminense	Arena Barueri
+36ª	21/11/2010	17h00m	Vitória	1	x	1	Corinthians	Barradão
+36ª	21/11/2010	19h30m	Avaí	3	x	0	Atlético/GO	Ressacada
+36ª	21/11/2010	19h30m	Cruzeiro	3	x	1	Vasco	Arena do Jacaré
+36ª	21/11/2010	19h30m	Goiás	1	x	4	Santos	Serra Dourada
+37ª	28/11/2010	17h00m	Corinthians	2	x	0	Vasco	Pacaembu
+37ª	28/11/2010	17h00m	Palmeiras	1	x	2	Fluminense	Arena Barueri
+37ª	28/11/2010	17h00m	Flamengo	1	x	2	Cruzeiro	Raulino de Oliveira
+37ª	28/11/2010	17h00m	Botafogo	3	x	1	Grêmio Prudente	João Havelange
+37ª	28/11/2010	17h00m	Guarani	0	x	3	Grêmio	Brinco de Ouro
+37ª	28/11/2010	17h00m	Atlético/MG	3	x	1	Goiás	Arena do Jacaré
+37ª	28/11/2010	17h00m	Internacional	1	x	1	Vitória	Beira Rio
+37ª	28/11/2010	17h00m	Atlético/GO	1	x	1	São Paulo	Serra Dourada
+37ª	28/11/2010	17h00m	Ceará	1	x	1	Atlético/PR	Castelão
+37ª	28/11/2010	17h00m	Avaí	3	x	2	Santos	Ressacada
+38ª	05/12/2010	17h00m	São Paulo	4	x	0	Atlético/MG	Morumbi
+38ª	05/12/2010	17h00m	Santos	0	x	0	Flamengo	Vila Belmiro
+38ª	05/12/2010	17h00m	Vasco	2	x	0	Ceará	São Januário
+38ª	05/12/2010	17h00m	Fluminense	1	x	0	Guarani	João Havelange
+38ª	02/12/2010	21h00m	Grêmio Prudente	0	x	3	Internacional	Eduardo José Farah
+38ª	05/12/2010	17h00m	Cruzeiro	2	x	1	Palmeiras	Arena do Jacaré
+38ª	05/12/2010	17h00m	Grêmio	3	x	0	Botafogo	Olímpico
+38ª	05/12/2010	17h00m	Goiás	1	x	1	Corinthians	Serra Dourada
+38ª	05/12/2010	17h00m	Vitória	0	x	0	Atlético/GO	Barradão
+38ª	05/12/2010	17h00m	Atlético/PR	1	x	0	Avaí	Arena da Baixada
