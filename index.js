@@ -15,9 +15,9 @@ const myNetwork = new Network({
   output: outputLayer
 });
 
-myNetwork.setOptimize(false);
+//myNetwork.setOptimize(false);
 
-let neurons = myNetwork.neurons();
+//let neurons = myNetwork.neurons();
 
 //for(let j =0; j<neurons.length; j++){
 //  neuron.squash;
@@ -29,7 +29,7 @@ let neurons = myNetwork.neurons();
 
 // train the network - learn XOR
 
-const learningRate = .3;
+const learningRate = 0.0001;
 const teamA = 'Cruzeiro';
 const teamB = 'Botafogo';
 const params = getParams(22, teamA, teamB, 2013, 5);
@@ -51,7 +51,7 @@ const matchGoalsTA = params[2].matchGoalsTA;
 const matchGoalsTB = params[2].matchGoalsTB;
 const stadiumOwner = params[2].stadiumOwner;
 
-for (let i = 0; i < 20000; i++) {
+for (let i = 0; i < 2000000; i++) {
   let conditionalGoalsA;
   let conditionalGoalsB;
   if(stadiumOwner == teamA){
@@ -62,8 +62,6 @@ for (let i = 0; i < 20000; i++) {
     conditionalGoalsA = outGoalsA;
     conditionalGoalsB = homeGoalsB;
   }
-
-  if(stadiumOwner)
   // Para gols feitos pelo São Paulo contra o Atlético-MG
   myNetwork.activate([conditionalGoalsA, goalDifA, enemyGoalsTakenA, goalsTotalA]);
   myNetwork.propagate(learningRate, [(matchGoalsTA * 0.1)]);
