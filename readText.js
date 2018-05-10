@@ -29,7 +29,7 @@ function getGames(year){
     return games;
 }
 
-function getParams(round, teamA, teamB, year, range){
+module.exports = function getParams(round, teamA, teamB, year, range){
     games = getGames(year);
     const tAStats = {
         outGoals:0,
@@ -101,8 +101,6 @@ function getParams(round, teamA, teamB, year, range){
     return params;
 }
 
-let myGames = getGames('2013');
-let params = getParams(22, 'Cruzeiro', 'Botafogo', 2013, 5);
-console.log(params);
-
-var readText = module.exports('readText');
+//let myGames = getGames('2013');
+//let params = getParams(22, 'Cruzeiro', 'Botafogo', 2013, 5);
+//console.log(params);

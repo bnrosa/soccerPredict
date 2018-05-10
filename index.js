@@ -1,4 +1,4 @@
-const readText = require('readText');
+const getParams = require('./readText');
 const synaptic = require("synaptic"); // this line is not needed in the browser
 const { Layer, Network } = synaptic;
 
@@ -15,21 +15,73 @@ const myNetwork = new Network({
   output: outputLayer
 });
 
+myNetwork.setOptimize(false);
+
+let neurons = myNetwork.neurons();
+
+//for(let j =0; j<neurons.length; j++){
+//  neuron.squash;
+//}
+
+//var customFunction = function(x){
+//  return x
+//};
+
 // train the network - learn XOR
 
 const learningRate = .3;
+const teamA = 'Cruzeiro';
+const teamB = 'Botafogo';
+const params = getParams(22, teamA, teamB, 2013, 5);
+console.log(params);
 
-let params = readText.
+const outGoalsA = params[0].outGoals;
+const homeGoalsA = params[0].homeGoals;
+const goalDifA = params[0].goalDif;
+const enemyGoalsTakenA = params[0].enemyGoalsTaken;
+const goalsTotalA = params[0].goalsTotal;
+
+const outGoalsB = params[1].outGoals;
+const homeGoalsB = params[1].homeGoals;
+const goalDifB = params[1].goalDif;
+const enemyGoalsTakenB = params[1].enemyGoalsTaken;
+const goalsTotalB = params[1].goalsTotal;
+
+const matchGoalsTA = params[2].matchGoalsTA;
+const matchGoalsTB = params[2].matchGoalsTB;
+const stadiumOwner = params[2].stadiumOwner;
 
 for (let i = 0; i < 20000; i++) {
+  let conditionalGoalsA;
+  let conditionalGoalsB;
+  if(stadiumOwner == teamA){
+    conditionalGoalsA = homeGoalsA;
+    conditionalGoalsB = outGoalsB;
+  }
+  else{
+    conditionalGoalsA = outGoalsA;
+    conditionalGoalsB = homeGoalsB;
+  }
+
+  if(stadiumOwner)
   // Para gols feitos pelo São Paulo contra o Atlético-MG
-  myNetwork.activate([0,0]);
-  myNetwork.propagate(learningRate, [0]);
+  myNetwork.activate([conditionalGoalsA, goalDifA, enemyGoalsTakenA, goalsTotalA]);
+  myNetwork.propagate(learningRate, [(matchGoalsTA * 0.1)]);
 
   // Para gols feitos pelo Atlético-MG contra o São Paulo
-  myNetwork.activate([0,1]);
-  myNetwork.propagate(learningRate, [1]);
+  myNetwork.activate([conditionalGoalsB, goalDifB, enemyGoalsTakenB, goalsTotalB]);
+  myNetwork.propagate(learningRate, [(matchGoalsTB * 0.1)]);
 
 }
+let conditionalGoalsA;
+let conditionalGoalsB;
+if (stadiumOwner == teamA) {
+  conditionalGoalsA = homeGoalsA;
+  conditionalGoalsB = outGoalsB;
+} else {
+  conditionalGoalsA = outGoalsA;
+  conditionalGoalsB = homeGoalsB;
+}
 
-console.log(myNetwork.activate([0, 0])); 
+console.log(myNetwork.activate([conditionalGoalsB, goalDifB, enemyGoalsTakenB, goalsTotalB]));
+console.log(myNetwork.activate([conditionalGoalsA, goalDifA, enemyGoalsTakenA, goalsTotalA]));
