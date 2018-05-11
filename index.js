@@ -29,48 +29,54 @@ const myNetwork = new Network({
 
 // train the network - learn XOR
 
-const learningRate = 0.0001;
-const teamA = 'Cruzeiro';
-const teamB = 'Botafogo';
-const params = getParams(22, teamA, teamB, 2013, 5);
-console.log(params);
+let learningRate = 0.0001;
+let teamA = 'Cruzeiro';
+let teamB = 'Botafogo';
+let year = 2013;
+let range = 5;
+let round = 22;
 
-const outGoalsA = params[0].outGoals;
-const homeGoalsA = params[0].homeGoals;
-const goalDifA = params[0].goalDif;
-const enemyGoalsTakenA = params[0].enemyGoalsTaken;
-const goalsTotalA = params[0].goalsTotal;
+//for(let j = range+1; j < 38; j++){
+  let params = getParams(round, teamA, teamB, year, range);
+  console.log(params);
 
-const outGoalsB = params[1].outGoals;
-const homeGoalsB = params[1].homeGoals;
-const goalDifB = params[1].goalDif;
-const enemyGoalsTakenB = params[1].enemyGoalsTaken;
-const goalsTotalB = params[1].goalsTotal;
+  let outGoalsA = params[0].outGoals;
+  let homeGoalsA = params[0].homeGoals;
+  let goalDifA = params[0].goalDif;
+  let enemyGoalsTakenA = params[0].enemyGoalsTaken;
+  let goalsTotalA = params[0].goalsTotal;
 
-const matchGoalsTA = params[2].matchGoalsTA;
-const matchGoalsTB = params[2].matchGoalsTB;
-const stadiumOwner = params[2].stadiumOwner;
+  let outGoalsB = params[1].outGoals;
+  let homeGoalsB = params[1].homeGoals;
+  let goalDifB = params[1].goalDif;
+  let enemyGoalsTakenB = params[1].enemyGoalsTaken;
+  let goalsTotalB = params[1].goalsTotal;
 
-for (let i = 0; i < 2000000; i++) {
-  let conditionalGoalsA;
-  let conditionalGoalsB;
-  if(stadiumOwner == teamA){
-    conditionalGoalsA = homeGoalsA;
-    conditionalGoalsB = outGoalsB;
+  let matchGoalsTA = params[2].matchGoalsTA;
+  let matchGoalsTB = params[2].matchGoalsTB;
+  let stadiumOwner = params[2].stadiumOwner;
+
+  for (let i = 0; i < 200000; i++) {
+    let conditionalGoalsA;
+    let conditionalGoalsB;
+    if(stadiumOwner == teamA){
+      conditionalGoalsA = homeGoalsA;
+      conditionalGoalsB = outGoalsB;
+    }
+    else{
+      conditionalGoalsA = outGoalsA;
+      conditionalGoalsB = homeGoalsB;
+    }
+    // Para gols feitos pelo São Paulo contra o Atlético-MG
+    myNetwork.activate([conditionalGoalsA, goalDifA, enemyGoalsTakenA, goalsTotalA]);
+    myNetwork.propagate(learningRate, [(matchGoalsTA * 0.1)]);
+
+    // Para gols feitos pelo Atlético-MG contra o São Paulo
+    myNetwork.activate([conditionalGoalsB, goalDifB, enemyGoalsTakenB, goalsTotalB]);
+    myNetwork.propagate(learningRate, [(matchGoalsTB * 0.1)]);
+
   }
-  else{
-    conditionalGoalsA = outGoalsA;
-    conditionalGoalsB = homeGoalsB;
-  }
-  // Para gols feitos pelo São Paulo contra o Atlético-MG
-  myNetwork.activate([conditionalGoalsA, goalDifA, enemyGoalsTakenA, goalsTotalA]);
-  myNetwork.propagate(learningRate, [(matchGoalsTA * 0.1)]);
-
-  // Para gols feitos pelo Atlético-MG contra o São Paulo
-  myNetwork.activate([conditionalGoalsB, goalDifB, enemyGoalsTakenB, goalsTotalB]);
-  myNetwork.propagate(learningRate, [(matchGoalsTB * 0.1)]);
-
-}
+//}
 let conditionalGoalsA;
 let conditionalGoalsB;
 if (stadiumOwner == teamA) {
