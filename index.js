@@ -1,4 +1,4 @@
-const getParams = require('./readText');
+const rt = require('./readText');
 const synaptic = require("synaptic"); // this line is not needed in the browser
 const { Layer, Network } = synaptic;
 
@@ -17,7 +17,7 @@ const myNetwork = new Network({
 
 //myNetwork.setOptimize(false);
 
-//let neurons = myNetwork.neurons();
+ //let neurons = myNetwork.neurons();
 
 //for(let j =0; j<neurons.length; j++){
 //  neuron.squash;
@@ -36,8 +36,8 @@ let year = 2013;
 let range = 5;
 let round = 22;
 
-//for(let j = range+1; j < 38; j++){
-  let params = getParams(round, teamA, teamB, year, range);
+  let games = rt.getGames(year);
+  let params = rt.getParams(round, teamA, teamB, games, range);
   console.log(params);
 
   let outGoalsA = params[0].outGoals;
