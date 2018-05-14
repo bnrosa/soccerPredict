@@ -13,12 +13,12 @@ fullData.forEach(params => {
       params[0].outGoals,
       params[0].homeGoals,
       params[0].goalDif,
-      params[0].enemyGoalsTaken,
+      params[0].goalsTaken,
       params[0].goalsTotal,
       params[1].outGoals,
       params[1].homeGoals,
       params[1].goalDif,
-      params[1].enemyGoalsTaken,
+      params[1].goalsTaken,
       params[1].goalsTotal
     ],
     output: [(params[2].matchGoalsTA * 0.1), (params[2].matchGoalsTB * 0.1)]
@@ -27,10 +27,7 @@ fullData.forEach(params => {
 
 trainer.train(trainingSet, {
   rate: 0.01,
-  iterations: 200000,
-  error: 0.005,
-  shuffle: true,
-  log: 1000,
+  iterations: 20000,
   cost: Trainer.cost.CROSS_ENTROPY,
   schedule: {
     every: 500, // repeat this task every 500 iterations
