@@ -1,19 +1,53 @@
-const rt = require('./readText');
+const getFullData = require('./readText');
 const synaptic = require("synaptic"); // this line is not needed in the browser
-const { Layer, Network } = synaptic;
+const { Layer, Network, Architect, Trainer } = synaptic;
 
-let inputLayer = new Layer();
-let hiddenLayer = new Layer(3);
-let outputLayer = new Layer(1);
+const myPerceptron = new Architect.Perceptron(10,8, 2);
+let trainer = new Trainer(myPerceptron);
+let trainingSet = [];
+let fullData = getFullData([2016, 2017]);
 
-inputLayer.project(hiddenLayer);
-hiddenLayer.project(outputLayer);
-
-const myNetwork = new Network({
-  input: inputLayer,
-  hidden: [hiddenLayer],
-  output: outputLayer
+fullData.forEach(params => {
+  trainingSet.push({
+    input: [
+      params[0].outGoals,
+      params[0].homeGoals,
+      params[0].goalDif,
+      params[0].enemyGoalsTaken,
+      params[0].goalsTotal,
+      params[1].outGoals,
+      params[1].homeGoals,
+      params[1].goalDif,
+      params[1].enemyGoalsTaken,
+      params[1].goalsTotal
+    ],
+    output: [(params[2].matchGoalsTA * 0.1), (params[2].matchGoalsTB * 0.1)]
+  });
 });
+
+trainer.train(trainingSet, {
+  rate: 0.01,
+  iterations: 200000,
+  error: 0.005,
+  shuffle: true,
+  log: 1000,
+  cost: Trainer.cost.CROSS_ENTROPY,
+  schedule: {
+    every: 500, // repeat this task every 500 iterations
+    do: function(data) {
+      // custom log
+      console.log(
+        "error",
+        data.error,
+        "iterations",
+        data.iterations,
+        "rate",
+        data.rate
+      );
+    }
+  }
+});
+
 
 //myNetwork.setOptimize(false);
 
@@ -29,63 +63,3 @@ const myNetwork = new Network({
 
 // train the network - learn XOR
 
-let learningRate = 0.0001;
-let teamA = 'Cruzeiro';
-let teamB = 'Botafogo';
-let year = 2013;
-let range = 5;
-let round = 22;
-
-  let games = rt.getGames(year);
-  let params = rt.getParams(round, teamA, teamB, games, range);
-  console.log(params);
-
-  let outGoalsA = params[0].outGoals;
-  let homeGoalsA = params[0].homeGoals;
-  let goalDifA = params[0].goalDif;
-  let enemyGoalsTakenA = params[0].enemyGoalsTaken;
-  let goalsTotalA = params[0].goalsTotal;
-
-  let outGoalsB = params[1].outGoals;
-  let homeGoalsB = params[1].homeGoals;
-  let goalDifB = params[1].goalDif;
-  let enemyGoalsTakenB = params[1].enemyGoalsTaken;
-  let goalsTotalB = params[1].goalsTotal;
-
-  let matchGoalsTA = params[2].matchGoalsTA;
-  let matchGoalsTB = params[2].matchGoalsTB;
-  let stadiumOwner = params[2].stadiumOwner;
-
-  for (let i = 0; i < 200000; i++) {
-    let conditionalGoalsA;
-    let conditionalGoalsB;
-    if(stadiumOwner == teamA){
-      conditionalGoalsA = homeGoalsA;
-      conditionalGoalsB = outGoalsB;
-    }
-    else{
-      conditionalGoalsA = outGoalsA;
-      conditionalGoalsB = homeGoalsB;
-    }
-    // Para gols feitos pelo São Paulo contra o Atlético-MG
-    myNetwork.activate([conditionalGoalsA, goalDifA, enemyGoalsTakenA, goalsTotalA]);
-    myNetwork.propagate(learningRate, [(matchGoalsTA * 0.1)]);
-
-    // Para gols feitos pelo Atlético-MG contra o São Paulo
-    myNetwork.activate([conditionalGoalsB, goalDifB, enemyGoalsTakenB, goalsTotalB]);
-    myNetwork.propagate(learningRate, [(matchGoalsTB * 0.1)]);
-
-  }
-//}
-let conditionalGoalsA;
-let conditionalGoalsB;
-if (stadiumOwner == teamA) {
-  conditionalGoalsA = homeGoalsA;
-  conditionalGoalsB = outGoalsB;
-} else {
-  conditionalGoalsA = outGoalsA;
-  conditionalGoalsB = homeGoalsB;
-}
-
-console.log(myNetwork.activate([conditionalGoalsB, goalDifB, enemyGoalsTakenB, goalsTotalB]));
-console.log(myNetwork.activate([conditionalGoalsA, goalDifA, enemyGoalsTakenA, goalsTotalA]));

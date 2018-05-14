@@ -1,4 +1,5 @@
 var fs = require("fs");
+
   function myfind(array, round, team) {
     let value = null;
     array.forEach(x => {
@@ -62,8 +63,8 @@ var fs = require("fs");
     if (round - range < 1) return "Range too low";
     //Team 1
     for (i = 1; i <= range; i++) {
-      roundReal = "" + (round - i) + "ª";
-      game = myfind(games, roundReal, teamA);
+      let roundReal = "" + (round - i) + "ª";
+      let game = myfind(games, roundReal, teamA);
       if (teamA == game.player1) {
         tAStats.homeGoals += parseInt(game.p1Score);
         tAStats.goalsTaken += parseInt(game.p2Score);
@@ -107,16 +108,15 @@ var fs = require("fs");
     return params;
   }
 
-  function getFullData(years){
+  module.exports = function getFullData(years){
     let totalParams = [];
     years.forEach( (element) => {
       let games = getGames(element);
       for(let i =0; i < games.length; i++){
         let round = games[i].round;
-        let roundNum = parseInt(round.charAt(0));
+        let roundNum = parseInt(round.slice(0, -1));
         if(roundNum > 4){
-          console.log(i, games[i].player1, games[i].player2, games, 3);
-          let params = getParams(i, games[i].player1, games[i].player2, games, 3);
+          let params = getParams(roundNum, games[i].player1, games[i].player2, games, 3);
           totalParams.push(params);
         }
       }
@@ -124,8 +124,9 @@ var fs = require("fs");
     return totalParams;
   }
 
-  let years = [2016, 2017];
-  let fullData = getFullData(years);
+  //let years = [2016, 2017];
+  //let fullData = getFullData(years);
+  //console.log(fullData);
 
 //let myGames = getGames('2013');
 //let params = getParams(22, 'Cruzeiro', 'Botafogo', 2013, 5);
