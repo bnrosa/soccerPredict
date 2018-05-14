@@ -56,6 +56,8 @@ var fs = require("fs");
       goalsTotal: 0
     };
     const match = {
+      teamA:'',
+      teamB:'',
       stadiumOwner: "",
       matchGoalsTA: 0,
       matchGoalsTB: 0
@@ -95,6 +97,8 @@ var fs = require("fs");
     }
     roundReal = "" + round + "ª";
     game = myfind(games, roundReal, teamA);
+    match.teamA = teamA;
+    match.teamB = teamB;
     if (game.player1 == teamA) {
       match.stadiumOwner = teamA;
       match.matchGoalsTA = parseInt(game.p1Score);

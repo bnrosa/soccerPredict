@@ -2,21 +2,82 @@ const getFullData = require('./readText');
 const synaptic = require("synaptic"); // this line is not needed in the browser
 const { Layer, Network, Architect, Trainer } = synaptic;
 
-const myPerceptron = new Architect.Perceptron(10,8, 2);
+const myPerceptron = new Architect.Perceptron(8,100, 2);
 let trainer = new Trainer(myPerceptron);
 let trainingSet = [];
-let fullData = getFullData([2016, 2017]);
+let testSet = [];
+let validationSet = [];
+let fullData = getFullData([2014, 2015]);
+let testData = getFullData([2017]);
+let validationData = getFullData([2016]);
 
-fullData.forEach(params => {
-  trainingSet.push({
+testData.forEach(params => {
+  let conditionalGoalsA;
+  let conditionalGoalsB;
+  if (params[2].teamA == params[2].stadiumOwner) {
+    conditionalGoalsA = params[0].homeGoals;
+    conditionalGoalsB = params[0].outGoals;
+  } else {
+    conditionalGoalsA = params[0].outGoals;
+    conditionalGoalsB = params[0].homeGoals;
+  }
+  testSet.push({
     input: [
-      params[0].outGoals,
-      params[0].homeGoals,
+      conditionalGoalsA,
       params[0].goalDif,
       params[0].goalsTaken,
       params[0].goalsTotal,
-      params[1].outGoals,
-      params[1].homeGoals,
+      conditionalGoalsB,
+      params[1].goalDif,
+      params[1].goalsTaken,
+      params[1].goalsTotal
+    ],
+    output: [(params[2].matchGoalsTA * 0.1), (params[2].matchGoalsTB * 0.1)]
+  });
+});
+
+validationData.forEach(params => {
+  let conditionalGoalsA;
+  let conditionalGoalsB;
+  if (params[2].teamA == params[2].stadiumOwner) {
+    conditionalGoalsA = params[0].homeGoals;
+    conditionalGoalsB = params[0].outGoals;
+  } else {
+    conditionalGoalsA = params[0].outGoals;
+    conditionalGoalsB = params[0].homeGoals;
+  }
+  validationSet.push({
+    input: [
+      conditionalGoalsA,
+      params[0].goalDif,
+      params[0].goalsTaken,
+      params[0].goalsTotal,
+      conditionalGoalsB,
+      params[1].goalDif,
+      params[1].goalsTaken,
+      params[1].goalsTotal
+    ],
+    output: [(params[2].matchGoalsTA * 0.1), (params[2].matchGoalsTB * 0.1)]
+  });
+});
+
+fullData.forEach(params => {
+  let conditionalGoalsA;
+  let conditionalGoalsB;
+  if (params[2].teamA == params[2].stadiumOwner) {
+    conditionalGoalsA = params[0].homeGoals;
+    conditionalGoalsB = params[0].outGoals;    
+  } else {
+        conditionalGoalsA = params[0].outGoals;
+        conditionalGoalsB = params[0].homeGoals;
+  }
+  trainingSet.push({
+    input: [
+      conditionalGoalsA,
+      params[0].goalDif,
+      params[0].goalsTaken,
+      params[0].goalsTotal,
+      conditionalGoalsB,
       params[1].goalDif,
       params[1].goalsTaken,
       params[1].goalsTotal
@@ -26,21 +87,33 @@ fullData.forEach(params => {
 });
 
 trainer.train(trainingSet, {
-  rate: 0.01,
-  iterations: 20000,
-  cost: Trainer.cost.CROSS_ENTROPY,
+  rate: 0.0005,
+  iterations: 10,
+  shuffle: true,
+  cost: Trainer.cost.SQUARE_SUM,
   schedule: {
-    every: 500, // repeat this task every 500 iterations
+    every: 1, // repeat this task every 500 iterations
     do: function(data) {
       // custom log
       console.log(
-        "error",
-        data.error,
-        "iterations",
-        data.iterations,
-        "rate",
-        data.rate
+        data.iterations +
+          "    " +
+          validationSet[data.iterations].output +
+          "    " +
+          myPerceptron.activate(validationSet[data.iterations].input) +
+          "    " +
+          //data.rate +
+          "    " +          
+          data.error
       );
+      //console.log(
+      //  " ",
+      // data.error,
+      //  " ",
+      //  data.iterations,
+      //  " ",
+      //  data.rate
+      //);
     }
   }
 });
