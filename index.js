@@ -1,4 +1,4 @@
-const getFullData = require('./readText');
+const getFullData2 = require('./readText');
 const synaptic = require("synaptic"); // this line is not needed in the browser
 const { Layer, Network, Architect, Trainer } = synaptic;
 
@@ -7,88 +7,34 @@ let trainer = new Trainer(myPerceptron);
 let trainingSet = [];
 let testSet = [];
 let validationSet = [];
-let fullData = getFullData([2014, 2015]);
-let testData = getFullData([2017]);
-let validationData = getFullData([2016]);
+// let fullData = getFullData([2014, 2015]);
+// let testData = getFullData([2017]);
+// let validationData = getFullData([2016]);
 
-testData.forEach(params => {
-  let conditionalGoalsA;
-  let conditionalGoalsB;
-  if (params[2].teamA == params[2].stadiumOwner) {
-    conditionalGoalsA = params[0].homeGoals;
-    conditionalGoalsB = params[0].outGoals;
-  } else {
-    conditionalGoalsA = params[0].outGoals;
-    conditionalGoalsB = params[0].homeGoals;
-  }
-  testSet.push({
-    input: [
-      conditionalGoalsA,
-      params[0].goalDif,
-      params[0].goalsTaken,
-      params[0].goalsTotal,
-      conditionalGoalsB,
-      params[1].goalDif,
-      params[1].goalsTaken,
-      params[1].goalsTotal
-    ],
-    output: [(params[2].matchGoalsTA * 0.1), (params[2].matchGoalsTB * 0.1)]
-  });
-});
+let scoresFull = getFullData2(2014, 'Fluminense');
+let scores = scoresFull.ts;
+let midAndTotal = calcMidAndTotal(scores);
+let mid = midAndTotal.mid;
+let total = midAndTotal.total;
+console.log(mid.length);
+console.log(total.length);
 
-validationData.forEach(params => {
-  let conditionalGoalsA;
-  let conditionalGoalsB;
-  if (params[2].teamA == params[2].stadiumOwner) {
-    conditionalGoalsA = params[0].homeGoals;
-    conditionalGoalsB = params[0].outGoals;
-  } else {
-    conditionalGoalsA = params[0].outGoals;
-    conditionalGoalsB = params[0].homeGoals;
-  }
-  validationSet.push({
-    input: [
-      conditionalGoalsA,
-      params[0].goalDif,
-      params[0].goalsTaken,
-      params[0].goalsTotal,
-      conditionalGoalsB,
-      params[1].goalDif,
-      params[1].goalsTaken,
-      params[1].goalsTotal
-    ],
-    output: [(params[2].matchGoalsTA * 0.1), (params[2].matchGoalsTB * 0.1)]
-  });
-});
-
-fullData.forEach(params => {
-  let conditionalGoalsA;
-  let conditionalGoalsB;
-  if (params[2].teamA == params[2].stadiumOwner) {
-    conditionalGoalsA = params[0].homeGoals;
-    conditionalGoalsB = params[0].outGoals;    
-  } else {
-        conditionalGoalsA = params[0].outGoals;
-        conditionalGoalsB = params[0].homeGoals;
-  }
+for(i = 0; i < (scores.length -1); i++){
   trainingSet.push({
     input: [
-      conditionalGoalsA,
-      params[0].goalDif,
-      params[0].goalsTaken,
-      params[0].goalsTotal,
-      conditionalGoalsB,
-      params[1].goalDif,
-      params[1].goalsTaken,
-      params[1].goalsTotal
+      scores[i],
+      Math.round(mid[i]),
+      total[i]
     ],
-    output: [(params[2].matchGoalsTA * 0.1), (params[2].matchGoalsTB * 0.1)]
+    output: [
+      scores[i+1]
+    ]
   });
-});
+}
 
 trainer.train(trainingSet, {
   rate: 0.0005,
-  iterations: 10,
+  iterations: 30,
   shuffle: true,
   cost: Trainer.cost.SQUARE_SUM,
   schedule: {
@@ -98,11 +44,9 @@ trainer.train(trainingSet, {
       console.log(
         data.iterations +
           "    " +
-          validationSet[data.iterations].output +
+          trainingSet[data.iterations].output +
           "    " +
-          myPerceptron.activate(validationSet[data.iterations].input) +
-          "    " +
-          //data.rate +
+          myPerceptron.activate(trainingSet[data.iterations].input) +
           "    " +          
           data.error
       );
@@ -117,6 +61,27 @@ trainer.train(trainingSet, {
     }
   }
 });
+
+function calcMidAndTotal(scores){
+  const mid = [];
+  const total = [];
+  let buffer;
+  for(let i =0; i< scores.length; i++){
+    if(i>0){
+      buffer = 0;
+      for(j = 0; j <i; j++){
+        buffer += scores[j];
+      }
+      mid.push(buffer/(i + 1));
+      total.push(buffer);
+    }
+    else{
+      mid.push(scores[i]);
+      total.push(scores[i]);
+    }
+  }
+  return {mid: mid, total: total};
+}
 
 
 //myNetwork.setOptimize(false);

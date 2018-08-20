@@ -112,7 +112,24 @@ var fs = require("fs");
     return params;
   }
 
-  module.exports = function getFullData(years){
+  module.exports =  function getFullData2(year, team){
+    let teamScores = [];
+    let opponentScores = [];
+    let games = getGames(year);
+    for(let i = 0; i <games.length; i++){
+      if(team == games[i].player1){
+        teamScores.push( parseInt(games[i].p1Score) );
+        opponentScores.push( parseInt(games[i].p2Score) );
+      }
+      if(team == games[i].player2){
+        teamScores.push( parseInt(games[i].p2Score) );
+        opponentScores.push(parseInt(games[i].p1Score));
+      }
+    }
+    return {ts: teamScores, os: opponentScores};
+  }
+
+  function getFullData(years){
     let totalParams = [];
     years.forEach( (element) => {
       let games = getGames(element);
