@@ -2,7 +2,7 @@ const getFullData2 = require('./readText');
 const synaptic = require("synaptic"); // this line is not needed in the browser
 const { Layer, Network, Architect, Trainer } = synaptic;
 
-const myPerceptron = new Architect.Perceptron(8,100, 2);
+const myPerceptron = new Architect.Perceptron(3,1000, 1);
 let trainer = new Trainer(myPerceptron);
 let trainingSet = [];
 let testSet = [];
@@ -23,7 +23,7 @@ for(i = 0; i < (scores.length -1); i++){
   trainingSet.push({
     input: [
       scores[i],
-      Math.round(mid[i]),
+      mid[i],
       total[i]
     ],
     output: [
@@ -36,7 +36,7 @@ trainer.train(trainingSet, {
   rate: 0.0005,
   iterations: 30,
   shuffle: true,
-  cost: Trainer.cost.SQUARE_SUM,
+  cost: Trainer.cost.CROSS_ENTROPY,
   schedule: {
     every: 1, // repeat this task every 500 iterations
     do: function(data) {
